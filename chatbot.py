@@ -2,10 +2,12 @@ import os
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 import re
+import configparser
 
-
-SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
-SLACK_APP_TOKEN = os.environ["SLACK_APP_TOKEN"]
+cfg = configparser.ConfigParser()
+cfg.read("config.ini")
+SLACK_APP_TOKEN = cfg["chatbot"]["SLACK_APP_TOKEN"]
+SLACK_BOT_TOKEN =cfg["chatbot"]["SLACK_BOT_TOKEN"]
 
 app = App(token=SLACK_BOT_TOKEN)
 
@@ -19,10 +21,8 @@ def respond_to_mention(event, say):
     message = re.sub(r'^<.*>', '', event['text'])
     say(message[::-1]) # 文字列を逆順
 
-
 @app.event("message") # ロギング
 def handle_message_events(body, logger):
     logger.info(body)
 
-if __name__ == "__main__":
-    SocketModeHandler(app, SLACK_APP_TOKEN).start()
+SocketModeHandler(app, SLACK_APP_TOKEN).start()
