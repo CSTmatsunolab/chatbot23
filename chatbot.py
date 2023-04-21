@@ -24,4 +24,5 @@ def respond_to_mention(event, say):
 def handle_message_events(body, logger):
     logger.info(body)
 
-SocketModeHandler(app, SLACK_APP_TOKEN).start()
+if __name__ == "__main__":
+    SocketModeHandler(app, SLACK_APP_TOKEN).start()
