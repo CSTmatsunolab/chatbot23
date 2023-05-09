@@ -59,6 +59,8 @@ def respond_to_mention(event, say):
     tmp = list(map(lambda x: list(x.values()), data_from_db))
     tmp = sum(tmp, [])
     tmp = "/n".join(tmp)
+    with open("log/past_log.txt", "a", encoding="utf-8") as f:
+        f.write(message+": \n"+tmp+"\n")
     res = qa_model.predict(question=message, context="".join(tmp))
     say(res)
     print(res)
