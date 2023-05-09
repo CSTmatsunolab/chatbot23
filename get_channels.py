@@ -192,9 +192,8 @@ for channelhist_itr in channelhist_dict:
         # strlist[2] : 保存するファイル名
         if len(strlist) == 3:
             download_dir = os.path.join(
-                                work_dir, 
+                                work_dir,
                                 channelhist_dict[channelhist_itr], 
-                                'slack_data',
                                 strlist[0],
                                 strlist[1])
             # Slackで管理されたフォルダ名で作成
