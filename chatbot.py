@@ -61,6 +61,7 @@ def respond_to_mention(event, say):
     tmp = "/n".join(tmp)
     res = qa_model.predict(question=message, context="".join(tmp))
     say(res)
+    print(res)
     # say(message[::-1]) # 文字列を逆順
 
 @app.event("message") # ロギング
