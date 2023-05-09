@@ -163,7 +163,7 @@ for channelhist_itr in channelhist_dict:
                 channelhist_itr + "_channel_hist.json")
 
     # 取得した各チャンネル履歴を指定ファイルに書き込むます
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write(channelhist_json)
 
     # 各チャンネルにアップロードしたファイルのアドレスを取得
