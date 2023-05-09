@@ -1,15 +1,33 @@
 import requests
 import json
 import os
+import configparser
 import codecs
+
+class my_cfg:
+    openai_key = None
+    openai_org_id = None
+    SLACK_APP_TOKEN = None
+    SLACK_BOT_TOKEN = None
 
 # アドレス取得 チャンネルリスト
 url_converlist = "https://slack.com/api/conversations.list"
 # アドレス取得 各チャンネルの履歴
 url_converhist = "https://slack.com/api/conversations.history"
 # トークン
-token = "xapp-1-A054AUH0ZEE-5199599511556-ef5fa0d3ad162d9568a1b52ab3953f13d0961f5bb9907af6d1ac04ff7cf26308"
-headers = {"Authorization": "Bearer " + token}
+def setup_cfg(cfg=my_cfg):
+    tmp = configparser.ConfigParser()
+    tmp.read("config.ini")
+    cfg.openai_key = tmp["OPEN_AI"]["key"]
+    cfg.openai_org_id = tmp["OPEN_AI"]["organization_ID"]
+    cfg.SLACK_APP_TOKEN = tmp["chatbot"]["SLACK_APP_TOKEN"]
+    cfg.SLACK_BOT_TOKEN = tmp["chatbot"]["SLACK_BOT_TOKEN"]
+    cfg.SLACK_API_TOKEN = tmp["chatbot"]["SLACK_API_TOKEN"]
+    return cfg
+cfg = setup_cfg()
+token = cfg.SLACK_API_TOKEN
+headers = {"Authorization": "Bearer " + cfg.SLACK_API_TOKEN}
+
 
 # 作業フォルダ
 work_dir = "slack_data/"
@@ -26,7 +44,7 @@ channel_json = json.dumps(
                     response_json, 
                     indent = 2)
 # 取得内容をチラ見
-print(channel_json)
+#print(channel_json)
 # 例 ： 
 # {
 #   "ok": true,
@@ -176,6 +194,7 @@ for channelhist_itr in channelhist_dict:
             download_dir = os.path.join(
                                 work_dir, 
                                 channelhist_dict[channelhist_itr], 
+                                'slack_data',
                                 strlist[0],
                                 strlist[1])
             # Slackで管理されたフォルダ名で作成

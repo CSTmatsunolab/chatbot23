@@ -9,3 +9,4 @@ ehthumbs.db
 Thumbs.db
 config.ini
 /venv/*
+/slack_data/*
