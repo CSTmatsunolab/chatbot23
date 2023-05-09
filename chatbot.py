@@ -15,7 +15,7 @@ class my_cfg:
 
 def setup_cfg(cfg=my_cfg):
     tmp = configparser.ConfigParser()
-    tmp.read("config.ini")
+    tmp.read("data/config.ini")
     cfg.openai_key = tmp["OPEN_AI"]["key"]
     cfg.openai_org_id = tmp["OPEN_AI"]["organization_ID"]
     cfg.SLACK_APP_TOKEN = tmp["chatbot"]["SLACK_APP_TOKEN"]
