@@ -45,7 +45,7 @@ llm = ChatOpenAI(temperature=0, openai_api_key=cfg.openai_key, openai_organizati
 prompt = PromptTemplate(template=cfg.template, input_variables=["context", "question"], )
 qa_model = LLMChain(prompt=prompt, llm=llm, verbose=True)
 db = vector_db(cfg=cfg) 
-db.load("sample.pkl.gz")
+db.load("data/sample.pkl.gz")
 
 @app.message("hello")  # 送信されたメッセージ内に"hello"が含まれていたときのハンドラ
 def ask_who(say):
