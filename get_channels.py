@@ -3,7 +3,9 @@ import json
 import os
 import configparser
 import codecs
-
+import logging
+from slack_sdk import WebClient
+from slack_sdk.errors import SlackApiError
 class my_cfg:
     openai_key = None
     openai_org_id = None
@@ -14,6 +16,13 @@ class my_cfg:
 url_converlist = "https://slack.com/api/conversations.list"
 # アドレス取得 各チャンネルの履歴
 url_converhist = "https://slack.com/api/conversations.history"
+# アドレス取得　ユーザーリスト
+url_userlist = "https://slack.com/api/users.list"
+# 作業フォルダ
+work_dir = "slack_data/"
+# 出力ファイル名
+file_user = "list_user.json"
+file_channel = "list_channel.json"
 # トークン
 def setup_cfg(cfg=my_cfg):
     tmp = configparser.ConfigParser()
@@ -28,16 +37,11 @@ cfg = setup_cfg()
 token = cfg.SLACK_API_TOKEN
 headers = {"Authorization": "Bearer " + cfg.SLACK_API_TOKEN}
 
-
-# 作業フォルダ
-work_dir = "slack_data/"
-
 # レスポンスのtextにchannelsを取得。そしてjson形式に持ち替えて取得
 response_json = requests.get(
                     url_converlist, 
                     headers=headers).json()
 # 例 ： {'ok': True, 'channels': [{...}, {...},
-
 # 見やすさのindentを指定した変換
 # indent : 半角スペースの数
 channel_json = json.dumps(
@@ -56,7 +60,6 @@ channel_json = json.dumps(
 
 # チャンネルごとの特定データを辞書型でコレクション
 channeldict = {}
-
 # チャンネル履歴向けの辞書型コレクション
 channelhist_dict = {}
 
@@ -86,10 +89,10 @@ channel_json_out = json.dumps(
                     ensure_ascii= False, 
                     indent      = 2)
 # 出力内容をチラ見
-print(channel_json_out)
+#print(channel_json_out)
 
 # 取得したチャンネルを指定ファイルに書き込むます
-path = os.path.join(work_dir, "channels.json")
+path = os.path.join(work_dir, file_channel)
 with open(path, "w") as f:
     f.write(channel_json_out)
 # 例 ： channels.json
@@ -138,9 +141,8 @@ for channelhist_itr in channelhist_dict:
 
     # チャンネルの履歴をmessagesから取得
     messages = response_json["messages"]
-
     # メッセージ内容をチラ見
-    print(messages)
+    #print(messages)
 
     # 辞書キーでソートして日本語表記をそのまま出力、indentを見やすく整形
     # sort_keys    : True 出力が辞書のキーでソートされる
@@ -151,9 +153,8 @@ for channelhist_itr in channelhist_dict:
                         sort_keys   = True,
                         ensure_ascii= False, 
                         indent      = 2)
-
     # 各チャンネル履歴をチラ見
-    print(channelhist_json)
+    #print(channelhist_json)
 
     # 各チャンネルフォルダに履歴用を記載するjsonを定義
     # 誤操作でファイル名を上書き防止するのため、チャンネルidも付与
@@ -206,3 +207,16 @@ for channelhist_itr in channelhist_dict:
             # ファイルの保存処理
             with codecs.open(save_path, 'wb') as target_file:
                 target_file.write(content)
+
+# ユーザーリスト出力
+response_json = requests.get(
+                    url_userlist, 
+                    headers=headers).json()
+user_json_out = json.dumps(
+                    response_json, 
+                    sort_keys   = True, 
+                    ensure_ascii= False, 
+                    indent      = 2)
+path = os.path.join(work_dir, file_user)
+with open(path, "w") as f:
+    f.write(user_json_out)
