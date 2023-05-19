@@ -16,12 +16,9 @@ class my_cfg:
 url_converlist = "https://slack.com/api/conversations.list"
 # アドレス取得 各チャンネルの履歴
 url_converhist = "https://slack.com/api/conversations.history"
-# アドレス取得　ユーザーリスト
-url_userlist = "https://slack.com/api/users.list"
 # 作業フォルダ
 work_dir = "slack_data/"
 # 出力ファイル名
-file_user = "list_user.json"
 file_channel = "list_channel.json"
 # トークン
 def setup_cfg(cfg=my_cfg):
@@ -95,6 +92,7 @@ channel_json_out = json.dumps(
 path = os.path.join(work_dir, file_channel)
 with open(path, "w") as f:
     f.write(channel_json_out)
+    print('* [ch_list]'+file_channel)
 # 例 ： channels.json
 # {
 #   "general": {
@@ -166,6 +164,7 @@ for channelhist_itr in channelhist_dict:
     # 取得した各チャンネル履歴を指定ファイルに書き込むます
     with open(path, "w", encoding="utf-8") as f:
         f.write(channelhist_json)
+        print('* [log] '+path)
 
     # 各チャンネルにアップロードしたファイルのアドレスを取得
     url_private_download_list = []
@@ -207,16 +206,4 @@ for channelhist_itr in channelhist_dict:
             # ファイルの保存処理
             with codecs.open(save_path, 'wb') as target_file:
                 target_file.write(content)
-
-# ユーザーリスト出力
-response_json = requests.get(
-                    url_userlist, 
-                    headers=headers).json()
-user_json_out = json.dumps(
-                    response_json, 
-                    sort_keys   = True, 
-                    ensure_ascii= False, 
-                    indent      = 2)
-path = os.path.join(work_dir, file_user)
-with open(path, "w") as f:
-    f.write(user_json_out)
+                print('* [file] '+download_dir)
