@@ -7,7 +7,7 @@ from langchain import PromptTemplate
 import requests
 
 summarize_prompt_template = """
-以下の文章を要約してください。文章が短くなりすぎないようにお願いします。
+以下の文章を要約してください。文章が短くならないようにお願いします。
 また、日本語で回答してください:
 
 {text}

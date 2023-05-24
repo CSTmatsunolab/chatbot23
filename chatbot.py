@@ -1,7 +1,5 @@
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
-import requests
-import datetime
 import re
 import configparser
 from util import vector_db, summrize_from_url
@@ -58,7 +56,7 @@ def ask_who(say):
     say("can I help you?")
 
 @app.event({"type": "message", "subtype": "file_share"}) # ファイルが送られてきた場合
-def upload_image(event, say):
+def pdf_summery(event, say):
     # 拡張子がpdfの場合処理をする
     if event["files"][0]["filetype"] == "pdf": 
         say("処理に時間かかるよ～")
