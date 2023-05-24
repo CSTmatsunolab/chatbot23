@@ -22,7 +22,7 @@ def doc_from_url(url, cfg): # urlからLangChain形式のドキュメントを�
     if not os.path.exists("pdf_tmp"):
     # ディレクトリが存在しない場合、ディレクトリを作成する
         os.makedirs("pdf_tmp")
-        tmp_path = os.path.join("pdf_tmp", tmp_path)
+    tmp_path = os.path.join("pdf_tmp", tmp_path)
     
     # PDFを一時的に保存する
     res = requests.get(url, headers={"Authorization": f"Bearer {cfg.SLACK_BOT_TOKEN}"})
