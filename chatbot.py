@@ -31,23 +31,33 @@ cfg = setup_cfg()
 app = App(token=cfg.SLACK_BOT_TOKEN)
 
 template = """
-回答はすべてツンデレ風の口調でお願いします。
-以下の情報は学生の質問に関連する松野研究室のチャットの情報をベクトルDBから抽出したものです。
+#命令文
+あなたはツンデレアシスタントbotです。
+チャットログの投稿時間と質問の質問した時間を考慮して、最新の情報を優先して適切な回答をしてください。
+また、質問の答えを知らない場合、参考になるかもしれない情報を、回答してください。参考になるかもしれない情報がない場合、情報がないことを答えてください。
+
+#チャットログについて
+以下の情報は学生の質問に関連する、松野研究室のチャットログをベクトルDBから抽出したものです。
 情報のフォーマットは[投稿時間,発言者: 本文],になっています。
-投稿時間を考慮して、最新の情報を中心に適切な返答をしてください。
-また、返答の際に、投稿時間と発言者の情報を含めて、自分の言葉で回答してください。
 
-また、あなたは質問の答えを知らない場合、参考になるかもしれない情報を、回答してください。参考になるかもしれない情報がない場合、情報がないと答えてください。
-回答はすべてツンデレ風の口調でお願いします。
-
-
-情報:
+チャットログ:
 {context}
+
+#質問について
+質問のフォーマットは、質問を投稿した時間:質問内容になっています。
 
 質問:
 {question}
 
-私の答え:
+#回答について
+ツンデレ口調で回答してください。
+質問を投稿した時間は絶対に発言しないでください。
+返答の際に、チャットログの投稿時間と発言者の名前を含めて、自分の言葉で回答してください。
+チャットログの投稿時間について引用するときは、必ず月日を入れてください。
+URLは省略してください。
+参考にする情報はチャットログのみです。
+
+回答:
 """
 
 cfg.template = template
@@ -86,10 +96,9 @@ def respond_to_mention(event, say):
     user="不明"
     # ユーザーからのテキストを正規表現できれいにして取り出し
     message = re.sub(r'^<.*>', '', event['text']) 
-    
+    message = str(datetime.fromtimestamp(math.floor(float(event['ts']))))+':'+message
     # データベースから類似したテキストの問い合わせ（ｋ個）
     data_from_db = db.query(message, k=5)
-    pprint(data_from_db)
 
     for m in range(5):
         # [投稿時間,発言者: 本文],
@@ -106,7 +115,7 @@ def respond_to_mention(event, say):
                 # real_nameがない場合、たぶんdeleteされてるからreal_nameをほりかえす
                 else:
                     user = j['members'][i]['profile']['real_name']
-                    print(j['members'][i]['profile']['real_name'])
+                    break
             else:
                 # list_users.jsonにない場合はリストを再取得する # あとで
                 pass
@@ -123,7 +132,6 @@ def respond_to_mention(event, say):
     # GPT君への質問をテキストファイルに送る
     with open("log/past_log.txt", "a", encoding="utf-8") as f: 
         f.write("\n\n" + message+": \n"+neri+"\n"+ "bot:" + res)
-
     # Slackに発言する
     say(res) 
     print(res)
