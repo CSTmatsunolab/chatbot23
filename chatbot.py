@@ -5,6 +5,9 @@ import configparser
 from util import vector_db, summrize_from_url
 from langchain.chat_models import ChatOpenAI
 from langchain import LLMChain, PromptTemplate
+import math
+from datetime import datetime
+import json
 from pprint import pprint
 
 class my_cfg:
@@ -29,10 +32,10 @@ app = App(token=cfg.SLACK_BOT_TOKEN)
 
 template = """
 以下の情報は学生の質問に関連する情報をベクトルDBから抽出したものです。
-チャットログのフォーマットは発言者,投稿時間: 本文になっています。これを踏まえて指示に従います。
+チャットログのフォーマットは[投稿時間,発言者: 本文]になっています。これを踏まえて指示に従います。
 投稿時間を考慮して、最新の情報を中心に適切な返答をしてください。また、返答の際に、投稿時間と発言者の情報を含めてください。
-また、あなたは質問の答えを知らない場合、正直に「知らない」と答えます。その際、投稿時間と発言者の情報は必要ありません。
-また、回答はツンデレ風の口調でお願いします。
+また、あなたは質問の答えを知らない場合、参考になるかもしれない情報を、日付と発言者込で回答してください。参考になるかもしれない情報がない場合、情報がないと答えてください。
+また、回答はすべてツンデレ風の口調でお願いします。
 
 情報:
 {context}
@@ -49,7 +52,7 @@ llm = ChatOpenAI(temperature=0, openai_api_key=cfg.openai_key, openai_organizati
 prompt = PromptTemplate(template=cfg.template, input_variables=["context", "question"], )
 qa_model = LLMChain(prompt=prompt, llm=llm, verbose=True)
 db = vector_db(cfg=cfg) 
-db.load("data/sample.pkl.gz")
+db.load("sample/全体ゼミ.pkl.gz")
 
 @app.message("hello")  # 送信されたメッセージ内に"hello"が含まれていたときのハンドラ
 def ask_who(say):
@@ -66,7 +69,7 @@ def pdf_summery(event, say):
 
         # urlから要約までする
         res = summrize_from_url(pdf_url=url, llm=llm, cfg=cfg) 
-        say(res) # チャンネルに発言
+        say(res, thread_ts=event["event_ts"]) # チャンネルに発言
     else:# pdfじゃないのが来た場合
         say("pdfじゃないよ～")
         
@@ -75,23 +78,48 @@ def pdf_summery(event, say):
 
 @app.event("app_mention")  # chatbotにメンションが付けられたときのハンドラ
 def respond_to_mention(event, say):
-
+    neri = []
+    user="不明"
     # ユーザーからのテキストを正規表現できれいにして取り出し
     message = re.sub(r'^<.*>', '', event['text']) 
     
     # データベースから類似したテキストの問い合わせ（ｋ個）
-    data_from_db = db.query(message, k=8)
+    data_from_db = db.query(message, k=5)
+    pprint(data_from_db)
 
-    tmp = list(map(lambda x: list(x.values()), data_from_db))
-    tmp = sum(tmp, [])
-    tmp = "/n".join(tmp)
-    
+    for m in range(5):
+        # [投稿時間,発言者: 本文],
+        input_id = data_from_db[m]['user']
+        # input_idのreal_nameをlist_user.jsonから取得
+        with open('slack_data/list_user.json') as f:
+            j = json.load(f)
+        for i in range(len(j['members'])):
+            if j['members'][i]['id']==input_id:
+                # real_nameがある場合、real_nameをuserに代入
+                if 'real_name' in j['members'][i]:
+                    user = j['members'][i]['real_name']
+                # real_nameがない場合、
+                else:
+                    user = j['members'][i]['profile']['real_name']
+                    print("ない ")
+                    pprint(j['members'][i])
+                    pprint(data_from_db[m]['text'])
+            else:
+                # list_users.jsonにない場合はリストを再取得する # あとで
+                pass
+        # UNIX時間変換（小数点以下切り捨て）
+        ts = datetime.fromtimestamp(math.floor(float(data_from_db[m]['ts'])))
+
+        test = f"[{ts},{user}: {data_from_db[m]['text']}],"
+        neri.append(test)
+    neri = "".join(neri)
+
     # GPT君に質問
-    res = qa_model.predict(question=message, context="".join(tmp))
+    res = qa_model.predict(question=message, context="".join(neri))
 
     # GPT君への質問をテキストファイルに送る
     with open("log/past_log.txt", "a", encoding="utf-8") as f: 
-        f.write("\n\n" + message+": \n"+tmp+"\n"+ "bot:" + res)
+        f.write("\n\n" + message+": \n"+neri+"\n"+ "bot:" + res)
 
     # Slackに発言する
     say(res) 
