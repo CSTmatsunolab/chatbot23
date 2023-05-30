@@ -15,6 +15,7 @@ class my_cfg:
     openai_key = None
     openai_org_id = None
     SLACK_APP_TOKEN = None
+    SLACK_USER_TOKEN = None
     SLACK_BOT_TOKEN = None
     SLACK_API_TOKEN = None
     SLACK_SIGNING = None
@@ -24,8 +25,9 @@ def setup_cfg(cfg=my_cfg):
     tmp.read("data/config.ini")
     cfg.openai_key = tmp["OPEN_AI"]["key"]
     cfg.openai_org_id = tmp["OPEN_AI"]["organization_ID"]
-    cfg.SLACK_APP_TOKEN = tmp["chatbot"]["SLACK_APP_TOKEN"]
     cfg.SLACK_BOT_TOKEN = tmp["chatbot"]["SLACK_BOT_TOKEN"]
+    cfg.SLACK_USER_TOKEN = tmp["chatbot"]["SLACK_USER_TOKEN"]
+    cfg.SLACK_APP_TOKEN = tmp["chatbot"]["SLACK_APP_TOKEN"]
     cfg.SLACK_API_TOKEN = tmp["chatbot"]["SLACK_API_TOKEN"]
     cfg.SLACK_SIGNING = tmp["chatbot"]["SLACK_SIGNING"]
     return cfg
@@ -33,6 +35,7 @@ def setup_cfg(cfg=my_cfg):
 cfg = setup_cfg()
 app = App(token=cfg.SLACK_BOT_TOKEN,signing_secret=cfg.SLACK_SIGNING)
 client = WebClient(token=cfg.SLACK_BOT_TOKEN)
+client2 = WebClient(token=cfg.SLACK_USER_TOKEN)
 
 template = """
 #命令文
@@ -152,6 +155,10 @@ def respond_to_mention(event, say):
     print(ts)
     # say(message[::-1]) # 文字列を逆順 これは練習でやったやつ
 
+@app.event("user_change")
+def handle_user_change_events(body, logger):
+    logger.info(body)
+
 @app.event("message") # ロギング
 def handle_message_events(body, logger):
     logger.info(body)
@@ -160,9 +167,16 @@ if __name__ == "__main__":
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
     msg_running = "⚡️ Bolt is running!"
     msg_closed = "おやすみ〜"
+    user_id = "U0550LX2NG0"  # ユーザーのIDを指定
+    status_run_text = "working"  # 変更するステータスのテキスト
+    status_run_emoji = ":pencil:"  # 変更するステータスの絵文字
+    status_clo_text = "sleeping"
+    status_clo_emoji = ":sleepy:"
+    client2.users_profile_set(user=user_id,profile={"status_text": status_run_text,"status_emoji": status_run_emoji})
     client.chat_postMessage(channel=channel_id, text=msg_running)
-    try:   
+    try:
         SocketModeHandler(app, cfg.SLACK_APP_TOKEN).start()
     finally:
+        client2.users_profile_set(user=user_id,profile={"status_text": status_clo_text,"status_emoji": status_clo_emoji})
         client.chat_postMessage(channel=channel_id, text=msg_closed)
 
