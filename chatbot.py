@@ -158,6 +158,11 @@ def handle_message_events(body, logger):
 
 if __name__ == "__main__":
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
-    message = "⚡️ Bolt is running!"
-    client.chat_postMessage(channel=channel_id, text=message)
-    SocketModeHandler(app, cfg.SLACK_APP_TOKEN).start()
+    msg_running = "⚡️ Bolt is running!"
+    msg_closed = "おやすみ〜"
+    client.chat_postMessage(channel=channel_id, text=msg_running)
+    try:   
+        SocketModeHandler(app, cfg.SLACK_APP_TOKEN).start()
+    finally:
+        client.chat_postMessage(channel=channel_id, text=msg_closed)
+
