@@ -89,7 +89,15 @@ def pdf_summery(event, say):
     else:# pdfじゃないのが来た場合
         say("pdfじゃないよ～")
         
-        
+@app.command("/kato")
+def kato(ack, respond, command):
+    ack()
+    respond(f"{command['text']}")
+    pprint(command)
+    print("------")
+    print(ack)
+    print("-----")
+    pprint(respond)
 
 
 @app.event("app_mention")  # chatbotにメンションが付けられたときのハンドラ
