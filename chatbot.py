@@ -1,5 +1,6 @@
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
+from slack_sdk import WebClient
 import re
 import configparser
 from util import vector_db, summrize_from_url
@@ -16,6 +17,7 @@ class my_cfg:
     SLACK_APP_TOKEN = None
     SLACK_BOT_TOKEN = None
     SLACK_API_TOKEN = None
+    SLACK_SIGNING = None
 
 def setup_cfg(cfg=my_cfg):
     tmp = configparser.ConfigParser()
@@ -25,38 +27,40 @@ def setup_cfg(cfg=my_cfg):
     cfg.SLACK_APP_TOKEN = tmp["chatbot"]["SLACK_APP_TOKEN"]
     cfg.SLACK_BOT_TOKEN = tmp["chatbot"]["SLACK_BOT_TOKEN"]
     cfg.SLACK_API_TOKEN = tmp["chatbot"]["SLACK_API_TOKEN"]
+    cfg.SLACK_SIGNING = tmp["chatbot"]["SLACK_SIGNING"]
     return cfg
 
 cfg = setup_cfg()
-app = App(token=cfg.SLACK_BOT_TOKEN)
+app = App(token=cfg.SLACK_BOT_TOKEN,signing_secret=cfg.SLACK_SIGNING)
+client = WebClient(token=cfg.SLACK_BOT_TOKEN)
 
 template = """
 #命令文
-あなたはアシスタントです。Slackのログを参考して質問に回答します。
-質問を投稿した時間とSlackログの投稿時間を考慮して、新しい情報を中心に回答してください。
-回答がわからない場合は、参考になるかもしれない情報を提供してください。参考になる情報がない場合は、情報がないことを伝えてください。
+あなたは、Slackのチャット履歴を参考して質問に回答します。質問内容に口調の指示がある場合、絶対に指示通りの口調で回答してください。
+質問を投稿した時間と、Slackのチャット履歴の投稿時間を考慮して、新しい情報を中心に回答してください。
 
 
-#Slackログについて
-以下は、質問に関連する研究室のSlackログの一部です。情報は[投稿時間、人物名: 本文]の形式です。
+#Slackのチャット履歴
+以下は、質問に関連する研究室のSlackのチャット履歴です。情報は[投稿時間,投稿者: チャット内容]の形式です。
 
 Slackログ:
 {context}
 
 
-#質問について
+#質問
 質問のフォーマットは、質問を投稿した時間: 質問内容です。
-口調について指定する場合があります。
+質問内容にて、あなたの口調を指定する場合があります。
 
 質問:
 {question}
 
 
-#回答について
-質問内容に口調の指定がある場合は、回答の全文を指定の口調で回答してください。
-Slackログの投稿時間と人物名を含めて回答してください。
-投稿時間と本文について、Slackログをそのまま引用せず、文章に馴染むように自分の言葉で回答してください。
+#回答
+ツンデレの口調で回答してください。
+Slackのチャット履歴の投稿時間と投稿者を含めて回答してください。
+投稿時間と本文について、Slackのチャット履歴をそのまま引用せず、文章に馴染むように自分の言葉で回答してください。
 質問を投稿した時間は絶対に明示しないでください。
+回答がわからない場合は、参考になるかもしれない情報を提供してください。参考になる情報がない場合は、情報がないことを伝えてください。
 
 回答:
 """
@@ -152,6 +156,8 @@ def respond_to_mention(event, say):
 def handle_message_events(body, logger):
     logger.info(body)
 
-
 if __name__ == "__main__":
+    channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
+    message = "⚡️ Bolt is running!"
+    client.chat_postMessage(channel=channel_id, text=message)
     SocketModeHandler(app, cfg.SLACK_APP_TOKEN).start()
