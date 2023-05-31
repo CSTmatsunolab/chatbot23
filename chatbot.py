@@ -84,7 +84,7 @@ def ask_who(say):
 def pdf_summery(event, say):
     # 拡張子がpdfの場合処理をする
     if event["files"][0]["filetype"] == "pdf": 
-        say("処理に時間かかるよ～")
+        say("要約してあげるけど処理に時間かかるからね")
 
         # pdfのダウンロードのURLを取得
         url = event["files"][0]['url_private_download'] 
@@ -93,7 +93,7 @@ def pdf_summery(event, say):
         res = summrize_from_url(pdf_url=url, llm=llm, cfg=cfg) 
         say(res, thread_ts=event["event_ts"]) # チャンネルに発言
     else:# pdfじゃないのが来た場合
-        say("pdfじゃないよ～")
+        say("pdfにしか対応してないゾ！")
         
 @app.command("/kato")
 def kato(ack, respond, command):
