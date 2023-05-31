@@ -91,6 +91,7 @@ def pdf_summery(event, say):
 
         # urlから要約までする
         res = summrize_from_url(pdf_url=url, llm=llm, cfg=cfg) 
+        print(res)
         say(res, thread_ts=event["event_ts"]) # チャンネルに発言
     else:# pdfじゃないのが来た場合
         say("pdfにしか対応してないゾ！")
