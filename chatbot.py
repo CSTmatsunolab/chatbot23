@@ -148,11 +148,10 @@ def respond_to_mention(event, say):
     # GPT君への質問をテキストファイルに送る
     today = '{:%Y-%m-%d}.txt'.format(datetime.now())
     with open("log/"+today, "a", encoding="utf-8") as f: 
-        f.write("---------\n>" + message+": \n"+neri+"\n"+ "bot:" + res)
+        f.write("\n\n-------------------\n>" + message+": " + neri +"\n"+ "\nbot:" + res )
     # Slackに発言する
     say(res) 
     print(res)
-    print(ts)
     # say(message[::-1]) # 文字列を逆順 これは練習でやったやつ
 
 @app.event("user_change")
@@ -163,10 +162,14 @@ def handle_user_change_events(body, logger):
 def handle_message_events(body, logger):
     logger.info(body)
 
+@app.event("app_home_opened") # これを書けって怒られるから仕方なく記述
+def handle_app_home_opened_events(body, logger):
+    logger.info(body)
+
 if __name__ == "__main__":
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
     msg_running = "⚡️ Bolt is running!"
-    msg_closed = "おやすみ〜"
+    msg_closed = "もう疲れたから寝ることにするわ。おやすみ〜"
     user_id = "U0550LX2NG0"  # ユーザーのIDを指定
     status_run_text = "working"  # 変更するステータスのテキスト
     status_run_emoji = ":pencil:"  # 変更するステータスの絵文字
