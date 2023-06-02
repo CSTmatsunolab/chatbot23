@@ -4,6 +4,7 @@ from slack_sdk import WebClient
 import re
 import configparser
 from util import vector_db, summrize_from_url
+from util import get_channels_from_cfg
 from util import get_users_from_cfg
 from langchain.chat_models import ChatOpenAI
 from langchain import LLMChain, PromptTemplate
@@ -11,6 +12,8 @@ import math
 from datetime import datetime
 import json
 from pprint import pprint
+import schedule
+from time import sleep
 
 class my_cfg:
     openai_key = None
@@ -107,7 +110,6 @@ def kato(ack, respond, command):
     print("-----")
     pprint(respond)
 
-
 @app.event("app_mention")  # chatbotにメンションが付けられたときのハンドラ
 def respond_to_mention(event, say):
     neri = []
@@ -174,7 +176,7 @@ if __name__ == "__main__":
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
     msg_running = "⚡️ Bolt is running!"
     msg_closed = "もう疲れたから寝ることにするわ。おやすみ〜"
-    user_id = "U0550LX2NG0"  # ユーザーのIDを指定
+    user_id = "U0550LX2NG0"  # ユーザーのIDを指定(chatbot23)
     status_run_text = "working"  # 変更するステータスのテキスト
     status_run_emoji = ":pencil:"  # 変更するステータスの絵文字
     status_clo_text = "sleeping"
