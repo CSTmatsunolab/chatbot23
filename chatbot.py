@@ -4,6 +4,7 @@ from slack_sdk import WebClient
 import re
 import configparser
 from util import vector_db, summrize_from_url
+from util import get_users_from_cfg
 from langchain.chat_models import ChatOpenAI
 from langchain import LLMChain, PromptTemplate
 import math
@@ -134,8 +135,10 @@ def respond_to_mention(event, say):
                     user = j['members'][i]['profile']['real_name']
                     break
             else:
-                # list_users.jsonにない場合はリストを再取得する # あとで
-                pass
+                # list_users.jsonにない場合はリストを再取得する
+                get_users_from_cfg(cfg)
+                say("*ユーザーがいないのでlist_userを再取得した*")
+
         # UNIX時間変換（小数点以下切り捨て）
         ts = datetime.fromtimestamp(math.floor(float(data_from_db[m]['ts'])))
 
