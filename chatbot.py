@@ -4,7 +4,7 @@ from slack_sdk import WebClient
 import re
 import configparser
 from util import vector_db, summrize_from_url
-from util import get_channels_from_cfg
+from util import get_channels_from_cfg, serch_user_from_json
 from util import get_users_from_cfg
 from langchain.chat_models import ChatOpenAI
 from langchain import LLMChain, PromptTemplate
@@ -126,20 +126,13 @@ def respond_to_mention(event, say):
         # input_idのreal_nameをlist_user.jsonから取得
         with open('slack_data/list_user.json') as f:
             j = json.load(f)
-        for i in range(len(j['members'])):
-            if j['members'][i]['id']==input_id:
-                # real_nameがある場合、real_nameをuserに代入
-                if 'real_name' in j['members'][i]:
-                    user = j['members'][i]['real_name']
-                    break
-                # real_nameがない場合、たぶんdeleteされてるからreal_nameをほりかえす
-                else:
-                    user = j['members'][i]['profile']['real_name']
-                    break
-            else:
-                # list_users.jsonにない場合はリストを再取得する
-                get_users_from_cfg(cfg)
-                say("*ユーザーがいないのでlist_userを再取得した*")
+        user = serch_user_from_json(j=j, input_id=input_id)
+                
+        if user == "不明":
+            get_users_from_cfg(cfg)
+            # list_users.jsonにない場合はリストを再取得する
+            user = serch_user_from_json(j, input_id=input_id)
+        
 
         # UNIX時間変換（小数点以下切り捨て）
         ts = datetime.fromtimestamp(math.floor(float(data_from_db[m]['ts'])))

@@ -5,7 +5,7 @@ import os
 # アドレス取得　ユーザーリスト
 url_userlist = "https://slack.com/api/users.list"
 # 作業フォルダ
-work_dir = "../slack_data/"
+work_dir = os.path.dirname(os.getcwd())
 # 出力ファイル名
 file_user = "list_user.json"
 
