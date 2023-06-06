@@ -4,6 +4,8 @@ import configparser
 from datetime import datetime, timedelta
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
+import schedule
+import time
 
 class my_cfg:
     openai_key = None
@@ -27,18 +29,21 @@ def setup_cfg(cfg=my_cfg):
     return cfg
 cfg = setup_cfg()
 
-def get_channels_from_cfg(cfg):
+def get_channels_from_cfg():
     slack_token = cfg.SLACK_API_TOKEN
-    # ログとチャンネルリストを保存するディレクトリのパスを指定します
+    # ログとチャンネルリストを保存するディレクトリのパスを指定
     log_directory = "logs/"
     channel_list_file = "channel_list.json"
-
-    # 取得するログの期間を設定します
+    # 取得するログの期間を設定
     start_date = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     end_date = start_date + timedelta(days=1)
+    start_date_dir = datetime.now().strftime(r"%Y-%m-%d")
 
-    # Slackクライアントを初期化します
+    # Slackクライアントを初期化
     client = WebClient(token=slack_token)
+    # ログを保存するディレクトリlogsが存在しない場合は作成
+    if not os.path.exists(log_directory):
+        os.makedirs(log_directory)
 
     # ログを取得するためのメソッド
     def get_channel_history(channel_id, oldest, latest):
@@ -53,39 +58,41 @@ def get_channels_from_cfg(cfg):
         except SlackApiError as e:
             print(f"Error fetching history: {e}")
 
-    # ログを保存するディレクトリが存在しない場合は作成します
-    if not os.path.exists(log_directory):
-        os.makedirs(log_directory)
-
+    # チャンネルリストを取得
     try:
         channels_response = client.conversations_list(types="public_channel")
     except SlackApiError as e:
         print(f"Error fetching channels: {e}")
-
-    # パブリックチャンネルのリストを取得します
+    ## パブリックチャンネルのリストを取得
     channel_list = channels_response['channels']
-
-    # チャンネルリストを保存します
+    ## チャンネルリストをjsonで保存
     with open(os.path.join(log_directory, channel_list_file), 'w', encoding='utf-8') as channel_list_file:
         json.dump(channel_list, channel_list_file, indent=2, ensure_ascii=False)
 
-    # 各チャンネルのログを取得します
+    # 各チャンネルのログを取得
+    ## 取得日（年月日）のディレクトリを作る
+    if not os.path.exists(log_directory+'/'+start_date_dir):
+        os.makedirs(log_directory+'/'+start_date_dir)
+
     for channel in channel_list:
         channel_name = channel['name']
         channel_id = channel['id']
-
-        # チャンネルごとにログを取得し、JSON形式で保存します
+        ## チャンネルごとにログを取得し、JSON形式で保存
         channel_logs = get_channel_history(channel_id, start_date, end_date)
-
-        # チャンネルのログが空でないか確認
+        ## チャンネルのログが空でないか確認
         if channel_logs:
-            # ファイル名に日付を追加します
+            ### ファイル名に日付を追加
             log_file_name = f"{channel_name}_{start_date.strftime('%Y-%m-%d')}.json"
-            log_file_path = os.path.join(log_directory, log_file_name)
+            log_file_path = os.path.join(log_directory, start_date_dir, log_file_name)
             with open(log_file_path, 'w', encoding='utf-8') as log_file:
                 json.dump(channel_logs, log_file, indent=2, ensure_ascii=False)
-            print(f"Downloading logs for channel: {log_directory}/{channel_name}.json")
-        # チャンネルのログがからの場合保存しない
+            print(f"Downloading logs for channel: {log_directory}{start_date_dir}/{channel_name}.json")
+        ### チャンネルのログが空の場合保存しない
         else:
-            print(f"本日更新なし channel: {channel_name}")
+            print(f"更新なし channel: {channel_name}")
     print("Logs downloaded successfully!")
+
+schedule.every().day.at("16:45").do(get_channels_from_cfg)
+while True:
+    schedule.run_pending()
+    time.sleep(1)  # 待ち
