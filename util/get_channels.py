@@ -92,7 +92,7 @@ def get_channels_from_cfg():
             print(f"更新なし channel: {channel_name}")
     print("Logs downloaded successfully!")
 
-schedule.every().day.at("16:45").do(get_channels_from_cfg)
+schedule.every().day.at("16:50").do(get_channels_from_cfg)
 while True:
     schedule.run_pending()
     time.sleep(1)  # 待ち

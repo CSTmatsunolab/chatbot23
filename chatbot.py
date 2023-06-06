@@ -165,7 +165,7 @@ def handle_message_events(body, logger):
 def handle_app_home_opened_events(body, logger):
     logger.info(body)
 
-if __name__ == "__main__":
+def main():
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
     msg_running = "⚡️ Bolt is running!"
     msg_closed = "もう疲れたから寝ることにするわ。おやすみ〜"
@@ -182,3 +182,6 @@ if __name__ == "__main__":
         client2.users_profile_set(user=user_id,profile={"status_text": status_clo_text,"status_emoji": status_clo_emoji})
         client.chat_postMessage(channel=channel_id, text=msg_closed)
 
+if __name__ == "__main__":
+    main()
+    
