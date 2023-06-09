@@ -91,8 +91,8 @@ def get_channels_from_cfg():
         else:
             print(f"更新なし channel: {channel_name}")
     print("Logs downloaded successfully!")
-
-schedule.every().day.at("16:50").do(get_channels_from_cfg)
-while True:
-    schedule.run_pending()
-    time.sleep(1)  # 待ち
+if __name__ == "__main__":
+    schedule.every().day.at("16:50").do(get_channels_from_cfg)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)  # 待ち

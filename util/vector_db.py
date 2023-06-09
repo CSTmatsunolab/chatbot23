@@ -2,7 +2,7 @@ import gzip
 import pickle
 import numpy as np
 from langchain.embeddings import OpenAIEmbeddings, HuggingFaceEmbeddings
-from math_algo import cosine_similarity, adams_similarity, derridaean_similarity, euclidean_metric, hyper_SVM_ranking_algorithm_sort
+from .math_algo import cosine_similarity, adams_similarity, derridaean_similarity, euclidean_metric, hyper_SVM_ranking_algorithm_sort
 
 
 def get_embedding(docs, cfg=None, target: str=None, embedding_type="openai", model="text-embedding-ada-002"):

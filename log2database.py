@@ -66,5 +66,6 @@ if __name__ == "__main__":
     file_list = sum(file_list, [])
     now = datetime.now().strftime(r"%Y-%m-%d")
     target_dir = os.path.join(os.getcwd(),  "logs", now)
+    print(target_dir)
 
 
