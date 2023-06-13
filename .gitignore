@@ -12,4 +12,5 @@ config.ini
 /slack_data/*
 /logs/*
 /aaa/*
+/sample_folder/*
 .pyc
