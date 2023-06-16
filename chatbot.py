@@ -46,23 +46,18 @@ client2 = WebClient(token=cfg.SLACK_USER_TOKEN)
 template = """
 #命令文
 あなたは、Slackのチャット履歴を参考して質問に回答します。質問内容に口調の指示がある場合、絶対に指示通りの口調で回答してください。
-質問を投稿した時間と、Slackのチャット履歴の投稿時間を考慮して、新しい情報を中心に回答してください。
-
+質問を投稿した時間と、Slackのチャット履歴の投稿時間を考慮して、最新の情報を中心に回答してください。
 
 #Slackのチャット履歴
 以下は、質問に関連する研究室のSlackのチャット履歴です。情報は[投稿時間,投稿者: チャット内容]の形式です。
-
 Slackログ:
 {context}
-
 
 #質問
 質問のフォーマットは、質問を投稿した時間: 質問内容です。
 質問内容にて、あなたの口調を指定する場合があります。
-
 質問:
 {question}
-
 
 #回答
 ツンデレの口調で回答してください。
@@ -74,9 +69,6 @@ Slackのチャット履歴の投稿時間と投稿者を含めて回答してく
 
 cfg.template = template
 
-
-
-
 llm = ChatOpenAI(temperature=0, openai_api_key=cfg.openai_key, openai_organization=cfg.openai_org_id, model_name="gpt-3.5-turbo")
 #prompt = PromptTemplate(template=cfg.template, input_variables=["context", "question"], )
 #qa_model = LLMChain(prompt=prompt, llm=llm, verbose=True)
@@ -86,26 +78,44 @@ db.load("data/all_data.pkl.gz")
 
 def system_message(source: str) -> str:
     system_message = f"""
-    #命令文
-    あなたは、Slackのチャット履歴を参考して質問に回答します。回答はツンデレの口調で回答してください。
-    Slackのチャット履歴の投稿時間を考慮して、新しい情報を中心に回答してください。
+    # 命令文
+    私は、「チャット履歴」の「投稿日」を考慮して、日付が新しい情報を優先した適切な回答します。チャット履歴から得られた情報を元に、答えられることを答えます。
 
-    #Slackのチャット履歴
-    以下は、質問に関連する研究室のSlackのチャット履歴です。情報は[投稿時間,投稿者: チャット内容]の形式です。
-    これらはそのまま使用せず、文章に馴染むように自分の言葉で回答してください。
+    # チャット履歴
+    以下は、質問に関連する研究室のチャット履歴です。[投稿日,投稿者: チャット内容]の形式です。
+    これらはそのまま使用せず、文章に馴染むように自分の言葉で回答します。
     {source}
 
-    #質問
-    質問は、質問を投稿した時間: 質問内容の形式です。
+    # 質問
+    質問は、質問を投稿した時間:質問内容の形式です。
     質問内容にて、あなたの口調を指定する場合があります。
 
-    #回答について
-    質問に対して、答えられることを答えてください。適宜改行してください。
-    Slackのチャット履歴から投稿時間と投稿者を含めて回答してください。これらはそのまま使用せず、文章に馴染むように自分の言葉で回答してください。
-    質問を投稿した時間は絶対に明示しないでください。
-    回答がわからない場合は、参考になるかもしれない情報を提供してください。参考になる情報がない場合は、情報がないことを伝えてください。
+    # 回答
+    「チャット履歴」に書いていない内容は、憶測であることを明記します。
+    「質問を投稿した時間」など、質問の復唱は絶対に明示しません。
+    読みやすいように適宜改行してください。回答は1000文字以下で答えます。
+    回答がわからない場合は、参考になるかもしれない情報を提供します。
+    参考になる情報がない場合は、情報がないことを伝えます。
+    「チャット履歴」から、参考にした情報の「投稿日」と「投稿者」の情報を含めて回答します。ただし、そのまま引用することは禁止です。回答の文章中に馴染むように口語で回答します。
+    必ず、ツンデレ風の口調で回答します。
     """
-    return system_message
+
+    system_message2 = f"""
+    # 命令文
+    私はシャーロックホームズです。以下のチャット履歴から、ユーザーの質問に答えられるように、道筋を立てて、論理的に推理します。推理の様子も書きます。
+    
+    # チャット履歴
+    以下は、質問に関連する研究室のチャット履歴です。[投稿日,投稿者: チャット内容]の形式です。
+    これらはそのまま使用せず、文章に馴染むように自分の言葉で回答します。
+    {source}
+
+    # 推理
+    回答がわからない場合は、参考になるかもしれない情報を提供します。
+    参考になる情報がない場合は、情報がないことを伝えます。
+    「チャット履歴」から、参考にした情報の「投稿日」と「投稿者」の情報を含めて回答します。ただし、「チャット履歴」をそのまま引用することは禁止です。回答の文章中に馴染むように口語で回答します。
+    必ず全て、ツンデレ風の口調で回答します。
+    """
+    return system_message2
 
 def run_conversation(source: str, user_prompt: str) -> str:
     response = openai.ChatCompletion.create(
@@ -151,56 +161,53 @@ def kato(ack, respond, command):
 
 @app.event("app_mention")  # chatbotにメンションが付けられたときのハンドラ
 def respond_to_mention(event, say):
+    sleep(0.5)
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
     gif_list = [":are:",":ika:",":ahirukuru:",":ahirukousin2:",":ahirukousin:",":ahiruhikaru:",":ahiruhane:",":ahiruchan:"]
     random_gif = random.choice(gif_list)
+    sleep(0.5)
     tmp_text = f"Now Loading... {random_gif}"
     print(random_gif)
-    say_load = client.chat_postMessage(channel=channel_id, text=tmp_text)
+    say_load = say(channel=channel_id, text=tmp_text)
     neri = []
     user="不明"
     # ユーザーからのテキストを正規表現できれいにして取り出し
     message = re.sub(r'^<.*>', '', event['text']) 
     message = str(datetime.fromtimestamp(math.floor(float(event['ts']))))+':'+message
     # データベースから類似したテキストの問い合わせ（ｋ個）
-    data_from_db = db.query(message, k=7)
+    data_from_db = db.query(message, k=15)
 
-    for m in range(7):
+    for m in range(15):
         # [投稿時間,発言者: 本文],
         input_id = data_from_db[m]['user']
         # input_idのreal_nameをlist_user.jsonから取得
         with open('slack_data/list_user.json') as f:
             j = json.load(f)
         user = serch_user_from_json(j=j, input_id=input_id)
-                
+        
         if user == "不明":
             get_users_from_cfg(cfg)
             # list_users.jsonにない場合はリストを再取得する
             user = serch_user_from_json(j, input_id=input_id)
-        
-
         # UNIX時間変換（小数点以下切り捨て）
         ts = datetime.fromtimestamp(math.floor(float(data_from_db[m]['ts'])))
-
+        # 時間と本文連結
         test = f"[{ts},{user}: {data_from_db[m]['text']}],"
         neri.append(test)
     neri = "".join(neri)
+    print("* "+neri)
     
-
     # GPT君に質問
     #res = qa_model.predict(question=message, context="".join(neri))
-    res = run_conversation(neri,message)
+    res = run_conversation(neri.rstrip().replace('\n', ''),message)
 
     # GPT君への質問をテキストファイルに送る
     today = '{:%Y-%m-%d}.txt'.format(datetime.now())
     with open("log/"+today, "a", encoding="utf-8") as f: 
         f.write("\n\n-------------------\n>" + message+": " + neri +"\n"+ "\nbot:" + res )
     # Slackに発言する
-    print(res)
-    client.chat_delete(
-    ts=say_load["ts"],
-    channel=channel_id
-)
+    print("> "+res)
+    client.chat_delete(ts=say_load["ts"],channel=channel_id)
     say(res) 
     # say(message[::-1]) # 文字列を逆順 これは練習でやったやつ
 
