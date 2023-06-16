@@ -15,6 +15,7 @@ from pprint import pprint
 import schedule
 from time import sleep
 import openai
+import random
 
 class my_cfg:
     openai_key = None
@@ -151,7 +152,11 @@ def kato(ack, respond, command):
 @app.event("app_mention")  # chatbotにメンションが付けられたときのハンドラ
 def respond_to_mention(event, say):
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
-    say_load = client.chat_postMessage(channel=channel_id, text="Now Loading... :are:")
+    gif_list = [":are:",":ika:",":ahirukuru:",":ahirukousin2:",":ahirukousin:",":ahiruhikaru:",":ahiruhane:",":ahiruchan:"]
+    random_gif = random.choice(gif_list)
+    tmp_text = f"Now Loading... {random_gif}"
+    print(random_gif)
+    say_load = client.chat_postMessage(channel=channel_id, text=tmp_text)
     neri = []
     user="不明"
     # ユーザーからのテキストを正規表現できれいにして取り出し
