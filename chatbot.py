@@ -150,7 +150,8 @@ def kato(ack, respond, command):
 
 @app.event("app_mention")  # chatbotにメンションが付けられたときのハンドラ
 def respond_to_mention(event, say):
-    say("Now Loading... :star:")
+    channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
+    say_load = client.chat_postMessage(channel=channel_id, text="Now Loading... :are:")
     neri = []
     user="不明"
     # ユーザーからのテキストを正規表現できれいにして取り出し
@@ -191,6 +192,10 @@ def respond_to_mention(event, say):
         f.write("\n\n-------------------\n>" + message+": " + neri +"\n"+ "\nbot:" + res )
     # Slackに発言する
     print(res)
+    client.chat_delete(
+    ts=say_load["ts"],
+    channel=channel_id
+)
     say(res) 
     # say(message[::-1]) # 文字列を逆順 これは練習でやったやつ
 
