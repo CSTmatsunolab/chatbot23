@@ -4,7 +4,7 @@ from slack_sdk import WebClient
 import re
 import configparser
 from util import vector_db, summrize_from_url
-from util import get_channels_from_cfg, serch_user_from_json
+from util import  serch_user_from_json
 from util import get_users_from_cfg
 from langchain.chat_models import ChatOpenAI
 from langchain import LLMChain, PromptTemplate
@@ -14,6 +14,7 @@ import json
 from pprint import pprint
 import schedule
 from time import sleep
+import openai
 
 class my_cfg:
     openai_key = None
@@ -74,11 +75,53 @@ Slackのチャット履歴の投稿時間と投稿者を含めて回答してく
 
 cfg.template = template
 
+
+
+
 llm = ChatOpenAI(temperature=0, openai_api_key=cfg.openai_key, openai_organization=cfg.openai_org_id, model_name="gpt-3.5-turbo")
-prompt = PromptTemplate(template=cfg.template, input_variables=["context", "question"], )
-qa_model = LLMChain(prompt=prompt, llm=llm, verbose=True)
+#prompt = PromptTemplate(template=cfg.template, input_variables=["context", "question"], )
+#qa_model = LLMChain(prompt=prompt, llm=llm, verbose=True)
 db = vector_db(cfg=cfg) 
 db.load("sample/全体ゼミ.pkl.gz")
+
+
+def system_message(source: str) -> str:
+    system_message = f"""
+    #命令文
+    あなたは、Slackのチャット履歴を参考して質問に回答します。質問内容に口調の指示がある場合、絶対に指示通りの口調で回答してください。
+    質問を投稿した時間と、Slackのチャット履歴の投稿時間を考慮して、新しい情報を中心に回答してください。
+
+
+    #Slackのチャット履歴
+    以下は、質問に関連する研究室のSlackのチャット履歴です。情報は[投稿時間,投稿者: チャット内容]の形式です。
+    Slackロのチャット履歴:
+    {source}
+
+
+    #質問
+    質問のフォーマットは、質問を投稿した時間: 質問内容です。
+    質問内容にて、あなたの口調を指定する場合があります。
+
+
+    #回答について
+    ツンデレの口調で回答してください。
+    Slackのチャット履歴から投稿時間と投稿者を含めて回答してください。これらはそのまま使用せず、文章に馴染むように自分の言葉で回答してください。
+    質問を投稿した時間は絶対に明示しないでください。
+    回答がわからない場合は、参考になるかもしれない情報を提供してください。参考になる情報がない場合は、情報がないことを伝えてください。
+    """
+    return system_message
+
+def run_conversation(source: str, user_prompt: str) -> str:
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo-16k",
+        max_tokens=1000,
+        messages=[
+            {"role": "system", "content": system_message(source)},
+            {"role": "user", "content": user_prompt}
+        ],
+    )
+    return response.choices[0]["message"]["content"].strip()
+
 
 @app.message("hello")  # 送信されたメッセージ内に"hello"が含まれていたときのハンドラ
 def ask_who(say):
@@ -118,9 +161,9 @@ def respond_to_mention(event, say):
     message = re.sub(r'^<.*>', '', event['text']) 
     message = str(datetime.fromtimestamp(math.floor(float(event['ts']))))+':'+message
     # データベースから類似したテキストの問い合わせ（ｋ個）
-    data_from_db = db.query(message, k=5)
+    data_from_db = db.query(message, k=7)
 
-    for m in range(5):
+    for m in range(7):
         # [投稿時間,発言者: 本文],
         input_id = data_from_db[m]['user']
         # input_idのreal_nameをlist_user.jsonから取得
@@ -142,15 +185,16 @@ def respond_to_mention(event, say):
     neri = "".join(neri)
 
     # GPT君に質問
-    res = qa_model.predict(question=message, context="".join(neri))
+    #res = qa_model.predict(question=message, context="".join(neri))
+    res = run_conversation(neri,message)
 
     # GPT君への質問をテキストファイルに送る
     today = '{:%Y-%m-%d}.txt'.format(datetime.now())
     with open("log/"+today, "a", encoding="utf-8") as f: 
         f.write("\n\n-------------------\n>" + message+": " + neri +"\n"+ "\nbot:" + res )
     # Slackに発言する
-    say(res) 
     print(res)
+    say(res) 
     # say(message[::-1]) # 文字列を逆順 これは練習でやったやつ
 
 @app.event("user_change")
