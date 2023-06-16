@@ -5,6 +5,7 @@ from datetime import datetime
 from util import vector_db
 import configparser
 import time
+from tqdm import tqdm
 class my_cfg:
     openai_key = None
     openai_org_id = None
@@ -51,8 +52,9 @@ def db_from_file_list(file_lists,cfg=cfg):
     """
     base_data_path = os.path.join(os.getcwd(), "data", "all_data.pkl.gz")
     db = vector_db(cfg=cfg, target="text")
+    # db.loadをすると上書きをするようになる
     #db.load(base_data_path)
-    for path in file_lists:
+    for path in tqdm(file_lists):
         if not "channel_list" in path:
             with open(path) as f:
                 data = json.load(f)
@@ -60,9 +62,9 @@ def db_from_file_list(file_lists,cfg=cfg):
                 if  "user" in block: # userがチャットボットの時の発言は飛ばす
                     if block["user"] == "U0550LX2NG0":
                         pass
-                else:
-                    db.add_document(block)
-                    time.sleep(0.5)
+                    else:
+                        db.add_document(block)
+                        time.sleep(0.1)
     db.save(base_data_path)
 
 if __name__ == "__main__":
