@@ -223,6 +223,7 @@ def handle_message_events(body, logger):
 def handle_app_home_opened_events(body, logger):
     logger.info(body)
 
+
 def main():
     channel_id = "C05487CDMJ9"  # チャンネルIDを指定(chatbot23_test)
     msg_running = "⚡️ Bolt is running!"
