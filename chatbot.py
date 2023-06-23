@@ -42,6 +42,7 @@ cfg = setup_cfg()
 app = App(token=cfg.SLACK_BOT_TOKEN,signing_secret=cfg.SLACK_SIGNING)
 client = WebClient(token=cfg.SLACK_BOT_TOKEN)
 client2 = WebClient(token=cfg.SLACK_USER_TOKEN)
+openai.api_key = cfg.openai_key
 
 template = """
 #命令文
