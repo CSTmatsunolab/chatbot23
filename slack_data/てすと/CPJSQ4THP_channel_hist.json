@@ -1,0 +1,188 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "hvYKy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど完全に理解した",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "15f5ea66-ae90-4569-a132-5ed0316b8fe4",
+    "team": "T6WULA63S",
+    "text": "なるほど完全に理解した",
+    "ts": "1583974987.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "api_decoration_available": false,
+        "block_id": "XNOWF",
+        "call": {
+          "media_backend_type": "platform_call",
+          "v1": {
+            "active_participants": [],
+            "all_participants": [],
+            "app_icon_urls": {
+              "image_1024": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_1024.png",
+              "image_128": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_128.png",
+              "image_192": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_192.png",
+              "image_32": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_32.png",
+              "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_36.png",
+              "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_48.png",
+              "image_512": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_512.png",
+              "image_64": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_64.png",
+              "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_72.png",
+              "image_96": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_96.png"
+            },
+            "app_id": "A5GE9BMQC",
+            "channels": [
+              "CPJSQ4THP"
+            ],
+            "created_by": "UVB7A2V54",
+            "date_end": 1646439279,
+            "date_start": 1583974747,
+            "display_id": "106-795-528",
+            "has_ended": true,
+            "id": "RVASKM42K",
+            "is_dm_call": false,
+            "join_url": "https://applications.zoom.us/event/callback/slack/106795528?startUrl=N9U1pgb7fmOfBFVyipMxwOsbbzziKNa48mIDhOMvUesTQLcO2vam71KXcw&state=JIM1sxSsGCjHURhLkrEXo8ACbV_2M83-qzFYa6oNWKuWjXLdJdPFLbOlE5b_A-P7gJNSD7l3IcRkkz5wuBPmnPuF1BaptMcF6Vg6TCq1rrYRk4ioh_aC1PssBuT2w_Atl5EA15cLTmvW1NXsHqNCd7vVwJXyA843a6ZpaGHx5mQN6GGNc_YnQmZCfLGiio9G8c2Sn36f8QrmHQncS_cG0q7UMEU-z1R_2_9JjHhF2VQS1tL7aT8IUcLMuSBGI81y9Q",
+            "name": "Zoom meeting started by cstk16052",
+            "was_accepted": false,
+            "was_missed": false,
+            "was_rejected": false
+          }
+        },
+        "call_id": "RVASKM42K",
+        "type": "call"
+      }
+    ],
+    "bot_id": "BVASH611V",
+    "subtype": "bot_message",
+    "text": "cstk16052 has started a meeting",
+    "ts": "1583974747.000600",
+    "type": "message"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1583974673.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J11Ti",
+        "text": {
+          "text": "*自己紹介* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "5=ct",
+        "text": {
+          "text": "*名前は？*\n小池湧大\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "SGDlD",
+        "text": {
+          "text": "*趣味は？*\nゲーム\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "byqG/",
+        "text": {
+          "text": "*やってみたいことは？*\nバンジージャンプ\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "O5bo3",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPRA6ES2C",
+    "subtype": "bot_message",
+    "text": "*自己紹介* submission from <@U97F49L68> *名前は？* 小池湧大   *趣味は？* ゲーム   *やってみたいことは？* バンジージャンプ  ",
+    "ts": "1571910167.000800",
+    "type": "message",
+    "username": "新メンバー"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1571910111.000700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TXlvi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "新メンバー",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BPRA6ES2C",
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> added a workflow to this channel: *新メンバー*.",
+    "ts": "1571910074.000400",
+    "type": "message",
+    "username": "新メンバー"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1571909799.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

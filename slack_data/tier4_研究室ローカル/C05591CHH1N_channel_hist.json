@@ -1,0 +1,180 @@
+[
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/gzq-zcmt-hjm",
+        "id": 1,
+        "original_url": "https://meet.google.com/gzq-zcmt-hjm",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/gzq-zcmt-hjm"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "69v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/gzq-zcmt-hjm"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9e7d0959-c830-43f8-a7eb-c4e73aab1767",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/gzq-zcmt-hjm>",
+    "ts": "1684974521.689759",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/fay-bcax-vcu",
+        "id": 1,
+        "original_url": "https://meet.google.com/fay-bcax-vcu",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/fay-bcax-vcu"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "vdra",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/fay-bcax-vcu"
+              },
+              {
+                "text": "\n今日はここです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff173414-10c8-47c9-859d-39bdf461147d",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/fay-bcax-vcu>\n今日はここです",
+    "ts": "1684476742.755289",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/qja-sgek-sdr",
+        "id": 1,
+        "original_url": "https://meet.google.com/qja-sgek-sdr",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/qja-sgek-sdr"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "RFA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4月25日、９時３０分から、Tier4さんたちと打ち合わせです。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/qja-sgek-sdr"
+              },
+              {
+                "text": "\nでします",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19a54ed7-78d6-49fc-ba49-1d2323b3cf98",
+    "team": "T6WULA63S",
+    "text": "4月25日、９時３０分から、Tier4さんたちと打ち合わせです。\n<https://meet.google.com/qja-sgek-sdr>\nでします<!channel>",
+    "ts": "1682314826.524539",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U044SLE6D3N> has joined the channel",
+    "ts": "1682314775.568169",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U044SLE9UG4> has joined the channel",
+    "ts": "1682314775.507209",
+    "type": "message",
+    "user": "U044SLE9UG4"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1682314775.433089",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1682314775.366229",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1682314761.526849",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

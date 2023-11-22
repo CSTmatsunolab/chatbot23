@@ -1,0 +1,1564 @@
+[
+  {
+    "client_msg_id": "3101bc81-98eb-47f6-a88b-fe2ccf7214c0",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F03Q35APJJY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1658208877.488649",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lgd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.matsulab.org/dcase/editor.html?dcaseID=9symYSQ_kDSS4hyR_QE4IQrBu6k2pSP2facoSqedXe8_"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4dc5fba5-260c-4e27-9243-23ecad04fbbe",
+    "team": "T6WULA63S",
+    "text": "<https://www.matsulab.org/dcase/editor.html?dcaseID=9symYSQ_kDSS4hyR_QE4IQrBu6k2pSP2facoSqedXe8_>",
+    "ts": "1658208540.409679",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "A01BP7R4KNY",
+        "app_unfurl_url": "https://github.com/cstmatsulab/dcase_com",
+        "bot_id": "B027FUFUP7E",
+        "color": "24292f",
+        "fallback": "cstmatsulab/dcase_com",
+        "fields": [
+          {
+            "short": true,
+            "title": "Stars",
+            "value": "3"
+          },
+          {
+            "short": true,
+            "title": "Language",
+            "value": "JavaScript"
+          }
+        ],
+        "id": 1,
+        "is_app_unfurl": true,
+        "text": "dcase communicator",
+        "title": "cstmatsulab/dcase_com"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "i+ES",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/cstmatsulab/dcase_com"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e27c75b2-aa7a-4c69-ad57-c6533ef60bf3",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/cstmatsulab/dcase_com>",
+    "ts": "1656398052.822319",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "client_msg_id": "40db4cb2-2ed2-4e26-be2b-02c6eb22fef9",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F03ME3R4874",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1656395002.547199",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "89d7cb1b-4ab5-4f31-8256-15da35b44370",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F03MGFL7QDS",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1656394913.389579",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vDw2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.cis.upenn.edu/~bcpierce/tapl/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9dd0d6d8-1cba-47cb-bbe5-51b8ee7702c7",
+    "team": "T6WULA63S",
+    "text": "<https://www.cis.upenn.edu/~bcpierce/tapl/>",
+    "ts": "1654841674.761289",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WTBQo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "聞こえますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c358ba7-90ad-487e-a3ba-f33d698d38c2",
+    "team": "T6WULA63S",
+    "text": "聞こえますか",
+    "ts": "1654841116.588139",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pbkpm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダーにあるリンクあるいは4/29のリンクで入れると思うのですが……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c5326b5a-3f33-4f28-9c1b-6e400e9aab9b",
+    "is_locked": false,
+    "latest_reply": "1652421978.042489",
+    "reply_count": 5,
+    "reply_users": [
+      "U01BDLWP7T9",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "カレンダーにあるリンクあるいは4/29のリンクで入れると思うのですが……",
+    "thread_ts": "1651817306.631989",
+    "ts": "1651817306.631989",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d158",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日はどこでやっていますか。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BDLWP7T9"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4e5a87b8-5abf-4d3b-8e3f-2ed68a5aedb9",
+    "team": "T6WULA63S",
+    "text": "今日はどこでやっていますか。<@U01BDLWP7T9>",
+    "ts": "1651817245.430109",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/cxq-nxjz-ezy",
+        "id": 1,
+        "original_url": "https://meet.google.com/cxq-nxjz-ezy",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/cxq-nxjz-ezy"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "T=rj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ヤマダショウタ さんが、あなたを Google Meet のビデオ会議に招待しています。\n",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "会議に参加: ",
+                "type": "text"
+              },
+              {
+                "text": "https://meet.google.com/cxq-nxjz-ezy",
+                "type": "link",
+                "url": "https://meet.google.com/cxq-nxjz-ezy"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "ダイヤルイン（音声のみ）: ‪(US) ",
+                "type": "text"
+              },
+              {
+                "text": "+1 502-272-0268",
+                "type": "link",
+                "url": "tel:+1 502-272-0268"
+              },
+              {
+                "text": "‬ PIN: ‪546 235 783#‬",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0395DB80-8423-4414-8232-4D2915DB829F",
+    "team": "T6WULA63S",
+    "text": "ヤマダショウタ さんが、あなたを Google Meet のビデオ会議に招待しています。\n\n会議に参加: <https://meet.google.com/cxq-nxjz-ezy|https://meet.google.com/cxq-nxjz-ezy>\n\nダイヤルイン（音声のみ）: ‪(US) <tel:+1 502-272-0268|+1 502-272-0268>‬ PIN: ‪546 235 783#‬",
+    "ts": "1651212190.714689",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U03BF2S11QW> has joined the channel",
+    "ts": "1650002814.568709",
+    "type": "message",
+    "user": "U03BF2S11QW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b+9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BDLWP7T9"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " 連絡が遅れてすいません。家族で旅行することになったので今日のゼミはお休みでお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B58C1AF2-A9E5-4438-847E-9A0CB3C96CF9",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01BDLWP7T9",
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01BDLWP7T9> <@UD32JHVL7> 連絡が遅れてすいません。家族で旅行することになったので今日のゼミはお休みでお願いします",
+    "ts": "1646785121.992349",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bFF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ea1abba2-fb90-4770-a382-5c4c8f8b4c08",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1636510080.003400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mv2Vo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "眼科の予約を入れていたのを忘れてました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "21450263-b94d-4d20-8123-2ec9654e044f",
+    "edited": {
+      "ts": "1636507490.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "眼科の予約を入れていたのを忘れてました",
+    "ts": "1636507478.003000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hHv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、私用で今日のゼミは出れないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c13284b3-dec3-45c8-9add-a59dfc51f6ae",
+    "team": "T6WULA63S",
+    "text": "すみません、私用で今日のゼミは出れないです",
+    "ts": "1636507434.002300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RGuYb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic[…]A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&qid=1634695795&sr=8-1",
+                "type": "link",
+                "url": "https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic/dp/4873119324/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%85%A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&qid=1634695795&sr=8-1"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "237f85f1-4aa3-4a9e-b9d5-4beb7913b0ce",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic/dp/4873119324/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=%E5%85%A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&amp;qid=1634695795&amp;sr=8-1|https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic[…]A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&amp;qid=1634695795&amp;sr=8-1>",
+    "ts": "1634696121.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DTOCX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B08H5DHMX3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "658ae340-ec0a-4bab-8fdd-4785e0078fd9",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/dp/B08H5DHMX3/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1>",
+    "ts": "1634695311.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8nP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " すいません今日、企業対応があるので、１１時からでお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "16192a5b-13ec-4351-8f81-842d2083ac3d",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BDLWP7T9"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> すいません今日、企業対応があるので、１１時からでお願いします。",
+    "ts": "1634083083.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nlLoe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BDLWP7T9"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1p707yq5RqgGT1geMwAB5WuZgiia801Jr5670p1CVAms/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "732b03d3-d5fe-4302-9df6-e14f43f3d9df",
+    "team": "T6WULA63S",
+    "text": "<@U01BDLWP7T9>\n<https://docs.google.com/presentation/d/1p707yq5RqgGT1geMwAB5WuZgiia801Jr5670p1CVAms/edit?usp=sharing>",
+    "ts": "1633485292.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "A01BP7R4KNY",
+        "app_unfurl_url": "https://github.com/tyabu12/pl0compiler",
+        "bot_id": "B027FUFUP7E",
+        "color": "24292f",
+        "fallback": "tyabu12/pl0compiler",
+        "fields": [
+          {
+            "short": true,
+            "title": "Stars",
+            "value": "3"
+          },
+          {
+            "short": true,
+            "title": "Language",
+            "value": "C"
+          }
+        ],
+        "id": 1,
+        "is_app_unfurl": true,
+        "text": "PL/0' compiler.",
+        "title": "tyabu12/pl0compiler"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "INnq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/tyabu12/pl0compiler"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1c5f77dd-472b-437b-8b55-14b9565d1031",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/tyabu12/pl0compiler>",
+    "ts": "1632882231.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yht",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://cstmatsunolab.github.io/home.html#"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f0566722-8651-4684-aa90-3f2f25133aba",
+    "team": "T6WULA63S",
+    "text": "<https://cstmatsunolab.github.io/home.html#>",
+    "ts": "1632879886.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6BKM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "28B9FE3D-F549-4E31-ACDD-BC446FD33FB3",
+    "team": "T6WULA63S",
+    "text": "了解です。ありがとうございます",
+    "ts": "1632720609.004800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1zh1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえばコンパイラの本のstate2がstate3では？問題ですけど、誤植だったみたいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cc0ea9dc-46e2-42a5-b76e-b0a014f0a4af",
+    "team": "T6WULA63S",
+    "text": "そういえばコンパイラの本のstate2がstate3では？問題ですけど、誤植だったみたいです",
+    "ts": "1632720530.004400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dpRd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Bootstrap\nVuetify",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9335c5c5-ddb4-4452-8640-0765f971a7b5",
+    "team": "T6WULA63S",
+    "text": "Bootstrap\nVuetify",
+    "ts": "1632280079.002900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "client_msg_id": "79880096-b72d-4ee1-8ff5-12beed1bfd2c",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "html",
+        "id": "F02FXBG3KS4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1632279661.002300",
+    "type": "message",
+    "upload": false,
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Lnwf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "死んでいるリンクは消す\n\nProfile\nAbout\nMember",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "60006460-7c45-43fc-8360-ea9ad395265e",
+    "edited": {
+      "ts": "1632279652.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "死んでいるリンクは消す\n\nProfile\nAbout\nMember",
+    "ts": "1632279643.002100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HmG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちを踏んでもらえれば見えると思われ\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://cstmatsunolab.github.io/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f54a17af-9af0-45a9-ba31-c5b7a1909f23",
+    "edited": {
+      "ts": "1632276183.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "こっちを踏んでもらえれば見えると思われ\n<https://cstmatsunolab.github.io/>",
+    "ts": "1632276172.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/NQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/CSTmatsunolab/CSTmatsunolab.github.io.git"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8fc74f05-fdf2-4bb7-98e0-3fdd2f524e7d",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/CSTmatsunolab/CSTmatsunolab.github.io.git>",
+    "ts": "1632276147.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "A01BP7R4KNY",
+        "app_unfurl_url": "https://github.com/mlabNU/mlabNU.github.io",
+        "bot_id": "B027FUFUP7E",
+        "color": "24292f",
+        "fallback": "mlabNU/mlabNU.github.io",
+        "fields": [
+          {
+            "short": true,
+            "title": "Language",
+            "value": "HTML"
+          },
+          {
+            "short": true,
+            "title": "Last updated",
+            "value": "a year ago"
+          }
+        ],
+        "id": 1,
+        "is_app_unfurl": true,
+        "title": "mlabNU/mlabNU.github.io"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cJ0I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/mlabNU/mlabNU.github.io"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f4d775ce-3a31-4ac1-b913-e536f21fa1c5",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/mlabNU/mlabNU.github.io>",
+    "ts": "1632274898.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d4i",
+        "elements": [
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "121a511e-0e76-4079-b531-e92da8d655ce",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F02EN9REVU4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1631675108.000100",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7"
+  },
+  {
+    "channel": "C01U1B2PRDF",
+    "no_notifications": false,
+    "permalink": "https://matsulabnu.slack.com/call/R029L0EHK60",
+    "room": {
+      "app_id": "A00",
+      "call_family": "native_call",
+      "canvas_thread_ts": "0000000000.000000",
+      "channels": [
+        "C01U1B2PRDF"
+      ],
+      "created_by": "U6YLZUWAK",
+      "date_end": 1627451689,
+      "date_start": 1627450413,
+      "external_unique_id": "e88a0b05-7b37-4c3e-ab10-89285b790706",
+      "has_ended": true,
+      "id": "R029L0EHK60",
+      "is_dm_call": false,
+      "media_backend_type": "free_willy",
+      "media_server": "",
+      "name": null,
+      "participant_history": [
+        "U6YLZUWAK",
+        "U01BDLWP7T9"
+      ],
+      "participants": [],
+      "participants_camera_off": [],
+      "participants_camera_on": [],
+      "participants_screenshare_off": [],
+      "participants_screenshare_on": [],
+      "thread_root_ts": "0000000000.000000",
+      "was_accepted": false,
+      "was_missed": false,
+      "was_rejected": false
+    },
+    "subtype": "sh_room_created",
+    "text": "Started a <https://matsulabnu.slack.com/call/R029L0EHK60|call>.",
+    "ts": "1627450417.002000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZjdA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "34b24c75-7586-4be3-9397-672af6e44ba1",
+    "team": "T6WULA63S",
+    "text": "大丈夫です",
+    "ts": "1627450404.001900",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fO=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BDLWP7T9"
+              },
+              {
+                "text": " なんかGoogle Meet入れないんですが、Slackでも大丈夫ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c6b89015-e58d-4e45-9d44-b1541ccf4b49",
+    "team": "T6WULA63S",
+    "text": "<@U01BDLWP7T9> なんかGoogle Meet入れないんですが、Slackでも大丈夫ですか",
+    "ts": "1627450392.001600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "06F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cbf22e84-1b39-411a-b7ea-2425540aa738",
+    "team": "T6WULA63S",
+    "text": "大丈夫です",
+    "ts": "1627441924.001100",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kE8z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、今日ですが、２時３０分からでも大丈夫ですか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "be449d42-93fc-41ad-a545-bb56292b899d",
+    "team": "T6WULA63S",
+    "text": "すいません、今日ですが、２時３０分からでも大丈夫ですか。",
+    "ts": "1627441748.000800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sT6W",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プログラミング言語ゼミは明日水曜日の1時20分に変更しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d520e750-668f-4c4e-afd9-1f430374e1f1",
+    "team": "T6WULA63S",
+    "text": "プログラミング言語ゼミは明日水曜日の1時20分に変更しました",
+    "ts": "1627365942.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F026QJMS3P1",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1625552340.000100",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: こわくないLLVM入門！ - Qiita",
+        "from_url": "https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc",
+        "id": 1,
+        "image_bytes": 32576,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-4.0.0&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-4.0.0%26w%3D840%26h%3D380%26txt%3D%25E3%2581%2593%25E3%2582%258F%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584LLVM%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%2581%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D04f8aebffab3c9a17224aacdcfd2fc46&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-4.0.0%26w%3D840%26h%3D500%26txt%3D%2540Anko_9801%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3Dfb9d9576b21860a16333131f7a7928aa&blend-align=center%2Cmiddle&blend-mode=normal&s=59d8377e6ce34dd0c77a1632b2ca1c95",
+        "image_width": 476,
+        "original_url": "https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "対象読者 LLVMを勉強し始めたけど何からして良いのかわからない方 アセンブリがちょっとわかる 目標 LLVMの基本的な文法がわかるようになる 環境 Mac Mojave 10.14.6 LLVM 8.0....",
+        "title": "こわくないLLVM入門！ - Qiita",
+        "title_link": "https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "+Gll+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f715bcb8-23d8-4a90-862b-bc5daa27818b",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc>",
+    "ts": "1624952348.004200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zQYk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BDLWP7T9"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " すいません、火曜日ですが、ワクチン接種になったので、４時からにして、主に山田くんの面接練習をすることにしたいと思います。よろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d0c8126a-b5aa-457e-aeb4-e31cc84e63dd",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7",
+          "U01BDLWP7T9"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01BDLWP7T9> <@UD32JHVL7> すいません、火曜日ですが、ワクチン接種になったので、４時からにして、主に山田くんの面接練習をすることにしたいと思います。よろしくお願いいたします。",
+    "ts": "1624850744.003800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "https://miro.com/: Sign up | Miro | Online Whiteboard for Visual Collaboration",
+        "from_url": "https://miro.com/app/board/o9J_l9jmhFI=/",
+        "id": 1,
+        "image_bytes": 5801,
+        "image_height": 250,
+        "image_url": "https://miro.com/static/images/share/miro.png?00002",
+        "image_width": 476,
+        "original_url": "https://miro.com/app/board/o9J_l9jmhFI=/",
+        "service_icon": "https://miro.com/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
+        "service_name": "https://miro.com/",
+        "text": "Sign up using your Office 365, Slack, Google or Facebook accounts.",
+        "title": "Sign up | Miro | Online Whiteboard for Visual Collaboration",
+        "title_link": "https://miro.com/app/board/o9J_l9jmhFI=/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "jBT/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://miro.com/app/board/o9J_l9jmhFI=/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "49f4922a-a60d-4f33-b163-1f35ba70d447",
+    "team": "T6WULA63S",
+    "text": "<https://miro.com/app/board/o9J_l9jmhFI=/>",
+    "ts": "1624343726.002600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wPbv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "冬学期：コンパイラ演習の資料の作成\n来年度の年明けぐらいに、３年生を対象としてコンパイラ演習を実践する。\n参加者全員にメッセージを送信",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7209d5f4-17e7-443c-ba6b-ace07299d3e0",
+    "team": "T6WULA63S",
+    "text": "冬学期：コンパイラ演習の資料の作成\n来年度の年明けぐらいに、３年生を対象としてコンパイラ演習を実践する。\n参加者全員にメッセージを送信",
+    "ts": "1624341984.002400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ent8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "仮題：コンパイラ作成演習の設計と実践",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6030353a-bbe5-474c-8849-908174f6a11f",
+    "team": "T6WULA63S",
+    "text": "仮題：コンパイラ作成演習の設計と実践",
+    "ts": "1624341845.002200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wwxxr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6fa6c8a0-fbd7-4339-9304-dd328d7b151d",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1624341787.002000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y5V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "遅れるというのすっかり忘れていました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "09205592-1c24-4f7a-862a-0258dbd15fa5",
+    "edited": {
+      "ts": "1624341786.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "遅れるというのすっかり忘れていました",
+    "ts": "1624341776.001700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7ic",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "参加します、すみません少し待ってください・・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8bea0b0-97b8-4e2c-a44d-d12b7ce09321",
+    "team": "T6WULA63S",
+    "text": "参加します、すみません少し待ってください・・・",
+    "ts": "1624341746.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "68Bs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " プログラミング言語ゼミ参加しますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a394523e-91fb-4b55-bc7a-7984dfc55be4",
+    "team": "T6WULA63S",
+    "text": "<@UD32JHVL7> プログラミング言語ゼミ参加しますか？",
+    "ts": "1624341732.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/40be5cf201e1b52a05781ef67b8f5aa3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+        "author_id": "U6YLZUWAK",
+        "author_link": "https://matsulabnu.slack.com/team/U6YLZUWAK",
+        "author_name": "Yutaka Matsuno",
+        "author_subname": "Yutaka Matsuno",
+        "channel_id": "C9JB4AQCA",
+        "channel_name": "d-case",
+        "fallback": "[June 1st, 2018 1:02 AM] yutaka: <@U6YLZUWAK> uploaded a file: <https://matsulabnu.slack.com/files/U6YLZUWAK/FAZAENQV7/__________________d-case_20180525v1_a5___pp_________.pdf|はじめてのD-Case_20180525v1_A5（PP専用）.pdf>",
+        "files": [
+          {
+            "created": 0,
+            "file_access": "file_not_found",
+            "filetype": "",
+            "id": "FAZAENQV7",
+            "timestamp": 0,
+            "user": "UD32JHVL7"
+          }
+        ],
+        "footer": "Posted in #d-case",
+        "from_url": "https://matsulabnu.slack.com/archives/C9JB4AQCA/p1527840173000213",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/C9JB4AQCA/p1527840173000213",
+        "text": "<@U6YLZUWAK> uploaded a file: <https://matsulabnu.slack.com/files/U6YLZUWAK/FAZAENQV7/__________________d-case_20180525v1_a5___pp_________.pdf|はじめてのD-Case_20180525v1_A5（PP専用）.pdf>",
+        "ts": "1527840173.000213"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "K=zJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/C9JB4AQCA/p1527840173000213"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "39e57829-eaed-4de7-9167-876d672dba04",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/C9JB4AQCA/p1527840173000213>",
+    "ts": "1623133126.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3WZQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1FshYcge0QamZCkXUSlW2NDBKLxiC7Geo&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e7db56f7-2081-4b09-96fa-62514f770ffb",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/open?id=1FshYcge0QamZCkXUSlW2NDBKLxiC7Geo&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>",
+    "ts": "1623132303.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bpKCV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でーす",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "34db602b-89e0-4cb6-b630-09a48ddfa24f",
+    "team": "T6WULA63S",
+    "text": "お疲れ様でーす",
+    "ts": "1619508790.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eChw2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ocamlの教科書です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a31e0f2e-620b-48b5-8f10-2f267e43cd80",
+    "team": "T6WULA63S",
+    "text": "ocamlの教科書です。",
+    "ts": "1618898328.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F01UU87SC2F",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1618898321.000100",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1617882530.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01BDLWP7T9> has joined the channel",
+    "ts": "1617882530.000400",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1617882485.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

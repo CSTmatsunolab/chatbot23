@@ -1,0 +1,1038 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "9/jr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a31a4099-d089-47f7-a659-67a47773b975",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1607601871.019700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WBK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとこれならwifiがマザーボードに付いてるので別で買う必要ないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a65bc87-6eee-40ac-9eb0-0d796e9cc13b",
+    "team": "T6WULA63S",
+    "text": "あとこれならwifiがマザーボードに付いてるので別で買う必要ないです",
+    "ts": "1607600682.019400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "899",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ケースと簡易水冷は安さ重視で選びましたがその他は安いながらもかなり評判の良いやつです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ad54211-7fa6-461a-9f1a-80cd578523e2",
+    "team": "T6WULA63S",
+    "text": "ケースと簡易水冷は安さ重視で選びましたがその他は安いながらもかなり評判の良いやつです",
+    "ts": "1607600652.018800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VkMBa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ＋大熊くんが上げたGPUですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1a2a4036-79d5-40ef-a9b5-f264850a3f82",
+    "team": "T6WULA63S",
+    "text": "これ＋大熊くんが上げたGPUですかね",
+    "ts": "1607600234.017300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "PC自作: PC自作で作成されたパーツリストを確認する",
+        "from_url": "https://pcjisaku.com/part_list/9_ku7lvW",
+        "id": 1,
+        "image_bytes": 73955,
+        "image_height": 250,
+        "image_url": "https://pcjisaku.com/gen_images/9_ku7lvW/pl.png",
+        "image_width": 476,
+        "original_url": "https://pcjisaku.com/part_list/9_ku7lvW",
+        "service_icon": "https://pcjisaku.com/images/apple-touch-icon-180x180.png",
+        "service_name": "PC自作",
+        "text": "PC自作で作成されたパーツリストを確認することができます。パーツリストは互換性をチェックすることができます。",
+        "title": "PC自作で作成されたパーツリストを確認する",
+        "title_link": "https://pcjisaku.com/part_list/9_ku7lvW"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "a9ht",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://pcjisaku.com/part_list/9_ku7lvW",
+                "type": "link",
+                "url": "https://pcjisaku.com/part_list/9_ku7lvW"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2abbc6c3-f446-4a3d-9f51-d027e524ea0a",
+    "team": "T6WULA63S",
+    "text": "<https://pcjisaku.com/part_list/9_ku7lvW|https://pcjisaku.com/part_list/9_ku7lvW>",
+    "ts": "1607600192.016700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MU1L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。自作で行こうと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "566dba30-b586-4d0c-9139-41ff7de47016",
+    "team": "T6WULA63S",
+    "text": "了解です。自作で行こうと思います",
+    "ts": "1607599006.016500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O5EuS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分大丈夫ですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d71075a5-326a-4172-a501-e18799d252a2",
+    "team": "T6WULA63S",
+    "text": "多分大丈夫ですかね",
+    "ts": "1607598964.016000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ヨドバシ.com: ヨドバシ.com - TP-Link ティーピーリンク Archer TX3000E [新世代 Wi-Fi 6（11AX） Bluetooth 5.0 無線LAN子機 PCIeアダプター] 通販【全品無料配達】",
+        "from_url": "https://www.yodobashi.com/product/100000001005193155/",
+        "id": 1,
+        "original_url": "https://www.yodobashi.com/product/100000001005193155/",
+        "service_icon": "https://www.yodobashi.com/favicon.ico",
+        "service_name": "ヨドバシ.com",
+        "text": "TP-Link ティーピーリンク Archer TX3000E [新世代 Wi-Fi 6（11AX） Bluetooth 5.0 無線LAN子機 PCIeアダプター]の通販ならヨドバシカメラの公式サイト「<http://ヨドバシ.com|xn--xck9av8g.com>」で！レビュー、Q&amp;A、画像も盛り沢山。ご購入でゴールドポイント取得！今なら日本全国へ全品配達料金無料、即日・翌日お届け実施中。",
+        "thumb_height": 250,
+        "thumb_url": "https://image.yodobashi.com/product/100/000/001/005/193/155/100000001005193155_10203.jpg",
+        "thumb_width": 250,
+        "title": "ヨドバシ.com - TP-Link ティーピーリンク Archer TX3000E [新世代 Wi-Fi 6（11AX） Bluetooth 5.0 無線LAN子機 PCIeアダプター] 通販【全品無料配達】",
+        "title_link": "https://www.yodobashi.com/product/100000001005193155/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "SWE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、それはちょっと厳しそう。もし作る場合、あと無線LANは、前ドウ君のにつけた\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.yodobashi.com/product/100000001005193155/"
+              },
+              {
+                "text": "\nでいいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "152664fc-d89a-4d42-99d6-5442e7b89683",
+    "team": "T6WULA63S",
+    "text": "うーん、それはちょっと厳しそう。もし作る場合、あと無線LANは、前ドウ君のにつけた\n<https://www.yodobashi.com/product/100000001005193155/>\nでいいですか",
+    "ts": "1607598880.015500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5sP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "頼んでから届くのが2ヶ月以上先になるのがネックくらいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d3bc245-6a8b-42cd-b9a0-92c3bd2b4e4d",
+    "team": "T6WULA63S",
+    "text": "頼んでから届くのが2ヶ月以上先になるのがネックくらいです",
+    "ts": "1607598813.014600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p4d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "しかもカスタマイズを後からしても増設が原因で壊れるとかではなければ保証が効くので便利ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74508339-8fc5-47c2-afc8-8ae319483414",
+    "team": "T6WULA63S",
+    "text": "しかもカスタマイズを後からしても増設が原因で壊れるとかではなければ保証が効くので便利ですね",
+    "ts": "1607598777.013700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zubFm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと後で最安値を調べますがどっちでもいいくらいの値段差かLenovoの方がいいかくらいにしかならないと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6e43439-cbd4-4b83-a5a4-b972b12a075f",
+    "team": "T6WULA63S",
+    "text": "ちょっと後で最安値を調べますがどっちでもいいくらいの値段差かLenovoの方がいいかくらいにしかならないと思います",
+    "ts": "1607598682.012300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m9K0v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それ以上になると思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e2602f29-c03f-46f4-9e8a-91e688782e74",
+    "team": "T6WULA63S",
+    "text": "それ以上になると思います",
+    "ts": "1607598624.010600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "652Vi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "このlenovoので良かったらこっちにします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33519369-e11d-4a6a-b1e8-64119ce4a7a0",
+    "team": "T6WULA63S",
+    "text": "このlenovoので良かったらこっちにします",
+    "ts": "1607598592.010200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CJTQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ、上の部品買って作るのと同じぐらいのPCなんですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "08ee7e2a-f726-4a9b-b8eb-18c6666800f2",
+    "team": "T6WULA63S",
+    "text": "これ、上の部品買って作るのと同じぐらいのPCなんですか",
+    "ts": "1607598501.009800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UgqQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コスパ神です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "09844398-e5d0-4b5a-8325-cd3b94c233d4",
+    "team": "T6WULA63S",
+    "text": "コスパ神です",
+    "ts": "1607598425.009100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RoA=d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一括で出せるならこれもありかもしれないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0f69bcda-fd5e-4dd3-9ad1-a6acac856304",
+    "team": "T6WULA63S",
+    "text": "一括で出せるならこれもありかもしれないです",
+    "ts": "1607598412.008800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Lenovo Legion T750i | フラグシップゲーミングデスクトップ | レノボジャパン",
+        "from_url": "https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&cid=jp%3Aaffiliate%3Ay9zv9a",
+        "id": 1,
+        "original_url": "https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&amp;cid=jp%3Aaffiliate%3Ay9zv9a",
+        "service_icon": "https://www.lenovo.com/_ui/desktop/theme-blue/images/favicon.ico",
+        "service_name": "lenovo.com",
+        "text": "高度な冷却設計と優れたパフォーマンス微調整機能を備えた最高パフォーマンスのゲーミング・デスクトップ。第4世代AMD® Ryzen™ R9Xプロセッサーと最大でNVIDIA RTX 2070 Superグラフィックスまで対応し、相手領域でも敵を粉砕できます。あるいは、自宅のソファでくつろぎながらゲームをプレイできます。さらに、標準のMATXフォームファクター (シャーシ/MB/PSU) により互換性が維持され、さらにアップグレードが可能です。   Legionミニマル・デザイン、他を圧倒する高性能 最高のゲーミング・パフォーマンスやストレージ容量を備えた新しい高度な冷却設計。最大で第4世代AMD Ryzen R9X CPUとNVIDIA GeForce RTX 2070 Superグラフィックスまで対応し、敵を粉砕。 プラグ・アンド・プレイ 好きなようにプレイできます。勝利を収めましょう。",
+        "title": "Lenovo Legion T750i | フラグシップゲーミングデスクトップ | レノボジャパン",
+        "title_link": "https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&cid=jp%3Aaffiliate%3Ay9zv9a"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "y4L4d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&cid=jp%3Aaffiliate%3Ay9zv9a",
+                "type": "link",
+                "url": "https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&cid=jp%3Aaffiliate%3Ay9zv9a"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "feae782e-95ec-4533-8aef-a34509b4c7c0",
+    "team": "T6WULA63S",
+    "text": "<https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&amp;cid=jp%3Aaffiliate%3Ay9zv9a|https://www.lenovo.com/jp/ja/desktops/legion-desktops/legion-t-series/Lenovo-Legion-T7-34IMZ5/p/90Q80065JM?vc_lpp=MSZiMzIyYzM5ZThhJjVmZDIwMDFlJmRhJjYwMjExYTEwJlg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZyY0CVg5SUFFQUFKTFhOd2l3MFJ3S2hwQ2NDb2FTZndwZwkwODg2NzI4OTQwMDI2ODAzOTAyMDEyMTAxMTAxMzYJCWh0dHBzOi8vY2hpbW9sb2cuY28vCQ&amp;cid=jp%3Aaffiliate%3Ay9zv9a>",
+    "ts": "1607598400.008300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fh0Xw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえばこれ無線LANはついてないですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1eee6d2c-c8c7-4a8f-9de7-682ad739c2ef",
+    "team": "T6WULA63S",
+    "text": "そういえばこれ無線LANはついてないですね",
+    "ts": "1607598394.008100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bzBGr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。無線LAN用のなんか必要ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "95ce791b-8064-4536-9e2e-1241cd6033ee",
+    "team": "T6WULA63S",
+    "text": "了解です。無線LAN用のなんか必要ですか",
+    "ts": "1607598138.007600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dS67",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ものはこれがいいと思いますけど多分超えるんで最安値調べたほうがいいですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4ce3bf3-6d33-46f3-83c9-e92c9208f1c6",
+    "team": "T6WULA63S",
+    "text": "ものはこれがいいと思いますけど多分超えるんで最安値調べたほうがいいですね",
+    "ts": "1607597865.007200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "SUPERFLOWER 3段階制御のファンコントロールスイッチ搭載 80PLUS GOLD 850W電源 LEADEXIII GOLD 850W 日本正規代理店品",
+        "from_url": "https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8",
+        "id": 1,
+        "image_bytes": 82790,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51rdXFj3uXL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA33%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "SUPERFLOWER 3段階制御のファンコントロールスイッチ搭載 80PLUS GOLD 850W電源 LEADEXIII GOLD 850W 日本正規代理店品",
+        "title": "SUPERFLOWER 3段階制御のファンコントロールスイッチ搭載 80PLUS GOLD 850W電源 LEADEXIII GOLD 850W 日本正規代理店品",
+        "title_link": "https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "wgD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8",
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4b49fe6-0124-443d-97af-9439732ecbea",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8|https://www.amazon.co.jp/dp/B07XBY549F/ref=cm_sw_r_cp_apa_fabc_X3F0FbPMQE4G8>",
+    "ts": "1607597768.005700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "クルーシャル (マイクロン製) デスクトップ用ゲーミングメモリ 16GBX2枚 DDR4-3200 CL16 DIMM Black 制限付無期限保証 BL2K16G32C16U4B【国内正規代理店品】",
+        "from_url": "https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q",
+        "id": 1,
+        "image_bytes": 89585,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41OK9%2Byh4VL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA380%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "クルーシャル (マイクロン製) デスクトップ用ゲーミングメモリ 16GBX2枚 DDR4-3200 CL16 DIMM Black 制限付無期限保証 BL2K16G32C16U4B【国内正規代理店品】",
+        "title": "クルーシャル (マイクロン製) デスクトップ用ゲーミングメモリ 16GBX2枚 DDR4-3200 CL16 DIMM Black 制限付無期限保証 BL2K16G32C16U4B【国内正規代理店品】",
+        "title_link": "https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "oA4HQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q",
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "edb38252-d41d-42d4-a30d-ac4d0c64fd74",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q|https://www.amazon.co.jp/dp/B083TSLDF2/ref=cm_sw_r_cp_apa_fabc_d5F0FbT04Y32Q>",
+    "ts": "1607597761.005400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lRme",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんあと電源とcpuクーラーとメモリが必要ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "51f5c7c7-8927-4a82-a8c0-21cf2debf532",
+    "team": "T6WULA63S",
+    "text": "すいませんあと電源とcpuクーラーとメモリが必要ですね",
+    "ts": "1607597600.005200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "awV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "上にあるの全部あればいいんですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "809c03f9-650b-4736-8b9e-2991168f8783",
+    "team": "T6WULA63S",
+    "text": "上にあるの全部あればいいんですね",
+    "ts": "1607596410.004300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b8s3S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現段階19万7700円",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5603fb83-7aa4-496b-bfed-d0e959acd401",
+    "team": "T6WULA63S",
+    "text": "現段階19万7700円",
+    "ts": "1607579970.003800",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1607579942.003400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U7Ok",
+        "elements": [
+          {
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "cpuクーラー",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d1ad44a6-3789-4317-a9cc-cd03b8a3f741",
+    "team": "T6WULA63S",
+    "text": "• cpuクーラー",
+    "ts": "1607574517.003200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z96",
+        "elements": [
+          {
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "電源？",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b91b40b4-7764-4a50-a734-e47adb48c7d7",
+    "team": "T6WULA63S",
+    "text": "• 電源？",
+    "ts": "1607574433.002800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RqPX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "cpu",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "gpu",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "メモリ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "マザーボード",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "SSD",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f129e54-0031-461d-937b-3333d3e425ba",
+    "team": "T6WULA63S",
+    "text": "• cpu\n• gpu\n• メモリ\n• マザーボード\n• SSD",
+    "ts": "1607574381.002400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "INTEL CPU BX8070110900K Core i9-10900K プロセッサー 3.7GHz 20MB キャッシュ 10コア 日本正規流通商品",
+        "from_url": "https://www.amazon.co.jp/BX8070110900K-i9-10900K-%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC-3-7GHz-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E6%B5%81%E9%80%9A%E5%95%86%E5%93%81/dp/B086MHSTVD/ref=bmx_5/358-5448074-0930400?_encoding=UTF8&pd_rd_i=B086MHSTVD&pd_rd_r=517dfb39-20bb-4e65-bab1-7aeef3a0afbf&pd_rd_w=grlkL&pd_rd_wg=S5zqd&pf_rd_p=2149407b-0896-4053-a80d-baa280ae868a&pf_rd_r=NQ7VQEV0JR5DJKHSHRAQ&psc=1&refRID=NQ7VQEV0JR5DJKHSHRAQ",
+        "id": 1,
+        "image_bytes": 99529,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41MI611RvgL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA185%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/BX8070110900K-i9-10900K-%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC-3-7GHz-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E6%B5%81%E9%80%9A%E5%95%86%E5%93%81/dp/B086MHSTVD/ref=bmx_5/358-5448074-0930400?_encoding=UTF8&amp;pd_rd_i=B086MHSTVD&amp;pd_rd_r=517dfb39-20bb-4e65-bab1-7aeef3a0afbf&amp;pd_rd_w=grlkL&amp;pd_rd_wg=S5zqd&amp;pf_rd_p=2149407b-0896-4053-a80d-baa280ae868a&amp;pf_rd_r=NQ7VQEV0JR5DJKHSHRAQ&amp;psc=1&amp;refRID=NQ7VQEV0JR5DJKHSHRAQ",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "INTEL CPU BX8070110900K Core i9-10900K プロセッサー 3.7GHz 20MB キャッシュ 10コア 日本正規流通商品",
+        "title": "INTEL CPU BX8070110900K Core i9-10900K プロセッサー 3.7GHz 20MB キャッシュ 10コア 日本正規流通商品",
+        "title_link": "https://www.amazon.co.jp/BX8070110900K-i9-10900K-%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC-3-7GHz-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E6%B5%81%E9%80%9A%E5%95%86%E5%93%81/dp/B086MHSTVD/ref=bmx_5/358-5448074-0930400?_encoding=UTF8&pd_rd_i=B086MHSTVD&pd_rd_r=517dfb39-20bb-4e65-bab1-7aeef3a0afbf&pd_rd_w=grlkL&pd_rd_wg=S5zqd&pf_rd_p=2149407b-0896-4053-a80d-baa280ae868a&pf_rd_r=NQ7VQEV0JR5DJKHSHRAQ&psc=1&refRID=NQ7VQEV0JR5DJKHSHRAQ"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "vSVu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/BX8070110900K-i9-10900K-%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC-3-7GHz-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E6%B5%81%E9%80%9A%E5%95%86%E5%93%81/dp/B086MHSTVD/ref=bmx_5/358-5448074-0930400?_encoding=UTF8&pd_rd_i=B086MHSTVD&pd_rd_r=517dfb39-20bb-4e65-bab1-7aeef3a0afbf&pd_rd_w=grlkL&pd_rd_wg=S5zqd&pf_rd_p=2149407b-0896-4053-a80d-baa280ae868a&pf_rd_r=NQ7VQEV0JR5DJKHSHRAQ&psc=1&refRID=NQ7VQEV0JR5DJKHSHRAQ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33528ae5-cdfe-4dd6-855e-85d54c67f282",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/BX8070110900K-i9-10900K-%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC-3-7GHz-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E6%B5%81%E9%80%9A%E5%95%86%E5%93%81/dp/B086MHSTVD/ref=bmx_5/358-5448074-0930400?_encoding=UTF8&amp;pd_rd_i=B086MHSTVD&amp;pd_rd_r=517dfb39-20bb-4e65-bab1-7aeef3a0afbf&amp;pd_rd_w=grlkL&amp;pd_rd_wg=S5zqd&amp;pf_rd_p=2149407b-0896-4053-a80d-baa280ae868a&amp;pf_rd_r=NQ7VQEV0JR5DJKHSHRAQ&amp;psc=1&amp;refRID=NQ7VQEV0JR5DJKHSHRAQ>",
+    "ts": "1607573247.001500",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Palit  NED3080H19IA-1020G-V2 (GeForce RTX 3080 GameRock OC 10GB) ｜パソコン通販のドスパラ【公式】",
+        "from_url": "https://www.dospara.co.jp/5shopping/detail_parts.php?bg=1&br=31&sbr=1487&ic=469925&lf=0",
+        "id": 1,
+        "original_url": "https://www.dospara.co.jp/5shopping/detail_parts.php?bg=1&amp;br=31&amp;sbr=1487&amp;ic=469925&amp;lf=0",
+        "service_icon": "https://www.dospara.co.jp/favicon.ico",
+        "service_name": "dospara.co.jp",
+        "text": "Palit NED3080H19IA-1020G-V2 (GeForce RTX 3080 GameRock OC 10GB) をお探しならパソコン専門店のドスパラ通販サイト【公式】におまかせ！グラフィックボードを含むパソコン周辺機器の総合通販サイトです。16時までの注文確定で当日出荷いたします。高精度の梱包技術で、お客様の元に商品を安全かつスピーディーにお届け。パソコンショップも全国展開中！",
+        "title": "Palit  NED3080H19IA-1020G-V2 (GeForce RTX 3080 GameRock OC 10GB) ｜パソコン通販のドスパラ【公式】",
+        "title_link": "https://www.dospara.co.jp/5shopping/detail_parts.php?bg=1&br=31&sbr=1487&ic=469925&lf=0"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "GmrFX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dospara.co.jp/5shopping/detail_parts.php?bg=1&br=31&sbr=1487&ic=469925&lf=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "91848fe7-049c-4dc8-b330-c84fc875f0f3",
+    "team": "T6WULA63S",
+    "text": "<https://www.dospara.co.jp/5shopping/detail_parts.php?bg=1&amp;br=31&amp;sbr=1487&amp;ic=469925&amp;lf=0>",
+    "ts": "1607572619.001200",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Samsung 970 EVO Plus 500GB PCIe (最大転送速度 3,500MB/秒) NVMe M.2 (2280) 内蔵 SSD MZ-V7S500B/EC 国内正規保証品",
+        "from_url": "https://www.amazon.co.jp/dp/B07MZ4R9FR/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=chimologaff7-22&linkId=eb7330b7272aac297002b7c1f5e9f59b&language=ja_JP",
+        "id": 1,
+        "image_bytes": 35277,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41P-jGE-%2BiL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA448%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B07MZ4R9FR/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=chimologaff7-22&amp;linkId=eb7330b7272aac297002b7c1f5e9f59b&amp;language=ja_JP",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "Samsung 970 EVO Plus 500GB PCIe (最大転送速度 3,500MB/秒) NVMe M.2 (2280) 内蔵 SSD MZ-V7S500B/EC 国内正規保証品",
+        "title": "Samsung 970 EVO Plus 500GB PCIe (最大転送速度 3,500MB/秒) NVMe M.2 (2280) 内蔵 SSD MZ-V7S500B/EC 国内正規保証品",
+        "title_link": "https://www.amazon.co.jp/dp/B07MZ4R9FR/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=chimologaff7-22&linkId=eb7330b7272aac297002b7c1f5e9f59b&language=ja_JP"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "0EA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B07MZ4R9FR/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=chimologaff7-22&linkId=eb7330b7272aac297002b7c1f5e9f59b&language=ja_JP"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53481b50-e8b2-418f-b881-961c9a25b901",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/dp/B07MZ4R9FR/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=chimologaff7-22&amp;linkId=eb7330b7272aac297002b7c1f5e9f59b&amp;language=ja_JP>",
+    "ts": "1607572583.000900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GIGABYTE Z490 AORUS ELITE マザーボード ATX [Intel Z490チップセット搭載] MB4934",
+        "from_url": "https://www.amazon.co.jp/dp/B087GY1TZ3/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=chimologmov-22&linkId=5e05440c64c3785910f5a37861e1ff08&language=ja_JP",
+        "id": 1,
+        "image_bytes": 135422,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51Lk546cDGL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA89%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B087GY1TZ3/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=chimologmov-22&amp;linkId=5e05440c64c3785910f5a37861e1ff08&amp;language=ja_JP",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "GIGABYTE Z490 AORUS ELITE マザーボード ATX [Intel Z490チップセット搭載] MB4934",
+        "title": "GIGABYTE Z490 AORUS ELITE マザーボード ATX [Intel Z490チップセット搭載] MB4934",
+        "title_link": "https://www.amazon.co.jp/dp/B087GY1TZ3/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=chimologmov-22&linkId=5e05440c64c3785910f5a37861e1ff08&language=ja_JP"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "I7W7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B087GY1TZ3/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=chimologmov-22&linkId=5e05440c64c3785910f5a37861e1ff08&language=ja_JP"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "29f00c81-9c8e-4163-858c-07133489fd15",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/dp/B087GY1TZ3/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=chimologmov-22&amp;linkId=5e05440c64c3785910f5a37861e1ff08&amp;language=ja_JP>",
+    "ts": "1607572512.000600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1607572414.000400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1607572402.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

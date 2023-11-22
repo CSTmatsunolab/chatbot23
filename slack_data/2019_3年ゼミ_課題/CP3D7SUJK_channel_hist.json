@@ -1,0 +1,3143 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1583289444.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z8VXe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Aですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "55da10ae-e202-44ad-b71b-865079fefe43",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "Aですね",
+    "ts": "1576551240.006800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3P4i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあレポートはほぼ皆さん満点ですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed9dfbcf-cce8-4c2a-9a31-53036bce8fa2",
+    "team": "T6WULA63S",
+    "text": "まあレポートはほぼ皆さん満点ですね。",
+    "ts": "1576534067.006500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CJU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "栗間君のHTML/CSSの５回めの発表ってどんな感じでしたかS,A,B,Cでつけるとどれぐらいでした？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "830aaba8-4f31-4eb0-a729-1808b166f71c",
+    "team": "T6WULA63S",
+    "text": "栗間君のHTML/CSSの５回めの発表ってどんな感じでしたかS,A,B,Cでつけるとどれぐらいでした？",
+    "ts": "1576534045.006000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L+r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C6F25AB4-8341-4ED3-980A-79A39D3909B8",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます！",
+    "ts": "1576499206.005300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LMhu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "成績付けました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e9d5b0a-590a-4df1-b3af-4c6074cd2f30",
+    "team": "T6WULA63S",
+    "text": "成績付けました",
+    "ts": "1576498790.005000",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "xlsx",
+        "id": "FRDH1R8FM",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1576498774.004500",
+    "type": "message",
+    "upload": true,
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pif+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません。よろしくお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D8A79A0D-D474-402F-89CD-EF2AEB6C27B1",
+    "team": "T6WULA63S",
+    "text": "すいません。よろしくお願いします",
+    "ts": "1576487307.004200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8ZMZO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD2MQ7NN8"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " 進捗チェックしないといけないので、3年ゼミ来てくれると助かる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "442a8146-9d6b-4c1e-9d05-9ae490453296",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD3BHE2LW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@UD2MQ7NN8> <@UD3BHE2LW> 進捗チェックしないといけないので、3年ゼミ来てくれると助かる",
+    "ts": "1576487259.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ypEf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "篠田君、片岡さん、３年生の年明けの望月研での成果発表会での発表を見てあげてください。作るホームページの内容、発表資料など、アドバイスしてあげてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e269735-e0dd-4858-93eb-d9e37d693fec",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD3BHE2LW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "篠田君、片岡さん、３年生の年明けの望月研での成果発表会での発表を見てあげてください。作るホームページの内容、発表資料など、アドバイスしてあげてください",
+    "ts": "1576486896.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GXMe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君、篠田君、採点結果ってできましたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2abd0b90-7677-4308-b690-801b5ae140e4",
+    "team": "T6WULA63S",
+    "text": "秋山君、篠田君、採点結果ってできましたか",
+    "ts": "1576486837.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f/l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "杉田君、小池君、すいませんが引き続きJava Scriptゼミをお願いします。VR開発の引き継ぎを１，２月のどこかではじめようと思うので、いつまでやるかなどまた相談させてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cfb93f8c-ab5d-4b2e-a567-a7e102f058fa",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7",
+          "U97F49L68"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "杉田君、小池君、すいませんが引き続きJava Scriptゼミをお願いします。VR開発の引き継ぎを１，２月のどこかではじめようと思うので、いつまでやるかなどまた相談させてください",
+    "ts": "1576063711.009100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3n7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君、篠田君、片岡さんは、いま内容がJava Scriptになったので、演習作成、ゼミ参加などはもういいです。いままで大変ありがとうございました。片岡さんは来年度以降の松野研のホームページの作成をお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a162b92d-62e1-44b7-a02f-db0dcfadaf53",
+    "team": "T6WULA63S",
+    "text": "秋山君、篠田君、片岡さんは、いま内容がJava Scriptになったので、演習作成、ゼミ参加などはもういいです。いままで大変ありがとうございました。片岡さんは来年度以降の松野研のホームページの作成をお願いします",
+    "ts": "1576062709.007100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KKLOc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、HP作成課題ですが、内容ですが、自己紹介ウエブページが一番作りやすいと思います。自分の趣味や得意なこと、旅行記でもいいと思います。条件は複数のページを使うこと、勉強した技術をできるだけ使って、どの技術を使ったか説明できるようにすることです。望月研の成果発表に間に合うよう、３年生と相談してください。それと大隈くん、松岡くんは勉強している機械学習の内容、栗間くん、小林くんはシステム開発を計画しているみたいなので、その内容も報告できるようにしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5281aee2-6e0b-472e-aeb5-cff7eba815e2",
+    "team": "T6WULA63S",
+    "text": "すいません、HP作成課題ですが、内容ですが、自己紹介ウエブページが一番作りやすいと思います。自分の趣味や得意なこと、旅行記でもいいと思います。条件は複数のページを使うこと、勉強した技術をできるだけ使って、どの技術を使ったか説明できるようにすることです。望月研の成果発表に間に合うよう、３年生と相談してください。それと大隈くん、松岡くんは勉強している機械学習の内容、栗間くん、小林くんはシステム開発を計画しているみたいなので、その内容も報告できるようにしてください",
+    "ts": "1576062535.005500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wARI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "篠田君もう大丈夫ですか。秋山君、篠田君、演習作成大変ありがとうございました。すいませんが４，５回目の採点結果をこれまでの３回分（上の方に杉田君がはっていたと思います）に加えて、おくっていただけないでしょうか。すいませんがよろしくお願いいたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ecb3dcde-657d-4c3d-b068-96d5d73717f9",
+    "team": "T6WULA63S",
+    "text": "篠田君もう大丈夫ですか。秋山君、篠田君、演習作成大変ありがとうございました。すいませんが４，５回目の採点結果をこれまでの３回分（上の方に杉田君がはっていたと思います）に加えて、おくっていただけないでしょうか。すいませんがよろしくお願いいたします",
+    "ts": "1575974106.001600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ehmqa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " 3年生の最終課題って決まった？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a41cd4f8-3907-4cb0-9d98-93f2eb3301f4",
+    "edited": {
+      "ts": "1575440059.000000",
+      "user": "UD32JHVL7"
+    },
+    "is_locked": false,
+    "latest_reply": "1576062736.007700",
+    "reply_count": 1,
+    "reply_users": [
+      "UD3BHE2LW"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW> 3年生の最終課題って決まった？",
+    "thread_ts": "1575440011.000400",
+    "ts": "1575440011.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QOjtq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんが、相談おねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "91842574-1099-4c76-bce0-f1338e62978b",
+    "team": "T6WULA63S",
+    "text": "すいませんが、相談おねがいします",
+    "ts": "1574755026.003200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Sqk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "３年生にはそれぞれの個人ページを作ってもらってもいいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a3527eee-7358-458b-86cc-6b4e4c0ac0d4",
+    "team": "T6WULA63S",
+    "text": "３年生にはそれぞれの個人ページを作ってもらってもいいです。",
+    "ts": "1574755014.002800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e9Xhk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "片岡さんの卒研は、ステークホルダごとに見せる内容を変える、というのがテーマなんですが、松野研ホームページ自体は、片岡さんがリーダーになって、３年生に部分を作ってもらうというのもいいかなという気がしてきました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ce171260-23a5-452f-ac8f-aaaa2f7bf90d",
+    "team": "T6WULA63S",
+    "text": "片岡さんの卒研は、ステークホルダごとに見せる内容を変える、というのがテーマなんですが、松野研ホームページ自体は、片岡さんがリーダーになって、３年生に部分を作ってもらうというのもいいかなという気がしてきました",
+    "ts": "1574754967.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xwuyS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "片岡さんに入ってもらいました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3dbc7865-28ad-48fd-8de5-91727f04318c",
+    "team": "T6WULA63S",
+    "text": "片岡さんに入ってもらいました",
+    "ts": "1574754892.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UD2MQ7NN8> has joined the channel",
+    "ts": "1574754882.000400",
+    "type": "message",
+    "user": "UD2MQ7NN8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xcM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Q7をとりあえず考えてみました。コメントなどお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c3775f85-4565-486e-af36-0e2c514267d5",
+    "team": "T6WULA63S",
+    "text": "Q7をとりあえず考えてみました。コメントなどお願いします",
+    "ts": "1573919493.002700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "act",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます！Q7の条件をどうしましょうか。ちょっと考えてみます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3e46f06-e2a0-4953-aed1-ea2b699a72a2",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます！Q7の条件をどうしましょうか。ちょっと考えてみます",
+    "ts": "1573918398.002200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jue",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第5回の課題です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1k65c0ZygXNOVJoxekPkrw3-26EO7cRL1yVa2f0HsNbA/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fdc53e42-12bb-434a-a160-7554a6008bfa",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FQM9R93G8",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "第5回の課題です。\n<https://docs.google.com/presentation/d/1k65c0ZygXNOVJoxekPkrw3-26EO7cRL1yVa2f0HsNbA/edit?usp=sharing>",
+    "ts": "1573905875.001300",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FQM9R93G8"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5roW2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第3回の解答例です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1FWYHBFbJOFMs36RqpBldqhc_DudMlf34quw3N2A3Q08"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ca02d82c-5cbd-420c-8a1a-6fe707166581",
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1573905832.000000",
+      "user": "UD3BHE2LW"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FQPFWN3L6",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "第3回の解答例です。\n<https://drive.google.com/open?id=1FWYHBFbJOFMs36RqpBldqhc_DudMlf34quw3N2A3Q08>",
+    "ts": "1573905814.000400",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FQPFWN3L6"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wYXK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日やった4回目までのスライドと発表の内容(私的評価)を追加しました。\n後でスライドの評価は変えて頂いて結構です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cc8d21b6-128d-483f-b49d-9841e4dde968",
+    "edited": {
+      "ts": "1573737793.000000",
+      "user": "UD32JHVL7"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "今日やった4回目までのスライドと発表の内容(私的評価)を追加しました。\n後でスライドの評価は変えて頂いて結構です。",
+    "ts": "1573737784.001900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "client_msg_id": "d757d7a5-6054-4f0b-9728-7533143a9c4c",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "numbers",
+        "id": "FQLADMJCX",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1573737721.000600",
+    "type": "message",
+    "upload": true,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Knz8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スライドに関しては、松岡くんと小林くんが特に俺がよく言ってる「いい感じにうまくやってね」をよくやってくれていると思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "03c4baea-c42b-40f5-91c6-fb9fce95442e",
+    "edited": {
+      "ts": "1573694346.000000",
+      "user": "UD32JHVL7"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "スライドに関しては、松岡くんと小林くんが特に俺がよく言ってる「いい感じにうまくやってね」をよくやってくれていると思います",
+    "ts": "1573694334.008700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+cK4g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、小林君のスライドはよくできてますねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b5dda587-9fe0-403a-a869-8afd26ca4c4a",
+    "team": "T6WULA63S",
+    "text": "うーん、小林君のスライドはよくできてますねー",
+    "ts": "1573675781.007800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "muW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "課題は、今の所第4回も今のままで特に問題は無いと思ってます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4d406ccc-fc05-49c6-a55f-0ebaa8e5a323",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "課題は、今の所第4回も今のままで特に問題は無いと思ってます。",
+    "ts": "1573556491.006700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=22EB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。すいませんがよろしくおねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b9e015d2-646d-4422-9fc9-85a2ecd30061",
+    "team": "T6WULA63S",
+    "text": "了解です。すいませんがよろしくおねがいします",
+    "ts": "1573555386.005600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9FOdg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "JSは、同じようにやろうかと思います。今全体ゼミ(4年ゼミ)で、どんなふうにできそうか試してる最中なので、もうちょっと練らせてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6964f02-4d27-49f6-9eeb-2111f01ccb1e",
+    "team": "T6WULA63S",
+    "text": "JSは、同じようにやろうかと思います。今全体ゼミ(4年ゼミ)で、どんなふうにできそうか試してる最中なので、もうちょっと練らせてください。",
+    "ts": "1573555359.005300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mfl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "３年生のスライドとかみても、いいんじゃないかなという感じで特にコメントはなく、演習問題もできているみたいなので、HTML/CSSは最終課題で正式配属になったあとに公開してもらう自分のホームページを作ってもらって終わりにしようかと思います（コメントなどありましたらお願いします）。次のJava Script演習はどういう感じにしましょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d996dc61-7435-4d09-841a-20228f4b2e03",
+    "team": "T6WULA63S",
+    "text": "３年生のスライドとかみても、いいんじゃないかなという感じで特にコメントはなく、演習問題もできているみたいなので、HTML/CSSは最終課題で正式配属になったあとに公開してもらう自分のホームページを作ってもらって終わりにしようかと思います（コメントなどありましたらお願いします）。次のJava Script演習はどういう感じにしましょうか。",
+    "ts": "1573554347.002800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "skV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84d19030-95f9-4d38-b07f-bde7e0e88506",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます！",
+    "ts": "1573287127.004100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t9uiY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第4回の課題です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1HWPy_nlZEpHs7RLNEqIn3jL8QbSGqfwVKTOvP4Lv1DU/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa613b6c-10d0-47bd-a82c-dade07a2ebe7",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FQ0KL87MZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "第4回の課題です。\n<https://docs.google.com/presentation/d/1HWPy_nlZEpHs7RLNEqIn3jL8QbSGqfwVKTOvP4Lv1DU/edit?usp=sharing>",
+    "ts": "1573287034.003500",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FQ0KL87MZ"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U6QD=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第2回の解答例です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1RBe2mvODtw2fI0hZTLQ8fNpJzVx_pGxn-RD6x6vVm0g"
+              },
+              {
+                "text": "\n\n第2回Q12の記述例です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1pt8veV3kq9SDPZ_nV8E9TgOXVATt2bqX"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8439221-3f97-40a6-998f-4882e39d55f5",
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1573287421.000000",
+      "user": "UD3BHE2LW"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "html",
+        "id": "FQC489YCV",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "第2回の解答例です。\n<https://drive.google.com/open?id=1RBe2mvODtw2fI0hZTLQ8fNpJzVx_pGxn-RD6x6vVm0g>\n\n第2回Q12の記述例です。\n<https://drive.google.com/open?id=1pt8veV3kq9SDPZ_nV8E9TgOXVATt2bqX>",
+    "ts": "1573286917.001900",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FQC489YCV"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gLy7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君、篠田君、問題作成大変ありがとうございます。２回めの解答もあげといてください。すいませんがよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5a13849-42c1-4965-889c-d4d6e162216c",
+    "team": "T6WULA63S",
+    "text": "秋山君、篠田君、問題作成大変ありがとうございます。２回めの解答もあげといてください。すいませんがよろしくお願いいたします。",
+    "ts": "1573250838.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aK3nv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分こんな感じだと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05d69773-960d-4db6-a584-d1cfd54cd5e0",
+    "team": "T6WULA63S",
+    "text": "多分こんな感じだと思います",
+    "ts": "1573042013.001300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "xlsx",
+        "id": "FQ7JVKMK7",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1573702388.009600",
+    "reply_count": 2,
+    "reply_users": [
+      "UD32JHVL7",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "text": "",
+    "thread_ts": "1573041989.000700",
+    "ts": "1573041989.000700",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Le4B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "採点ありがとうございました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "edc26a9a-bc7b-4c3b-9af4-6a0993a0c827",
+    "team": "T6WULA63S",
+    "text": "採点ありがとうございました。",
+    "ts": "1573041976.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vsu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "marginとかpaddingとかの演習をやるのがいいんじゃないですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b638970-4368-42a2-af83-a0ff5dbc69da",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "marginとかpaddingとかの演習をやるのがいいんじゃないですかね",
+    "ts": "1572690269.044500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xoo1X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "杉田君、小池君で1題やや応用的な演習問題が作れればお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c35642ad-7f85-4bf9-956f-d9a93d18544a",
+    "team": "T6WULA63S",
+    "text": "杉田君、小池君で1題やや応用的な演習問題が作れればお願いします",
+    "ts": "1572689361.043300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K+RH9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すばらしい！ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05fe39f8-cf80-4a7c-b368-a44ff3844281",
+    "team": "T6WULA63S",
+    "text": "すばらしい！ありがとうございます。",
+    "ts": "1572688331.042400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "C6d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第3回の課題です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1sb1SiCEuvhCvp5aBLnTbp_itDPB-HGGw-rtMX9eqS-Q/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86c85729-3609-44a0-ab64-f6182cc11042",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FPQ9E6TD0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U7DNFTLSW",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "第3回の課題です。\n<https://docs.google.com/presentation/d/1sb1SiCEuvhCvp5aBLnTbp_itDPB-HGGw-rtMX9eqS-Q/edit?usp=sharing>",
+    "ts": "1572687973.041500",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FPQ9E6TD0"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p+V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "２回めは知識問題は１問２点、演習問題は１問４点+α(工夫がしてあったら1~2点加点)して、結果を私に教えて下さい。私の方で点数を管理します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b2c2b7fe-7f07-4849-82ba-e5a81869dcdb",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "UD3BHE2LW",
+          "U7DNFTLSW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "２回めは知識問題は１問２点、演習問題は１問４点+α(工夫がしてあったら1~2点加点)して、結果を私に教えて下さい。私の方で点数を管理します。",
+    "ts": "1572529161.040100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DajbB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "知識問題は１問２点（△は１点）、演習問題は１問４点、スライドはSABCの４段階でつけました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d301d5fb-49d2-4103-b087-d73a3cece851",
+    "team": "T6WULA63S",
+    "text": "知識問題は１問２点（△は１点）、演習問題は１問４点、スライドはSABCの４段階でつけました。",
+    "ts": "1572528899.038800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "xlsx",
+        "id": "FQ2C2JFBR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1572528893.038500",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J6f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae126745-bdfd-498a-84fa-d40af1cd8af1",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます！",
+    "ts": "1572517688.037200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cj2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "解答例です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1VCTSPr_Qhd76i22Ql-YiH9DV1VItARG_TePlgpQa8jw/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2226ae1b-8bcd-402d-b1da-a348d2b2a5e8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FQ25EMTNK",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "解答例です。\n<https://docs.google.com/presentation/d/1VCTSPr_Qhd76i22Ql-YiH9DV1VItARG_TePlgpQa8jw/edit?usp=sharing>",
+    "ts": "1572517623.036600",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FQ25EMTNK"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2cV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "テーブルの奴の評価は(Q12)は、tableタグを使うのだという事に自分で調べて思い至ったら加点してあげてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "988359c5-3240-4ab5-8a4d-2e297d55cb6b",
+    "team": "T6WULA63S",
+    "text": "テーブルの奴の評価は(Q12)は、tableタグを使うのだという事に自分で調べて思い至ったら加点してあげてください",
+    "ts": "1572515795.036200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1572514727.034700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pSPc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君、篠田君、大変お疲れさまです。講評終わったら解答例もアップしておいてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3c20a186-5f6b-4285-82db-23746c8da565",
+    "team": "T6WULA63S",
+    "text": "秋山君、篠田君、大変お疲れさまです。講評終わったら解答例もアップしておいてください。",
+    "ts": "1572514387.034500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eLGCo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいですねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d02b8d27-4f70-41a8-b60d-7923d0e67610",
+    "team": "T6WULA63S",
+    "text": "いいですねー",
+    "ts": "1572443508.033600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VWsF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "適当に作ってるんで問題文とか直すところがあったら直していただけると、俺も気づいたら直します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e7404de1-1a13-4060-afa5-851672b8870d",
+    "team": "T6WULA63S",
+    "text": "適当に作ってるんで問題文とか直すところがあったら直していただけると、俺も気づいたら直します",
+    "ts": "1572442028.033300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fiL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず適当に作った12の回答です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7fd02f7a-e2e7-49c4-96ec-9a57beaec68d",
+    "team": "T6WULA63S",
+    "text": "とりあえず適当に作った12の回答です",
+    "ts": "1572440917.032600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "client_msg_id": "cf7c8262-7cc8-4d77-a5de-e81c2a5a395c",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "html",
+        "id": "FQ11JSEGN",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1572440905.032100",
+    "type": "message",
+    "upload": true,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s7K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48ac5bec-af7f-4c4f-b5ae-647944068df3",
+    "team": "T6WULA63S",
+    "text": "そうですね",
+    "ts": "1572435537.031900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b2c=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "テーブルは結構使う要素ですし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bbdc0b39-a2e0-41ac-a56a-b496a7bf35ef",
+    "team": "T6WULA63S",
+    "text": "テーブルは結構使う要素ですし",
+    "ts": "1572435505.031700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "alvA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "話はでているけれど、実際にはあまりふれてない要素の演習として、テーブルを作成させる演習問題を作るのはどうですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3336992b-5b36-4ad7-aaa3-56b6d550d2fe",
+    "team": "T6WULA63S",
+    "text": "話はでているけれど、実際にはあまりふれてない要素の演習として、テーブルを作成させる演習問題を作るのはどうですか？",
+    "ts": "1572435199.030900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "58u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "採点ありがとうございます。みなさんできていますね。もう少し難易度をあげてもいいです（1,2題難しい問題や演習をいれるとか）。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b258af2-0fce-46cc-ab42-106fa6c56d99",
+    "team": "T6WULA63S",
+    "text": "採点ありがとうございます。みなさんできていますね。もう少し難易度をあげてもいいです（1,2題難しい問題や演習をいれるとか）。",
+    "ts": "1572431977.029400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A6hvj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年生の出来具合を見て、難易度を調整していけたらいいです。また相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f55943e5-52c0-4fbe-9617-09c5c6ea5913",
+    "team": "T6WULA63S",
+    "text": "3年生の出来具合を見て、難易度を調整していけたらいいです。また相談しましょう",
+    "ts": "1572084893.028500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "grtd6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう少し難しくする事ならできそうですが",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73d0cdea-2a6e-48b9-9f5e-0fd89e323c28",
+    "team": "T6WULA63S",
+    "text": "もう少し難しくする事ならできそうですが",
+    "ts": "1572083790.027700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "E6l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと秋山君と篠田君で演習問題を毎週作って採点するのは大変かもしれませんね。ウエブページ作成演習のところは小池君と杉田君に手伝ってもらうとかでもいいかもしれません。また相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cdb28743-e3b7-4f3b-b933-2852d503378c",
+    "team": "T6WULA63S",
+    "text": "ちょっと秋山君と篠田君で演習問題を毎週作って採点するのは大変かもしれませんね。ウエブページ作成演習のところは小池君と杉田君に手伝ってもらうとかでもいいかもしれません。また相談しましょう",
+    "ts": "1572079884.027200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "awC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すばらしい！ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5affc12d-7d97-4e74-8421-003ac4313d4f",
+    "team": "T6WULA63S",
+    "text": "すばらしい！ありがとうございます。",
+    "ts": "1572075489.025200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LWXz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第2回の課題です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1VmIrEimekPQlWFmWBNrNc8QhZQ0xD8GyF-Lba60YG-s/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4da3f6c8-487d-4af5-8560-afa5bdc588c8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FPLBJMAN5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "第2回の課題です。\n<https://docs.google.com/presentation/d/1VmIrEimekPQlWFmWBNrNc8QhZQ0xD8GyF-Lba60YG-s/edit?usp=sharing>",
+    "ts": "1572075073.024400",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FPLBJMAN5"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mjb4V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ普通に採点して、もしファイル名は意味がわかる適切な名前にすべきとコメントしてあったら加点するとかでいいんじゃないですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "236fb180-8ca2-4e83-9267-bb991bed05bc",
+    "team": "T6WULA63S",
+    "text": "まあ普通に採点して、もしファイル名は意味がわかる適切な名前にすべきとコメントしてあったら加点するとかでいいんじゃないですか",
+    "ts": "1571560716.023100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4Ve",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7DNFTLSW"
+              },
+              {
+                "text": " この問題の第16問「全部×。理由は品性を疑うから」って答え来ても正解にしませんか？←",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "efd37931-a0c2-434b-bf9b-61b3a454e802",
+    "edited": {
+      "ts": "1571494158.000000",
+      "user": "UD32JHVL7"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "sweat_smile",
+        "users": [
+          "U7DNFTLSW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U7DNFTLSW> この問題の第16問「全部×。理由は品性を疑うから」って答え来ても正解にしませんか？←",
+    "ts": "1571494100.021400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HIBeF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "以降のゼミは説明問題１０題、ウエブページ作成問題１題でお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e055bbae-e1ee-4191-97a0-5947aae282db",
+    "team": "T6WULA63S",
+    "text": "以降のゼミは説明問題１０題、ウエブページ作成問題１題でお願いします",
+    "ts": "1571471517.020000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PvV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "解答例は解説後、３年生が見れるようにしておいてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "080e999e-7ddf-41ba-b9c1-ba2829bf0af4",
+    "team": "T6WULA63S",
+    "text": "解答例は解説後、３年生が見れるようにしておいてください",
+    "ts": "1571471482.019400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uQF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これでおねがいします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b0951be1-05cf-45ed-a1a4-b221a2ac1b00",
+    "team": "T6WULA63S",
+    "text": "これでおねがいします。",
+    "ts": "1571471462.018800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1jL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すばらしい！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5ae6ba75-8058-4907-901d-bfbab51a42f3",
+    "team": "T6WULA63S",
+    "text": "すばらしい！",
+    "ts": "1571471454.018600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lN4G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました。次回の課題です。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1hIqzc3ctMQahJSfuTvRL-Gs4wHFr6LqDobMUC_B51BQ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac84ec09-a6c9-4382-b092-dad6a3d639f3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FP6MK6H0S",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "parent_user_id": "U6YLZUWAK",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "ESJ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "Googleスライドでいいと思います。",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "c9a4c464-39ea-4cc7-bf19-4d776a9d85d5",
+      "is_locked": false,
+      "latest_reply": "1571470687.017800",
+      "reply_count": 1,
+      "reply_users": [
+        "UD3BHE2LW"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "T6WULA63S",
+      "text": "Googleスライドでいいと思います。",
+      "thread_ts": "1571468471.013000",
+      "ts": "1571468471.013000",
+      "type": "message",
+      "user": "U6YLZUWAK"
+    },
+    "subtype": "thread_broadcast",
+    "text": "わかりました。次回の課題です。\n<https://drive.google.com/open?id=1hIqzc3ctMQahJSfuTvRL-Gs4wHFr6LqDobMUC_B51BQ>",
+    "thread_ts": "1571468471.013000",
+    "ts": "1571470687.017800",
+    "type": "message",
+    "upload": false,
+    "user": "UD3BHE2LW",
+    "x_files": [
+      "FP6MK6H0S"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YtHTr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6ebf853-c2e4-4884-8cde-4a86af0b6400",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1571469020.017400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uqrL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "教科書4章で作成するwebページを、4章までの知識の範囲で改造する問題を2つ作りました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "42E5F1C6-F392-4C1D-AF4D-15B05FE1EE22",
+    "edited": {
+      "ts": "1571475053.000000",
+      "user": "U7DNFTLSW"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "教科書4章で作成するwebページを、4章までの知識の範囲で改造する問題を2つ作りました。",
+    "ts": "1571469002.017200",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9o9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうか、４章も入るので、その分ウエブページ作成演習が必要ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0184e3e5-1347-4ccc-be40-732f976e8176",
+    "team": "T6WULA63S",
+    "text": "そうか、４章も入るので、その分ウエブページ作成演習が必要ですね",
+    "ts": "1571468922.015600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bvki",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、演習ですが、スライド見たとおり２，３，４章を最初にやるのでよろしくです。おそらく篠田君が伝えていると思うので大丈夫だとは思いますが一応確認で",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c356a54-22ff-44e2-9979-2719b6a9bc67",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あ、演習ですが、スライド見たとおり２，３，４章を最初にやるのでよろしくです。おそらく篠田君が伝えていると思うので大丈夫だとは思いますが一応確認で",
+    "ts": "1571468574.014800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G4n",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Googleスライドでいいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9a4c464-39ea-4cc7-bf19-4d776a9d85d5",
+    "is_locked": false,
+    "latest_reply": "1571470687.017800",
+    "reply_count": 1,
+    "reply_users": [
+      "UD3BHE2LW"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "Googleスライドでいいと思います。",
+    "thread_ts": "1571468471.013000",
+    "ts": "1571468471.013000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "foSB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回の演習問題の確認終わりました。問題の共有方法は、3年に見せることを考慮するとGoogleスライドがいいでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22a89fd1-9b9f-42b2-9b71-1aaa7d90b030",
+    "edited": {
+      "ts": "1571449818.000000",
+      "user": "UD3BHE2LW"
+    },
+    "team": "T6WULA63S",
+    "text": "次回の演習問題の確認終わりました。問題の共有方法は、3年に見せることを考慮するとGoogleスライドがいいでしょうか？",
+    "ts": "1571448851.011900",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "daR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おはようございます。演習案出来ました。\n一応篠田君に確認してもらっています。もう少々お待ちください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C4FBA9E0-9AAB-4FE9-BEA0-19332F8C8BA1",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "おはようございます。演習案出来ました。\n一応篠田君に確認してもらっています。もう少々お待ちください。",
+    "ts": "1571442520.008300",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fsF/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君、篠田君、２，３章の演習案できましたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e0a973c5-1870-46e4-8e1e-a1e01f674503",
+    "team": "T6WULA63S",
+    "text": "秋山君、篠田君、２，３章の演習案できましたか",
+    "ts": "1571424867.007000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QBiu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "686be23b-91a5-4842-bb6e-3a4e96df33cb",
+    "team": "T6WULA63S",
+    "text": "了解です。ありがとうございます",
+    "ts": "1571117339.005100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tZg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず一章は環境構築がメインなので、17日に俺がデモがてらにやってしまいます。\n課題は何の問題も無いと思いますが、スライドは1章抜きの評価でお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b3f0d59a-032b-4d32-aa19-ff6fe7128bbd",
+    "edited": {
+      "ts": "1571103422.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "とりあえず一章は環境構築がメインなので、17日に俺がデモがてらにやってしまいます。\n課題は何の問題も無いと思いますが、スライドは1章抜きの評価でお願いします",
+    "ts": "1571103407.004800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/Ukf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スライド少しだけ変更白ので報告します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54788d0f-45ba-455a-b630-0d20de9a91a0",
+    "team": "T6WULA63S",
+    "text": "スライド少しだけ変更白ので報告します。",
+    "ts": "1571103224.003200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/O2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いい例として、俺と小池先輩が石川先生からの依頼で作ってるページを見せてあげるのもいいかなとかちょっと思ってます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fd7e874a-7fea-4a56-9b18-e169da702a10",
+    "team": "T6WULA63S",
+    "text": "いい例として、俺と小池先輩が石川先生からの依頼で作ってるページを見せてあげるのもいいかなとかちょっと思ってます",
+    "ts": "1571094737.002800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2k4O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4,5章の演習は、画像を入れる、外部リンクを入れるなど、出てくる内容を使ったページを作ってもらうようにしてください。できれば課題説明のときに秋山君、篠田君で解答例となるウエブページを見せてあげてください（ソースコードを見せる必要はありません）。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "930f1adf-9eda-4bc4-bd4e-741e7a9888e0",
+    "team": "T6WULA63S",
+    "text": "4,5章の演習は、画像を入れる、外部リンクを入れるなど、出てくる内容を使ったページを作ってもらうようにしてください。できれば課題説明のときに秋山君、篠田君で解答例となるウエブページを見せてあげてください（ソースコードを見せる必要はありません）。",
+    "ts": "1571088064.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WsWL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました。僕も大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "38bd8059-4b32-4b78-afc6-e808f407f837",
+    "team": "T6WULA63S",
+    "text": "わかりました。僕も大丈夫です。",
+    "ts": "1571020687.010100",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "44MD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " 篠田君は先生の提案した課題方式で大丈夫？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C5A62254-7039-4B31-A9A7-B35CC957EA1F",
+    "team": "T6WULA63S",
+    "text": "了解です。\n<@UD3BHE2LW> 篠田君は先生の提案した課題方式で大丈夫？",
+    "ts": "1571016342.009600",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c63k0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4,5章はウエブページ作っていくので、用語説明問題を10問、ウエブページ作成演習を1題だすのではどうですか。ウエブページ作成演習の題材は例えば自己紹介とかでもいいと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e977626-4939-4df1-ab63-94361a22c4ae",
+    "team": "T6WULA63S",
+    "text": "4,5章はウエブページ作っていくので、用語説明問題を10問、ウエブページ作成演習を1題だすのではどうですか。ウエブページ作成演習の題材は例えば自己紹介とかでもいいと思います",
+    "ts": "1570998488.008100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kYRJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週中にお願いします。２人で相談してもいいし、それぞれが10問づつ作ってもいいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8a6a4551-b5f6-4a7c-b1a4-f8c023b63f39",
+    "team": "T6WULA63S",
+    "text": "今週中にお願いします。２人で相談してもいいし、それぞれが10問づつ作ってもいいです",
+    "ts": "1570998356.006700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YsMTU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みたいに、教科書を見れば答えられる用語説明問題を、20個作ってくれませんか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ca02dcf7-e919-4bd9-bd28-e636d8b15a40",
+    "team": "T6WULA63S",
+    "text": "みたいに、教科書を見れば答えられる用語説明問題を、20個作ってくれませんか",
+    "ts": "1570998272.006000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z9xkc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2. Webページを構成するファイルの種類はなんですか→（答え）HTMLファイル、画像ファイル、CSSファイル",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d1d4f759-b64d-4b63-b397-8b751fafe6af",
+    "team": "T6WULA63S",
+    "text": "2. Webページを構成するファイルの種類はなんですか→（答え）HTMLファイル、画像ファイル、CSSファイル",
+    "ts": "1570998189.005300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wBL3j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1. Webサイトとはなんですか。→(答え)ある組織や個人がインターネット上に公開する、ひとまとまりのWebページのこと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "97cf973a-230b-4d13-a2ea-d6d664cd727f",
+    "team": "T6WULA63S",
+    "text": "1. Webサイトとはなんですか。→(答え)ある組織や個人がインターネット上に公開する、ひとまとまりのWebページのこと",
+    "ts": "1570998121.004500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mhy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君、篠田君、HTML/CSSの1,2,3章は準備のところですね。作成するのは空ページなので、作るものはないので、演習は用語説明にしましょう。例えば",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8c334d4-c281-42b1-9153-c24e4235b97b",
+    "team": "T6WULA63S",
+    "text": "秋山君、篠田君、HTML/CSSの1,2,3章は準備のところですね。作成するのは空ページなので、作るものはないので、演習は用語説明にしましょう。例えば",
+    "ts": "1570998061.003400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v77S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "片岡さんに参加してもらいましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "39c68bc6-fc0b-4ec9-98d2-91849beaf972",
+    "team": "T6WULA63S",
+    "text": "片岡さんに参加してもらいましょう",
+    "ts": "1570618079.002000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fOjcp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "11月28日は、FOSEと被っているので、3年ゼミは篠田くん一人でやってもらう事になるかと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2fa1d42a-214c-4408-b780-17ca432de165",
+    "team": "T6WULA63S",
+    "text": "11月28日は、FOSEと被っているので、3年ゼミは篠田くん一人でやってもらう事になるかと思います",
+    "ts": "1570599542.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "At1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "３年生の小林くんと面談しましたが、HTML/CSSはやったことないそうです。だからいい機会だと思います。真面目そうな学生ですねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "db786faa-11b0-4461-91de-0b190a7f0701",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "３年生の小林くんと面談しましたが、HTML/CSSはやったことないそうです。だからいい機会だと思います。真面目そうな学生ですねー",
+    "ts": "1570533812.030900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uYT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これが１７日にやる内容そのものですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "296d1a29-81bd-45f6-89b9-a58157082a3b",
+    "team": "T6WULA63S",
+    "text": "これが１７日にやる内容そのものですね",
+    "ts": "1570522660.030100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Buq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/16iZtq7S1XDGMO-V0xheG4Oej0KNkMfJ-CJ71r3mzBiw/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "26f90df7-de6d-4faa-a91d-8d18c9d0f1d6",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/16iZtq7S1XDGMO-V0xheG4Oej0KNkMfJ-CJ71r3mzBiw/edit?usp=sharing>",
+    "ts": "1570522651.029800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6xA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "では課題提出だけ月〜火曜日として、\nスライド提出は終わったあとでいい、としますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b8602bf4-c8f6-463a-926b-23fd93e66d6a",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "では課題提出だけ月〜火曜日として、\nスライド提出は終わったあとでいい、としますか",
+    "ts": "1570184809.029500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U3t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確かに、むしろそのほうが理解度を確認できて良いですね。なるほどです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bb2abac3-37f5-4ca9-a5c1-2e648d0d32bd",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "確かに、むしろそのほうが理解度を確認できて良いですね。なるほどです",
+    "ts": "1570182056.028500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ygTNZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "輪講Aのスライド資料を見て課題作成、とありますが、教科書は指定されているので、必ずしもスライドより課題を作るのではなくて、教科書から課題を作ればいいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a1b39f11-b25d-42d6-8661-0532466d74bb",
+    "team": "T6WULA63S",
+    "text": "輪講Aのスライド資料を見て課題作成、とありますが、教科書は指定されているので、必ずしもスライドより課題を作るのではなくて、教科書から課題を作ればいいと思います。",
+    "ts": "1570181746.027400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v67k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "このままだと3年生の提出がちょっと厳しいんで、もし水曜に作成していただけるのであれば、\n締切は火曜の23:59分まで。\nとしてもいいですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "26ec4873-090b-4579-893e-b73ffc50393e",
+    "team": "T6WULA63S",
+    "text": "このままだと3年生の提出がちょっと厳しいんで、もし水曜に作成していただけるのであれば、\n締切は火曜の23:59分まで。\nとしてもいいですかね",
+    "ts": "1570180764.026600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xiL0Y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "講評について、引き受けたいと思いますが、ひとつ確認させてください。\n講評というのは問題に対する解説ということですかね？\nそれとも、課題の出来に対するコメントということですかね？\n\nあと、日程についてですが、木曜日の14:00からは元々村上先生との打ち合わせが入っていたので、その時間変更が出来なかった場合は、参加するのが難しくなると思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8f1836d4-100d-4a9e-a679-8c56710e83f0",
+    "team": "T6WULA63S",
+    "text": "講評について、引き受けたいと思いますが、ひとつ確認させてください。\n講評というのは問題に対する解説ということですかね？\nそれとも、課題の出来に対するコメントということですかね？\n\nあと、日程についてですが、木曜日の14:00からは元々村上先生との打ち合わせが入っていたので、その時間変更が出来なかった場合は、参加するのが難しくなると思います。",
+    "ts": "1570175555.020000",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ibrfU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど、理解出来ました！\n俺はそれなら良いと思う",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              },
+              {
+                "text": "\n\n後は篠田君が講評をやってくれるかどうか...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "29995F1A-A71C-467E-93EA-ED6FFD08896F",
+    "team": "T6WULA63S",
+    "text": "なるほど、理解出来ました！\n俺はそれなら良いと思う:+1:\n\n後は篠田君が講評をやってくれるかどうか...",
+    "ts": "1570173485.009800",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FDPB5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " こんな感じでサイクルをまわすのはどうでしょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "db8c1af8-1c82-4731-8060-7d4754e17c2b",
+    "edited": {
+      "ts": "1570172347.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<!channel> こんな感じでサイクルをまわすのはどうでしょうか",
+    "ts": "1570172146.008000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eTUU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "返答です\n端的にはそうです。\n作業の分担はそちらでやってもらえればと思います\n\n例えばですが、\n月曜日：輪講Aのスライド資料提出\n↓\n水曜日：輪講Aのスライド資料を見て課題作成\n↓\n木曜日：輪講A＋輪講Aの終わりに課題を提示\n↓\n月曜日：輪講Bのスライド資料提出＋輪講Aの課題提出\n↓\n水曜日：輪講Bのスライド資料を見て課題作成＋輪講Aの課題評価\n↓\n木曜日：輪講Aの課題の評価＋輪講B＋輪講Bの終わりに輪講Bの課題提示\n↓\n月曜日：輪講Cのスライド資料提出＋輪講Bの課題提出",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "547151dc-7751-4931-b397-9b1dfa92c674",
+    "team": "T6WULA63S",
+    "text": "返答です\n端的にはそうです。\n作業の分担はそちらでやってもらえればと思います\n\n例えばですが、\n月曜日：輪講Aのスライド資料提出\n↓\n水曜日：輪講Aのスライド資料を見て課題作成\n↓\n木曜日：輪講A＋輪講Aの終わりに課題を提示\n↓\n月曜日：輪講Bのスライド資料提出＋輪講Aの課題提出\n↓\n水曜日：輪講Bのスライド資料を見て課題作成＋輪講Aの課題評価\n↓\n木曜日：輪講Aの課題の評価＋輪講B＋輪講Bの終わりに輪講Bの課題提示\n↓\n月曜日：輪講Cのスライド資料提出＋輪講Bの課題提出",
+    "ts": "1570172130.007600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/a5d574a581d94e7d02a22b7bbbd41e34.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fuser_shapes%2Fava_0016-48.png",
+        "author_id": "U7DNFTLSW",
+        "author_link": "https://matsulabnu.slack.com/team/U7DNFTLSW",
+        "author_name": "Akiyama Taito",
+        "author_subname": "Akiyama Taito",
+        "channel_id": "CNMCWE7NF",
+        "channel_name": "2019_3年ゼミ",
+        "fallback": "[October 3rd, 2019 11:43 PM] csat14002: 課題の評価と新しい課題の作成を自分が行って、\n課題の評価による講評を次のゼミの最初で篠田君にやってもらうってコト？",
+        "footer": "From a thread in #2019_3年ゼミ",
+        "from_url": "https://matsulabnu.slack.com/archives/CNMCWE7NF/p1570171397013900?thread_ts=1570160217.002900&amp;cid=CNMCWE7NF",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "is_reply_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/CNMCWE7NF/p1570171397013900?thread_ts=1570160217.002900&amp;cid=CNMCWE7NF",
+        "text": "課題の評価と新しい課題の作成を自分が行って、\n課題の評価による講評を次のゼミの最初で篠田君にやってもらうってコト？",
+        "ts": "1570171397.013900"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "gpwL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://matsulabnu.slack.com/archives/CNMCWE7NF/p1570171397013900?thread_ts=1570160217.002900&cid=CNMCWE7NF",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/CNMCWE7NF/p1570171397013900?thread_ts=1570160217.002900&amp;cid=CNMCWE7NF"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "28695d12-fcce-475a-a607-a6c15d90b470",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/CNMCWE7NF/p1570171397013900?thread_ts=1570160217.002900&amp;cid=CNMCWE7NF>",
+    "ts": "1570171724.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jbprb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "長くなりそうなのでここで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "164b26af-c556-4708-a757-38f59ccf78c9",
+    "team": "T6WULA63S",
+    "text": "長くなりそうなのでここで",
+    "ts": "1570171710.001200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1570171704.000900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1570171704.000700",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7DNFTLSW> has joined the channel",
+    "ts": "1570171704.000500",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "purpose": "課題作成のことの相談",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 課題作成のことの相談",
+    "ts": "1570171704.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1570171703.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

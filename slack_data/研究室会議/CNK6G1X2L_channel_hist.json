@@ -1,0 +1,4266 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1617882007.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U017H6V4KKJ> has joined the channel",
+    "ts": "1616409454.000200",
+    "type": "message",
+    "user": "U017H6V4KKJ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jej",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "報告と言っているけどQiitaのような勉強したことに対して教材を作るイメージ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f6e7949f-d717-46bf-bdef-63e2afca3282",
+    "team": "T6WULA63S",
+    "text": "報告と言っているけどQiitaのような勉強したことに対して教材を作るイメージ",
+    "ts": "1608883145.007700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NSU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現状はこっちを利用",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17cfb29e-cb48-4b35-a426-719667c6ae17",
+    "team": "T6WULA63S",
+    "text": "現状はこっちを利用",
+    "ts": "1608882979.005300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L+sK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://scrapbox.io/projects/matsulab-manual/invitations/a66610e3ed18078b75790280edfb2a84"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8fa0295f-949c-48dc-98ab-f5ca750773ff",
+    "team": "T6WULA63S",
+    "text": "<https://scrapbox.io/projects/matsulab-manual/invitations/a66610e3ed18078b75790280edfb2a84>",
+    "ts": "1608882973.005100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LLv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "報告の場所はWeb班を発足させて松野研メンバーが見るためのサイトを構築していきたい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87a9c740-0fac-4a62-9310-2a34659ee890",
+    "team": "T6WULA63S",
+    "text": "報告の場所はWeb班を発足させて松野研メンバーが見るためのサイトを構築していきたい",
+    "ts": "1608882970.004900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "65PN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "班は現状機械学習班のみ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8a2d2118-8a62-4598-ad2a-cf267440886d",
+    "team": "T6WULA63S",
+    "text": "班は現状機械学習班のみ",
+    "ts": "1608882919.003900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WsK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在のアジャイル班のアジャイル手法を扱ってる人はアジャイル研究グループに、開発をしている人は議事録ツール開発研究グループに移動です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78dd51c5-e353-41fe-94b7-3d6282d1c29c",
+    "team": "T6WULA63S",
+    "text": "現在のアジャイル班のアジャイル手法を扱ってる人はアジャイル研究グループに、開発をしている人は議事録ツール開発研究グループに移動です",
+    "ts": "1608882784.003400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://avatars.slack-edge.com/2020-06-08/1168360403333_4452400fddd8824811e1_48.jpg",
+        "author_id": "UD32JHVL7",
+        "author_link": "https://matsulabnu.slack.com/team/UD32JHVL7",
+        "author_name": "杉田卓斗",
+        "author_subname": "杉田卓斗",
+        "channel_id": "C013WV8GKHP",
+        "channel_name": "修士ゼミ",
+        "color": "D0D0D0",
+        "fallback": "[December 18th, 2020 9:04 PM] cstk16052: _*班*_\n• 機械学習班\n• 開発プロセス班（アジャイル）\n• Web班/サーバー班\n• D-Case/合意形成班\n班は、作成、参加、自体自由。\nいつやるか、どこでやるかも自由。ただし、報告（週1？）は必要か。\n松野研の報告Wikiみたいなサイトに報告資料を作るか？\n\n_*研究グループ*_\n• 議事録ツール開発\n• アジャイル\n• 機械学習\n• データ分析\n• 自然言語\n• 防災・ゲーミフィケーション\nどこか1つには絶対参加。週1で集まる。（一人でも成り立つ）\n研究グループは今のアジャイル班のように、進捗報告などを行う。\n（今の全体ゼミのような）",
+        "footer": "Posted in #修士ゼミ",
+        "from_url": "https://matsulabnu.slack.com/archives/C013WV8GKHP/p1608293068067200",
+        "is_msg_unfurl": true,
+        "is_share": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "text": "_*班*_\n• 機械学習班\n• 開発プロセス班（アジャイル）\n• Web班/サーバー班\n• D-Case/合意形成班\n班は、作成、参加、自体自由。\nいつやるか、どこでやるかも自由。ただし、報告（週1？）は必要か。\n松野研の報告Wikiみたいなサイトに報告資料を作るか？\n\n_*研究グループ*_\n• 議事録ツール開発\n• アジャイル\n• 機械学習\n• データ分析\n• 自然言語\n• 防災・ゲーミフィケーション\nどこか1つには絶対参加。週1で集まる。（一人でも成り立つ）\n研究グループは今のアジャイル班のように、進捗報告などを行う。\n（今の全体ゼミのような）",
+        "ts": "1608293068.067200"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "",
+    "ts": "1608882528.001900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qATqW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1g1meyTMwTlRYkCT98AB3FREowqDa5XGpMDxDqFImd00/edit#slide=id.gb2aa166ad2_0_0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83a94f0b-2316-4bab-8590-ae36a03ce809",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1g1meyTMwTlRYkCT98AB3FREowqDa5XGpMDxDqFImd00/edit#slide=id.gb2aa166ad2_0_0>",
+    "ts": "1608882446.001800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dfpM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ひと段落ついたので班と研究グループを明確にしたいと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6eb65471-6148-42b9-ab50-afd8636ab04c",
+    "team": "T6WULA63S",
+    "text": "ひと段落ついたので班と研究グループを明確にしたいと思います",
+    "ts": "1608882238.001600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UNYMRF17S> has joined the channel",
+    "ts": "1602137592.000500",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "name": "研究室会議",
+    "old_name": "研究室予定会議",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"研究室予定会議\" to \"研究室会議\"",
+    "ts": "1602123375.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1602123293.000200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ppbw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。項目はこれでいいと思います。少なくともあと４週間リモートになるので、参加者でリモートになれることがまず重要ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f0c9ee59-4307-479d-abec-07ded70ced16",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。項目はこれでいいと思います。少なくともあと４週間リモートになるので、参加者でリモートになれることがまず重要ですね",
+    "ts": "1586601136.017200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sE=kk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それと、これら以外で決めなくてはいけないことって何かありますかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a6a212f-153e-452a-bacd-9ff7f1ce8a0e",
+    "team": "T6WULA63S",
+    "text": "それと、これら以外で決めなくてはいけないことって何かありますかね",
+    "ts": "1586595079.016300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YsP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全体会議で話すゼミについてのことって、この[決める]部分を決めることぐらいだと思うんですが、他に何かありますかね\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "# ゼミ\n## 全体ゼミ\n　- 毎週水曜日10:40から\n  - 毎週持ち回りの技術報告会\n　- 第一回は杉田\n\n## 機械学習ゼミ\n  - [決める]\n　- オライリーの輪講継続\n  - [決める]\n\n## アジャイルゼミ\n　- [決める]\n  - とりあえず何を作るのか話しあう\n  - それによるタスクを決定する\n　- そのあとやること\n　  - [決める]\n\n## 自然言語処理ゼミ\n  - [決める]\n  - 本読み\n  - 論文読み\n  - 手軽なものを作っていく\n\n## ココデス\n  - 堂向さんと話合う必要あり\n  - 文化祭向けのサービスココデスの開発打ち合わせ\n\n## 統計分析\n  - やる予定は今のところたってない\n  - Kaggle,JHPS,etc...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8e5a07e7-04d4-4475-84a0-283e280306d0",
+    "team": "T6WULA63S",
+    "text": "全体会議で話すゼミについてのことって、この[決める]部分を決めることぐらいだと思うんですが、他に何かありますかね\n\n```# ゼミ\n## 全体ゼミ\n　- 毎週水曜日10:40から\n  - 毎週持ち回りの技術報告会\n　- 第一回は杉田\n\n## 機械学習ゼミ\n  - [決める]\n　- オライリーの輪講継続\n  - [決める]\n\n## アジャイルゼミ\n　- [決める]\n  - とりあえず何を作るのか話しあう\n  - それによるタスクを決定する\n　- そのあとやること\n　  - [決める]\n\n## 自然言語処理ゼミ\n  - [決める]\n  - 本読み\n  - 論文読み\n  - 手軽なものを作っていく\n\n## ココデス\n  - 堂向さんと話合う必要あり\n  - 文化祭向けのサービスココデスの開発打ち合わせ\n\n## 統計分析\n  - やる予定は今のところたってない\n  - Kaggle,JHPS,etc...```",
+    "ts": "1586595041.015100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UQWQC3GPJ> has joined the channel",
+    "ts": "1585203188.011100",
+    "type": "message",
+    "user": "UQWQC3GPJ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mybWR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "６日からの週ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a84182a1-2cee-4f42-af9e-7dd0e8cd0d21",
+    "team": "T6WULA63S",
+    "text": "６日からの週ですね",
+    "ts": "1585202422.010900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NlJAq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週からでしたっけ、すみません曖昧で",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fd9b80e0-4081-46f1-954c-f4ce934e1733",
+    "team": "T6WULA63S",
+    "text": "来週からでしたっけ、すみません曖昧で",
+    "ts": "1585202409.010500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lt9J6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もし何も通知がなかったら、ゼミの開始予定をいつにするか決めておきますか？確か6日の週からの予定でしたよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87bf5226-fcce-4d33-8ab5-eaac387b6b13",
+    "team": "T6WULA63S",
+    "text": "もし何も通知がなかったら、ゼミの開始予定をいつにするか決めておきますか？確か6日の週からの予定でしたよね",
+    "ts": "1585202397.010000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Awa3C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今のところ私は３１日には研究室に行く予定で、４月以降は普通に研究室にいる予定ですが、どうなりますかねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "06bf6a0f-06d2-4169-93f1-be50acda64c4",
+    "team": "T6WULA63S",
+    "text": "今のところ私は３１日には研究室に行く予定で、４月以降は普通に研究室にいる予定ですが、どうなりますかねー",
+    "ts": "1585201775.007200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Iy2a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "様子見ですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fef23684-73ea-4aa6-b81b-576ae88a2770",
+    "edited": {
+      "ts": "1585194020.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "様子見ですよね",
+    "ts": "1585194007.006100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iB0L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大学の対応がまだ出てないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01A54BE7-0230-4C26-B3A3-BB1BA3F89987",
+    "team": "T6WULA63S",
+    "text": "大学の対応がまだ出てないです",
+    "ts": "1585192942.002000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U1Kkd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ていうか東京封鎖案件っていうのが怖い",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "198efe78-9e59-4e97-9ad4-f7148daa0342",
+    "team": "T6WULA63S",
+    "text": "ていうか東京封鎖案件っていうのが怖い",
+    "ts": "1585192730.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CwO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "研究室の机をうごかしたいけどいつやりましょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3cd8d771-85f3-4ab6-80e1-da610720c38f",
+    "team": "T6WULA63S",
+    "text": "研究室の机をうごかしたいけどいつやりましょうか",
+    "ts": "1585191975.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w8qz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とのことですがどうしましょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9d281bee-33de-4511-82b7-db64569b44fb",
+    "team": "T6WULA63S",
+    "text": "とのことですがどうしましょうか",
+    "ts": "1583289151.010000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/c6f852472923f0bd931b9a4312a984e1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-48.png",
+        "author_id": "UH3155FA7",
+        "author_link": "https://matsulabnu.slack.com/team/UH3155FA7",
+        "author_name": "村上知里",
+        "author_subname": "村上知里",
+        "channel_id": "C6XL0T6UU",
+        "channel_name": "general",
+        "fallback": "[March 3rd, 2020 3:49 PM] murakami_chisato: 【重要】新型コロナウイルス感染症に対する理工学部対応方針（一部抜粋）\n１．卒業式の開催について\n卒業式は以下の形態で実施する。\n①式典：中止（来賓挨拶取り止め）\n②学位伝達式：開始時刻は13時に変更し、30分程度で終了\n２．行事等の自粛要請\n3月に予定している以下の行事は開催中止又は延期とする。\n①卒業式終了後の祝賀会\n②学部・学科が主催する行事\n③ゼミナール、研究室、サークル等が予定している合宿、食事会、飲み会",
+        "footer": "Posted in #general",
+        "from_url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1583279347004700",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1583279347004700",
+        "text": "【重要】新型コロナウイルス感染症に対する理工学部対応方針（一部抜粋）\n１．卒業式の開催について\n卒業式は以下の形態で実施する。\n①式典：中止（来賓挨拶取り止め）\n②学位伝達式：開始時刻は13時に変更し、30分程度で終了\n２．行事等の自粛要請\n3月に予定している以下の行事は開催中止又は延期とする。\n①卒業式終了後の祝賀会\n②学部・学科が主催する行事\n③ゼミナール、研究室、サークル等が予定している合宿、食事会、飲み会",
+        "ts": "1583279347.004700"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "bd3xx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1583279347004700"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "df65ca9a-c809-4a1a-8702-e071dfe499f5",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/C6XL0T6UU/p1583279347004700>",
+    "ts": "1583289141.009500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Dpe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ俺もミライザカはないかなー\nGarage Kitchenは少し気になる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "027b9edf-9e85-4028-9c4f-ec7c6936eb20",
+    "team": "T6WULA63S",
+    "text": "まあ俺もミライザカはないかなー\nGarage Kitchenは少し気になる",
+    "ts": "1583234677.009300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y4Cc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ少なくともミライザカだけはない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c0775a9-62e2-443e-8b93-ec6ae50b993f",
+    "team": "T6WULA63S",
+    "text": "まあ少なくともミライザカだけはない",
+    "ts": "1583219055.008200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CP8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "送別会のお店をいくつか調べてみました。\n場所は西船橋にしようと思っています。\nこの中で行きたいところなどあれば教えてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc61bc2f-53c7-45eb-b3ca-b5b9e08a267f",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U97F49L68",
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "送別会のお店をいくつか調べてみました。\n場所は西船橋にしようと思っています。\nこの中で行きたいところなどあれば教えてください。",
+    "ts": "1583148018.007400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ぐるなび: ぐるなび - 旨唐揚げと居酒メシ ミライザカ 西船橋北口店 （船橋・西船橋/居酒屋）",
+        "from_url": "https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01",
+        "id": 1,
+        "image_bytes": 14631,
+        "image_height": 240,
+        "image_url": "http://rimage.gnst.jp/rest/img/af6fc4e9omst/t_0nr2.jpg",
+        "image_width": 240,
+        "original_url": "https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01",
+        "service_icon": "https://r.gnavi.co.jp/favicon.ico",
+        "service_name": "ぐるなび",
+        "text": "旨唐揚げと居酒メシ ミライザカ 西船橋北口店（船橋・西船橋/居酒屋）の店舗情報をご紹介。お店のウリキーワード：西船橋 居酒屋 宴会など。ぐるなびなら店舗の詳細なメニューの情報やクーポン情報など、「旨唐揚げと居酒メシ ミライザカ 西船橋北口店」の情報が満載です。生ビール299円！ハイボール199円！ からあげグランプリ金賞受賞の絶品旨唐揚げが人気♪ 150分飲み放題付8品3000円～ 地域最大級の宴会ができる店◎宴会最大70名まで！",
+        "title": "ぐるなび - 旨唐揚げと居酒メシ ミライザカ 西船橋北口店 （船橋・西船橋/居酒屋）",
+        "title_link": "https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "UvWU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01",
+                "type": "link",
+                "url": "https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed502a62-7234-4faa-9284-30299a4eb485",
+    "team": "T6WULA63S",
+    "text": "<https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01|https://r.gnavi.co.jp/rb43umx10000/?sc_lid=smp_top_01>",
+    "ts": "1583147901.004600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ぐるなび: ぐるなび - 猿八 （船橋・西船橋/居酒屋）",
+        "from_url": "https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE",
+        "id": 1,
+        "image_bytes": 15377,
+        "image_height": 240,
+        "image_url": "http://rimage.gnst.jp/rest/img/70vt2t750000/t_0n81.jpg",
+        "image_width": 240,
+        "original_url": "https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&amp;gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE",
+        "service_icon": "https://r.gnavi.co.jp/favicon.ico",
+        "service_name": "ぐるなび",
+        "text": "【ネット予約で楽天スーパーポイントが貯まる】猿八（船橋・西船橋/居酒屋）の店舗情報をご紹介。お店のウリキーワード：自慢の中華料理や鍋など。ぐるなびなら店舗の詳細なメニューの情報やクーポン情報など、「猿八」の情報が満載です。【西船橋駅1分】 こだわり食材を使用した和食とお鍋が自慢の居酒屋 2時間飲み放題付コース3,000円（税込）～ 最大30名様OKの離れ個室を完備！店内貸切50名様まで",
+        "title": "ぐるなび - 猿八 （船橋・西船橋/居酒屋）",
+        "title_link": "https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Kv75k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE",
+                "type": "link",
+                "url": "https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "865040d0-a0ec-4a61-a5fb-6aecebb77900",
+    "team": "T6WULA63S",
+    "text": "<https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&amp;gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE|https://r.gnavi.co.jp/70vt2t750000/?utm_id=type-t_dsa-tenpo_bp-9itm1-rm1_g_lis&amp;gclid=EAIaIQobChMImtWby9_65wIV062WCh1RmgjhEAAYASAAEgJoYvD_BwE>",
+    "ts": "1583147882.004300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ぐるなび: ぐるなび - 西船橋 Garage Kitchen あそび （船橋・西船橋/居酒屋）",
+        "from_url": "https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01",
+        "id": 1,
+        "original_url": "https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01",
+        "service_icon": "https://r.gnavi.co.jp/favicon.ico",
+        "service_name": "ぐるなび",
+        "text": "【ネット予約で楽天スーパーポイントが貯まる】西船橋 Garage Kitchen あそび（船橋・西船橋/居酒屋）の店舗情報をご紹介。お店のウリキーワード：西船橋創作居酒屋など。ぐるなびなら店舗の詳細なメニューの情報やクーポン情報など、「西船橋 Garage Kitchen あそび」の情報が満載です。なんでもあるけどどこにもない！居酒屋・ﾋﾞｽﾄﾛ・ﾜｲﾝﾊﾞﾙのいいとこ取り★ ｵﾘｼﾞﾅﾙ創作料理&amp;絶品自家製ｽｲｰﾂ♪ 2時間飲み放題付ｺｰｽ3,980円～居酒屋とは一味違った特別空間。",
+        "thumb_height": 240,
+        "thumb_url": "http://rimage.gnst.jp/rest/img/bn39uecp0000/t_008z.jpg",
+        "thumb_width": 239,
+        "title": "ぐるなび - 西船橋 Garage Kitchen あそび （船橋・西船橋/居酒屋）",
+        "title_link": "https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "sF9R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01",
+                "type": "link",
+                "url": "https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "879943c9-2861-474b-9598-d454b3fc5663",
+    "team": "T6WULA63S",
+    "text": "<https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01|https://r.gnavi.co.jp/ga42902/?sc_lid=smp_top_01>",
+    "ts": "1583147856.004000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o=NO5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今のところはうちは無いですもんね特には",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c995725-e016-4967-bd04-9db947d9be7f",
+    "team": "T6WULA63S",
+    "text": "今のところはうちは無いですもんね特には",
+    "ts": "1583067796.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I=vr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コロナ次第ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ab9f6c4-42fb-4adf-b7d4-e1429780a262",
+    "team": "T6WULA63S",
+    "text": "コロナ次第ですね",
+    "ts": "1583052341.003300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iUb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね。私は２５前後大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ab78345-f40f-4061-af4e-c0ed96cf26f9",
+    "team": "T6WULA63S",
+    "text": "そうですね。私は２５前後大丈夫です。",
+    "ts": "1583052331.003100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ton",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "25に卒業式があるので、その前後で集まるのがいいって話をしてましたよね確か（そもそもそこらあたりでコロナ全盛期になる可能性もありますけど）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b2555765-6fa7-4924-be62-d200f9bddfa3",
+    "team": "T6WULA63S",
+    "text": "25に卒業式があるので、その前後で集まるのがいいって話をしてましたよね確か（そもそもそこらあたりでコロナ全盛期になる可能性もありますけど）",
+    "ts": "1583026225.001400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1ev",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来年度の話し合い、いつぐらいにしましょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "080b99d5-44f1-4be3-9613-23e7fb5cf906",
+    "team": "T6WULA63S",
+    "text": "来年度の話し合い、いつぐらいにしましょうか",
+    "ts": "1583026166.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cp/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オッケー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "495a1578-35af-4d02-b47b-5997c167fbb6",
+    "team": "T6WULA63S",
+    "text": "オッケー",
+    "ts": "1579689098.002900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oJNl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ソフドリは別に2本大きいのあります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "afc25fcb-42b3-4fdb-b75c-9cc6abf5cffb",
+    "team": "T6WULA63S",
+    "text": "ソフドリは別に2本大きいのあります",
+    "ts": "1579689061.002700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kAm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多くてももう一回するから大丈夫ではある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6eb9ded5-b96f-431c-9e04-d158330566a3",
+    "team": "T6WULA63S",
+    "text": "多くてももう一回するから大丈夫ではある",
+    "ts": "1579689047.002200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A1d+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ソフドリ合わせて？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9c657ae-1b87-4f37-9532-83d298f4844f",
+    "team": "T6WULA63S",
+    "text": "ソフドリ合わせて？",
+    "ts": "1579689022.001300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YNP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そんな飲まないか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3af691c-1c4d-468a-b920-6ae4a8969df1",
+    "team": "T6WULA63S",
+    "text": "そんな飲まないか",
+    "ts": "1579688953.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OjzVs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "12本くらいあればいいですかね酒",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae7eebb9-e249-4d7e-afb0-1acfd408bc93",
+    "team": "T6WULA63S",
+    "text": "12本くらいあればいいですかね酒",
+    "ts": "1579688940.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EvxR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日やんけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d1128af2-7015-449f-ae80-1bf93808492f",
+    "team": "T6WULA63S",
+    "text": "今日やんけ",
+    "ts": "1579619583.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lFF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "唐突だけど明日は新年会です（遅い）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "273fa1a7-017b-4670-bccb-479801cdb111",
+    "team": "T6WULA63S",
+    "text": "唐突だけど明日は新年会です（遅い）",
+    "ts": "1579619566.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bgxo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日夜Switchやります？それとも頑張りましょう会でも開きます？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6090dfe3-2e8b-4797-bd99-abe5a0dea03d",
+    "team": "T6WULA63S",
+    "text": "明日夜Switchやります？それとも頑張りましょう会でも開きます？",
+    "ts": "1578365926.001700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "26A0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ソレイユが休みでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "226f4c32-82fd-4d21-b7e2-da9132617937",
+    "team": "T6WULA63S",
+    "text": "ソレイユが休みでした",
+    "ts": "1577420712.000900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ufSDt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ケーキどうしましょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85a6c744-16a7-4346-b0aa-d5521d747c3c",
+    "team": "T6WULA63S",
+    "text": "ケーキどうしましょうか",
+    "ts": "1577420669.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Amazon.co.jp: フロ プレステージュ",
+        "from_url": "https://www.amazon.co.jp/stores/node/5506001051?_encoding=UTF8&field-lbr_brands_browse-bin=FLO%20PRESTIGE%EF%BC%88%E3%83%95%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89&ref_=bl_dp_s_web_5506001051",
+        "id": 1,
+        "image_bytes": 815438,
+        "image_height": 250,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/S/abs-image-upload-na/8/AmazonStores/A1VC38T7YXB528/4326a66ac38ba92fcfebf6722657c12e.w3000.h600.jpg",
+        "image_width": 1250,
+        "original_url": "https://www.amazon.co.jp/stores/node/5506001051?_encoding=UTF8&amp;field-lbr_brands_browse-bin=FLO%20PRESTIGE%EF%BC%88%E3%83%95%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89&amp;ref_=bl_dp_s_web_5506001051",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "Amazon.co.jp",
+        "text": "フロプレステージュの焼き菓子ギフト&amp;冷凍カヌレ・ケーキ・タルトのオンラインストア",
+        "title": "フロ プレステージュ",
+        "title_link": "https://www.amazon.co.jp/stores/node/5506001051?_encoding=UTF8&field-lbr_brands_browse-bin=FLO%20PRESTIGE%EF%BC%88%E3%83%95%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89&ref_=bl_dp_s_web_5506001051"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Uk9N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/stores/node/5506001051?_encoding=UTF8&field-lbr_brands_browse-bin=FLO%20PRESTIGE%EF%BC%88%E3%83%95%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89&ref_=bl_dp_s_web_5506001051"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e3e6bf10-794b-4406-9471-8d96d6719489",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/stores/node/5506001051?_encoding=UTF8&amp;field-lbr_brands_browse-bin=FLO%20PRESTIGE%EF%BC%88%E3%83%95%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89&amp;ref_=bl_dp_s_web_5506001051>",
+    "ts": "1576575615.001300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Bonaparte: Homepage",
+        "from_url": "http://www.bonaparte.jp/?gclid=EAIaIQobChMIlozh0a-85gIVEqyWCh3ouQC9EAAYASAAEgJBRPD_BwE#panelBlock6で栗パ",
+        "id": 1,
+        "original_url": "http://www.bonaparte.jp/?gclid=EAIaIQobChMIlozh0a-85gIVEqyWCh3ouQC9EAAYASAAEgJBRPD_BwE#panelBlock6で栗パ",
+        "service_name": "Bonaparte",
+        "text": "西千葉駅徒歩5分にある、お洒落なパティスリー",
+        "thumb_height": 200,
+        "thumb_url": "https://s0.wp.com/i/blank.jpg",
+        "thumb_width": 200,
+        "title": "Homepage",
+        "title_link": "http://www.bonaparte.jp/?gclid=EAIaIQobChMIlozh0a-85gIVEqyWCh3ouQC9EAAYASAAEgJBRPD_BwE#panelBlock6で栗パ"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Ppbs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.bonaparte.jp/?gclid=EAIaIQobChMIlozh0a-85gIVEqyWCh3ouQC9EAAYASAAEgJBRPD_BwE#panelBlock6で栗パ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "76dbde60-f249-4279-b48f-465b43648aee",
+    "team": "T6WULA63S",
+    "text": "<http://www.bonaparte.jp/?gclid=EAIaIQobChMIlozh0a-85gIVEqyWCh3ouQC9EAAYASAAEgJBRPD_BwE#panelBlock6で栗パ>",
+    "ts": "1576575244.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "アテスウェイ",
+        "from_url": "http://www.atessouhaits.co.jp/gateaux/petit_gateaux.html",
+        "id": 1,
+        "original_url": "http://www.atessouhaits.co.jp/gateaux/petit_gateaux.html",
+        "service_icon": "http://www.atessouhaits.co.jp/favicon.ico",
+        "service_name": "atessouhaits.co.jp",
+        "text": "東京 吉祥寺　パティシエ川村英樹のスペシャリテ、アテスウェイのオフィシャルサイトへようこそ",
+        "title": "アテスウェイ",
+        "title_link": "http://www.atessouhaits.co.jp/gateaux/petit_gateaux.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cpbC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.atessouhaits.co.jp/gateaux/petit_gateaux.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "efdb6075-9f7e-4e9e-82a4-1ac7604f9e50",
+    "team": "T6WULA63S",
+    "text": "<http://www.atessouhaits.co.jp/gateaux/petit_gateaux.html>",
+    "ts": "1576575107.000700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mu9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "学科レクリエーションの打ち合わせですが、来週月曜12時開始に決定したそうです。都合が悪い場合は代理を立てて欲しいとのことでした。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53A1312E-0266-4AE3-B493-B299A85CA1A1",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD733MZHV"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "学科レクリエーションの打ち合わせですが、来週月曜12時開始に決定したそうです。都合が悪い場合は代理を立てて欲しいとのことでした。",
+    "ts": "1573798752.001900",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZJ=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よし、今日はミルフィーユ鍋にしよう（唐突）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de172403-30a9-4a3c-9e09-9a107a224a79",
+    "team": "T6WULA63S",
+    "text": "よし、今日はミルフィーユ鍋にしよう（唐突）",
+    "ts": "1573008362.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rUaA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ何か頼むか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7bf7b3d2-7c2a-4a57-9824-b1d32056f8d5",
+    "team": "T6WULA63S",
+    "text": "じゃあ何か頼むか",
+    "ts": "1572871958.003100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YPO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうするかー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d33e0ca1-9037-4933-bed9-55b476c4fc08",
+    "team": "T6WULA63S",
+    "text": "そうするかー",
+    "ts": "1572871948.002700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OoHX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "研究室がいいなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "31420A8C-53FD-4330-A5C1-BBBD66F4A886",
+    "team": "T6WULA63S",
+    "text": "研究室がいいなぁ",
+    "ts": "1572871007.002300",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0raw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "研究室飲み？どこか食べに行く？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "302ee27d-434d-43a3-85ac-7a62aaf5ea36",
+    "team": "T6WULA63S",
+    "text": "研究室飲み？どこか食べに行く？",
+    "ts": "1572868058.001800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pyjd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ん？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b25ee13-183c-48c5-9446-3a573e76ec15",
+    "team": "T6WULA63S",
+    "text": "ん？",
+    "ts": "1572868047.001500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "43AI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どこ行こう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0019f089-71c5-41fe-9f2d-a52ee78c2910",
+    "team": "T6WULA63S",
+    "text": "どこ行こう",
+    "ts": "1572841159.001200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pzkU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "考えましょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68ff4505-c078-4dcb-805c-539133a2f743",
+    "team": "T6WULA63S",
+    "text": "考えましょうか",
+    "ts": "1572839201.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EyT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "6日に研究室飲みする計画ー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "087444be-c75e-47c7-a274-ba7d26050f90",
+    "team": "T6WULA63S",
+    "text": "6日に研究室飲みする計画ー",
+    "ts": "1572839195.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kM8O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今夜か明日予約します。予約できたらmmlab2019に上げるので、連絡はしなくて大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46d065fb-dffb-44c6-bbff-e3c39adee109",
+    "edited": {
+      "ts": "1570434075.000000",
+      "user": "UD32JHVL7"
+    },
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "UNM7EU5A7",
+          "UH3155FA7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "今夜か明日予約します。予約できたらmmlab2019に上げるので、連絡はしなくて大丈夫です",
+    "ts": "1570434049.004600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ai8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " じゃあサハラで開催ということで、予約してしまっても大丈夫ですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b09bf66e-8f69-471b-8a0f-e48a620c46c3",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U97F49L68",
+          "UNM7EU5A7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> じゃあサハラで開催ということで、予約してしまっても大丈夫ですかね",
+    "ts": "1570425663.003700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B/O/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "北習志野より船橋の方で飲む方が、二次会や帰宅する人も動きやすくなりそうだから、ここでいいんじゃないですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "579D9CE0-97F8-4A45-8526-A6D3CF63F922",
+    "team": "T6WULA63S",
+    "text": "北習志野より船橋の方で飲む方が、二次会や帰宅する人も動きやすくなりそうだから、ここでいいんじゃないですか",
+    "ts": "1570270360.003000",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CHsvJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こことかどうですか(森田先輩案)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "363b1a56-1ab5-4e50-9ff0-79a5054ad277",
+    "team": "T6WULA63S",
+    "text": "こことかどうですか(森田先輩案)",
+    "ts": "1570261583.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "隠れ家個室 オリエンタルビストロ SAHARA（サハラ）",
+        "from_url": "https://sahara.gorp.jp/",
+        "id": 1,
+        "original_url": "https://sahara.gorp.jp/",
+        "service_name": "sahara.gorp.jp",
+        "text": "船橋・西船橋エリアのアジア×肉×個室×宴会、隠れ家個室 オリエンタルビストロ SAHARA（サハラ）のオフィシャルページです。お店の基本情報やおすすめの「自家製ローストビーフのユッケ」「農園直送！有機野菜のバーニャカウダ」「肉づくしコース【飲み放題付】〈全9品〉牛肉グリルなどお肉が大集合★宴会・肉食女子会にも」をはじめとしたメニュー情報などをご紹介しています。",
+        "thumb_height": 933,
+        "thumb_url": "http://uds.gnst.jp/rest/img/64ugexdt0000/s_0nh3.jpg?t=1525706559",
+        "thumb_width": 933,
+        "title": "隠れ家個室 オリエンタルビストロ SAHARA（サハラ）",
+        "title_link": "https://sahara.gorp.jp/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "AMn8D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://sahara.gorp.jp/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c01c924e-8b6e-4adb-9da6-c4d94baed330",
+    "team": "T6WULA63S",
+    "text": "<https://sahara.gorp.jp/>",
+    "ts": "1570261559.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9EwF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺は肉がいいっすね（イタリアンにだって肉はあるけどどちらかといえば焼き肉）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5a6b9a6a-9f5b-451f-af7f-408a6c87311e",
+    "edited": {
+      "ts": "1570186223.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "俺は肉がいいっすね（イタリアンにだって肉はあるけどどちらかといえば焼き肉）",
+    "ts": "1570186200.026800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ssg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ヴェントモデルノほどではない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37eb8aec-b07e-49ee-9c04-2b9f46bd861c",
+    "team": "T6WULA63S",
+    "text": "ヴェントモデルノほどではない",
+    "ts": "1570177434.025900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "M/Bez",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと固めだけど一般向けにも色々やってるイタリアン",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bc2ee9d3-3301-4ac2-a1dc-ca607de09529",
+    "team": "T6WULA63S",
+    "text": "ちょっと固めだけど一般向けにも色々やってるイタリアン",
+    "ts": "1570177426.025600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Anniversary Ristorante Masseria アニバーサリー レストラン マッセリア　～船橋市津田沼の一軒家イタリアンレストラン～: プチパーティープラン | BS Giarden Ristorante Masseria",
+        "from_url": "http://bs-masseria.com/plan/petit/",
+        "id": 1,
+        "original_url": "http://bs-masseria.com/plan/petit/",
+        "service_icon": "http://bs-masseria.com/_wpdir/wp-content/themes/sng_masseria/common/img/favicon.ico",
+        "service_name": "Anniversary Ristorante Masseria アニバーサリー レストラン マッセリア　～船橋市津田沼の一軒家イタリアンレストラン～",
+        "text": "イタリア料理「マッセリア」。気軽に楽しめるアラカルトから、充実のコース料理、ウェディングプランもご用意しております。",
+        "title": "プチパーティープラン | BS Giarden Ristorante Masseria",
+        "title_link": "http://bs-masseria.com/plan/petit/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "hvDeb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://bs-masseria.com/plan/petit/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "18c202a4-ad77-434a-9c54-baa793486edb",
+    "team": "T6WULA63S",
+    "text": "<http://bs-masseria.com/plan/petit/>",
+    "ts": "1570177378.024900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kYl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一番カルビ行ったこと無いからいいですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9ef916e8-5ef7-4a2d-8b64-c6020b59ef86",
+    "team": "T6WULA63S",
+    "text": "一番カルビ行ったこと無いからいいですね",
+    "ts": "1570176480.024700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Can",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "適当な居酒屋ならわだい屋か一カルの方が行きたい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5edab1d5-0a66-409c-8b88-6c4d5807d6b7",
+    "team": "T6WULA63S",
+    "text": "適当な居酒屋ならわだい屋か一カルの方が行きたい",
+    "ts": "1570176339.024100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ぐるなび: ぐるなび - 大衆焼肉 わだい家 （北習志野/焼肉）",
+        "from_url": "https://r.gnavi.co.jp/gd72600/",
+        "id": 1,
+        "image_bytes": 31390,
+        "image_height": 240,
+        "image_url": "http://uds.gnst.jp/rest/img/pumc6sc90000/t_001m.jpg",
+        "image_width": 240,
+        "original_url": "https://r.gnavi.co.jp/gd72600/",
+        "service_icon": "https://r.gnavi.co.jp/favicon.ico",
+        "service_name": "ぐるなび",
+        "text": "大衆焼肉 わだい家（北習志野/焼肉）の店舗情報をご紹介。お店のウリキーワード：北習志野焼肉など。ぐるなびなら店舗の詳細なメニューの情報やクーポン情報など、「大衆焼肉 わだい家」の情報が満載です。★北習志野で焼肉＆宴会なら★ 　　わだい家へどうぞ！！",
+        "title": "ぐるなび - 大衆焼肉 わだい家 （北習志野/焼肉）",
+        "title_link": "https://r.gnavi.co.jp/gd72600/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "7hJU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://r.gnavi.co.jp/gd72600/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80fff611-51df-4a3e-9ea9-d283a7f4fe53",
+    "team": "T6WULA63S",
+    "text": "<https://r.gnavi.co.jp/gd72600/>",
+    "ts": "1570176299.023200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Wn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あり",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e2b11403-86c7-4ff5-9685-a0420c912643",
+    "team": "T6WULA63S",
+    "text": "あり",
+    "ts": "1570176101.022900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jJx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "生肉だめな人が居たらだめだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f476fed-7e6c-4c07-b679-da84029945f1",
+    "team": "T6WULA63S",
+    "text": "生肉だめな人が居たらだめだけど",
+    "ts": "1570175963.022200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qmmt=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こういうのはどう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "af077a48-25ea-4fe5-ba52-f24d62c24cd0",
+    "team": "T6WULA63S",
+    "text": "こういうのはどう？",
+    "ts": "1570175942.021800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "津田沼　肉寿司",
+        "from_url": "https://akr8087079780.owst.jp/",
+        "id": 1,
+        "original_url": "https://akr8087079780.owst.jp/",
+        "service_name": "akr8087079780.owst.jp",
+        "text": "津田沼の焼肉・ホルモン、津田沼　肉寿司のホームページです。お店の基本情報やおすすめ料理の「【豊富な品揃え】約60種類の肉寿司を190円～ご提供！盛り合わせも690円(税込)～」「【肉寿司名物！！】 さしとろ890円(税込)♪開業時より名物！提供時に目の前で豪快に炙って仕上げます。」「【肉刺し】お肉たちの宴～四種肉の盛り合わせ～1980円(税込)！馬、牛、鶏これぞ肉刺し盛り！」をはじめとしたメニュー情報などをご紹介しています。",
+        "thumb_height": 800,
+        "thumb_url": "https://cdn.r-corona.jp/prd.rb.r-corona.jp/assets/site_files/4qd5lb19/3205949/iozg.jpg",
+        "thumb_width": 800,
+        "title": "津田沼　肉寿司",
+        "title_link": "https://akr8087079780.owst.jp/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "oqovK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://akr8087079780.owst.jp/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f7787ec1-5119-4d69-a3d3-1bb0636df306",
+    "team": "T6WULA63S",
+    "text": "<https://akr8087079780.owst.jp/>",
+    "ts": "1570175937.021500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2osl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "他に予約入ってなければ20人テーブルが作れる筈なので（前マスターが言ってた）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68618cac-ade0-4874-b4d2-bb447eec2d9d",
+    "edited": {
+      "ts": "1570175907.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "他に予約入ってなければ20人テーブルが作れる筈なので（前マスターが言ってた）",
+    "ts": "1570175895.021100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Nsn7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それは大丈夫か",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1e558315-aff2-42e1-b26b-34bca0dc144a",
+    "edited": {
+      "ts": "1570175893.000000",
+      "user": "U97F49L68"
+    },
+    "team": "T6WULA63S",
+    "text": "それは大丈夫か",
+    "ts": "1570175878.020700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iH/m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "佳佳苑全員入るかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3bb7b6dc-2224-4e57-b706-ea0ad1c05b66",
+    "team": "T6WULA63S",
+    "text": "佳佳苑全員入るかな",
+    "ts": "1570175856.020200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YvNVX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いっそ佳佳苑とかそのあたり予約しちゃいます・・・？あそこは2人以上で分け合うような量で提供してるのでコスパ的にもいいと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "67c7fc42-a00a-439e-9a00-2984e5bc158d",
+    "edited": {
+      "ts": "1570175864.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "いっそ佳佳苑とかそのあたり予約しちゃいます・・・？あそこは2人以上で分け合うような量で提供してるのでコスパ的にもいいと思います",
+    "ts": "1570175812.019400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2r3P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺の知ってるお店全部２〜４人用なので・・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6990c2e6-ef00-44d9-882d-c1c4b1655615",
+    "team": "T6WULA63S",
+    "text": "俺の知ってるお店全部２〜４人用なので・・・",
+    "ts": "1570175768.018500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Lm5B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ2次会は適当で良いとして1次会を先に決めないと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f6f0166c-c6ff-4fb4-a31b-3f5f73dd7c58",
+    "team": "T6WULA63S",
+    "text": "まあ2次会は適当で良いとして1次会を先に決めないと",
+    "ts": "1570175668.017900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TCEY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（完全に私情である）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "388d2de5-a11f-4d79-94bb-2642eac9448f",
+    "team": "T6WULA63S",
+    "text": "（完全に私情である）",
+    "ts": "1570175511.016800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tR5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（最近カラオケ行ってないから二次会はいっそ去年よろしくカラオケでいいのでは）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ddd5453b-01b9-4d83-a51d-eccf02f92644",
+    "team": "T6WULA63S",
+    "text": "（最近カラオケ行ってないから二次会はいっそ去年よろしくカラオケでいいのでは）",
+    "ts": "1570175490.016500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rPcIZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どこ行きますかねぇ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2940e78b-dcf5-4eac-b079-4ce802ed3f61",
+    "team": "T6WULA63S",
+    "text": "どこ行きますかねぇ",
+    "ts": "1570175397.015900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1WZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "只今の三年生歓迎会の状況:\n時間以外何も決まってない←new!!\ndelete\ndelete\ndelete",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8ad02a91-49a6-42fe-b205-f4378f78ac2a",
+    "edited": {
+      "ts": "1570175245.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "只今の三年生歓迎会の状況:\n時間以外何も決まってない←new!!\ndelete\ndelete\ndelete",
+    "ts": "1570175234.015500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4i5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あっ（）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87c03593-aa11-4e81-8cd6-f8da6943b503",
+    "team": "T6WULA63S",
+    "text": "あっ（）",
+    "ts": "1570175189.014700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aXaga",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あっ…(察し)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5cfbe343-1391-4f06-ad9e-01e78d591315",
+    "team": "T6WULA63S",
+    "text": "あっ…(察し)",
+    "ts": "1570175181.014500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "KURAND: 「大宮店」「船橋店」閉店のお知らせ | KURAND（クランド）",
+        "from_url": "https://kurand.jp/57600/",
+        "id": 1,
+        "image_bytes": 100245,
+        "image_height": 250,
+        "image_url": "https://kurand.jp/wp-content/uploads/2019/03/close.jpg",
+        "image_width": 375,
+        "original_url": "https://kurand.jp/57600/",
+        "service_icon": "https://kurand.jp/favicon.ico",
+        "service_name": "KURAND",
+        "text": "「KURAND SAKE MARKET 大宮店」「KURAND SAKE MARKET 船橋店」をご利用いただきまして誠にありがとうございます。 誠に勝手ながら、大宮店は2019年3月31日（日）、船橋店は2019年6月16日（日）をもちまして、閉店とさせていただく事となりました。 大宮店、船橋店ともに大変多くのお客さまにご利用いただいており、お陰様でここ数ヶ月のお客さま数も昨年を上回る結果となりました。ただ一部のお客さまからは「場所がわかりにくくて迷ってしまった」「駅から遠くて気軽に通いにくい」「初めてだと入りにくい」などの声もいただいており、出店場所を再検討する必要があると感じていました。 今回、物件の契約更新のタイミング、また今後予定している「KURAND SAKE MARKET」における新しい機能追加およびリニューアルのために、閉店とさせていただくことにしました。常連のお客さまにおかれましては、ご不便をおかけすることになってしまい申し訳ありません。ご好評いただいております店舗を閉店することについては大変悩ましい決断でした。 大宮店、船橋店ともに移転先となる新しい物件が見つかり次第、同エリアにて新店舗を再オープンを予定してます。移転後のスケジュールに関しましては、現在は未定ですが、決まり次第HPにてご案内させていただきます。物件情報も随時お待ちしてますので、お気軽にご連絡ください。 なお「KURAND SAKE MARKET」は、引き続き新しいエリアでも新店舗のオープンを予定しています。今夏には新しいエリアにて、今までより進化した新店舗のオープンが決まっています。「KURANDオンラインストア」では今まで通り、KURANDのお酒を購入することが出来ますので、引き続き、ご愛顧いただけましたら幸いでございます。 今後ともKURANDをよろしくお願い申し上げます。 2019年3月31日（日）閉店 ■KURAND SAKE MARKET 大宮店 住所：〒330-0854 埼玉県さいたま市大宮区桜木町2-328-2 ロケットビル8階 営業時間：12:00~16:00(15:30LO)、17:00~23:00(22:45LO) 2019年6月16日（日）閉店 ■KURAND SAKE MARKET 船橋店 住所：〒273-0005",
+        "title": "「大宮店」「船橋店」閉店のお知らせ | KURAND（クランド）",
+        "title_link": "https://kurand.jp/57600/",
+        "ts": 1551841234
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "7hWuw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kurand.jp/57600/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f47d285a-5ad5-4bbb-b505-a30ee45ab484",
+    "team": "T6WULA63S",
+    "text": "<https://kurand.jp/57600/>",
+    "ts": "1570175176.014200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=Gj5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "船橋駅が近いです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a86d62f-bdff-4455-abd3-3224901d87dd",
+    "edited": {
+      "ts": "1570175174.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "船橋駅が近いです",
+    "ts": "1570175169.013900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TJmI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2次会のKURANDってどこにあるんだっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "312d5703-d63a-44eb-8b9c-76140a5569ae",
+    "team": "T6WULA63S",
+    "text": "2次会のKURANDってどこにあるんだっけ",
+    "ts": "1570175048.013500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HJ4Oi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "問題は場所ですね、どうしましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2b163f99-cb1f-4bdd-b534-8815872562ef",
+    "edited": {
+      "ts": "1570174997.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "問題は場所ですね、どうしましょう",
+    "ts": "1570174989.013000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "W34",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "前みたいに津田沼あたりでやれば二次会の方も行きやすい・・・のか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fea08741-4009-46b9-96c2-5fb1d2342a18",
+    "team": "T6WULA63S",
+    "text": "前みたいに津田沼あたりでやれば二次会の方も行きやすい・・・のか",
+    "ts": "1570174805.012700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0IfT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "19時からだね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "71fda416-d59b-417a-b1b2-da9a8a11a44d",
+    "team": "T6WULA63S",
+    "text": "19時からだね",
+    "ts": "1570174728.011700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w7sEX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "去年の俺らのときは何時からやってましたっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2c81f057-00ec-4d27-99ac-6d49b0ba4253",
+    "team": "T6WULA63S",
+    "text": "去年の俺らのときは何時からやってましたっけ",
+    "ts": "1570174655.011500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1YF5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ですねー・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "836bb0a2-e9a3-4407-9d6a-0af7281e8466",
+    "team": "T6WULA63S",
+    "text": "ですねー・・",
+    "ts": "1570174646.011200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ITT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ビール園は難しい可能性",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c66fb30f-e33f-4bac-bf0c-8c9be6a41180",
+    "team": "T6WULA63S",
+    "text": "ビール園は難しい可能性",
+    "ts": "1570174636.010900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zm+P7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年生は20時頃はじめになるのか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e1fdb9c-903d-4081-b455-7e040ea6fff8",
+    "team": "T6WULA63S",
+    "text": "3年生は20時頃はじめになるのか",
+    "ts": "1570174394.010500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FVt3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どんどん予定が頭の中で遅くなってって恐ろしい・・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "168ea084-7322-4b9f-af17-33544d57fa20",
+    "team": "T6WULA63S",
+    "text": "どんどん予定が頭の中で遅くなってって恐ろしい・・・",
+    "ts": "1570174207.009900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7=ba",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "良い着のバスがないのか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "efe3a4d0-18b5-49f8-b5c6-7970e19cd0bf",
+    "team": "T6WULA63S",
+    "text": "良い着のバスがないのか",
+    "ts": "1570174203.009700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zZY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "だったら19時半開始の方が良いのでは？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2a2edadf-76d3-41a4-9127-b559bcbc0f94",
+    "team": "T6WULA63S",
+    "text": "だったら19時半開始の方が良いのでは？",
+    "ts": "1570174110.008800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H01wm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "何故か発だと思ってた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d02db95e-1aef-4301-a351-037239b285c9",
+    "team": "T6WULA63S",
+    "text": "何故か発だと思ってた",
+    "ts": "1570174072.008400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U90+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "着か",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "12f0c6d6-60f9-4076-9e05-6d9751d4956f",
+    "team": "T6WULA63S",
+    "text": "着か",
+    "ts": "1570174060.008000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lydfp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いえ、55分ビール園着のに乗るには30分津田沼発に乗らないと行けないんですよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2ce5ba2c-1017-447d-be2a-d82e8d89a67f",
+    "team": "T6WULA63S",
+    "text": "いえ、55分ビール園着のに乗るには30分津田沼発に乗らないと行けないんですよ",
+    "ts": "1570174041.007700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fl5u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "38分に新津田沼に着けるので余裕ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2a55f9f0-9f5e-495c-b36c-11d2fd907c3d",
+    "team": "T6WULA63S",
+    "text": "38分に新津田沼に着けるので余裕ですね",
+    "ts": "1570173871.007000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OYK=a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "東葉高速使うのであれば電車の時間によりますけどいけますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff9ca7a3-8ee4-4731-9b1f-acc2ca8d2e6e",
+    "team": "T6WULA63S",
+    "text": "東葉高速使うのであれば電車の時間によりますけどいけますね",
+    "ts": "1570173858.006700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j0jd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "津田沼なんで全然余裕じゃないですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b2d13f70-8fb7-45e7-8ac9-258ca258333a",
+    "team": "T6WULA63S",
+    "text": "津田沼なんで全然余裕じゃないですかね",
+    "ts": "1570173766.005900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9s6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "授業を受ける学生さんは18:55着のバスに間に合わないと思うので、私が引率します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "26808C81-1DDB-4C10-B4FC-E8D44451BD0C",
+    "edited": {
+      "ts": "1570173712.000000",
+      "user": "UH3155FA7"
+    },
+    "team": "T6WULA63S",
+    "text": "授業を受ける学生さんは18:55着のバスに間に合わないと思うので、私が引率します",
+    "ts": "1570173673.005300",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Rouo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=BXVgPKbBAxE"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f0aca3f5-e3a8-4870-87d5-3f2d6f1188f9",
+    "edited": {
+      "ts": "1570173311.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<https://www.youtube.com/watch?v=BXVgPKbBAxE>",
+    "ts": "1570173246.003500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hqnN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "19でいいんじゃね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "661B4C53-1F9E-4BAF-A755-D591B08BCCA4",
+    "team": "T6WULA63S",
+    "text": "19でいいんじゃね？",
+    "ts": "1570173178.002900",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "client_msg_id": "7c9dfc3d-187b-473c-bc9b-376932e370a2",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FP1J2PYLD",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1570173019.002400",
+    "type": "message",
+    "upload": true,
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A7j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ワイトもそう思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d9e945e8-3efa-4765-813a-67cd7e2b811e",
+    "edited": {
+      "ts": "1570173318.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "ワイトもそう思います",
+    "ts": "1570172938.002100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "01WuM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "19時からとかで良いと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a7b945e-0b7f-4932-92a0-4a240a3fc2c5",
+    "team": "T6WULA63S",
+    "text": "19時からとかで良いと思う",
+    "ts": "1570172923.001900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hxr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とのことですがどうしましょ、\nまあ単純に始める時間を遅くすればいいですかねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5088db7-72ba-493e-b319-344603efb109",
+    "team": "T6WULA63S",
+    "text": "とのことですがどうしましょ、\nまあ単純に始める時間を遅くすればいいですかねー",
+    "ts": "1570172787.001600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/c6f852472923f0bd931b9a4312a984e1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fuser_shapes%2Fava_0019-48.png",
+        "author_id": "UH3155FA7",
+        "author_link": "https://matsulabnu.slack.com/team/UH3155FA7",
+        "author_name": "村上知里",
+        "author_subname": "村上知里",
+        "channel_id": "CH6CRMFDX",
+        "channel_name": "mmlab2019",
+        "fallback": "[October 3rd, 2019 11:50 PM] murakami_chisato: 10/15の件ですが、三年生は18:10まで情報工学演習があるそうです。",
+        "footer": "Posted in #mmlab2019",
+        "from_url": "https://matsulabnu.slack.com/archives/CH6CRMFDX/p1570171805007200",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/CH6CRMFDX/p1570171805007200",
+        "text": "10/15の件ですが、三年生は18:10まで情報工学演習があるそうです。",
+        "ts": "1570171805.007200"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Twut",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/CH6CRMFDX/p1570171805007200"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d0d3264-479c-42d8-8406-4446bae028ea",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/CH6CRMFDX/p1570171805007200>",
+    "ts": "1570172744.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "cleared channel topic",
+    "topic": "",
+    "ts": "1570160428.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "purpose": "ここで決めた予定は各自が把握し、伝えるべきグループには伝えること",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ここで決めた予定は各自が把握し、伝えるべきグループには伝えること",
+    "ts": "1570160428.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ad3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年ゼミのリーダーになりました小林孝有です。\nよろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9506e18-9598-4893-9513-65f1f8066750",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "yoroshiku",
+        "users": [
+          "UD32JHVL7",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "3年ゼミのリーダーになりました小林孝有です。\nよろしくお願いします。",
+    "ts": "1570080021.016000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UNM7EU5A7> has joined the channel",
+    "ts": "1570079932.015200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QwqT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "直しました申し訳ないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2285b20a-b4c9-4dcd-acec-c6544c2b6f66",
+    "team": "T6WULA63S",
+    "text": "直しました申し訳ないです",
+    "ts": "1570015265.015000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CFd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あばばばば",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a118673-d8a1-4d3e-807f-318d31ad597a",
+    "team": "T6WULA63S",
+    "text": "あばばばば",
+    "ts": "1570006277.014700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tjew7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年ゼミじゃなくて？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AABFCF7D-EA40-41FB-A225-642BFB260612",
+    "team": "T6WULA63S",
+    "text": "3年ゼミじゃなくて？",
+    "ts": "1570005810.014500",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EX4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず3年ゼミは、木曜の午後からやるが濃厚\nいつから始めるのかは、望月先生からの予定待ち",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "489cf17b-33a7-476f-8b06-6940ff9fa9c6",
+    "edited": {
+      "ts": "1570006287.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "とりあえず3年ゼミは、木曜の午後からやるが濃厚\nいつから始めるのかは、望月先生からの予定待ち",
+    "ts": "1570005532.014100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=N9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね。いまのところ考えているのは以下ぐらいです。やることはまずHTML/CSSの教科書の輪講をやりながら、来年度もいる小池君、杉田君とコミュニケーションをとってもらいたいです。演習作成ですが、秋山君と私でやろうかなと思っています（４年ゼミは応用情報技術者試験対策をやりたいそうです）。Java Script、機械学習、Unityは様子見ながら考えようと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e71f72a6-b7ea-4cd6-a69b-8515964566e5",
+    "team": "T6WULA63S",
+    "text": "そうですね。いまのところ考えているのは以下ぐらいです。やることはまずHTML/CSSの教科書の輪講をやりながら、来年度もいる小池君、杉田君とコミュニケーションをとってもらいたいです。演習作成ですが、秋山君と私でやろうかなと思っています（４年ゼミは応用情報技術者試験対策をやりたいそうです）。Java Script、機械学習、Unityは様子見ながら考えようと思います。",
+    "ts": "1569849705.013300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EPNJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でも3年ゼミについてはちょっと明日明後日で考えないとですね…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "090c1c0c-3ff9-4962-b25e-fd06ee01821f",
+    "team": "T6WULA63S",
+    "text": "でも3年ゼミについてはちょっと明日明後日で考えないとですね…",
+    "ts": "1569849322.010600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n1FK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc983706-ebe0-40ee-975a-b56466f827ee",
+    "team": "T6WULA63S",
+    "text": "そうですね",
+    "ts": "1569848347.009600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vXJHC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ後はテキトーに、被るようなら雑談がてら決めましょ。決して被ってはいけない決まりは無いですし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ccd9e3e9-2be8-4893-aa2e-650ec2716ba8",
+    "team": "T6WULA63S",
+    "text": "まあ後はテキトーに、被るようなら雑談がてら決めましょ。決して被ってはいけない決まりは無いですし",
+    "ts": "1569848299.009300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iKl4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " ゼミ輪講というカレンダーを松野研究室全員に共有してるはずですが、もしゼミ、輪講をやるのであれば大まかな時間を入れていただきたいです。\n別に同じ時間で被っても良いやと思うかもしれませんが、ぶっちゃけ2チームが話してるとうるさくて集中できなかったり、中央の机の利用権などで面倒くさくならないためにお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1e0e734c-f337-4b4c-9cc8-7f381923beb4",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> ゼミ輪講というカレンダーを松野研究室全員に共有してるはずですが、もしゼミ、輪講をやるのであれば大まかな時間を入れていただきたいです。\n別に同じ時間で被っても良いやと思うかもしれませんが、ぶっちゃけ2チームが話してるとうるさくて集中できなかったり、中央の机の利用権などで面倒くさくならないためにお願いします",
+    "ts": "1569847677.007000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wlzp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野先生\ncc:村上先生\n\n望月です。\nお世話になっております。\n\n下記、卒研松野研希望の該当学生に以下のメールを送りました。\n高橋先生とも相談し、私の方で一括で預かることにしました。\n\nで、添付のスケジュール案はあくまで形式的なものですが、\n10月のライントレースカー製作は彼らにもしてもらうとして、\n11月以降は私の講義、展示会などの見学＆それに関する発表ということで、\n極力負荷を減らす予定です。\n\nスケジュール内にある11月以降の個別ゼミは、\n望月ゼミ希望の学生に関しては私の方でコントロールしますが、\n上記学生は負荷も考慮して、\n別途、松野先生の考えている自主ゼミを以て振替にしようと考えてます。\n（スケジュールはあくまで形式的なものであり、\n回数、時期を制約するものではありませんので10月に実施したり、\n回数（3回）を増やすことは全く問題ありません。\nその辺は10月2日の顔合わせで少し相談させてください。）\n\nなお、最終1月9日のゼミ最終報告会は、\n松野先生の自主ゼミに関する発表で良いと\n金曜日に話した学生（大熊君、小林君、松岡君の3名？）には\n伝えてあります。\n\n以上、何かございましたら、ご連絡ください。\n何卒よろしくお願い申し上げます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4e38d4b-09ed-4ad1-8481-0f9b37840441",
+    "team": "T6WULA63S",
+    "text": "松野先生\ncc:村上先生\n\n望月です。\nお世話になっております。\n\n下記、卒研松野研希望の該当学生に以下のメールを送りました。\n高橋先生とも相談し、私の方で一括で預かることにしました。\n\nで、添付のスケジュール案はあくまで形式的なものですが、\n10月のライントレースカー製作は彼らにもしてもらうとして、\n11月以降は私の講義、展示会などの見学＆それに関する発表ということで、\n極力負荷を減らす予定です。\n\nスケジュール内にある11月以降の個別ゼミは、\n望月ゼミ希望の学生に関しては私の方でコントロールしますが、\n上記学生は負荷も考慮して、\n別途、松野先生の考えている自主ゼミを以て振替にしようと考えてます。\n（スケジュールはあくまで形式的なものであり、\n回数、時期を制約するものではありませんので10月に実施したり、\n回数（3回）を増やすことは全く問題ありません。\nその辺は10月2日の顔合わせで少し相談させてください。）\n\nなお、最終1月9日のゼミ最終報告会は、\n松野先生の自主ゼミに関する発表で良いと\n金曜日に話した学生（大熊君、小林君、松岡君の3名？）には\n伝えてあります。\n\n以上、何かございましたら、ご連絡ください。\n何卒よろしくお願い申し上げます。",
+    "ts": "1569847621.005800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yIQG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年ゼミに関して望月先生からです。2日は顔合わせして、予定を立てたいと思います。10月は望月研でライントレーシングをするみたいなので、松野研の自主ゼミは１〜２回ぐらいにして、その後、週１ペースでやろうと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7efccf0-8307-48c2-a26f-c4ec80b1106a",
+    "team": "T6WULA63S",
+    "text": "3年ゼミに関して望月先生からです。2日は顔合わせして、予定を立てたいと思います。10月は望月研でライントレーシングをするみたいなので、松野研の自主ゼミは１〜２回ぐらいにして、その後、週１ペースでやろうと思います。",
+    "ts": "1569847608.005400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SSCo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず顔合わせしようと思います。状況がまだよくわからないので村上先生と望月先生に相談して決めようと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6A2D5EC9-14B1-47C9-97AC-6AFE2138A4CE",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7",
+          "U97F49L68"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "とりあえず顔合わせしようと思います。状況がまだよくわからないので村上先生と望月先生に相談して決めようと思います",
+    "ts": "1569296530.023000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rHfaw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それで、我々はなにかしますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6983ebc4-4bc8-453b-abda-995d515c3595",
+    "team": "T6WULA63S",
+    "text": "それで、我々はなにかしますか？",
+    "ts": "1569296267.020600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ylSw5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺もうっかり忘れてました。。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "42ba5d54-bd61-4e9b-9055-3de27d540bd4",
+    "team": "T6WULA63S",
+    "text": "俺もうっかり忘れてました。。。。",
+    "ts": "1569295724.020000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HfER",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダー入れたのは俺ですが、完璧ではないので変わるか見つけ次第直していただきたいです。俺もなるべく気をつけます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4e2bfcc7-ad35-4073-b880-52d1f77e83ed",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "カレンダー入れたのは俺ですが、完璧ではないので変わるか見つけ次第直していただきたいです。俺もなるべく気をつけます",
+    "ts": "1569295602.019700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "caWTR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね。カレンダー直しておきました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "25DE129D-7692-49C0-B2FA-69654B9112BF",
+    "team": "T6WULA63S",
+    "text": "そうですね。カレンダー直しておきました",
+    "ts": "1569295528.018500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/oHSz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえばそうでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43e2c39e-61f2-4ab6-8bd6-1a00fa81ce7f",
+    "team": "T6WULA63S",
+    "text": "そういえばそうでした",
+    "ts": "1569295430.017800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D7hN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週　1日に内定式がある人が多いから\n2日の水曜になった筈",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AA6E34E1-E281-4601-935A-BD1956B6825D",
+    "team": "T6WULA63S",
+    "text": "来週　1日に内定式がある人が多いから\n2日の水曜になった筈",
+    "ts": "1569295384.016900",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t3NSF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週の全体会議火曜日になってますけど水曜日なんですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4416423-93f2-45ba-a733-6c96bab09ff1",
+    "team": "T6WULA63S",
+    "text": "来週の全体会議火曜日になってますけど水曜日なんですか？",
+    "ts": "1569294782.015000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/OPaA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全体会議も予定しているので一緒にやろうと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CC9F7EAE-C586-49AF-B7A5-5B29C11770ED",
+    "team": "T6WULA63S",
+    "text": "全体会議も予定しているので一緒にやろうと思います",
+    "ts": "1569294689.014000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IDfEc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえずこの時間に松野先生にビデオ会議をつないでもらう流れですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "205ad0e8-de15-4a55-80c1-9078cb959478",
+    "edited": {
+      "ts": "1569294501.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "とりあえずこの時間に松野先生にビデオ会議をつないでもらう流れですか",
+    "ts": "1569294490.012900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Puns",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スクリーンショット 2019-09-24 12.05.54.png",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "82ea62df-47b9-4cec-b151-e2327ec9cac8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FNN7ZP3SQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U97F49L68"
+        ]
+      }
+    ],
+    "text": "スクリーンショット 2019-09-24 12.05.54.png",
+    "ts": "1569294377.011000",
+    "type": "message",
+    "upload": true,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6pb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "DMはどうだろう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a48784d8-a47b-41f9-8db6-ed1e0b569b8c",
+    "team": "T6WULA63S",
+    "text": "DMはどうだろう",
+    "ts": "1569294338.010700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bDxa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "個チャだと他の人が見えないわけではない？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "97bdf382-cabc-4010-a806-b6f8f2974bb6",
+    "team": "T6WULA63S",
+    "text": "個チャだと他の人が見えないわけではない？",
+    "ts": "1569294326.010300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jgyi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/GJU672DKL/p1569293720002100"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d00b9a4c-1aa3-4e07-b0f6-6069d9addbbb",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/GJU672DKL/p1569293720002100>",
+    "ts": "1569294277.009300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dvF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一次会は津田沼からバスで\n二次会にもバス使って競馬場まで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5998a138-a831-4e38-85be-72e2ca6540e1",
+    "team": "T6WULA63S",
+    "text": "一次会は津田沼からバスで\n二次会にもバス使って競馬場まで",
+    "ts": "1568970313.009000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "client_msg_id": "4ce97045-e143-488d-874d-f4f7c8c5f530",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FNJQ2H6NQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1568969921.007900",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "client_msg_id": "e46ac0c6-3c26-4d65-8138-600da8633148",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FN7PTU4LT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1568969872.007600",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XX6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1次会は18時からスタート(要予約)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ef5e59a4-bcec-497c-8bc8-413d4890bf2e",
+    "team": "T6WULA63S",
+    "text": "1次会は18時からスタート(要予約)",
+    "ts": "1568969813.007500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P98",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最初からKURANDに行く場合は、食べるものも買う。\nそのための計画を立てるべき",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9cfa5547-c4b9-487e-a802-fd7d7d69be57",
+    "team": "T6WULA63S",
+    "text": "最初からKURANDに行く場合は、食べるものも買う。\nそのための計画を立てるべき",
+    "ts": "1568969482.006900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "日本酒専門店！KURAND SAKE MARKET ー日本酒100種類、飲み放題、時間無制限、持ち込み自由。",
+        "from_url": "https://kurand.jp/sakemarket/",
+        "id": 1,
+        "image_bytes": 22773,
+        "image_height": 250,
+        "image_url": "https://kurand.jp/wp-content/uploads/2019/07/tw_card_logo.jpg",
+        "image_width": 375,
+        "original_url": "https://kurand.jp/sakemarket/",
+        "service_icon": "https://kurand.jp/sakemarket/favicon.ico",
+        "service_name": "kurand.jp",
+        "text": "新しい日本酒との出会い。「KURAND SAKE MARKET」は日本酒100種類飲み放題、時間無制限、持ち込み自由が特長の日本酒専門店です。渋谷、新宿、池袋、上野、新橋、横浜に日本酒専門店を展開中。時間とお金を気にせず日本酒をお楽しみください。",
+        "title": "日本酒専門店！KURAND SAKE MARKET ー日本酒100種類、飲み放題、時間無制限、持ち込み自由。",
+        "title_link": "https://kurand.jp/sakemarket/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fSk=6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kurand.jp/sakemarket/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1bd78a1d-8e83-45b1-bc9c-a9e76a880c74",
+    "team": "T6WULA63S",
+    "text": "<https://kurand.jp/sakemarket/>",
+    "ts": "1568969054.005300",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KbR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "二次会\nKURAND　SAKE MARKET",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9e74c0ed-43ed-4994-a75f-5cf4f5d83b59",
+    "edited": {
+      "ts": "1568969039.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "二次会\nKURAND　SAKE MARKET",
+    "ts": "1568969002.005000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "サッポロビール株式会社: レストラン・その他施設紹介 | サッポロビール 千葉工場 | サッポロビール",
+        "from_url": "https://www.sapporobeer.jp/brewery/chiba/shisetsu/",
+        "id": 1,
+        "image_bytes": 13681,
+        "image_height": 250,
+        "image_url": "https://www.sapporobeer.jp/common/img/og-image.jpg",
+        "image_width": 476,
+        "original_url": "https://www.sapporobeer.jp/brewery/chiba/shisetsu/",
+        "service_icon": "https://www.sapporobeer.jp/icon/icon.png",
+        "service_name": "サッポロビール株式会社",
+        "text": "「:star:乾杯をもっとおいしく。」サッポロビールのレストラン・その他施設紹介のページです。黒ラベルやヱビスをはじめとした商品情報のほか、レシピやサッポロのお酒が飲めるお店情報、工場見学など、乾杯をもっとおいしくする情報をお届けします。",
+        "title": "レストラン・その他施設紹介 | サッポロビール 千葉工場 | サッポロビール",
+        "title_link": "https://www.sapporobeer.jp/brewery/chiba/shisetsu/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "hat",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.sapporobeer.jp/brewery/chiba/shisetsu/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e7e4b2db-675f-4a27-b37a-cb5166326cec",
+    "team": "T6WULA63S",
+    "text": "<https://www.sapporobeer.jp/brewery/chiba/shisetsu/>",
+    "ts": "1568968616.004600",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SSt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "10月15日",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a9ac8113-68d9-4530-a93d-e6d58a1b6e45",
+    "team": "T6WULA63S",
+    "text": "10月15日",
+    "ts": "1568968508.004200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bQYAP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず各学年のよくいる人と幹事の加地君を入れました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c2d86720-9e1a-4b3f-81a2-97a99dc12922",
+    "team": "T6WULA63S",
+    "text": "とりあえず各学年のよくいる人と幹事の加地君を入れました",
+    "ts": "1568966335.002900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NbJ0b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "DMで話してると全体に伝わらないことがあるので何か研究室の今後の決め事などがあるときはここで話してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a08be13f-8c1e-430e-a7ee-cc72c3fff135",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "DMで話してると全体に伝わらないことがあるので何か研究室の今後の決め事などがあるときはここで話してください",
+    "ts": "1568966312.002400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UD733MZHV> has joined the channel",
+    "ts": "1568966242.001200",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UH3155FA7> has joined the channel",
+    "ts": "1568966242.001000",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1568966242.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@U9KDDTMPZ> has joined the channel",
+    "ts": "1568966241.000600",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1568966241.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1568966241.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

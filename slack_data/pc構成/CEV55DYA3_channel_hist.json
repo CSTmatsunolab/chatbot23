@@ -1,0 +1,3993 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1605884461.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lpEC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いくねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6739fb0b-f21e-4b15-936b-c625e5e5aaaf",
+    "team": "T6WULA63S",
+    "text": "いくねー",
+    "ts": "1544867406.085500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "r=wa2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "何か機能発売されたっぽい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "717220c5-e7dc-4df0-8c06-e83f8a2417f9",
+    "team": "T6WULA63S",
+    "text": "何か機能発売されたっぽい",
+    "ts": "1544865108.085300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z6k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうせなら最新cpu行くか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ff5c42a-0551-494b-abbf-5345238e6b96",
+    "team": "T6WULA63S",
+    "text": "どうせなら最新cpu行くか",
+    "ts": "1544865097.085000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6co",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "CPU :Core i9 9900X(12,5906円(税込)TSUKUMO)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://shop.tsukumo.co.jp/goods/0735858401791/?cid=kakakukcom"
+              },
+              {
+                "text": "\n\nマザーボード :X299 AORUS MASTER [Extended ATX](48,680円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/6204949/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "55509316-4361-4ccc-bc3d-e2cada1c2893",
+    "team": "T6WULA63S",
+    "text": "CPU :Core i9 9900X(12,5906円(税込)TSUKUMO)\n<https://shop.tsukumo.co.jp/goods/0735858401791/?cid=kakakukcom>\n\nマザーボード :X299 AORUS MASTER [Extended ATX](48,680円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/6204949/>",
+    "ts": "1544865075.084500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F4O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野先生なら買ってくれるｗ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f7acc57-53f0-40a1-94a9-bef9c30045ce",
+    "team": "T6WULA63S",
+    "text": "松野先生なら買ってくれるｗ",
+    "ts": "1544864010.082300",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KBv=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "この2つで20万くらいするわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "47029f04-f60d-444f-af71-cc83db955696",
+    "team": "T6WULA63S",
+    "text": "この2つで20万くらいするわ",
+    "ts": "1544863993.081900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VFO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいんじゃない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fef97639-42d4-4f4e-bd41-f8e455c57c7f",
+    "team": "T6WULA63S",
+    "text": "いいんじゃない",
+    "ts": "1544863988.081700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7FWKM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とcore i9 7940xでいいかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e1ae07c3-e98c-476d-942f-1fe3e56da2cd",
+    "team": "T6WULA63S",
+    "text": "とcore i9 7940xでいいかな",
+    "ts": "1544863942.081100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "価格.com: GIGABYTE X299 AORUS MASTER [Rev.1.0] 価格比較",
+        "from_url": "http://kakaku.com/item/K0001112525/",
+        "id": 1,
+        "original_url": "http://kakaku.com/item/K0001112525/",
+        "service_icon": "http://kakaku.com/favicon.ico",
+        "service_name": "価格.com",
+        "text": "■最安価格(税込)：47,304円　■価格.com売れ筋ランキング：78位　■満足度レビュー：0人　■クチコミ：0件 （※12月15日時点）",
+        "thumb_height": 120,
+        "thumb_url": "https://img1.kakaku.k-img.com/images/productimage/l/K0001112525.jpg",
+        "thumb_width": 160,
+        "title": "GIGABYTE X299 AORUS MASTER [Rev.1.0] 価格比較",
+        "title_link": "http://kakaku.com/item/K0001112525/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "kPQZ/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://kakaku.com/item/K0001112525/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e5884b9a-afd6-4268-bc9b-50b0cc228a59",
+    "team": "T6WULA63S",
+    "text": "<http://kakaku.com/item/K0001112525/>",
+    "ts": "1544863921.080400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=Mp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえずいってみたら？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2f4dc9a4-0c34-4193-9bd8-0b0536d2d514",
+    "team": "T6WULA63S",
+    "text": "とりあえずいってみたら？",
+    "ts": "1544863778.080100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Q/s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Xシリーズお願いしたら通るかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a0e09495-c458-4d51-829a-bfb977846eeb",
+    "team": "T6WULA63S",
+    "text": "Xシリーズお願いしたら通るかな",
+    "ts": "1544863752.079600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y=3Cq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cpuとマザーボードもつけとくか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8ce8fdf5-aa2e-4bfc-9d32-0a445d20a478",
+    "team": "T6WULA63S",
+    "text": "cpuとマザーボードもつけとくか",
+    "ts": "1544863707.079100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3e0P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "何か50万超えてもいけるかもだって",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f324f78-f394-43fe-8516-954491fc5338",
+    "team": "T6WULA63S",
+    "text": "何か50万超えてもいけるかもだって",
+    "ts": "1544863670.078700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4dxdi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず松野先生に見せといた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "47a4a574-d1c4-4694-a8bd-c412a96f703a",
+    "team": "T6WULA63S",
+    "text": "とりあえず松野先生に見せといた",
+    "ts": "1544863395.078600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xuU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "メモリ追加しただけだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e484b4fb-5f06-409a-846e-4f242f22d016",
+    "team": "T6WULA63S",
+    "text": "メモリ追加しただけだけど",
+    "ts": "1544862529.078100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XRiMf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんなもんで良いかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c2f58959-f86b-4616-90ea-74a664d436c9",
+    "team": "T6WULA63S",
+    "text": "こんなもんで良いかな",
+    "ts": "1544862518.077800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "MSI Graphic Cards RTX 2080 TI SEA Hawk X",
+        "from_url": "https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ",
+        "id": 1,
+        "image_bytes": 21245,
+        "image_height": 250,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41dYe3bHTsL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(13%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ",
+        "service_icon": "https://www.amazon.com/favicon.ico",
+        "service_name": "amazon.com",
+        "text": "MSI Sea Hawk is the product of a revolutionary design with proven and Awarded technology, which just got faster with an upgrade to the RTX 20 Series. The result is one of the coolest and most silent graphics cards available on the market. Design with liquid cooling for the GPU and air cooling for...",
+        "title": "MSI Graphic Cards RTX 2080 TI SEA Hawk X",
+        "title_link": "https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "aSJc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPU :MSI Graphic Cards RTX 2080 TI SEA Hawk X($1,799.99 ",
+                "type": "text"
+              },
+              {
+                "text": "amazon.com",
+                "type": "link",
+                "url": "http://amazon.com"
+              },
+              {
+                "text": ")\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ"
+              },
+              {
+                "text": "\n\nNVlink bridge :MSI GeForce RTX NVLink GPU BRIDGE (11,977円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/6065091/"
+              },
+              {
+                "text": "\n\n電源ユニット :SST-ST1500-GS [1500W /ATX /Gold] (52,380円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/5764866/"
+              },
+              {
+                "text": "\n\nメモリ :CORSAIR DDR4 VENGEANCE LPX Series 16GB×2枚(40,824円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/3479726/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "516cc359-a69b-4866-8337-ca86cceb8995",
+    "team": "T6WULA63S",
+    "text": "GPU :MSI Graphic Cards RTX 2080 TI SEA Hawk X($1,799.99 <http://amazon.com|amazon.com>)\n<https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ>\n\nNVlink bridge :MSI GeForce RTX NVLink GPU BRIDGE (11,977円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/6065091/>\n\n電源ユニット :SST-ST1500-GS [1500W /ATX /Gold] (52,380円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/5764866/>\n\nメモリ :CORSAIR DDR4 VENGEANCE LPX Series 16GB×2枚(40,824円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/3479726/>",
+    "ts": "1544862509.077500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JbU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分それだったきがする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f78e408b-d3e5-4a12-bc32-d3122b0fa89b",
+    "team": "T6WULA63S",
+    "text": "多分それだったきがする",
+    "ts": "1544861359.074400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6ZMK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応sliに対応してるっぽい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7ec5d74-86b3-4890-b356-018549ed74e1",
+    "team": "T6WULA63S",
+    "text": "一応sliに対応してるっぽい",
+    "ts": "1544861212.073900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ASUSTeK Intel Z270搭載マザーボード LGA1151対応 ROG MAXIMUS IX HERO 【ATX】",
+        "from_url": "https://www.amazon.co.jp/Z270%E6%90%AD%E8%BC%89%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-ROG-MAXIMUS-IX-HERO/dp/B01NBHXSP6",
+        "id": 1,
+        "image_bytes": 18541,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51OzmR%2BP4fL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(51%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/Z270%E6%90%AD%E8%BC%89%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-ROG-MAXIMUS-IX-HERO/dp/B01NBHXSP6",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "●《ROG AURA》各パーツと連動可能なLEDの光り方をコントロール可能。●《5-Wayオプティマイゼーション》ワンクリックでオーバークロック設定、ファン設定、搭載時は水冷設定も自動で最適化。●《優れたゲーミングネットワーク機能》Intel製LANチップ搭載。●ネットワークゲームの通信優先度を高める「GameFirst IV」機能を搭載。●《高音質ゲーミングオーディオ機能》SupremeFX、Sonic Studio III。●《USB 3.1ポート搭載》Type-A+リバーシブル対応のType-C ポート搭載。",
+        "title": "ASUSTeK Intel Z270搭載マザーボード LGA1151対応 ROG MAXIMUS IX HERO 【ATX】",
+        "title_link": "https://www.amazon.co.jp/Z270%E6%90%AD%E8%BC%89%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-ROG-MAXIMUS-IX-HERO/dp/B01NBHXSP6"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "K+3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/Z270%E6%90%AD%E8%BC%89%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-ROG-MAXIMUS-IX-HERO/dp/B01NBHXSP6"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "99e07e5e-aae4-4ea1-946c-914a80b5cd33",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/Z270%E6%90%AD%E8%BC%89%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-ROG-MAXIMUS-IX-HERO/dp/B01NBHXSP6>",
+    "ts": "1544861134.073400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tcdo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今のマザーボードって多分これだよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c04bf0e5-d07f-4b35-8058-9d5900c35aff",
+    "team": "T6WULA63S",
+    "text": "今のマザーボードって多分これだよね",
+    "ts": "1544861132.073200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "igR5r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "760682a3-d476-41b2-882f-35f3cc33db04",
+    "team": "T6WULA63S",
+    "text": "わかった",
+    "ts": "1544860906.072500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "68r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cpuとマザーボードのアップグレード見送って2080ti買うべ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "07cde88f-4d7e-4ca8-a0a4-2aa89a1bdba5",
+    "team": "T6WULA63S",
+    "text": "cpuとマザーボードのアップグレード見送って2080ti買うべ",
+    "ts": "1544860866.072200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2=sMS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "RTX 2080でも一応nvlink対応してるけどどぅーする？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eec36296-c09c-45c5-9e89-e548b6d5d263",
+    "team": "T6WULA63S",
+    "text": "RTX 2080でも一応nvlink対応してるけどどぅーする？",
+    "ts": "1544860785.071500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LYyw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そんなもんかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b019a6bd-3378-47e1-8b37-a04c9dbcdad4",
+    "team": "T6WULA63S",
+    "text": "そんなもんかな",
+    "ts": "1544860563.070800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oacI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "20万くらいか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9de5612b-1ec0-402a-966b-9abc70e2c428",
+    "team": "T6WULA63S",
+    "text": "20万くらいか？",
+    "ts": "1544860550.070600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w4N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たっか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f12fec55-d3b1-457a-bab5-05fc58efb07b",
+    "team": "T6WULA63S",
+    "text": "たっか",
+    "ts": "1544860463.070200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j4bA6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85005f7d-9a26-4d1f-8e06-5229829a5f51",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.com/MSI-RTX-2080-TI-SEA/dp/B07KD3GXJQ>",
+    "ts": "1544860449.069700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pNw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ほんとだ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a487e106-89e1-4c09-adfb-2b370f893824",
+    "team": "T6WULA63S",
+    "text": "ほんとだ",
+    "ts": "1544860414.068800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pYF8r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よく見たらGPUが2080やんけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "250424c5-4340-4fe4-a67a-a8f23b2dfc86",
+    "team": "T6WULA63S",
+    "text": "よく見たらGPUが2080やんけ",
+    "ts": "1544860340.068500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DuUc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SSDとメモリ足しても20万はいかないだろうし新規で作っちゃっても良さそうだな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68b439a8-c7b4-4b88-b215-b9bba9d27b75",
+    "team": "T6WULA63S",
+    "text": "SSDとメモリ足しても20万はいかないだろうし新規で作っちゃっても良さそうだな",
+    "ts": "1544857186.067900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "61xKB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野先生がbigcameraなら学校で買いやすいって言ってたからbigcameraで調べたけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "51f7ad58-6bbd-4aaf-bb0e-492d9203675a",
+    "team": "T6WULA63S",
+    "text": "松野先生がbigcameraなら学校で買いやすいって言ってたからbigcameraで調べたけど",
+    "ts": "1544855222.066600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ビックカメラ.com: ビックカメラ.com - Intel Core i7-8086K",
+        "from_url": "https://www.biccamera.com/bc/item/5248814/",
+        "id": 1,
+        "original_url": "https://www.biccamera.com/bc/item/5248814/",
+        "service_icon": "https://www.biccamera.com/bc/resources4/common/img/favicon.ico",
+        "service_name": "ビックカメラ.com",
+        "text": "インテルIntel Core i7-8086Kの購入ならビックカメラ公式通販サイト。価格、スペック情報、レビュー情報もあります。お店で貯めたポイントも使えます！",
+        "thumb_height": 320,
+        "thumb_url": "https://image.biccamera.com/img/00000005248814_A01.jpg?sr.dw=320&sr.dh=320&sr.jqh=60&sr.mat=1",
+        "thumb_width": 320,
+        "title": "ビックカメラ.com - Intel Core i7-8086K",
+        "title_link": "https://www.biccamera.com/bc/item/5248814/"
+      },
+      {
+        "fallback": "ビックカメラ.com: ビックカメラ.com - Intel Z370チップセット搭載 第8世代インテルCoreプロセッサー対応　GIGABYTEマザーボード　Z370 AORUS Ultra Gaming",
+        "from_url": "https://www.biccamera.com/bc/item/3867453/",
+        "id": 2,
+        "original_url": "https://www.biccamera.com/bc/item/3867453/",
+        "service_icon": "https://www.biccamera.com/bc/resources4/common/img/favicon.ico",
+        "service_name": "ビックカメラ.com",
+        "text": "第8世代インテルCoreプロセッサー対応のGIGABYTE　AROUS Gaming マザーボード",
+        "thumb_height": 320,
+        "thumb_url": "https://image.biccamera.com/img/00000003867453_A01.jpg?sr.dw=320&sr.dh=320&sr.jqh=60&sr.mat=1",
+        "thumb_width": 320,
+        "title": "ビックカメラ.com - Intel Z370チップセット搭載 第8世代インテルCoreプロセッサー対応　GIGABYTEマザーボード　Z370 AORUS Ultra Gaming",
+        "title_link": "https://www.biccamera.com/bc/item/3867453/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "HIk6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPU :MSI RTX 2080 SEA Hawk X Gaming GeForce 256-bit HDMI/DP/USB 3.1 Ray Tracing Turing Architecture Graphics Card  ($869.00 amazon)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.com/MSI-RTX-2080-SEA-Architecture/dp/B07HSQD597"
+              },
+              {
+                "text": "\n\nCPU :Core i7 8086K (56,948円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/5248814/"
+              },
+              {
+                "text": "\n\nマザーボード :Gigabyte AORUS Ultra Gaming (25,034円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/3867453/"
+              },
+              {
+                "text": "\n\nNVlink bridge :MSI GeForce RTX NVLink GPU BRIDGE (11,977円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/6065091/"
+              },
+              {
+                "text": "\n\n電源ユニット :SST-ST1500-GS [1500W /ATX /Gold] (52,380円(税込)bigcamera)\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.biccamera.com/bc/item/5764866/"
+              },
+              {
+                "text": "\n\nマザボとcpuは小池に任せるけどとりあえずこれで34万ぐらいなんだけど他のパーツ買って1台全部作る？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "66061598-96e7-4269-8e32-f7086e0a31b3",
+    "team": "T6WULA63S",
+    "text": "GPU :MSI RTX 2080 SEA Hawk X Gaming GeForce 256-bit HDMI/DP/USB 3.1 Ray Tracing Turing Architecture Graphics Card  ($869.00 amazon)\n<https://www.amazon.com/MSI-RTX-2080-SEA-Architecture/dp/B07HSQD597>\n\nCPU :Core i7 8086K (56,948円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/5248814/>\n\nマザーボード :Gigabyte AORUS Ultra Gaming (25,034円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/3867453/>\n\nNVlink bridge :MSI GeForce RTX NVLink GPU BRIDGE (11,977円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/6065091/>\n\n電源ユニット :SST-ST1500-GS [1500W /ATX /Gold] (52,380円(税込)bigcamera)\n<https://www.biccamera.com/bc/item/5764866/>\n\nマザボとcpuは小池に任せるけどとりあえずこれで34万ぐらいなんだけど他のパーツ買って1台全部作る？",
+    "ts": "1544855099.065500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6QW94",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本格水冷は難しそうだし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "30501d8f-5b45-4308-8a80-99e55925c104",
+    "team": "T6WULA63S",
+    "text": "本格水冷は難しそうだし",
+    "ts": "1544853157.065300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n5v=Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それで良いか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3c0f6269-5951-41fb-95a6-9492a772ecec",
+    "team": "T6WULA63S",
+    "text": "それで良いか",
+    "ts": "1544853144.064900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1SP0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあこれにMSI GeForce RTX NVLink GPU BRIDGE　つけるか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c4d410ae-3131-495e-91ed-42c816766f24",
+    "team": "T6WULA63S",
+    "text": "じゃあこれにMSI GeForce RTX NVLink GPU BRIDGE　つけるか",
+    "ts": "1544853101.064500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BIYZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "二枚刺しでもファンが伸びてるから大丈夫そう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48bada15-0ddd-4386-af1c-e564fa073aa9",
+    "team": "T6WULA63S",
+    "text": "二枚刺しでもファンが伸びてるから大丈夫そう",
+    "ts": "1544852948.063900",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4ppyA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいっすね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5079b58e-6d12-401f-a48d-26f0042c829e",
+    "team": "T6WULA63S",
+    "text": "いいっすね",
+    "ts": "1544852902.063200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BlzUU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "空冷と水冷のハイブリッド",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a1cab06f-36f4-4866-aa24-1ff8b5526968",
+    "team": "T6WULA63S",
+    "text": "空冷と水冷のハイブリッド",
+    "ts": "1544852867.062900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qSYo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちの方が良いかも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2b6a63f8-675f-4653-9704-e7b927aa3d7e",
+    "team": "T6WULA63S",
+    "text": "こっちの方が良いかも",
+    "ts": "1544852840.062400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GeForce RTX 2080 Ti SEA HAWK X | Graphics card - The world leader in display performance | MSI Global",
+        "from_url": "https://www.msi.com/Graphics-card/GeForce-RTX-2080-Ti-SEA-HAWK-X/",
+        "id": 1,
+        "image_bytes": 693271,
+        "image_height": 250,
+        "image_url": "https://asset.msi.com/resize/image/global/product/product_10_20180919183733_5ba226edab211.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "image_width": 313,
+        "original_url": "https://www.msi.com/Graphics-card/GeForce-RTX-2080-Ti-SEA-HAWK-X/",
+        "service_icon": "https://www.msi.com/favicon.ico?ver=201708",
+        "service_name": "msi.com",
+        "text": "MSI designs and creates top-tier gaming gear for gamers.",
+        "title": "GeForce RTX 2080 Ti SEA HAWK X | Graphics card - The world leader in display performance | MSI Global",
+        "title_link": "https://www.msi.com/Graphics-card/GeForce-RTX-2080-Ti-SEA-HAWK-X/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "JDP59",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.msi.com/Graphics-card/GeForce-RTX-2080-Ti-SEA-HAWK-X/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e204d8f1-5750-4e74-8c7b-4c14cfd895b9",
+    "team": "T6WULA63S",
+    "text": "<https://www.msi.com/Graphics-card/GeForce-RTX-2080-Ti-SEA-HAWK-X/>",
+    "ts": "1544852835.062200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q1zO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すげぇコンなんあるんだ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9b9cddd-e363-4fec-a92c-3d59bc8f4e0d",
+    "team": "T6WULA63S",
+    "text": "すげぇコンなんあるんだ",
+    "ts": "1544852817.062000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g/x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2つ水冷買うんだったら",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "990f9b44-7f2e-418c-bb46-966251e838b8",
+    "team": "T6WULA63S",
+    "text": "2つ水冷買うんだったら",
+    "ts": "1544852712.061600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VZG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最初から水冷のやつ買ってもいいと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2c2991a5-8625-452d-9d1b-d5f1376bba8d",
+    "team": "T6WULA63S",
+    "text": "最初から水冷のやつ買ってもいいと思う",
+    "ts": "1544852693.061200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GIGABYTE: AORUS GeForce RTX™ 2080 Ti XTREME WATERFORCE 11G | グラフィックスカード - GIGABYTE Japan",
+        "from_url": "https://www.gigabyte.com/jp/Graphics-Card/GV-N208TAORUSX-W-11GC#sp",
+        "id": 1,
+        "image_bytes": 133931,
+        "image_height": 250,
+        "image_url": "https://static.gigabyte.com/Product/3/6773/2018111615025347_big.png",
+        "image_width": 250,
+        "original_url": "https://www.gigabyte.com/jp/Graphics-Card/GV-N208TAORUSX-W-11GC#sp",
+        "service_icon": "https://www.gigabyte.com/Images/Apple-Touch-Icon/apple-touch-icon.png",
+        "service_name": "GIGABYTE",
+        "text": "::selection { color: rgba(255, 100, 0, 1); background: rgba(0, 0, 0, .5); } Features Powered by GeForce RTX™ 2080 Ti Integrated with 11GB GDDR6 352-bit memory interface WATERFORCE all-in-one cooling system 240mm radiator with 2x 120mm RGB fans 7 Video Outputs RGB Fusion – 16.7M customizable color lighting Metal Back Plate with RGB AORUS LOGO Illumination Built for Extreme Overclocking 16+3 Power Phases 4 Years Warranty (Online registration required) Core Clock 1770 MHz (Reference card: 1545 MHz)",
+        "title": "AORUS GeForce RTX™ 2080 Ti XTREME WATERFORCE 11G | グラフィックスカード - GIGABYTE Japan",
+        "title_link": "https://www.gigabyte.com/jp/Graphics-Card/GV-N208TAORUSX-W-11GC#sp"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "s5If",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.gigabyte.com/jp/Graphics-Card/GV-N208TAORUSX-W-11GC#sp"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3a8ad9d-2283-46f7-b93c-1fdb26c9e5e9",
+    "team": "T6WULA63S",
+    "text": "<https://www.gigabyte.com/jp/Graphics-Card/GV-N208TAORUSX-W-11GC#sp>",
+    "ts": "1544852661.060300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OCg8T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "場所なー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3c5a0feb-dfe3-498a-b0d3-103c8b3e6965",
+    "team": "T6WULA63S",
+    "text": "場所なー",
+    "ts": "1544852104.060100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jUX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "場所があるかどうかは別として",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a7684ea-4913-4d1f-a7d9-419aca11155e",
+    "team": "T6WULA63S",
+    "text": "場所があるかどうかは別として",
+    "ts": "1544852037.059700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PdnT8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一番簡単なのはAlphacoolのやつを2個買うことかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90ead50a-92d7-45ea-bcdd-233fda256234",
+    "team": "T6WULA63S",
+    "text": "一番簡単なのはAlphacoolのやつを2個買うことかな",
+    "ts": "1544852022.059200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+fWKS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どっちにしろsliで繋がなきゃいけないから駄目だわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3d161c56-4821-41ba-a21b-758354fcd839",
+    "team": "T6WULA63S",
+    "text": "どっちにしろsliで繋がなきゃいけないから駄目だわ",
+    "ts": "1544851963.058200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aw5QF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ井出ちゃんが挙げたやつの方が簡単ではある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d59926b9-d9f5-48f8-984f-58f8a8b65382",
+    "team": "T6WULA63S",
+    "text": "まあ井出ちゃんが挙げたやつの方が簡単ではある",
+    "ts": "1544851854.057400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Si1n3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本体には入ってると思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "abc012b3-1318-415d-b750-abdae5b69ced",
+    "team": "T6WULA63S",
+    "text": "本体には入ってると思う",
+    "ts": "1544851815.056700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ITkGX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ブロックの方にだね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85e60f54-1570-4fac-be55-b82859bc58e0",
+    "team": "T6WULA63S",
+    "text": "ブロックの方にだね",
+    "ts": "1544851769.056100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XR8D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見たら水自分で入れてね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e669668e-a553-44db-9a46-9f3ba97fd7e2",
+    "team": "T6WULA63S",
+    "text": "見たら水自分で入れてね",
+    "ts": "1544851691.055700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xyh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さっきの小池の",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "http://blog.livedoor.jp/wisteriear/archives/1061491949.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a278f810-17c6-4dfb-9f11-92865a9ed91d",
+    "team": "T6WULA63S",
+    "text": "さっきの小池の<http://blog.livedoor.jp/wisteriear/archives/1061491949.html>",
+    "ts": "1544851644.055000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FM++",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分で水入れるんか?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f0c7e2ba-2182-4218-a8bc-6e3b5a9fc31b",
+    "team": "T6WULA63S",
+    "text": "自分で水入れるんか?",
+    "ts": "1544851432.054600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "自作とゲームと趣味の日々: AlphacoolからRTX 2080 Tiを水冷化するAIOキット「Eiswolf 240 GPX Pro Nvidia Geforce RTX 2080Ti - black M01」が発売 : 自作とゲームと趣味の日々",
+        "from_url": "http://blog.livedoor.jp/wisteriear/archives/1072245595.html",
+        "id": 1,
+        "image_bytes": 9675,
+        "image_height": 145,
+        "image_url": "http://livedoor.blogimg.jp/wisteriear/imgs/7/2/72674f92-s.jpg",
+        "image_width": 217,
+        "original_url": "http://blog.livedoor.jp/wisteriear/archives/1072245595.html",
+        "service_icon": "http://livedoor.blogimg.jp/wisteriear/imgs/7/e/favicon.ico",
+        "service_name": "自作とゲームと趣味の日々",
+        "text": "AlphacoolからNVIDIAの次世代GPU RTX 20XXシリーズの最上位モデルRTX 2080 Tiを水冷化するAIOキット「Alphacool Eiswolf 240 GPX Pro Nvidia Geforce RTX 2080Ti - black M01」が発売",
+        "title": "AlphacoolからRTX 2080 Tiを水冷化するAIOキット「Eiswolf 240 GPX Pro Nvidia Geforce RTX 2080Ti - black M01」が発売 : 自作とゲームと趣味の日々",
+        "title_link": "http://blog.livedoor.jp/wisteriear/archives/1072245595.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cWW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://blog.livedoor.jp/wisteriear/archives/1072245595.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d0bb75ec-5622-4a68-876a-f97ad12b53c5",
+    "team": "T6WULA63S",
+    "text": "<http://blog.livedoor.jp/wisteriear/archives/1072245595.html>",
+    "ts": "1544851039.053700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c9=E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "って書いてあるんだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5ceefd2d-03bf-4e3c-8d1b-92dee2192736",
+    "team": "T6WULA63S",
+    "text": "って書いてあるんだけど",
+    "ts": "1544851006.053300",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6gVz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さっきのやつは一般的な簡易水冷CPUクーラー同様にGPU水冷ブロックに水冷ポンプが内蔵されており、チューブで水冷ラジエーターが接続されクーラントが充填された状態でユーザーの元に届くのでグラフィックボードのクーラーを換装するだけで簡単に使用できるというお手軽な製品になっています。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d373602c-3283-438f-91d1-c8d2940ecfe0",
+    "team": "T6WULA63S",
+    "text": "さっきのやつは一般的な簡易水冷CPUクーラー同様にGPU水冷ブロックに水冷ポンプが内蔵されており、チューブで水冷ラジエーターが接続されクーラントが充填された状態でユーザーの元に届くのでグラフィックボードのクーラーを換装するだけで簡単に使用できるというお手軽な製品になっています。",
+    "ts": "1544850999.053100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+4L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPU水冷の話に戻るんだけど小池があげてくれたやつ自分で水入れるの若干怖めでめんどくさそうなんだけど組めそう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c6455d83-951c-414e-9b8b-fa4966fe0e6b",
+    "team": "T6WULA63S",
+    "text": "GPU水冷の話に戻るんだけど小池があげてくれたやつ自分で水入れるの若干怖めでめんどくさそうなんだけど組めそう？",
+    "ts": "1544850937.052700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MJBWt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9944583d-7ca5-4500-8ec8-d5b311a470b6",
+    "team": "T6WULA63S",
+    "text": "なるほど",
+    "ts": "1544850643.051000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P/R8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いや、デフォルト値も引き上げられてる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a5a45de-6257-4edb-9fd4-b7d0801a22ca",
+    "team": "T6WULA63S",
+    "text": "いや、デフォルト値も引き上げられてる",
+    "ts": "1544850633.050800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4VP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "OCしないと持ち腐れになるのかな？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e00605b2-dfaa-462e-abf1-b8a9f15b053e",
+    "team": "T6WULA63S",
+    "text": "OCしないと持ち腐れになるのかな？",
+    "ts": "1544850545.050200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pE5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "27d959a7-99ea-427f-807f-4fcaf4329e47",
+    "team": "T6WULA63S",
+    "text": "そう",
+    "ts": "1544850520.049800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dsKzl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "OCモデルってover clockってこと？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "49a5b086-5577-4d1a-bf19-2c59bd60817c",
+    "team": "T6WULA63S",
+    "text": "OCモデルってover clockってこと？",
+    "ts": "1544850511.049600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wAU6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "基本的にOCモデルってのが性能高い",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "031a8166-3802-49d3-be3f-67ab30ad7e56",
+    "team": "T6WULA63S",
+    "text": "基本的にOCモデルってのが性能高い",
+    "ts": "1544850443.049200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "goA6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さっき杉田くんがあげてた・MSI GeForce RTX 2080 Ti GAMING X TRIOは一番良さげだけど水冷対応してない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "894db2b8-be49-4314-9440-53cfe53e0a6f",
+    "team": "T6WULA63S",
+    "text": "さっき杉田くんがあげてた・MSI GeForce RTX 2080 Ti GAMING X TRIOは一番良さげだけど水冷対応してない",
+    "ts": "1544850359.048600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ITハンドブック: 【2018年最新版】おすすめTuring世代GeForceグラボの選び方と性能比較　RTX2080Ti,2080,2070をFLOPS値でランキング評価",
+        "from_url": "http://arbitrage.jpn.org/it/nvidia-turing-gen-gpu/#1_15450TFlops_1775MHzRTX2080Ti",
+        "id": 1,
+        "original_url": "http://arbitrage.jpn.org/it/nvidia-turing-gen-gpu/#1_15450TFlops_1775MHzRTX2080Ti",
+        "service_name": "ITハンドブック",
+        "text": "グラボを選択する上での指標は「性能」「静音性」「信頼性(可用性)」「低消費電力性」「省スペース性」など数多くあります。その中で「性能」に焦点をあててサーベイした結果をまとめています。理由は高性能なグラボを私自身が探しているからです。仮想通貨",
+        "thumb_height": 450,
+        "thumb_url": "http://arbitrage.jpn.org/it/wp-content/uploads/sites/45/2018/09/513G1nfPujL.jpg",
+        "thumb_width": 500,
+        "title": "【2018年最新版】おすすめTuring世代GeForceグラボの選び方と性能比較　RTX2080Ti,2080,2070をFLOPS値でランキング評価",
+        "title_link": "http://arbitrage.jpn.org/it/nvidia-turing-gen-gpu/#1_15450TFlops_1775MHzRTX2080Ti"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "=Z8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://arbitrage.jpn.org/it/nvidia-turing-gen-gpu/#1_15450TFlops_1775MHzRTX2080Ti"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58385a8c-1b8c-4ab6-ae92-403c4e2ecce5",
+    "team": "T6WULA63S",
+    "text": "<http://arbitrage.jpn.org/it/nvidia-turing-gen-gpu/#1_15450TFlops_1775MHzRTX2080Ti>",
+    "ts": "1544850300.048000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gXlg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPUの性能評価はこのページ見たんだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a9291241-c18a-4ee5-a8f7-6642e2c9233d",
+    "team": "T6WULA63S",
+    "text": "GPUの性能評価はこのページ見たんだけど",
+    "ts": "1544850297.047800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IHV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応ASUSとMSIの正規ブリッジもあるな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f224f24f-9296-4b4a-beec-bd6ccf17e961",
+    "team": "T6WULA63S",
+    "text": "一応ASUSとMSIの正規ブリッジもあるな",
+    "ts": "1544850193.047400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U+L5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たぶｎ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58075891-89cb-4201-9e2c-6e60f1c8e1b5",
+    "team": "T6WULA63S",
+    "text": "たぶｎ",
+    "ts": "1544850160.046800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rGK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "同じやつなら大丈夫か",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dd8ca243-f7b6-4b9e-83f2-5af2bad02198",
+    "team": "T6WULA63S",
+    "text": "同じやつなら大丈夫か",
+    "ts": "1544850151.046500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8G4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ参考にしてみたんだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6b170ba6-ff62-44cb-b5b1-8ecf20d54d9e",
+    "team": "T6WULA63S",
+    "text": "これ参考にしてみたんだけど",
+    "ts": "1544850075.045700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ちもろぐ: 「NVLink SLI」を検証：RTX 2080 Tiの2枚挿しで2倍の性能？",
+        "from_url": "https://chimolog.co/bto-gpu-nvlink-sli-guide/",
+        "id": 1,
+        "image_bytes": 42585,
+        "image_height": 250,
+        "image_url": "https://chimolog.co/wp-content/uploads/2018/11/NVLink-SLI-Guide-tw.jpg",
+        "image_width": 480,
+        "original_url": "https://chimolog.co/bto-gpu-nvlink-sli-guide/",
+        "service_icon": "https://chimolog.co/wp-content/uploads/2016/09/AppleIcon.png",
+        "service_name": "ちもろぐ",
+        "text": "最新のRTXシリーズからはNVIDIAは「SLI」の後継技術として「NVLink SLI」を投入。強化されたリンク帯域幅やVRAM倍増効果、2枚のGPUを1枚に見せる性質など。新しい特徴を持つ「NVLink SLI」ですが、実際のところはどれほどの効果があるのか。使い方と性能を解説します。",
+        "title": "「NVLink SLI」を検証：RTX 2080 Tiの2枚挿しで2倍の性能？",
+        "title_link": "https://chimolog.co/bto-gpu-nvlink-sli-guide/",
+        "ts": 1543177571
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "FT3B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://chimolog.co/bto-gpu-nvlink-sli-guide/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "09d92b6e-bbd1-49d9-94bc-d657707b54fb",
+    "team": "T6WULA63S",
+    "text": "<https://chimolog.co/bto-gpu-nvlink-sli-guide/>",
+    "ts": "1544850067.045300",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZH2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よくわからないんだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bf5f95ae-e073-49fd-a383-ce74153bceee",
+    "team": "T6WULA63S",
+    "text": "よくわからないんだけど",
+    "ts": "1544849987.044900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JLV8l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3スロットでマザーボードに合うん?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c4dc783-40c6-4468-987f-8ce5b82518fd",
+    "team": "T6WULA63S",
+    "text": "3スロットでマザーボードに合うん?",
+    "ts": "1544849976.044600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7342m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ZOTAC GAMING NVLink Bridge (3-Slot)か",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dd852ed2-ef67-4279-b9c4-cc044cd81544",
+    "team": "T6WULA63S",
+    "text": "ZOTAC GAMING NVLink Bridge (3-Slot)か",
+    "ts": "1544849906.044000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Edw22",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とかどう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "efc62369-8fee-4205-b00b-bdf92185a0fa",
+    "team": "T6WULA63S",
+    "text": "とかどう？",
+    "ts": "1544849877.043700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y5L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPU:EVGA GeForce RTX 2080 Ti XC GAMING, 11GB GDDR6, Dual HDB Fans & RGB LED Graphics Card 11G-P4-2382-KR（個人輸入だが水冷のためにGPUクーラー取り外しても正規保証受けられる）+nvidia正規ブリッジ\n\nor\nZOTAC GAMING GeForce RTX 2080 Ti AMP! (ZT-T20810D-10P)17万くらい+ブリッジ：ZOTAC GAMING NVLink Bridge (4-Slot)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "257b90a0-d0fd-4e48-8621-51d609c03639",
+    "team": "T6WULA63S",
+    "text": "GPU:EVGA GeForce RTX 2080 Ti XC GAMING, 11GB GDDR6, Dual HDB Fans &amp; RGB LED Graphics Card 11G-P4-2382-KR（個人輸入だが水冷のためにGPUクーラー取り外しても正規保証受けられる）+nvidia正規ブリッジ\n\nor\nZOTAC GAMING GeForce RTX 2080 Ti AMP! (ZT-T20810D-10P)17万くらい+ブリッジ：ZOTAC GAMING NVLink Bridge (4-Slot)",
+    "ts": "1544849873.043500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+2x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ2080tiのフルカバー水冷ブロック",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3ef6f4ca-d5f3-4297-a355-10104a1c1580",
+    "team": "T6WULA63S",
+    "text": "これ2080tiのフルカバー水冷ブロック",
+    "ts": "1544849652.042900",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+3N+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それがいいかもね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "24243f6f-60c1-4c4f-ab45-ac4a768111c5",
+    "team": "T6WULA63S",
+    "text": "それがいいかもね",
+    "ts": "1544849646.042700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5moe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "選ぶ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89a10a7b-a65e-44f2-b6fe-b79e4a1e2ba6",
+    "team": "T6WULA63S",
+    "text": "選ぶ？",
+    "ts": "1544849587.041900",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ujdBn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "この2080ti用のリストからGPU",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0178b7e3-cea6-43b9-9daf-c17f924b19bb",
+    "team": "T6WULA63S",
+    "text": "この2080ti用のリストからGPU",
+    "ts": "1544849581.041600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/+qGQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.ekwb.com/configurator/waterblock/3831109810477"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e608657e-b4ec-4089-ace2-873290e3ccfd",
+    "team": "T6WULA63S",
+    "text": "<https://www.ekwb.com/configurator/waterblock/3831109810477>",
+    "ts": "1544849566.041200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DbJa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "水冷の本体だけこれにして",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cded8d40-508e-4b09-8818-3c22981a9211",
+    "team": "T6WULA63S",
+    "text": "水冷の本体だけこれにして",
+    "ts": "1544849564.041000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bZzZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "836418ce-7f17-4d8e-9b42-e6282e6448a5",
+    "team": "T6WULA63S",
+    "text": "なるほど",
+    "ts": "1544849528.040200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4LfG8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここのメーカーが水冷に関しては一番いいらしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58b02f53-62d2-4f66-b7c4-af6b34e06872",
+    "team": "T6WULA63S",
+    "text": "ここのメーカーが水冷に関しては一番いいらしい",
+    "ts": "1544849488.040000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HhZb5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本体部分だけでブロックは別で買える",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4b0920b-2b3d-4396-bc62-e87ea03d0e99",
+    "team": "T6WULA63S",
+    "text": "本体部分だけでブロックは別で買える",
+    "ts": "1544849463.039300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ati9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2080TiじゃないとNVlink bridge 使えなくね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ef9fdff-829f-45ff-9ee8-83422667075d",
+    "team": "T6WULA63S",
+    "text": "2080TiじゃないとNVlink bridge 使えなくね",
+    "ts": "1544849445.038600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mwtp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1080か",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f2e538a6-5a4f-4dfe-a554-32924900771a",
+    "team": "T6WULA63S",
+    "text": "1080か",
+    "ts": "1544849381.037500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TEI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ１０８０Tiだよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4df8b580-d944-4de1-aefb-da04652dd1c4",
+    "team": "T6WULA63S",
+    "text": "これ１０８０Tiだよね",
+    "ts": "1544849362.037300",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kpzi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分見たと思うけどこれをsli仕様に出来ないかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5772ed4b-147f-4bc3-a6ed-90da35b1a704",
+    "team": "T6WULA63S",
+    "text": "多分見たと思うけどこれをsli仕様に出来ないかな",
+    "ts": "1544849287.037000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yxkP0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これにのってない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4dea93a6-7c08-4093-899e-a36cbbfaac2d",
+    "team": "T6WULA63S",
+    "text": "これにのってない",
+    "ts": "1544849272.036500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "自作とゲームと趣味の日々: 【できる！水冷グラボ】 EK-XLC PredatorとKoolance製QDで簡単導入 : 自作とゲームと趣味の日々",
+        "from_url": "http://blog.livedoor.jp/wisteriear/archives/1061491949.html",
+        "id": 1,
+        "image_bytes": 142363,
+        "image_height": 250,
+        "image_url": "http://livedoor.blogimg.jp/wisteriear/imgs/e/4/e47ac92a.jpg",
+        "image_width": 467,
+        "original_url": "http://blog.livedoor.jp/wisteriear/archives/1061491949.html",
+        "service_icon": "http://livedoor.blogimg.jp/wisteriear/imgs/7/e/favicon.ico",
+        "service_name": "自作とゲームと趣味の日々",
+        "title": "【できる！水冷グラボ】 EK-XLC PredatorとKoolance製QDで簡単導入 : 自作とゲームと趣味の日々",
+        "title_link": "http://blog.livedoor.jp/wisteriear/archives/1061491949.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "K11",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://blog.livedoor.jp/wisteriear/archives/1061491949.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fccae5cc-db4d-48d4-b924-864da057bad3",
+    "team": "T6WULA63S",
+    "text": "<http://blog.livedoor.jp/wisteriear/archives/1061491949.html>",
+    "ts": "1544849262.035900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O2E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さっきのMSI GeForce RTX 2080 Ti GAMING X TRIO が一番性能いいみたいだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "141a1096-d43d-4fd1-bba8-9e691b2d975e",
+    "team": "T6WULA63S",
+    "text": "さっきのMSI GeForce RTX 2080 Ti GAMING X TRIO が一番性能いいみたいだけど",
+    "ts": "1544849259.035600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1aXmk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんな感じなんだよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "03cdd018-10ea-4bd5-aba8-24823f7ae382",
+    "team": "T6WULA63S",
+    "text": "こんな感じなんだよね",
+    "ts": "1544849221.035100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a+A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すげぇ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "da2283b4-79ef-4814-b535-d59d2da48666",
+    "team": "T6WULA63S",
+    "text": "すげぇ",
+    "ts": "1544849215.034900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Me+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ASUS Dual GeForce RTX 2080 Ti Advanced, DUAL-RTX2080TI-A11G, 11GB GDDR6 (90YV0C42-M0NM00)\nASUS Dual GeForce RTX 2080 Ti OC, 11GB GDDR6 (90YV0C41-M0NM00)\nEVGA GeForce RTX 2080 Ti XC (11G-P4-2382-KR)\nEVGA GeForce RTX 2080 Ti XC ULTRA GAMING (11G-P4-2383-KR)\nGALAX GeForce RTX 2080Ti 11GB GDDR6\nGIGABYTE GeForce RTX 2080 Ti WINDFORCE OC 11G (GV-N208TWF3OC-11GC)\nMSI GeForce RTX 2080 Ti Duke 11G OC, 11GB GDDR6 (V371-011R)\nMSI GeForce RTX 2080 Ti Duke 11G, 11GB GDDR6\nPalit GeForce RTX 2080 Ti GamingPro OC, 11GB GDDR6 (NE6208TS20LC-150A)\nPalit GeForce RTX 2080 Ti GamingPro, 11GB GDDR6 (NE6208T020LC-150A)\nGainward GeForce RTX 2080 Ti Phoenix GS, 11GB GDDR6 (426018336-4122)\nGIGABYTE GeForce RTX 2080 Ti GAMING OC 11G (GV-N208TGAMING OC-11GC)\nKFA² GeForce RTX 2080 Ti OC, 11GB GDDR6\nZOTAC GAMING GeForce RTX 2080 Ti Triple Fan (ZT-T20810F-10P)\nInno3D GeForce RTX 2080 Ti Gaming OC X3, 11GB GDDR6 (N208T3-11D6X-1150VA24)\nInno3D GeForce RTX 2080 Ti Gaming OC, 11GB GDDR6 (N208T3-11D6X-1150VA24)\nInno3D GeForce RTX 2080 Ti Twin X2, 11GB GDDR6 (N208T2-11D6-1150633)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a71ee1c2-3199-4e1c-bd0f-5dee8e677e0f",
+    "team": "T6WULA63S",
+    "text": "ASUS Dual GeForce RTX 2080 Ti Advanced, DUAL-RTX2080TI-A11G, 11GB GDDR6 (90YV0C42-M0NM00)\nASUS Dual GeForce RTX 2080 Ti OC, 11GB GDDR6 (90YV0C41-M0NM00)\nEVGA GeForce RTX 2080 Ti XC (11G-P4-2382-KR)\nEVGA GeForce RTX 2080 Ti XC ULTRA GAMING (11G-P4-2383-KR)\nGALAX GeForce RTX 2080Ti 11GB GDDR6\nGIGABYTE GeForce RTX 2080 Ti WINDFORCE OC 11G (GV-N208TWF3OC-11GC)\nMSI GeForce RTX 2080 Ti Duke 11G OC, 11GB GDDR6 (V371-011R)\nMSI GeForce RTX 2080 Ti Duke 11G, 11GB GDDR6\nPalit GeForce RTX 2080 Ti GamingPro OC, 11GB GDDR6 (NE6208TS20LC-150A)\nPalit GeForce RTX 2080 Ti GamingPro, 11GB GDDR6 (NE6208T020LC-150A)\nGainward GeForce RTX 2080 Ti Phoenix GS, 11GB GDDR6 (426018336-4122)\nGIGABYTE GeForce RTX 2080 Ti GAMING OC 11G (GV-N208TGAMING OC-11GC)\nKFA² GeForce RTX 2080 Ti OC, 11GB GDDR6\nZOTAC GAMING GeForce RTX 2080 Ti Triple Fan (ZT-T20810F-10P)\nInno3D GeForce RTX 2080 Ti Gaming OC X3, 11GB GDDR6 (N208T3-11D6X-1150VA24)\nInno3D GeForce RTX 2080 Ti Gaming OC, 11GB GDDR6 (N208T3-11D6X-1150VA24)\nInno3D GeForce RTX 2080 Ti Twin X2, 11GB GDDR6 (N208T2-11D6-1150633)",
+    "ts": "1544849207.034400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xkFb0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうなんだ。一応この一番カンタンそうな水冷の対応リストが",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "38be7003-15ea-41b1-806a-605ffacac25a",
+    "team": "T6WULA63S",
+    "text": "そうなんだ。一応この一番カンタンそうな水冷の対応リストが",
+    "ts": "1544849204.034200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4dmlu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "米アマゾンで直輸入出来るから買うのは簡単",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "28c237b8-d19c-44e6-8450-97753bbc8bf0",
+    "team": "T6WULA63S",
+    "text": "米アマゾンで直輸入出来るから買うのは簡単",
+    "ts": "1544849193.034000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3cV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そこ良いよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "870e56f6-5bc7-455f-bec7-6d71fa925f31",
+    "team": "T6WULA63S",
+    "text": "そこ良いよね",
+    "ts": "1544849171.033000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3IJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ただ海外個人輸入",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "645fafd5-302e-4c5d-8f89-0939e67631a3",
+    "team": "T6WULA63S",
+    "text": "ただ海外個人輸入",
+    "ts": "1544849158.032600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iO0XE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "この辺だったら外しても保証聞くみたいだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d1a68e6f-f272-419b-a40d-87821594ebc3",
+    "team": "T6WULA63S",
+    "text": "この辺だったら外しても保証聞くみたいだけど",
+    "ts": "1544849150.032200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G8q9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "EVGA GeForce RTX 2080 Ti XC (11G-P4-2382-KR)\nEVGA GeForce RTX 2080 Ti XC ULTRA GAMING (11G-P4-2383-KR)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e5908fc2-73e5-4502-a7f5-2077acc8ec8b",
+    "team": "T6WULA63S",
+    "text": "EVGA GeForce RTX 2080 Ti XC (11G-P4-2382-KR)\nEVGA GeForce RTX 2080 Ti XC ULTRA GAMING (11G-P4-2383-KR)",
+    "ts": "1544849136.031700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+TO7S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "外すと保証から外れちゃうから水冷確定なら水冷専用の方が良いかも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9ad9308-632d-4bcc-ad2a-677d59ca23e4",
+    "team": "T6WULA63S",
+    "text": "外すと保証から外れちゃうから水冷確定なら水冷専用の方が良いかも",
+    "ts": "1544849091.030900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aUAf7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分で外す",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80d0a717-0d0e-4124-9c07-41c7cad21ba6",
+    "team": "T6WULA63S",
+    "text": "自分で外す",
+    "ts": "1544849028.029700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "E5v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分で外す感じ?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4464b4fa-97d1-43f8-860f-9c6efae319c5",
+    "team": "T6WULA63S",
+    "text": "自分で外す感じ?",
+    "ts": "1544849011.029300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K+F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPUは水冷専用のやつ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "09f5c01e-19a5-4342-a7f2-b546136019a4",
+    "team": "T6WULA63S",
+    "text": "GPUは水冷専用のやつ？",
+    "ts": "1544848997.028800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CN2z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これで52万くらい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cc51abf9-0392-4fae-b16b-95ccc69296dc",
+    "team": "T6WULA63S",
+    "text": "これで52万くらい",
+    "ts": "1544848915.027000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "C2z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうせ買うなら8世代にしようかなって",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a956f6e5-e4a0-4f19-9c01-fb48932e2042",
+    "team": "T6WULA63S",
+    "text": "どうせ買うなら8世代にしようかなって",
+    "ts": "1544848897.026700",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "huQp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確かに",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78980237-cdda-4e21-a5f7-b4ce04af732c",
+    "team": "T6WULA63S",
+    "text": "確かに",
+    "ts": "1544848885.026400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bxzGr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ああー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0f6252ff-aa71-4d4d-8bb8-b4709468b5f1",
+    "team": "T6WULA63S",
+    "text": "ああー",
+    "ts": "1544848878.026200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FlwOa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今あるマザぼがSLI対応してるかわからなくて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89366e0d-2a8e-4080-a603-c81cd1782f6c",
+    "team": "T6WULA63S",
+    "text": "今あるマザぼがSLI対応してるかわからなくて",
+    "ts": "1544848873.025900",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "06I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Xシリーズにしないんだったらあんまり買い換える意味がない気がする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c1a071d3-7ee3-4577-81f6-fe3c428a81d2",
+    "team": "T6WULA63S",
+    "text": "Xシリーズにしないんだったらあんまり買い換える意味がない気がする",
+    "ts": "1544848854.025300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wN0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cpu もcorei7 7940X高くて予算超えちゃいそうだったんで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "024b7c3e-88b7-4cbe-8171-021dce22ea63",
+    "team": "T6WULA63S",
+    "text": "cpu もcorei7 7940X高くて予算超えちゃいそうだったんで",
+    "ts": "1544848836.024400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wKZ2S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cpuとマザーボードも買う?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9bff126c-343c-492d-99b8-8774fa1adaf5",
+    "team": "T6WULA63S",
+    "text": "cpuとマザーボードも買う?",
+    "ts": "1544848821.023600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HBGE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これに合うGPUで良さげなのにしたんだけど。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "347ecfc5-f974-4e2a-8f83-f74fba8bc89c",
+    "team": "T6WULA63S",
+    "text": "これに合うGPUで良さげなのにしたんだけど。。",
+    "ts": "1544848782.022800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WZAAi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPUの水冷はこれが楽そうだったんで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19984a52-52d7-4015-98c8-cd2aa02de9ee",
+    "team": "T6WULA63S",
+    "text": "GPUの水冷はこれが楽そうだったんで",
+    "ts": "1544848761.022300",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+TdoV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんかよくわからないけどこんなんどうですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "77ab96f7-a1c9-46a3-836f-0d073c283e3d",
+    "team": "T6WULA63S",
+    "text": "なんかよくわからないけどこんなんどうですか？",
+    "ts": "1544848726.021600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zow9+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "パーツ    備考 / 詳細\nCPU    Core i7 8086K 6万くらい\n\nマザーボード    Intel Z370    Gigabyte AORUS Ultra Gaming 36000円くらい\nグラボ　ZOTAC GAMING GeForce RTX 2080 Ti AMP! (ZT-T20810D-10P)（水冷との関係で）17万くらい*2\n\nGPU水冷： Alphacool Eiswolf 240 GPX Pro Nvidia Geforce RTX 2080Ti - Black M01　26000円くらい*2\nブリッジ：ZOTAC GAMING NVLink Bridge (3-Slot)15000円くらい\n電源ユニット    SILVERSTONE SST-ST1500　22000円くらい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "42b967f3-5c47-4429-afb1-1a38f96727de",
+    "team": "T6WULA63S",
+    "text": "パーツ\t備考 / 詳細\nCPU\tCore i7 8086K 6万くらい\n\nマザーボード\tIntel Z370\tGigabyte AORUS Ultra Gaming 36000円くらい\nグラボ　ZOTAC GAMING GeForce RTX 2080 Ti AMP! (ZT-T20810D-10P)（水冷との関係で）17万くらい*2\n\nGPU水冷： Alphacool Eiswolf 240 GPX Pro Nvidia Geforce RTX 2080Ti - Black M01　26000円くらい*2\nブリッジ：ZOTAC GAMING NVLink Bridge (3-Slot)15000円くらい\n電源ユニット\tSILVERSTONE SST-ST1500　22000円くらい",
+    "ts": "1544848712.021200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RSy3+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb29e0a1-f083-4859-a99d-46ea74711c01",
+    "team": "T6WULA63S",
+    "text": "おけ",
+    "ts": "1544839301.020600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZQnwy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かんないけどまあ早めにって感じで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "36f9584a-4a7f-4f79-aeec-e18a466993d5",
+    "team": "T6WULA63S",
+    "text": "分かんないけどまあ早めにって感じで",
+    "ts": "1544839293.020400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rbu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今調べてるけど何時までなら大丈夫かな？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f1ae4945-cf89-4d22-91c8-c9ff16a5f735",
+    "team": "T6WULA63S",
+    "text": "今調べてるけど何時までなら大丈夫かな？",
+    "ts": "1544839232.019400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0+Tr8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GPUはASUSのやつとこっちで悩んでたけどどうなんだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3cea1d2d-d1b0-49d0-bfc1-e6b979fe4cc5",
+    "team": "T6WULA63S",
+    "text": "GPUはASUSのやつとこっちで悩んでたけどどうなんだろ",
+    "ts": "1544838396.018100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "26h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "電源は結構良さそうだね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eee9c2f3-b847-4ed9-b8c6-528da3f8237b",
+    "team": "T6WULA63S",
+    "text": "電源は結構良さそうだね",
+    "ts": "1544838357.017200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tq28",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "詳しくないんでこういう比較サイトをあげることしかできんくて申し訳ないっす",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "639e284f-301b-4013-833f-10d4826a4f62",
+    "team": "T6WULA63S",
+    "text": "詳しくないんでこういう比較サイトをあげることしかできんくて申し訳ないっす",
+    "ts": "1544822416.016500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "インテルCPU性能比較｜ドスパラ公式通販サイト",
+        "from_url": "https://www.dospara.co.jp/5sp/info/share.php?contents=lp_intel_cpu",
+        "id": 1,
+        "original_url": "https://www.dospara.co.jp/5sp/info/share.php?contents=lp_intel_cpu",
+        "service_icon": "https://www.dospara.co.jp/favicon.ico",
+        "service_name": "dospara.co.jp",
+        "text": "『インテルCPUの性能比較』ページです。各CPUの性能をグラフで分かりやすく掲載！Core 2シリーズとCore iシリーズの比較や、今お使いのものと最新のものとの比較などにも役立ちます。",
+        "title": "インテルCPU性能比較｜ドスパラ公式通販サイト",
+        "title_link": "https://www.dospara.co.jp/5sp/info/share.php?contents=lp_intel_cpu"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "TVABR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dospara.co.jp/5sp/info/share.php?contents=lp_intel_cpu"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59b512ff-fc38-4ed4-abbb-66577ff739a5",
+    "team": "T6WULA63S",
+    "text": "<https://www.dospara.co.jp/5sp/info/share.php?contents=lp_intel_cpu>",
+    "ts": "1544822365.014800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "価格.com: SILVERSTONE SST-ST1500 価格比較",
+        "from_url": "http://kakaku.com/item/K0000039593/",
+        "id": 1,
+        "original_url": "http://kakaku.com/item/K0000039593/",
+        "service_icon": "http://kakaku.com/favicon.ico",
+        "service_name": "価格.com",
+        "text": "■最安価格(税込)：22,000円　■価格.com売れ筋ランキング：177位　■満足度レビュー：4.82(7人)　■クチコミ：12件 （※12月15日時点）",
+        "thumb_height": 120,
+        "thumb_url": "https://img1.kakaku.k-img.com/images/productimage/l/K0000039593.jpg",
+        "thumb_width": 160,
+        "title": "SILVERSTONE SST-ST1500 価格比較",
+        "title_link": "http://kakaku.com/item/K0000039593/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "HS+A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://kakaku.com/item/K0000039593/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f7ccf18c-0abb-4cc0-8f5b-1fbed5e3bcbe",
+    "team": "T6WULA63S",
+    "text": "<http://kakaku.com/item/K0000039593/>",
+    "ts": "1544822021.014500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CD6Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "高いっすね浅いとこで検索してると",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8e39fdfe-f470-4e2a-8faf-33c6f0b4fbe0",
+    "team": "T6WULA63S",
+    "text": "高いっすね浅いとこで検索してると",
+    "ts": "1544819633.012400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "価格.com: MSI GeForce RTX 2080 Ti GAMING X TRIO [PCIExp 11GB] スペック・仕様",
+        "from_url": "http://kakaku.com/item/K0001082416/spec/#tab",
+        "id": 1,
+        "original_url": "http://kakaku.com/item/K0001082416/spec/#tab",
+        "service_icon": "http://kakaku.com/favicon.ico",
+        "service_name": "価格.com",
+        "text": "■最安価格(税込)：185,472円　■価格.com売れ筋ランキング：13位　■満足度レビュー：4.00(3人)　■クチコミ：25件 （※12月15日時点）",
+        "thumb_height": 120,
+        "thumb_url": "https://img1.kakaku.k-img.com/images/productimage/l/K0001082416.jpg",
+        "thumb_width": 160,
+        "title": "MSI GeForce RTX 2080 Ti GAMING X TRIO [PCIExp 11GB] スペック・仕様",
+        "title_link": "http://kakaku.com/item/K0001082416/spec/#tab"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "uZM9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://kakaku.com/item/K0001082416/spec/#tab"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c678c3fd-8f0b-4e44-8ee3-83f0ca693885",
+    "team": "T6WULA63S",
+    "text": "<http://kakaku.com/item/K0001082416/spec/#tab>",
+    "ts": "1544819609.011500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sxv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SSDじゃなくてメモリだわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "697d05a1-9aac-4584-888a-02df762fe797",
+    "team": "T6WULA63S",
+    "text": "SSDじゃなくてメモリだわ",
+    "ts": "1544811224.010600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "31x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もうcpuとマザーボードそのままで2080ti2枚と電源、SSD増設ってのもありかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6d251667-82c5-4b4f-8bc9-1fdb4d43f7cb",
+    "team": "T6WULA63S",
+    "text": "もうcpuとマザーボードそのままで2080ti2枚と電源、SSD増設ってのもありかな",
+    "ts": "1544811146.010300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rU25R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "その値段出すなら2080tiでも良い気がする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "837a8930-10c3-4f7c-8f32-43f0a2f67c5f",
+    "team": "T6WULA63S",
+    "text": "その値段出すなら2080tiでも良い気がする",
+    "ts": "1544810949.009400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V2gZw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "楽天の値段だと135000円くらいだけどちょっと高いかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "06d4663d-5e30-47ee-a23b-c6e2f0161223",
+    "team": "T6WULA63S",
+    "text": "楽天の値段だと135000円くらいだけどちょっと高いかな",
+    "ts": "1544810889.008700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Tim Dettmers: A Full Hardware Guide to Deep Learning — Tim Dettmers",
+        "from_url": "http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/",
+        "id": 1,
+        "original_url": "http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/",
+        "service_icon": "https://i0.wp.com/timdettmers.com/wp-content/uploads/2018/05/cropped-profile_300kb.png?fit=180%2C180",
+        "service_name": "Tim Dettmers",
+        "text": "In this guide I analyse hardware from CPU to SSD and their impact on performance for deep learning so that you can choose the hardware that you really need.",
+        "thumb_height": 406,
+        "thumb_url": "https://i0.wp.com/timdettmers.com/wp-content/uploads/2015/03/cpu_underclocking2.png?fit=603%2C406",
+        "thumb_width": 603,
+        "title": "A Full Hardware Guide to Deep Learning — Tim Dettmers",
+        "title_link": "http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/",
+        "ts": 1425914201
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "48nj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "335228ec-4200-467c-bb0a-5a6acb84d091",
+    "team": "T6WULA63S",
+    "text": "<http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/>",
+    "ts": "1544810773.007800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TnE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "構成のポストにも載せたけどこっちにも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7e13f06-0c0e-41a7-897c-eff2ba948fa0",
+    "team": "T6WULA63S",
+    "text": "構成のポストにも載せたけどこっちにも",
+    "ts": "1544810771.007600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3f9jZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.zotac.com/jp/product/graphics_card/zotac-geforce-gtx-1080-ti-arcticstorm-mini"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "477ca197-ff25-4cdb-a3cb-6437731e23b5",
+    "team": "T6WULA63S",
+    "text": "<https://www.zotac.com/jp/product/graphics_card/zotac-geforce-gtx-1080-ti-arcticstorm-mini>",
+    "ts": "1544809922.006600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "space",
+        "id": "FEU1R48Q4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1544804528.005800",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rxkz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと3wayが思ったより難しそうだから2wayでも良いかもしれない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8c5971cb-e2eb-4f76-a8d3-a0fef1e4cae3",
+    "team": "T6WULA63S",
+    "text": "ちょっと3wayが思ったより難しそうだから2wayでも良いかもしれない",
+    "ts": "1544795768.005700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j42P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Core i7 9800Xのほうが良いんだけどあまり出回ってなくて購入できないから今のところCore i9 7940Xで考えてる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5646a061-d7cd-470e-9c76-eee0b015acfa",
+    "team": "T6WULA63S",
+    "text": "Core i7 9800Xのほうが良いんだけどあまり出回ってなくて購入できないから今のところCore i9 7940Xで考えてる",
+    "ts": "1544794447.005000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2wvkC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "値段は計50万前後くらいまで使える",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fdf11982-749d-435d-a0b5-d465438da305",
+    "team": "T6WULA63S",
+    "text": "値段は計50万前後くらいまで使える",
+    "ts": "1544794346.003700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "na7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "上に書いたのは購入が必要なパーツでSSDはある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8c8d591-c8fa-410f-9673-47d601a5da81",
+    "team": "T6WULA63S",
+    "text": "上に書いたのは購入が必要なパーツでSSDはある",
+    "ts": "1544794255.003200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RtoOr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ一緒に考えてほしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff64d213-74aa-483c-9e67-432ffacf5bdd",
+    "team": "T6WULA63S",
+    "text": "まあ一緒に考えてほしい",
+    "ts": "1544794202.002500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KTR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "DeepLearning用のPCを強化するから使うであろう人を招待しといた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b0fd167-165f-4d9f-be62-9de62ab316a1",
+    "team": "T6WULA63S",
+    "text": "DeepLearning用のPCを強化するから使うであろう人を招待しといた",
+    "ts": "1544794177.002200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5lIiP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず今考えてるのはこんな感じ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "abb85861-366c-489f-8cbc-bac5cc07fbf2",
+    "team": "T6WULA63S",
+    "text": "とりあえず今考えてるのはこんな感じ",
+    "ts": "1544794132.001500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B/h7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【CPU】\n- Core i7 9800X or Core i9 7940X\n\n【メモリ】\n- DDR4-2666\n- 計32GB\n\n【マザーボード】\n- PCIe3.0×16:×4以上\n- LGA2066\n- あとは他のものに合わせて\n\n【ビデオカード】\n- 1080ti or 2080ti\n- 水冷モデル\n- 2枚\n\n【電源】\n- 1500Wほど必要になると思われる\n\n【その他】\n- 本格水冷装置",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e82aae78-51fe-48f1-9998-edeec66c3e2d",
+    "team": "T6WULA63S",
+    "text": "【CPU】\n- Core i7 9800X or Core i9 7940X\n\n【メモリ】\n- DDR4-2666\n- 計32GB\n\n【マザーボード】\n- PCIe3.0×16:×4以上\n- LGA2066\n- あとは他のものに合わせて\n\n【ビデオカード】\n- 1080ti or 2080ti\n- 水冷モデル\n- 2枚\n\n【電源】\n- 1500Wほど必要になると思われる\n\n【その他】\n- 本格水冷装置",
+    "ts": "1544794108.001100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1544794099.000800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1544794099.000600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1544794099.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1544794049.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

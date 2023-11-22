@@ -1,0 +1,4238 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555910495.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555910484.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "text",
+        "id": "FCE3E29RQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535042917.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Lmr/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "int val[2] = {0,0};     //フォトリフレクタ読み取り値\n\nbool pos=false; //右ならfalse 左true\ndouble kp = 1.6; //勢い\ndouble ki = 0.0; //抗力\ndouble kd = 0.0;//\n\ndouble p_val[2]={0,0};//左右それぞれの変化量\ndouble i_val[2]={0,0};\ndouble d_val[2]={0,0};\n\nint b_val=1024; //黒のときの値\nint w_val=600;  //白のときの値\nint r_val;      //基準値\n\nint val_diff[2];  //モータ０の差分\nint val_sum[2];\nint pre_diff[2]={0,0};//一個前の差分を記憶\nint pre_val[2]={0,0};//一個前の明るさを記録\n\nconst byte v[2] = {A0,A1};    //フォトリフレクタ入力ピン\n\n\n\nbyte mt[3][3] = {\n  {2,3,4},         //motor0右\n  {6,7,8}         //motor1左\n};\n\n\n\nvoid setup() {\n\n  Serial.begin(9600);\n  pinMode(mt[0][0],OUTPUT);\n  pinMode(mt[0][1],OUTPUT);\n  pinMode(mt[0][2],OUTPUT);\n  pinMode(mt[1][0],OUTPUT);\n  pinMode(mt[1][1],OUTPUT);\n  pinMode(mt[1][2],OUTPUT);\n\n  r_val=(b_val+w_val)/2;  //基準の値を設定\n\n  //テスト走行\n\n//  digitalWrite(mt[1][0],LOW);   //モータは方向固定\n//  digitalWrite(mt[1][1],HIGH);\n//  analogWrite(mt[1][2],50);\n//  delay(1000);\n  digitalWrite(mt[0][0],LOW);\n  digitalWrite(mt[0][1],HIGH);\n  analogWrite(mt[0][2],50);\n  delay(1000);\n}\n\nvoid loop() {\n  val[0]=analogRead(v[0]);\n  val[1]=analogRead(v[1]);\n  val_diff[0]=val[0]-r_val;  //ズレの大きさ\n  val_diff[1]=val[1]-r_val;\n\n  digitalWrite(mt[1][0],LOW);   //モータは方向固定\n  digitalWrite(mt[1][1],HIGH);\n  digitalWrite(mt[0][0],LOW);\n  digitalWrite(mt[0][1],HIGH);\n\n\n\n  p_val[0]=abs(val_diff[0])*kp;//P値の計算\n  p_val[1]=abs(val_diff[1])*kp;\n\n  i_val[0]=abs(val[0]-pre_val[0])*(100/(b_val-w_val))*ki;//I値の計算\n  i_val[1]=abs(val[1]-pre_val[1])*(100/(b_val-w_val))*ki;\n\n  d_val[0]=abs(val_diff[0]-pre_diff[0])*(100/(b_val-w_val))*kd;//D値の計算\n  d_val[1]=abs(val_diff[1]-pre_diff[1])*(100/(b_val-w_val))*kd;\n\n  if(val[0]>900){\n    pos=false; //左のセンサが黒なら右にいると記憶\n  }else{\n    pos=true;  //右のセンサが黒なら左にいると記憶\n  }\n\n  int def_val=250;\n  if(pos==false){  //右にいるなら右を強くして戻す\n      analogWrite(mt[0][2],def_val);  //PWM制御//右モータ\n      analogWrite(mt[1][2],def_val-(p_val[0]+i_val[0]+d_val[0]));                               //左モータ\n  }else{  //左にいるなら左を強くして戻す\n      analogWrite(mt[0][2],def_val-(p_val[1]+i_val[1]+d_val[1]));                               //PWM制御//右モータ\n      analogWrite(mt[1][2],def_val);  //左モータ\n  }\n\n\n\n\n\n  pre_diff[0]=val_diff[0];   //一個前の差分の更新\n  pre_diff[1]=val_diff[1];\n\n  pre_val[0]=val[0];    //一個前の明るさの更新\n  pre_val[1]=val[1];\n\n  Serial.print(“センサ値:“);\n  Serial.print(val[0]);//左\n  Serial.print(“|”);\n  Serial.print(val[1]);//右\n  Serial.print(” P値:“);\n  Serial.print(“|”);\n  Serial.print(p_val[0]);\n  Serial.print(“|”);\n  Serial.print(p_val[1]);\n  Serial.print(” I値:“);\n  Serial.print(i_val[0]);//左\n  Serial.print(“|”);\n  Serial.print(i_val[1]);//右\n  Serial.print(” D値:“);\n  Serial.print(d_val[0]);//左\n  Serial.print(“|”);\n  Serial.print(d_val[1]);//右\n  Serial.print(“||“);\n  if(pos==false){\n    Serial.println(“right”);\n  }else{\n    Serial.println(“left”);\n  }\n\n}",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b5ba618-593c-4173-b06d-831db3963060",
+    "team": "T6WULA63S",
+    "text": "int val[2] = {0,0};     //フォトリフレクタ読み取り値\n\nbool pos=false; //右ならfalse 左true\ndouble kp = 1.6; //勢い\ndouble ki = 0.0; //抗力\ndouble kd = 0.0;//\n\ndouble p_val[2]={0,0};//左右それぞれの変化量\ndouble i_val[2]={0,0};\ndouble d_val[2]={0,0};\n\nint b_val=1024; //黒のときの値\nint w_val=600;  //白のときの値\nint r_val;      //基準値\n\nint val_diff[2];  //モータ０の差分\nint val_sum[2];\nint pre_diff[2]={0,0};//一個前の差分を記憶\nint pre_val[2]={0,0};//一個前の明るさを記録\n\nconst byte v[2] = {A0,A1};    //フォトリフレクタ入力ピン\n\n\nbyte mt[3][3] = {\n  {2,3,4},         //motor0右\n  {6,7,8}         //motor1左\n};\n\n\nvoid setup() {\n\n  Serial.begin(9600);\n  pinMode(mt[0][0],OUTPUT);\n  pinMode(mt[0][1],OUTPUT);\n  pinMode(mt[0][2],OUTPUT);\n  pinMode(mt[1][0],OUTPUT);\n  pinMode(mt[1][1],OUTPUT);\n  pinMode(mt[1][2],OUTPUT);\n\n  r_val=(b_val+w_val)/2;  //基準の値を設定\n\n  //テスト走行\n\n//  digitalWrite(mt[1][0],LOW);   //モータは方向固定\n//  digitalWrite(mt[1][1],HIGH);\n//  analogWrite(mt[1][2],50);\n//  delay(1000);\n  digitalWrite(mt[0][0],LOW);\n  digitalWrite(mt[0][1],HIGH);\n  analogWrite(mt[0][2],50);\n  delay(1000);\n}\n\nvoid loop() {\n  val[0]=analogRead(v[0]);\n  val[1]=analogRead(v[1]);\n  val_diff[0]=val[0]-r_val;  //ズレの大きさ\n  val_diff[1]=val[1]-r_val;\n\n  digitalWrite(mt[1][0],LOW);   //モータは方向固定\n  digitalWrite(mt[1][1],HIGH);\n  digitalWrite(mt[0][0],LOW);\n  digitalWrite(mt[0][1],HIGH);\n\n\n  p_val[0]=abs(val_diff[0])*kp;//P値の計算\n  p_val[1]=abs(val_diff[1])*kp;\n\n  i_val[0]=abs(val[0]-pre_val[0])*(100/(b_val-w_val))*ki;//I値の計算\n  i_val[1]=abs(val[1]-pre_val[1])*(100/(b_val-w_val))*ki;\n\n  d_val[0]=abs(val_diff[0]-pre_diff[0])*(100/(b_val-w_val))*kd;//D値の計算\n  d_val[1]=abs(val_diff[1]-pre_diff[1])*(100/(b_val-w_val))*kd;\n\n  if(val[0]&gt;900){\n    pos=false; //左のセンサが黒なら右にいると記憶\n  }else{\n    pos=true;  //右のセンサが黒なら左にいると記憶\n  }\n\n  int def_val=250;\n  if(pos==false){  //右にいるなら右を強くして戻す\n      analogWrite(mt[0][2],def_val);  //PWM制御//右モータ\n      analogWrite(mt[1][2],def_val-(p_val[0]+i_val[0]+d_val[0]));                               //左モータ\n  }else{  //左にいるなら左を強くして戻す\n      analogWrite(mt[0][2],def_val-(p_val[1]+i_val[1]+d_val[1]));                               //PWM制御//右モータ\n      analogWrite(mt[1][2],def_val);  //左モータ\n  }\n\n\n\n  pre_diff[0]=val_diff[0];   //一個前の差分の更新\n  pre_diff[1]=val_diff[1];\n\n  pre_val[0]=val[0];    //一個前の明るさの更新\n  pre_val[1]=val[1];\n\n  Serial.print(“センサ値:“);\n  Serial.print(val[0]);//左\n  Serial.print(“|”);\n  Serial.print(val[1]);//右\n  Serial.print(” P値:“);\n  Serial.print(“|”);\n  Serial.print(p_val[0]);\n  Serial.print(“|”);\n  Serial.print(p_val[1]);\n  Serial.print(” I値:“);\n  Serial.print(i_val[0]);//左\n  Serial.print(“|”);\n  Serial.print(i_val[1]);//右\n  Serial.print(” D値:“);\n  Serial.print(d_val[0]);//左\n  Serial.print(“|”);\n  Serial.print(d_val[1]);//右\n  Serial.print(“||“);\n  if(pos==false){\n    Serial.println(“right”);\n  }else{\n    Serial.println(“left”);\n  }\n\n}",
+    "ts": "1535042862.000100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "cpp",
+        "id": "FCF2J3C2K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535038069.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "cpp",
+        "id": "FCDSN6TEF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535037021.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "FCDQUL1QB",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535032696.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X7eY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "int val[2] = {0,0};     //フォトリフレクタ読み取り値\n\nbool pos=false; //右ならfalse 左true\ndouble kp = 0.8; //勢い\ndouble ki = 0.0; //抗力\ndouble kd = 0.0;//\n\ndouble p_val[2]={0,0};//左右それぞれの変化量\ndouble i_val[2]={0,0};\ndouble d_val[2]={0,0};\n\nint b_val=1024; //黒のときの値\nint w_val=600;  //白のときの値\nint r_val;      //基準値\n\nint val_diff[2];  //モータ０の差分\nint val_sum[2];\nint pre_diff[2]={0,0};//一個前の差分を記憶\nint pre_val[2]={0,0};//一個前の明るさを記録\n\nconst byte v[2] = {A0,A1};    //フォトリフレクタ入力ピン\n\n\n\nbyte mt[3][3] = {\n  {2,3,4},         //motor0右\n  {7,8,9}         //motor1左\n};\n\n\n\nvoid setup() {\n\n  Serial.begin(9600);\n  pinMode(mt[0][0],OUTPUT);\n  pinMode(mt[0][1],OUTPUT);\n  pinMode(mt[0][2],OUTPUT);\n  pinMode(mt[1][0],OUTPUT);\n  pinMode(mt[1][1],OUTPUT);\n  pinMode(mt[1][2],OUTPUT);\n\n  r_val=(b_val+w_val)/2;  //基準の値を設定\n}\n\nvoid loop() {\n  val[0]=analogRead(v[0]);\n  val[1]=analogRead(v[1]);\n  val_diff[0]=val[0]-r_val;  //ズレの大きさ\n  val_diff[1]=val[1]-r_val;\n\n  digitalWrite(mt[1][0],LOW);   //モータは方向固定\n  digitalWrite(mt[1][1],HIGH);\n  digitalWrite(mt[0][0],LOW);\n  digitalWrite(mt[0][1],HIGH);\n\n\n\n  p_val[0]=abs(val_diff[0])*(100/(b_val-w_val))*kp;//P値の計算\n  p_val[1]=abs(val_diff[1])*(100/(b_val-w_val))*kp;\n\n  i_val[0]=abs(val[0]-pre_val[0])*(100/(b_val-w_val))*ki;//I値の計算\n  i_val[1]=abs(val[1]-pre_val[1])*(100/(b_val-w_val))*ki;\n\n  d_val[0]=abs(val_diff[0]-pre_diff[0])*(100/(b_val-w_val))*kd;//D値の計算\n  d_val[1]=abs(val_diff[1]-pre_diff[1])*(100/(b_val-w_val))*kd;\n\n  if(val[0]>900){\n    pos=false; //左のセンサが黒なら右にいると記憶\n  }else if(val[1]>900){\n    pos=true;  //右のセンサが黒なら左にいると記憶\n  }\n\n  if(pos==false){  //右にいるなら右を強くして戻す\n      analogWrite(mt[0][2],int(p_val[0]+i_val[0]+d_val[0]+10));  //PWM制御//右モータ\n      analogWrite(mt[1][2],int(10));                               //左モータ\n  }else{  //左にいるなら左を強くして戻す\n      analogWrite(mt[0][2],int(10));                               //PWM制御//右モータ\n      analogWrite(mt[1][2],int(p_val[1]+i_val[1]+d_val[1]+10));  //左モータ\n  }\n\n\n\n  pre_diff[0]=val_diff[0];   //一個前の差分の更新\n  pre_diff[1]=val_diff[1];\n\n  pre_val[0]=val[0];    //一個前の明るさの更新\n  pre_val[1]=val[1];\n\n  Serial.print(“センサ値:“);\n  Serial.print(val[0]);//左\n  Serial.print(“|”);\n  Serial.print(val[1]);//右\n  Serial.print(“P値:“);\n  Serial.print(“|”);\n  Serial.print(p_val[0]);\n  Serial.print(“|”);\n  Serial.print(p_val[1]);\n  Serial.print(“I値:“);\n  Serial.print(i_val[0]);//左\n  Serial.print(“|”);\n  Serial.print(i_val[1]);//右\n  Serial.print(“D値:“);\n  Serial.print(d_val[0]);//左\n  Serial.print(“|”);\n  Serial.println(d_val[1]);//右\n\n}",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "062b864a-6314-47ef-8504-5632a210efad",
+    "team": "T6WULA63S",
+    "text": "int val[2] = {0,0};     //フォトリフレクタ読み取り値\n\nbool pos=false; //右ならfalse 左true\ndouble kp = 0.8; //勢い\ndouble ki = 0.0; //抗力\ndouble kd = 0.0;//\n\ndouble p_val[2]={0,0};//左右それぞれの変化量\ndouble i_val[2]={0,0};\ndouble d_val[2]={0,0};\n\nint b_val=1024; //黒のときの値\nint w_val=600;  //白のときの値\nint r_val;      //基準値\n\nint val_diff[2];  //モータ０の差分\nint val_sum[2];\nint pre_diff[2]={0,0};//一個前の差分を記憶\nint pre_val[2]={0,0};//一個前の明るさを記録\n\nconst byte v[2] = {A0,A1};    //フォトリフレクタ入力ピン\n\n\nbyte mt[3][3] = {\n  {2,3,4},         //motor0右\n  {7,8,9}         //motor1左\n};\n\n\nvoid setup() {\n\n  Serial.begin(9600);\n  pinMode(mt[0][0],OUTPUT);\n  pinMode(mt[0][1],OUTPUT);\n  pinMode(mt[0][2],OUTPUT);\n  pinMode(mt[1][0],OUTPUT);\n  pinMode(mt[1][1],OUTPUT);\n  pinMode(mt[1][2],OUTPUT);\n\n  r_val=(b_val+w_val)/2;  //基準の値を設定\n}\n\nvoid loop() {\n  val[0]=analogRead(v[0]);\n  val[1]=analogRead(v[1]);\n  val_diff[0]=val[0]-r_val;  //ズレの大きさ\n  val_diff[1]=val[1]-r_val;\n\n  digitalWrite(mt[1][0],LOW);   //モータは方向固定\n  digitalWrite(mt[1][1],HIGH);\n  digitalWrite(mt[0][0],LOW);\n  digitalWrite(mt[0][1],HIGH);\n\n\n  p_val[0]=abs(val_diff[0])*(100/(b_val-w_val))*kp;//P値の計算\n  p_val[1]=abs(val_diff[1])*(100/(b_val-w_val))*kp;\n\n  i_val[0]=abs(val[0]-pre_val[0])*(100/(b_val-w_val))*ki;//I値の計算\n  i_val[1]=abs(val[1]-pre_val[1])*(100/(b_val-w_val))*ki;\n\n  d_val[0]=abs(val_diff[0]-pre_diff[0])*(100/(b_val-w_val))*kd;//D値の計算\n  d_val[1]=abs(val_diff[1]-pre_diff[1])*(100/(b_val-w_val))*kd;\n\n  if(val[0]&gt;900){\n    pos=false; //左のセンサが黒なら右にいると記憶\n  }else if(val[1]&gt;900){\n    pos=true;  //右のセンサが黒なら左にいると記憶\n  }\n\n  if(pos==false){  //右にいるなら右を強くして戻す\n      analogWrite(mt[0][2],int(p_val[0]+i_val[0]+d_val[0]+10));  //PWM制御//右モータ\n      analogWrite(mt[1][2],int(10));                               //左モータ\n  }else{  //左にいるなら左を強くして戻す\n      analogWrite(mt[0][2],int(10));                               //PWM制御//右モータ\n      analogWrite(mt[1][2],int(p_val[1]+i_val[1]+d_val[1]+10));  //左モータ\n  }\n\n\n  pre_diff[0]=val_diff[0];   //一個前の差分の更新\n  pre_diff[1]=val_diff[1];\n\n  pre_val[0]=val[0];    //一個前の明るさの更新\n  pre_val[1]=val[1];\n\n  Serial.print(“センサ値:“);\n  Serial.print(val[0]);//左\n  Serial.print(“|”);\n  Serial.print(val[1]);//右\n  Serial.print(“P値:“);\n  Serial.print(“|”);\n  Serial.print(p_val[0]);\n  Serial.print(“|”);\n  Serial.print(p_val[1]);\n  Serial.print(“I値:“);\n  Serial.print(i_val[0]);//左\n  Serial.print(“|”);\n  Serial.print(i_val[1]);//右\n  Serial.print(“D値:“);\n  Serial.print(d_val[0]);//左\n  Serial.print(“|”);\n  Serial.println(d_val[1]);//右\n\n}",
+    "ts": "1535027953.000100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZekI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ起きてたらで良いんだけど出来れば明日までに簡単にでも一通り作っといて欲しい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e3082847-e6de-4af5-82eb-2f5191fa328f",
+    "team": "T6WULA63S",
+    "text": "まあ起きてたらで良いんだけど出来れば明日までに簡単にでも一通り作っといて欲しい",
+    "ts": "1535026915.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ilDk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう寝る？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0cfaa348-2ee5-4622-bebe-fc39b8b84d9a",
+    "team": "T6WULA63S",
+    "text": "もう寝る？",
+    "ts": "1535026788.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B7L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6DB08219-25E5-4A6D-BA9C-0BA491B10838",
+    "team": "T6WULA63S",
+    "text": "分かった",
+    "ts": "1535026645.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NNge",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "やじまくんよろしくおねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a3f4a383-f063-4862-9a74-36f03af64a16",
+    "team": "T6WULA63S",
+    "text": "やじまくんよろしくおねがいします",
+    "ts": "1535026480.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q31iq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表用スライド作成用リンク",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46e8a590-13c2-4f03-98a1-3afed581dee1",
+    "team": "T6WULA63S",
+    "text": "発表用スライド作成用リンク",
+    "ts": "1535026402.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "E+eJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1j0bQ-ml7Oev-70nlzrMIkHpa6nvAnGJZIW700mtORgk/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9616f602-e008-48af-8ffa-fb4c9a6586ff",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1j0bQ-ml7Oev-70nlzrMIkHpa6nvAnGJZIW700mtORgk/edit?usp=sharing>",
+    "ts": "1535026383.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FCDKKJB52",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535025733.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "FCDJC4JEP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535009696.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QObX5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ライントレース機体はできました。\nプログラムはこれからです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22341609-8713-46c1-906d-85e4ee910fa0",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCCUY76HZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "ライントレース機体はできました。\nプログラムはこれからです",
+    "ts": "1534938789.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hxo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、運輸する時必要なものなんかあったら買ってー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C20ACDAC-E081-4675-834E-787D9C001DC6",
+    "team": "T6WULA63S",
+    "text": "あと、運輸する時必要なものなんかあったら買ってー",
+    "ts": "1534840378.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KGc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コテは白光株式会社ってかいてある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C3B5F23A-8625-4660-828E-CCE593A372FC",
+    "team": "T6WULA63S",
+    "text": "コテは白光株式会社ってかいてある",
+    "ts": "1534840166.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hFCJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "特にわかんないや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D0070737-5ABB-48FE-9EB5-98967B4C2BE3",
+    "team": "T6WULA63S",
+    "text": "特にわかんないや",
+    "ts": "1534840118.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cdDu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "メーカーとか型番とかわかりますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FEB80820-0232-4D95-B423-9B4293F7B6C0",
+    "team": "T6WULA63S",
+    "text": "メーカーとか型番とかわかりますか？",
+    "ts": "1534838813.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+zSO8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "りょうかいしますた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BCE38E1F-7868-42EB-BA17-2335382E6CC8",
+    "team": "T6WULA63S",
+    "text": "りょうかいしますた",
+    "ts": "1534838581.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCCAM3ATF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534838194.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "9520BC45-8C57-44BC-B6FA-FD9FCCBFED88",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lWwN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "きかくとかきまってるんですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4BD73573-2340-46ED-8020-C19A1E4DA987",
+    "team": "T6WULA63S",
+    "text": "きかくとかきまってるんですかね",
+    "ts": "1534835370.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bgcp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はんだごての小手先どんなのがいいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F4EACB98-E339-4C2C-8A8E-8F1CD3E40CCE",
+    "team": "T6WULA63S",
+    "text": "はんだごての小手先どんなのがいいですか",
+    "ts": "1534835364.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UCtc8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はんだの小手先買ってきて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2542692F-581B-4906-952C-4203EC931469",
+    "team": "T6WULA63S",
+    "text": "はんだの小手先買ってきて",
+    "ts": "1534835016.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "34E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ギア比は左前のやつが高い気がするんですけどそれ以外は大丈夫ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AD36D7BF-45E1-4117-B6E0-3EBAEEA8AAAA",
+    "team": "T6WULA63S",
+    "text": "ギア比は左前のやつが高い気がするんですけどそれ以外は大丈夫ですね",
+    "ts": "1534821503.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCBSBB3UL",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534821465.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "A69FB65F-2754-456C-B885-E0B7B2F2277C",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCBC0S7C0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534821463.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "C859914E-228F-4389-83AF-C6FA8EC7822D",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rB2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後 ギア比とか大丈夫そう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "12284DFD-98F3-469C-8DB7-7018E6812A7F",
+    "team": "T6WULA63S",
+    "text": "後 ギア比とか大丈夫そう？",
+    "ts": "1534758593.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MZXjb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そしたら大沼が前言ってた様に アクリルのどっちかに 穴空けて、そこに線通すとスマートかも！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DBEF984E-4814-4DF9-B90E-1EEF11DCAAAE",
+    "team": "T6WULA63S",
+    "text": "そしたら大沼が前言ってた様に アクリルのどっちかに 穴空けて、そこに線通すとスマートかも！",
+    "ts": "1534758154.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "q1GT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "良い良い！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6D31BC94-B24F-4477-90C5-A6BE825A7E5F",
+    "team": "T6WULA63S",
+    "text": "良い良い！",
+    "ts": "1534758014.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BOy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず明日見に行く",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "110CB4C4-6573-4F3E-8FC1-1161FC70B0CE",
+    "team": "T6WULA63S",
+    "text": "とりあえず明日見に行く",
+    "ts": "1534757419.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RgM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でバッテリーとあるどぅいーのがここですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53C2A6CA-F441-4F60-B8C3-C62A6E3E447D",
+    "team": "T6WULA63S",
+    "text": "でバッテリーとあるどぅいーのがここですかね",
+    "ts": "1534757367.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCCFY2AGP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534757353.000200",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "5780B681-B503-480E-8B14-7D978E1D5DBB",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wWQNC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "メンテナンス性 is null",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80573AE7-AF20-43E4-8EDE-6D89DFA08CA5",
+    "team": "T6WULA63S",
+    "text": "メンテナンス性 is null",
+    "ts": "1534757238.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bWDL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "強い。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4F521E3E-E78C-476F-9BC5-8FF50EF0359B",
+    "team": "T6WULA63S",
+    "text": "強い。",
+    "ts": "1534757213.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X4i5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U9KDDTMPZ"
+              },
+              {
+                "text": " モータドライバはここにつけることにしようかと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FB3BBFFF-B100-4C9E-AAF3-63D88377B9FA",
+    "team": "T6WULA63S",
+    "text": "<@U9KDDTMPZ> モータドライバはここにつけることにしようかと",
+    "ts": "1534757191.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCBB0AAJF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534757172.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "12DC640A-C3F3-4EB0-9C6A-8C18BB191F39",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qq+H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ライントレース外枠",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7e9b185e-c4ce-4fb2-a0a1-c76ab439e7d1",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCBK1DZS9",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "ライントレース外枠",
+    "ts": "1534756920.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x1st5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お！\narduinoとモータードライバー付けられそう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C8921C22-8E92-40FA-9B70-ADAFF96D7D45",
+    "team": "T6WULA63S",
+    "text": "お！\narduinoとモータードライバー付けられそう？",
+    "ts": "1534750402.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rlU6h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "組み直しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CEF22934-9BD4-4BEA-89E6-C56FA17CB496",
+    "team": "T6WULA63S",
+    "text": "組み直しました",
+    "ts": "1534749669.000200",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCBCZP142",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534749646.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "594F5E8B-09C4-4EF4-805F-D2BE1656FC50",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jkDEV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05CDC805-C73F-492B-8F53-75C97D82396E",
+    "team": "T6WULA63S",
+    "text": "大丈夫です！",
+    "ts": "1534749617.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J6++I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すまない\n\nなんかあった？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "26BD4809-F76C-4B87-8A7C-F31220BA65D0",
+    "team": "T6WULA63S",
+    "text": "すまない\n\nなんかあった？",
+    "ts": "1534742931.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oW9H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7WMM5F"
+              },
+              {
+                "text": " おります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "502C0DBA-57D0-4369-81DD-9834D2EB4110",
+    "team": "T6WULA63S",
+    "text": "<@U7D7WMM5F> おります",
+    "ts": "1534742667.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wqX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U9KDDTMPZ"
+              },
+              {
+                "text": " なるほど了解です",
+                "type": "text"
+              },
+              {
+                "name": "man-raising-hand",
+                "type": "emoji",
+                "unicode": "1f64b-200d-2642-fe0f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4125C400-64D9-4122-BFA2-3B493CC7834A",
+    "team": "T6WULA63S",
+    "text": "<@U9KDDTMPZ> なるほど了解です:man-raising-hand:",
+    "ts": "1534742653.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hcx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背明日いる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53155950-DE9D-4739-BF36-16B2DBEE0216",
+    "team": "T6WULA63S",
+    "text": "妹背明日いる？",
+    "ts": "1534736520.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wWJ1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背君すまん\n俺 もうインターンの時期に入ってしまってる、、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4B1AC9F1-8235-45DB-8794-A2EDACDB6296",
+    "team": "T6WULA63S",
+    "text": "妹背君すまん\n俺 もうインターンの時期に入ってしまってる、、",
+    "ts": "1534734216.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SEc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U9KDDTMPZ"
+              },
+              {
+                "text": " 今日来ますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "60255E21-149A-40EB-ADBC-81E9C49A0755",
+    "team": "T6WULA63S",
+    "text": "<@U9KDDTMPZ> 今日来ますか？",
+    "ts": "1534730870.000200",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NdLD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうだね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D539309A-EDF4-43ED-9D1C-63136028A707",
+    "team": "T6WULA63S",
+    "text": "そうだね",
+    "ts": "1534663373.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=Ixb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃーあんまり買うもんない感じですかねーw",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "187040B6-711C-48CA-9647-DC4B52703762",
+    "team": "T6WULA63S",
+    "text": "じゃーあんまり買うもんない感じですかねーw",
+    "ts": "1534656730.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eKA4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まじか w\n後 ダンボから生やすやつも一応頼んだと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6D79109A-C83C-4B8F-8EC9-CD02626EB761",
+    "team": "T6WULA63S",
+    "text": "まじか w\n後 ダンボから生やすやつも一応頼んだと思う",
+    "ts": "1534654594.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/dG4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あーそれは自作なんで、自分で好きな長さを好きなだけ量産できますよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E0336499-222F-40E8-8E6A-D3F20E427224",
+    "team": "T6WULA63S",
+    "text": "あーそれは自作なんで、自分で好きな長さを好きなだけ量産できますよ",
+    "ts": "1534654359.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gGZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうarduinoから生やすやつ\n長すぎて下引きずってたから",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F9439646-4E39-4120-B9F9-8651B67B4746",
+    "team": "T6WULA63S",
+    "text": "そうarduinoから生やすやつ\n長すぎて下引きずってたから",
+    "ts": "1534654326.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D==p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アクリルプレートはケーヨーデーツーで買ったので明日買いに行きますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DFA173B5-42C8-4E5B-98E7-4005B149087B",
+    "team": "T6WULA63S",
+    "text": "アクリルプレートはケーヨーデーツーで買ったので明日買いに行きますね",
+    "ts": "1534654165.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aNfv7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ケーブルってArduinoから生やすやつですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AA2FEB6F-0D90-4998-9CB7-6C45A0608687",
+    "team": "T6WULA63S",
+    "text": "ケーブルってArduinoから生やすやつですかね",
+    "ts": "1534654140.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sZI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でも アクリルのプレート残り一枚だった気がする。 白いやつ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EA4E5DD9-AA84-4416-BC4F-C66EE68FABDB",
+    "team": "T6WULA63S",
+    "text": "でも アクリルのプレート残り一枚だった気がする。 白いやつ？",
+    "ts": "1534654094.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rie",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "試走会の時ケーブルが長かったから短いやつ欲しかったけど\n短いやつ この前、伊地知君がまとめて松野さんに頼んでくれたから 特に無いかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B1221E99-71E0-4DB6-B153-84DD5D13DDC8",
+    "team": "T6WULA63S",
+    "text": "\n試走会の時ケーブルが長かったから短いやつ欲しかったけど\n短いやつ この前、伊地知君がまとめて松野さんに頼んでくれたから 特に無いかな\n\n",
+    "ts": "1534654049.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PfN/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日夕方アキバ行くんですけどなんか調達するものありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C86B0A9D-A658-4A78-8A59-0DA91E0439BB",
+    "team": "T6WULA63S",
+    "text": "今日夕方アキバ行くんですけどなんか調達するものありますか？",
+    "ts": "1534651106.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jJc5O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2段にすると重い希ガス",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CA0158C5-E6E1-42A0-BFDF-A59A7553995A",
+    "team": "T6WULA63S",
+    "text": "2段にすると重い希ガス",
+    "ts": "1534477789.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FCA3GJJSF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534476720.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "612700D7-BED5-4AE1-9C30-32FC6660A8CD",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC9FMUPCY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534476712.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "826628D8-8955-4AA6-B630-69CB488B0FED",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/UonD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B2ADB954-2BC4-46A0-A1A9-E31DAB3E4029",
+    "team": "T6WULA63S",
+    "text": "そー",
+    "ts": "1534472030.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mGc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "その穴に配線流すってことでしょ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5D2762D7-A122-4F4C-BA38-3E2BF9B5D53E",
+    "team": "T6WULA63S",
+    "text": "その穴に配線流すってことでしょ？",
+    "ts": "1534471062.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sxd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "去年はアクリル溶かして穴開けて配線してた\nその穴から通しちゃえば纏まるし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "031262FA-73C6-4A00-9392-89F74DE26E5E",
+    "team": "T6WULA63S",
+    "text": "去年はアクリル溶かして穴開けて配線してた\nその穴から通しちゃえば纏まるし",
+    "ts": "1534471019.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z8zoS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " \nおっけ",
+                "type": "text"
+              },
+              {
+                "name": "ok_hand",
+                "type": "emoji",
+                "unicode": "1f44c"
+              },
+              {
+                "text": "\n今日も研究室いるから\nちょっと考えてみる！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5BD3432E-FE7B-48B9-AE8E-24E2A4EC9749",
+    "team": "T6WULA63S",
+    "text": "<@U7D6SJCAD> \nおっけ:ok_hand:\n今日も研究室いるから\nちょっと考えてみる！",
+    "ts": "1534470657.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oJ8LV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U9KDDTMPZ"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "俺のイメージだと\n白プレートの上と\n黒い線引いてある所にもう一枚プレート\nその下の三段で バッテリーとarduinoとモータードライバの基盤をそれぞれに上手く載せられればいいかなってイメージ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_quote"
+          },
+          {
+            "elements": [
+              {
+                "text": "そうですね！モータドライバは結構高さがあるんで、ちょっと工夫が必要かもしれないですが…あとケーブルの引き回しの問題もあるんで難しいっすね…\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "キャタピラを今迄のやつをもう一つ分オレンジの歯車を増やして後ろに延ばすって解釈でいいかな？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_quote"
+          },
+          {
+            "elements": [
+              {
+                "text": "そんな感じです。\nただ、そうするとコの字になってるプレートを分断する形になるような気がするので強度が出せるか心配なんですよね。その辺も実物見てもう一回検討したいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ba6da0a0-5030-4d84-9c01-d1c74386d97c",
+    "team": "T6WULA63S",
+    "text": "<@U9KDDTMPZ>\n&gt;俺のイメージだと\n&gt;白プレートの上と\n&gt;黒い線引いてある所にもう一枚プレート\n&gt;その下の三段で バッテリーとarduinoとモータードライバの基盤をそれぞれに上手く載せられればいいかなってイメージ\nそうですね！モータドライバは結構高さがあるんで、ちょっと工夫が必要かもしれないですが…あとケーブルの引き回しの問題もあるんで難しいっすね…\n\n&gt;キャタピラを今迄のやつをもう一つ分オレンジの歯車を増やして後ろに延ばすって解釈でいいかな？\nそんな感じです。\nただ、そうするとコの字になってるプレートを分断する形になるような気がするので強度が出せるか心配なんですよね。その辺も実物見てもう一回検討したいです。",
+    "ts": "1534470157.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MuC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島、ですよぉ〜(^○^)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4FA0DCB7-53C8-4F2A-AB5D-71E13A5FA387",
+    "team": "T6WULA63S",
+    "text": "谷島、ですよぉ〜(^○^)",
+    "ts": "1534418724.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lZP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それは児島",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1064786A-202F-4B6A-9529-2AE04ADC1BB9",
+    "team": "T6WULA63S",
+    "text": "それは児島",
+    "ts": "1534418685.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jZIx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "´꒳`",
+                "type": "text"
+              },
+              {
+                "text": ")。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A2DE1D44-922C-4C64-AB15-6CC56E9BF28E",
+    "team": "T6WULA63S",
+    "text": "(*´꒳`*)。",
+    "ts": "1534418526.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "teC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背君ですよぉ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A83664F1-9D49-4B95-89C0-BA54216C0D93",
+    "team": "T6WULA63S",
+    "text": "妹背君ですよぉ",
+    "ts": "1534418451.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X+0T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分もメッセージを一瞬見て、松野先生だと勘違いしましたw.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6D1C278B-9005-41F5-B10D-8A4933458137",
+    "team": "T6WULA63S",
+    "text": "自分もメッセージを一瞬見て、松野先生だと勘違いしましたw.",
+    "ts": "1534417827.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SdvV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "意識してなかったw\n確かに、目指しましょうとかいうわー\nうんうん、いいと思うよ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "79169353-E7D9-4534-B12D-14EC67F63C24",
+    "team": "T6WULA63S",
+    "text": "意識してなかったw\n確かに、目指しましょうとかいうわー\nうんうん、いいと思うよ。",
+    "ts": "1534417439.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NfB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野さん風に言うのやめて w",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B995B044-CEFF-4445-BC97-3BAC3F5FCBE2",
+    "team": "T6WULA63S",
+    "text": "松野さん風に言うのやめて w",
+    "ts": "1534416986.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I2j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スマートな立体構造目指しましょう()",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7B4E8B29-9A84-4B98-BEAF-33AA0CEDAA8C",
+    "team": "T6WULA63S",
+    "text": "スマートな立体構造目指しましょう()",
+    "ts": "1534416705.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TFFk5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫よ",
+                "type": "text"
+              },
+              {
+                "name": "ok_hand",
+                "type": "emoji",
+                "unicode": "1f44c"
+              },
+              {
+                "text": "\n\n俺のイメージだと\n白プレートの上と\n黒い線引いてある所にもう一枚プレート\nその下の三段で バッテリーとarduinoとモータードライバの基盤をそれぞれに上手く載せられればいいかなってイメージ\n\nキャタピラを今迄のやつをもう一つ分オレンジの歯車を増やして後ろに延ばすって解釈でいいかな？\n\n\n\nモーターの振動でネジが緩むやつは俺も少し思った。ワッシャー挟もう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "47FAAA83-0E59-4AE0-A3F2-2C35CE602986",
+    "team": "T6WULA63S",
+    "text": "大丈夫よ:ok_hand:\n\n俺のイメージだと\n白プレートの上と\n黒い線引いてある所にもう一枚プレート\nその下の三段で バッテリーとarduinoとモータードライバの基盤をそれぞれに上手く載せられればいいかなってイメージ\n\nキャタピラを今迄のやつをもう一つ分オレンジの歯車を増やして後ろに延ばすって解釈でいいかな？\n\n\nモーターの振動でネジが緩むやつは俺も少し思った。ワッシャー挟もう\n",
+    "ts": "1534416520.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pREwA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと細かいですがモータの振動でネジが緩みまくるっぽいので、ネジの締結部にワッシャーを挟んだ方がいいような感じがしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "49954d0d-2c61-4484-b93f-09b0bfdcfd93",
+    "team": "T6WULA63S",
+    "text": "あと細かいですがモータの振動でネジが緩みまくるっぽいので、ネジの締結部にワッシャーを挟んだ方がいいような感じがしました。",
+    "ts": "1534408900.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "M43qx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "日曜には研究室行けるのでその時いろいろ見てみます。\nあらためて、メカトロ任せきりになってしまって申し訳ないです。\nそして、いろいろ検討していただいてありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57cabd98-67ee-493b-842f-30d0c0876653",
+    "team": "T6WULA63S",
+    "text": "日曜には研究室行けるのでその時いろいろ見てみます。\nあらためて、メカトロ任せきりになってしまって申し訳ないです。\nそして、いろいろ検討していただいてありがとうございます。",
+    "ts": "1534407864.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YUI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、今回モータドライバの基板の取り回し結構面倒くさかったので、こいつをいい感じにどっかに追いやれるといいんですが…（たとえば上のプラ板の裏側にネジ留めするとか）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9affcfa9-fef2-4878-aa48-5c9940934103",
+    "team": "T6WULA63S",
+    "text": "あと、今回モータドライバの基板の取り回し結構面倒くさかったので、こいつをいい感じにどっかに追いやれるといいんですが…（たとえば上のプラ板の裏側にネジ留めするとか）",
+    "ts": "1534407656.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BJC5S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "メカトロ任せきりになってしまって申し訳ありません…\nバッテリーとかarduinoとかの臓物を載せるのは白プレートの上って感じでしょうか？\nだとすると、缶を捉えるために5cmプラ板を削った分で失った積載量稼ぐために、キャタピラをもう少し後ろに伸ばすといい感じに積載量減らさずに済みそうな感じがしますが、どうでしょうか…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98f34e7f-5d80-4014-be01-7eae0669c02b",
+    "team": "T6WULA63S",
+    "text": "メカトロ任せきりになってしまって申し訳ありません…\nバッテリーとかarduinoとかの臓物を載せるのは白プレートの上って感じでしょうか？\nだとすると、缶を捉えるために5cmプラ板を削った分で失った積載量稼ぐために、キャタピラをもう少し後ろに伸ばすといい感じに積載量減らさずに済みそうな感じがしますが、どうでしょうか…",
+    "ts": "1534407493.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y+nk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": ":試走会の時のやつを測ったら35くらい\n:缶を回収する時にタイヤがぶつかってキャタピラの長さが足りなくて缶に届かない【前の画像を参照】\n\nこれ踏まえて\nこんな感じて作り直してるけど\nどう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70773F9D-A357-4F77-BC9E-53B4A2394FCD",
+    "team": "T6WULA63S",
+    "text": ":試走会の時のやつを測ったら35くらい\n:缶を回収する時にタイヤがぶつかってキャタピラの長さが足りなくて缶に届かない【前の画像を参照】\n\nこれ踏まえて\nこんな感じて作り直してるけど\nどう？",
+    "ts": "1534399775.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC9C7GXD1",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534399469.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "3C198267-A901-435F-AEF9-89F28EF25F63",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC9G59P6W",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534399463.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "0D735E70-BB7D-4ADC-BF1D-E8689037403E",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC8V395J5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534399442.000100",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "9421F1EA-43BA-4BAF-862A-E10A3C2BF762",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "FC6TB4T7U",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533979281.000051",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "FC6PCNKTM",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533979214.000046",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "FC6PCL84T",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533979172.000051",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC6PCHWHH",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533979141.000025",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "944F1D36-7452-4C3B-AC72-8984001F0F80",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC6LA346Q",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533979136.000033",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "64CE89AC-CB50-481F-A594-E3A9F445A5E8",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC7UB8BP1",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533979131.000059",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "437E251E-EAAF-467D-8706-91F3068F557E",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "E/N/8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "りょ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BCA6CB56-E195-4C86-9801-52BDCC959247",
+    "team": "T6WULA63S",
+    "text": "りょ",
+    "ts": "1533624532.000003",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9NCc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大沼\n明日 45分津田沼校舎やけど\nバスの乗り継ぎで47に着くわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1DCEC124-A0CB-4196-9694-940082D807D0",
+    "team": "T6WULA63S",
+    "text": "大沼\n明日 45分津田沼校舎やけど\nバスの乗り継ぎで47に着くわ",
+    "ts": "1533624380.000121",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "apl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まかされました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B3F476B9-7D5A-4920-9BAC-E14B2CD8D0B3",
+    "team": "T6WULA63S",
+    "text": "まかされました",
+    "ts": "1533624306.000234",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ndp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "矢島よろしく",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7DC76CF4-4042-427D-899E-DA13F0FE9417",
+    "team": "T6WULA63S",
+    "text": "矢島よろしく:pray:",
+    "ts": "1533624277.000063",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TvZu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとう谷島",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "32bb2c49-ff7b-4dd5-a086-392fd74b5ae8",
+    "team": "T6WULA63S",
+    "text": "ありがとう谷島",
+    "ts": "1533624264.000125",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZMl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "充電終わってたから抜いておいたよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "327264F7-8265-4A35-9F1F-4541711FED31",
+    "team": "T6WULA63S",
+    "text": "充電終わってたから抜いておいたよ",
+    "ts": "1533624230.000180",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oLW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バッテリーは机の上で充電中ですでに終わってると思うから抜いておいて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b0c35328-4236-4d0d-ad30-49274eebf484",
+    "team": "T6WULA63S",
+    "text": "バッテリーは机の上で充電中ですでに終わってると思うから抜いておいて",
+    "ts": "1533624183.000285",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jLw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "特に無いかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D2DA812F-CC64-4779-9C82-331788913009",
+    "team": "T6WULA63S",
+    "text": "特に無いかな",
+    "ts": "1533624180.000091",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZOD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとなにか書いておいたほうがいいことありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D1061D94-5411-473E-95EB-51400C4081F9",
+    "team": "T6WULA63S",
+    "text": "あとなにか書いておいたほうがいいことありますか？",
+    "ts": "1533624139.000134",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Nezb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応リードミー加筆しておいたので一度目を通しておいてください",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0EEADD61-5722-4829-BF1A-2592B70A2128",
+    "team": "T6WULA63S",
+    "text": "一応リードミー加筆しておいたので一度目を通しておいてください:pray::pray:",
+    "ts": "1533624067.000109",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pwVp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FF6CD96C-D1EE-4775-B72B-621E0F1669B6",
+    "team": "T6WULA63S",
+    "text": "分かりました",
+    "ts": "1533624028.000022",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l+Nra",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バッテリー充電しておいてね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CB4F977C-153C-4C61-A4D7-F9BCC6703170",
+    "team": "T6WULA63S",
+    "text": "バッテリー充電しておいてね",
+    "ts": "1533624015.000119",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Al0ei",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オッケー",
+                "type": "text"
+              },
+              {
+                "name": "ok_hand",
+                "type": "emoji",
+                "unicode": "1f44c"
+              },
+              {
+                "text": "\n明日も雨っぽいから\n機体濡れるの気をつけてね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DBF01F20-60F1-4150-9291-38407841786C",
+    "team": "T6WULA63S",
+    "text": "オッケー:ok_hand:\n明日も雨っぽいから\n機体濡れるの気をつけてね！",
+    "ts": "1533623772.000147",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qetqO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はい、今研究室にいるので家に持って帰って、当日持ってきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7FD9131D-8A8F-419F-8352-3BD5602F9BC3",
+    "team": "T6WULA63S",
+    "text": "はい、今研究室にいるので家に持って帰って、当日持ってきます",
+    "ts": "1533623732.000081",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j9J",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "当日\n機体持って来る人って谷島？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80C7B8FB-6B3F-4D58-AF5C-DB2E362EC6C7",
+    "team": "T6WULA63S",
+    "text": "当日\n機体持って来る人って谷島？",
+    "ts": "1533623695.000076",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3NM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プログラムとかもろもろのデータはここに入れてます。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=12hqU6-i8dgc2sNp2BIzuzUff-cCXX11H"
+              },
+              {
+                "text": "\n一応簡単ですがドキュメントも作っておいたので見てください（まだ加筆予定です）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1wt8CdW5h9I3D_4c6KEJodc8UKhYKFHlyhcoeZjlVTQE/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6a3adf6e-2f7a-4454-b08b-77b585a2d0d9",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gdoc",
+        "id": "FC3AD4S49",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "プログラムとかもろもろのデータはここに入れてます。\n<https://drive.google.com/open?id=12hqU6-i8dgc2sNp2BIzuzUff-cCXX11H>\n一応簡単ですがドキュメントも作っておいたので見てください（まだ加筆予定です）\n<https://docs.google.com/document/d/1wt8CdW5h9I3D_4c6KEJodc8UKhYKFHlyhcoeZjlVTQE/edit?usp=sharing>",
+    "ts": "1533610611.000158",
+    "type": "message",
+    "upload": false,
+    "user": "U7D6SJCAD",
+    "x_files": [
+      "FC3AD4S49"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "14E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日研究室行く人いたら機体の電源が外れてるか見てもらってもいいですか…つけっぱで出てきてしまったかも。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9a69a0cf-df70-4f73-a308-f6bb509cd655",
+    "team": "T6WULA63S",
+    "text": "今日研究室行く人いたら機体の電源が外れてるか見てもらってもいいですか…つけっぱで出てきてしまったかも。",
+    "ts": "1533603255.000110",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eJb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "単純にメカナムホイールの場所が右前用が左後ろにいってたりとかして、ぐちゃぐちゃになってただけでした。正しい位置につけたらちゃんと動きました",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87fda1c1-c0bd-42e3-8e9f-b4ab78366ec5",
+    "team": "T6WULA63S",
+    "text": "単純にメカナムホイールの場所が右前用が左後ろにいってたりとかして、ぐちゃぐちゃになってただけでした。正しい位置につけたらちゃんと動きました:+1:",
+    "ts": "1533603077.000180",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nnP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "グランドは流してますねー多分",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7245c5f8-5f4e-4661-9572-5ff1f4fdfd35",
+    "team": "T6WULA63S",
+    "text": "グランドは流してますねー多分",
+    "ts": "1533603022.000172",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yUPTZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、グランド流してないのかも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3367875F-AFEC-4266-95C2-7E4AF61D73A6",
+    "team": "T6WULA63S",
+    "text": "あ、グランド流してないのかも",
+    "ts": "1533597162.000284",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dy8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくおねがいします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "49dd531f-af0b-4724-bff4-7436c1610a90",
+    "team": "T6WULA63S",
+    "text": "よろしくおねがいします！",
+    "ts": "1533568345.000022",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gvK6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背くんご苦労様です！\n\n俺も8は行くから\nこの機体で課題になりそうな所あったら\nまとめて このチャンネルに投げるわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ED92D2D4-426C-4A38-AABA-4B3711A28860",
+    "team": "T6WULA63S",
+    "text": "妹背くんご苦労様です！\n\n俺も8は行くから\nこの機体で課題になりそうな所あったら\nまとめて このチャンネルに投げるわ",
+    "ts": "1533565116.000056",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l56Vg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいえー",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9f64c4a9-5a76-41a3-90ed-bbef4c90cd62",
+    "team": "T6WULA63S",
+    "text": "いいえー:+1:",
+    "ts": "1533564287.000266",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gboed",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ後ろのモーターの動きが渋いんだなーギア比違うのかなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a15271b-a2c3-4847-bd35-e193fba7bca9",
+    "team": "T6WULA63S",
+    "text": "これ後ろのモーターの動きが渋いんだなーギア比違うのかなぁ",
+    "ts": "1533564274.000531",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0VNr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背遅くまでご苦労さまです。",
+                "type": "text"
+              },
+              {
+                "name": "joy_cat",
+                "type": "emoji",
+                "unicode": "1f639"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7b9ecd0-f6e9-4963-a97a-14e44c402295",
+    "team": "T6WULA63S",
+    "text": "妹背遅くまでご苦労さまです。:joy_cat:",
+    "ts": "1533564253.000467",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jrAe/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "95F2D0E3-C138-4B7A-9751-A446D6C475D8",
+    "team": "T6WULA63S",
+    "text": "はいよ",
+    "ts": "1533564253.000420",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X2i3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとは谷島！試走会頼んだぞ！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "caddc91a-2e4f-45bf-82c5-08ddf9739b23",
+    "team": "T6WULA63S",
+    "text": "あとは谷島！試走会頼んだぞ！",
+    "ts": "1533564201.000466",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OBaU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すげーーーー！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "024974b7-27fd-4939-a994-6b55e603f9c2",
+    "team": "T6WULA63S",
+    "text": "すげーーーー！！！",
+    "ts": "1533564133.000449",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p1Ldn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず進捗です。\n単独で動くようにはできたけど、真横移動が微妙にできなかったり、ベルトの動きがやたらと渋かったりする課題が残ってます。\nとりあえずあともうちょっと粘ってやってみます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ed7737f-9906-4bb8-bc9c-0aa035f87cdf",
+    "team": "T6WULA63S",
+    "text": "とりあえず進捗です。\n単独で動くようにはできたけど、真横移動が微妙にできなかったり、ベルトの動きがやたらと渋かったりする課題が残ってます。\nとりあえずあともうちょっと粘ってやってみます。",
+    "ts": "1533564119.000025",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "FC4P1J4KY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533564027.000345",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "giphy: https://giphy.com/gifs/warnerarchive-classic-film-hammer-films-frankenstein-must-be-destroyed-3o85xu10Wg5Nl7xwVG",
+        "footer": "Posted using /giphy | GIF by <https://giphy.com/warnerarchive/|Warner Archive>",
+        "id": 1,
+        "image_bytes": 1504783,
+        "image_height": 282,
+        "image_url": "https://media3.giphy.com/media/3o85xu10Wg5Nl7xwVG/giphy-downsized.gif",
+        "image_width": 500,
+        "is_animated": true,
+        "title": "faint",
+        "title_link": "https://giphy.com/gifs/warnerarchive-classic-film-hammer-films-frankenstein-must-be-destroyed-3o85xu10Wg5Nl7xwVG"
+      }
+    ],
+    "bot_id": "BC2GYUATH",
+    "bot_profile": {
+      "app_id": "A0F827J2C",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png",
+        "image_48": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_48.png",
+        "image_72": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png"
+      },
+      "id": "BC2GYUATH",
+      "name": "giphy",
+      "team_id": "T6WULA63S",
+      "updated": 1533208982
+    },
+    "team": "T6WULA63S",
+    "text": "",
+    "ts": "1533209180.000254",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=u2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "機体作り直すのだけは嫌だ…。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "676AE74D-08C7-4FF9-9C4D-D6E4D54A0542",
+    "team": "T6WULA63S",
+    "text": "機体作り直すのだけは嫌だ…。",
+    "ts": "1533208660.000027",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lOM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう1回割っても大丈夫やで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "27384b75-ebcb-4ac1-a77b-c0c459907790",
+    "team": "T6WULA63S",
+    "text": "もう1回割っても大丈夫やで",
+    "ts": "1533208623.000294",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N0j1u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もうドリーム過ぎるわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "211f1f86-2519-492d-809e-33816b6f53ed",
+    "team": "T6WULA63S",
+    "text": "もうドリーム過ぎるわ",
+    "ts": "1533208530.000163",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8Xnf=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ﾄﾞﾘｰﾑｶﾝがある井出ｸﾝ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "061526c5-cdcc-441e-a27d-6c7e19fa923a",
+    "team": "T6WULA63S",
+    "text": "ﾄﾞﾘｰﾑｶﾝがある井出ｸﾝ",
+    "ts": "1533208455.000102",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F=+p/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだポキだからセーフ…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "00F70D33-8642-4B4A-A7B5-1FC5551897DE",
+    "team": "T6WULA63S",
+    "text": "まだポキだからセーフ…",
+    "ts": "1533208448.000248",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pnz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "井出ｸﾝ。。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6eaac89-dbbb-4305-91b0-b8b8830fb903",
+    "team": "T6WULA63S",
+    "text": "井出ｸﾝ。。。。",
+    "ts": "1533208424.000176",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6fKUE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U9KDDTMPZ"
+              },
+              {
+                "text": " いでちゃんがうまくやってくれました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e81ffb2f-b1cb-41f9-bea6-d08614d64246",
+    "team": "T6WULA63S",
+    "text": "<@U9KDDTMPZ> いでちゃんがうまくやってくれました",
+    "ts": "1533208394.000155",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "E3Y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すばらC",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E8E5DACC-8907-44AA-A687-7CAE2D7A1E0C",
+    "team": "T6WULA63S",
+    "text": "すばらC",
+    "ts": "1533208369.000101",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hVK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "昨日の車体の方は上手く切り取れた？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "16ccf505-6f95-4c1c-b895-9702830ffd1d",
+    "team": "T6WULA63S",
+    "text": "昨日の車体の方は上手く切り取れた？",
+    "ts": "1533208328.000166",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8wD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとはこのベルトを2段にするかんじですね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3dd6d91e-9e35-4be7-bf8e-ffab5e72f3e6",
+    "team": "T6WULA63S",
+    "text": "あとはこのベルトを2段にするかんじですね！",
+    "ts": "1533208256.000015",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FC1KUMFU5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533208246.000204",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "0D9B3A88-6924-4999-93D2-6E13FC9CA299",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2isP0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おお！\n素晴らしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A1BB7E66-8CC8-449D-8FB2-EE2263EA6F18",
+    "team": "T6WULA63S",
+    "text": "おお！\n素晴らしい",
+    "ts": "1533208235.000163",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "shJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "イケそうです！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B4834DAD-543B-48D0-BA07-CB8FC56ADFB4",
+    "team": "T6WULA63S",
+    "text": "イケそうです！",
+    "ts": "1533205819.000032",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "client_msg_id": "f594f84e-c524-4fca-94eb-83e704169cd4",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "FC2QK2GMU",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533205762.000191",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2O61O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1VGDCsg5Y6j79x0LsfQ7l16ZGU4vun1N74hHOu2kumYk/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a16f852-df40-480e-a168-fbcbe34944d0",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gsheet",
+        "id": "FC0L6CNUD",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://docs.google.com/spreadsheets/d/1VGDCsg5Y6j79x0LsfQ7l16ZGU4vun1N74hHOu2kumYk/edit?usp=sharing>",
+    "ts": "1533088481.000190",
+    "type": "message",
+    "upload": false,
+    "user": "U7D6SJCAD",
+    "x_files": [
+      "FC0L6CNUD"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lYQc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これだと、ベルトのテンションが足らなくて、間（に入る予定）のプーリーをうまく回せないとおもうんですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3A8F8623-2A89-46EC-9D33-393E98CC8437",
+    "team": "T6WULA63S",
+    "text": "これだと、ベルトのテンションが足らなくて、間（に入る予定）のプーリーをうまく回せないとおもうんですよね",
+    "ts": "1533006925.000091",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tvY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9E3EC542-1DE2-4FF1-87E7-D81EA16A8C07",
+    "team": "T6WULA63S",
+    "text": "なる",
+    "ts": "1533004779.000003",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "r5BNz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いでちゃんさんくす",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "854fcdff-73eb-47be-ae8b-39f85bbf4843",
+    "team": "T6WULA63S",
+    "text": "いでちゃんさんくす",
+    "ts": "1533004704.000068",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UJZEi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc3f85f0-e89f-45e9-9f85-17b94f7535d4",
+    "team": "T6WULA63S",
+    "text": "これです",
+    "ts": "1533004695.000003",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "client_msg_id": "1e1eec1d-5ede-4a85-ba20-e3c61a6413d9",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC1316286",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533004644.000105",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FBZFYCLN8",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533004621.000189",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "C285EF38-7AFA-47F8-AE2A-F7C46A7DE306",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lJvm2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかったかも。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B7BA49BC-B410-4026-A338-219EE9407005",
+    "team": "T6WULA63S",
+    "text": "わかったかも。",
+    "ts": "1533004594.000167",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f9g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プーリーに車軸をぶっさして、そのプーリーをユニバーサルプレートで挟んでる感じなんですよ（伝わって）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7cb499d2-4ee6-4555-8405-b88fdd4cdbb8",
+    "team": "T6WULA63S",
+    "text": "プーリーに車軸をぶっさして、そのプーリーをユニバーサルプレートで挟んでる感じなんですよ（伝わって）",
+    "ts": "1533004552.000138",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NzJ2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6077e88-c2ce-4572-8bb2-892782d126b4",
+    "team": "T6WULA63S",
+    "text": "いや",
+    "ts": "1533004484.000173",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aNd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "を、ささえるとこか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2ACD4AAF-A59B-4792-8FBD-55033B87F232",
+    "team": "T6WULA63S",
+    "text": "を、ささえるとこか",
+    "ts": "1533004480.000019",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y32u8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど？\n真ん中のコロコロが\n金属だといい感じ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80DF0CD9-2D4F-4C9F-99CE-03D9C6AB481E",
+    "team": "T6WULA63S",
+    "text": "なるほど？\n真ん中のコロコロが\n金属だといい感じ？",
+    "ts": "1533004467.000117",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/0Ou",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "車軸を固定する部分のことですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ebe61b4a-64f6-43d1-aa6f-a635671b8fd3",
+    "team": "T6WULA63S",
+    "text": "車軸を固定する部分のことですね",
+    "ts": "1533004354.000113",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wF5r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プラスチックはどこの話？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "04ACE4DF-C55B-4CBE-8E62-100C09A79610",
+    "team": "T6WULA63S",
+    "text": "プラスチックはどこの話？",
+    "ts": "1533004315.000014",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lFfY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応、昨日ユニバーサルプレートをつかって試しに作ってみたものが研究室に置いてあるんですが、出来ははいい感じなんですけどプラスチックだとちょっと剛性不足な感じでした（ベルトにテンションかけると曲がる）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5466d342-bd61-498b-998f-fc99bde3a684",
+    "edited": {
+      "ts": "1533004233.000000",
+      "user": "U7D6SJCAD"
+    },
+    "team": "T6WULA63S",
+    "text": "一応、昨日ユニバーサルプレートをつかって試しに作ってみたものが研究室に置いてあるんですが、出来ははいい感じなんですけどプラスチックだとちょっと剛性不足な感じでした（ベルトにテンションかけると曲がる）",
+    "ts": "1533004206.000235",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3fX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今回の設計だとフレームに対して垂直に車軸を固定しなければいけないんですが、そういう部品がないんですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "acd07b82-8885-44af-9479-8894fa472cb1",
+    "team": "T6WULA63S",
+    "text": "今回の設計だとフレームに対して垂直に車軸を固定しなければいけないんですが、そういう部品がないんですよね",
+    "ts": "1533004104.000036",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ic7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ad66f3de-479d-4f8f-9690-5fccebb39fdd",
+    "team": "T6WULA63S",
+    "text": "そうですねー",
+    "ts": "1533004070.000024",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bRj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背が悩んでるのってこれでいう真ん中のコロコロ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FC0Q1JR63",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "妹背が悩んでるのってこれでいう真ん中のコロコロ？",
+    "ts": "1533004039.000152",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "DC129B73-D5AF-47F1-BBBA-93A00B4F6DDF",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "W45v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "水曜で大丈夫ですｂ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2338c9b4-fc19-4e36-833f-087f755592a5",
+    "team": "T6WULA63S",
+    "text": "水曜で大丈夫ですｂ",
+    "ts": "1532998900.000069",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SJ1Y3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解",
+                "type": "text"
+              },
+              {
+                "name": "ok_hand",
+                "type": "emoji",
+                "unicode": "1f44c"
+              },
+              {
+                "text": "\nじゃ 水曜で大丈夫？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "735618D0-0DDD-4A29-AFDF-A8176BBEAE92",
+    "team": "T6WULA63S",
+    "text": "了解:ok_hand:\nじゃ 水曜で大丈夫？",
+    "ts": "1532968780.000300",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6bC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、朝って大体9時ぐらいまでなんで、無理して来ていただかなくても大丈夫です...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CF2CFA18-F0A7-4A7A-9293-9F143A62B36A",
+    "team": "T6WULA63S",
+    "text": "すいません、朝って大体9時ぐらいまでなんで、無理して来ていただかなくても大丈夫です...",
+    "ts": "1532964923.000366",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zZC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "火曜 俺空いてるから\n朝時間 教えてくれれば行くで\n水曜なら15時までなら大丈夫",
+                "type": "text"
+              },
+              {
+                "name": "ok_hand",
+                "type": "emoji",
+                "unicode": "1f44c"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A2207BF5-53D0-40BD-BF80-F677FAAD0936",
+    "team": "T6WULA63S",
+    "text": "火曜 俺空いてるから\n朝時間 教えてくれれば行くで\n水曜なら15時までなら大丈夫:ok_hand:",
+    "ts": "1532870568.000025",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HcA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月火は朝はいると思います。1日中いるのは水曜になるとおもいます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3316032b-7fc2-4a54-b28f-ae8877a88fa8",
+    "team": "T6WULA63S",
+    "text": "月火は朝はいると思います。1日中いるのは水曜になるとおもいます",
+    "ts": "1532869182.000056",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eCiF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次いついる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6BEEF492-F8E5-49D9-988C-15E7BC70EE63",
+    "team": "T6WULA63S",
+    "text": "次いついる？",
+    "ts": "1532868549.000056",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "td7nK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちゃんいではまず院試をしっかり成功させてね",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f65ea28e-82ce-44b7-8f87-ed03802c8814",
+    "team": "T6WULA63S",
+    "text": "ちゃんいではまず院試をしっかり成功させてね:+1:",
+    "ts": "1532868357.000017",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bD/B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スマンな任せきりで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1e8c9dcb-5464-4489-9c0e-7413325fd369",
+    "team": "T6WULA63S",
+    "text": "スマンな任せきりで",
+    "ts": "1532868256.000006",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2C/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず何となく解決できそうな部品買ってきたんで朝行って組んでみますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f95102f4-dee9-47fe-bf2a-4ec2d1bb441d",
+    "team": "T6WULA63S",
+    "text": "とりあえず何となく解決できそうな部品買ってきたんで朝行って組んでみますね",
+    "ts": "1532868159.000039",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OV46",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、明日の昼はぼくいないっす…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90d19b98-d16f-45ab-ab10-fe6fd80d053b",
+    "team": "T6WULA63S",
+    "text": "すみません、明日の昼はぼくいないっす…",
+    "ts": "1532868131.000031",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iolA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりま 明日 昼頃研究室行くわ",
+                "type": "text"
+              },
+              {
+                "name": "man-running",
+                "type": "emoji",
+                "unicode": "1f3c3-200d-2642-fe0f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C987ECC1-9DBB-4FE2-A1E5-1B1D1E2DADF5",
+    "team": "T6WULA63S",
+    "text": "とりま 明日 昼頃研究室行くわ:man-running:",
+    "ts": "1532859765.000050",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SXlWl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "缶を巻き込むタイヤの軸受けをどうするかで頭を悩ませておりまする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0A23D778-F3DB-4776-84BA-754C3E67ED8A",
+    "team": "T6WULA63S",
+    "text": "缶を巻き込むタイヤの軸受けをどうするかで頭を悩ませておりまする",
+    "ts": "1532855974.000020",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7FE1TCUR> has joined the channel",
+    "ts": "1532855693.000071",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1532855693.000068",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7D7WMM5F> has joined the channel",
+    "ts": "1532855693.000062",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U9KDDTMPZ> has joined the channel",
+    "ts": "1532855693.000056",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1532855693.000049",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "name": "メカトロ妹背藩",
+    "old_name": "めかとろ",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"めかとろ\" to \"メカトロ妹背藩\"",
+    "ts": "1532855664.000005",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1532855642.000077",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  }
+]

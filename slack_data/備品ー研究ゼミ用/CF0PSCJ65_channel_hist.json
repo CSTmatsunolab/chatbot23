@@ -1,0 +1,68 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1558416452.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1545783869.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1545739129.000800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "subtype": "channel_unarchive",
+    "text": "un-archived the channel",
+    "ts": "1545736249.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1545736249.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1545736148.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "set the channel topic: 研究およびゼミに必要な機材や参考書",
+    "topic": "研究およびゼミに必要な機材や参考書",
+    "ts": "1545734938.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "name": "備品ー研究ゼミ用",
+    "old_name": "研究用備品",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"研究用備品\" to \"備品ー研究ゼミ用\"",
+    "ts": "1545734894.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1545719863.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

@@ -1,0 +1,4474 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "aY5T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " すいません、あと昨日お願いした高橋さんのメールです。\n---\n松野さん\nお世話になっております。\n\nDcaseComの動いてるネットワークのルーターですが、\n現在、ポート10022を22に転送いただいていると思いますが、\n追加でGitlabなどに使う用で\n20022→192.168.12.100:20022\n30022→192.168.12.100:30022\nの設定をお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de483727-2b58-4264-b367-a677d0fa59e0",
+    "is_locked": false,
+    "latest_reply": "1614855993.000500",
+    "reply_count": 2,
+    "reply_users": [
+      "U97F49L68",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U97F49L68> すいません、あと昨日お願いした高橋さんのメールです。\n---\n松野さん\nお世話になっております。\n\nDcaseComの動いてるネットワークのルーターですが、\n現在、ポート10022を22に転送いただいていると思いますが、\n追加でGitlabなどに使う用で\n20022→192.168.12.100:20022\n30022→192.168.12.100:30022\nの設定をお願いします。",
+    "thread_ts": "1614854674.000200",
+    "ts": "1614854674.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lKGPq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " gitは新しいところじゃなくて既にあるやつに上書きしておいて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8c7b82e5-87fd-4c66-b7cc-a8c5e8880b2d",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@UNKU3S7C2> gitは新しいところじゃなくて既にあるやつに上書きしておいて",
+    "ts": "1614844045.013500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nfyMf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GSN変換エラーがでますねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f930d04f-6b45-4ddd-8ad7-9a432d1bf052",
+    "is_locked": false,
+    "latest_reply": "1614849783.000100",
+    "reply_count": 7,
+    "reply_users": [
+      "U97F49L68",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "GSN変換エラーがでますねー",
+    "thread_ts": "1614843933.012100",
+    "ts": "1614843933.012100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jUwK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3593c218-125e-44ba-a7d2-c15dcb6f38d6",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1614843688.011800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xj7xt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/CSTmatsunolab/Astah_plugin_okuma"
+              },
+              {
+                "text": " に僕の環境でビルドしたpluginをアップしました、先生の方でも動作確認お願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9e127d2d-18c3-49e7-a503-aac9f3562d21",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> <https://github.com/CSTmatsunolab/Astah_plugin_okuma> に僕の環境でビルドしたpluginをアップしました、先生の方でも動作確認お願いします",
+    "ts": "1614843518.011600",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F01PPJL1Y95",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1614840691.010300",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TwJb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "認証スコア 出した特徴量とDBの特徴量同士のユークリッド距離と基準値の差の絶対値\n認証スコアの方の条件はそうです。\n0.38は本人かどうかの方である程度試して設定しました0.08の方は大きすぎず小さすぎるみたいな感じで決めたような気がします\n顔検出スコア 顔検出の信頼度です\no.8以上あるとOps遷移します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5e2beaf0-f8be-45c8-972e-70e41a609965",
+    "is_locked": false,
+    "latest_reply": "1613920481.010100",
+    "reply_count": 1,
+    "reply_users": [
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "認証スコア 出した特徴量とDBの特徴量同士のユークリッド距離と基準値の差の絶対値\n認証スコアの方の条件はそうです。\n0.38は本人かどうかの方である程度試して設定しました0.08の方は大きすぎず小さすぎるみたいな感じで決めたような気がします\n顔検出スコア 顔検出の信頼度です\no.8以上あるとOps遷移します",
+    "thread_ts": "1613920199.010000",
+    "ts": "1613920199.010000",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xa3xZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "認証スコアは\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "0.08<=np.abs(face_distance - 0.38):",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [
+              {
+                "text": "ですね。0.08と0.38 は、何回か試してみて、設定したんですか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "03275015-e78c-471c-bf41-16fe9f5caee5",
+    "team": "T6WULA63S",
+    "text": "認証スコアは\n```0.08&lt;=np.abs(face_distance - 0.38):```\nですね。0.08と0.38 は、何回か試してみて、設定したんですか。",
+    "ts": "1613914777.006900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xHMm7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " 　すいません、\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=tExZT_fJ8X_5KTMeja_sgWJHlN05SkuKk3F3u1qriI4_"
+              },
+              {
+                "text": "\nに英語のGSNを小池くんがastahから作ってくれたのですが、これにモニタリングをつけてくれませんか。添付の画像に相当する部分です。\n英訳は以下です。\n顔検出スコア：Feature Extraction Score\n認証スコア: Authenticaiton Score\nしきい値との差　Distance from threshold\n本人確認: Authenticaiton\n\nで、これらの値の意味と、Opsに遷移する条件式を教えて下さい。\n例えば顔検出スコアは何以下になるとOpsに遷移しますか。\nしきい値との差はたしか0.38以上だと遷移するんでしたっけ。\n\nできたら明日までにお願いします。すいませんがよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01P6MGHL73",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "text": "<@UNKU3S7C2> 　すいません、\n<https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=tExZT_fJ8X_5KTMeja_sgWJHlN05SkuKk3F3u1qriI4_>\nに英語のGSNを小池くんがastahから作ってくれたのですが、これにモニタリングをつけてくれませんか。添付の画像に相当する部分です。\n英訳は以下です。\n顔検出スコア：Feature Extraction Score\n認証スコア: Authenticaiton Score\nしきい値との差　Distance from threshold\n本人確認: Authenticaiton\n\nで、これらの値の意味と、Opsに遷移する条件式を教えて下さい。\n例えば顔検出スコアは何以下になるとOpsに遷移しますか。\nしきい値との差はたしか0.38以上だと遷移するんでしたっけ。\n\nできたら明日までにお願いします。すいませんがよろしくお願いいたします。",
+    "ts": "1613913859.006000",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Rh8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みれました。ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8ac01f1d-4f66-4ea5-a044-632cd96c8bb6",
+    "team": "T6WULA63S",
+    "text": "みれました。ありがとうございます。",
+    "ts": "1613829461.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PI+p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/10iMHzCNbRzJ66lO78IGXrNyKQwi-b-Rn/view?usp=sharing"
+              },
+              {
+                "text": "\n多分間違えたリンク貼りました\nファイル名は入退室管理システムGSNEN.axmzです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4508f177-6ea7-4938-a700-8699849675b0",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/file/d/10iMHzCNbRzJ66lO78IGXrNyKQwi-b-Rn/view?usp=sharing>\n多分間違えたリンク貼りました\nファイル名は入退室管理システムGSNEN.axmzです",
+    "ts": "1613828687.001700",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HGSW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あれ、見れないんですけど、どこにおいてありますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8a645b4f-f1fc-457e-964e-3d5e0cc6ec74",
+    "team": "T6WULA63S",
+    "text": "あれ、見れないんですけど、どこにおいてありますか",
+    "ts": "1613827499.001100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wD9de",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2ac73d1d-75ff-4354-bc1e-dfd12125e5cf",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます！",
+    "ts": "1613826721.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xQMj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応ですがGSN英訳しました ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/10iMHzCNbRzJ66lO78IGXrNyKQwi-b-Rn/view?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8ff9be30-d720-4604-84a6-f933b0533bbb",
+    "team": "T6WULA63S",
+    "text": "一応ですがGSN英訳しました <https://drive.google.com/file/d/10iMHzCNbRzJ66lO78IGXrNyKQwi-b-Rn/view?usp=sharing>",
+    "ts": "1613826682.000500",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S7LVc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1CtNBz31MjWyyACFgnuffnWDZGBCfIHM3?usp=sharing"
+              },
+              {
+                "text": "\nここにgsn関連のスクショ置きました。足りない写真があったら教えて下さい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ccc6ad8-ddf1-4dd5-bf33-ede9a9472cec",
+    "is_locked": false,
+    "latest_reply": "1613741911.012400",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U97F49L68"
+        ]
+      }
+    ],
+    "reply_count": 5,
+    "reply_users": [
+      "U97F49L68",
+      "UNKU3S7C2"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/folders/1CtNBz31MjWyyACFgnuffnWDZGBCfIHM3?usp=sharing>\nここにgsn関連のスクショ置きました。足りない写真があったら教えて下さい",
+    "thread_ts": "1613732229.010700",
+    "ts": "1613732229.010700",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eKwM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "dcom対策表(済) 3層ずつスクショ(済)　顔認証devg4から下全部(済)　顔抽出部分スクショ(済)　英語バージョン　動画",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62183e93-13c1-43e6-a416-fdd7255317b5",
+    "edited": {
+      "ts": "1613732723.000000",
+      "user": "UNKU3S7C2"
+    },
+    "team": "T6WULA63S",
+    "text": "dcom対策表(済) 3層ずつスクショ(済)　顔認証devg4から下全部(済)　顔抽出部分スクショ(済)　英語バージョン　動画",
+    "ts": "1613718559.009800",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01NFHZF6JJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1613716579.008500",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v=nO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "meetのコメント欄にも書いたのですが後ろで卒論の発表ぽいのが始まりましたので少しマイクミュートします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c3d839c8-b18f-463f-bd7f-a92aef40e0f7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "meetのコメント欄にも書いたのですが後ろで卒論の発表ぽいのが始まりましたので少しマイクミュートします",
+    "ts": "1613716551.008300",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01P102N02V",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1613716503.007000",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0cMy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表練習ですが、\n",
+                "type": "text"
+              },
+              {
+                "text": "meet.google.com/jzv-xegm-wyy",
+                "type": "link",
+                "url": "http://meet.google.com/jzv-xegm-wyy"
+              },
+              {
+                "text": "\nでお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e330ddd9-355b-44e7-b122-d73177607a83",
+    "team": "T6WULA63S",
+    "text": "発表練習ですが、\n<http://meet.google.com/jzv-xegm-wyy|meet.google.com/jzv-xegm-wyy>\nでお願いします。",
+    "ts": "1613714415.006900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6Ogua",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=eq8vXwX4pAS8nM4QXJt4YqS2CBk8q8iBSdip1XheuXI_"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb96dc0e-78b7-4e16-8989-8765995799dc",
+    "team": "T6WULA63S",
+    "text": "<https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=eq8vXwX4pAS8nM4QXJt4YqS2CBk8q8iBSdip1XheuXI_>",
+    "ts": "1613700844.006500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s67M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません今入ります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B6F7A625-68C1-4363-9260-A0AFFF2ECABF",
+    "team": "T6WULA63S",
+    "text": "すいません今入ります",
+    "ts": "1613698710.006300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cBvb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b2747c6d-7cac-4a88-be61-74e3a6072431",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK>",
+    "ts": "1613698664.006000",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/tgv-chmo-ybn",
+        "id": 1,
+        "original_url": "https://meet.google.com/tgv-chmo-ybn",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/tgv-chmo-ybn"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "xPf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/tgv-chmo-ybn"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9052c563-b931-4532-90db-b4040d129858",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/tgv-chmo-ybn>",
+    "ts": "1613698219.005700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wEhe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "では１０時３０分から明日お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ef35b019-d106-4639-945f-ca704222cafd",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U97F49L68"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "では１０時３０分から明日お願いします。",
+    "ts": "1613629518.005200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gKEPK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GSNを作る枠をとりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ef2986bf-c340-4ce3-9652-fa4abec3521a",
+    "team": "T6WULA63S",
+    "text": "GSNを作る枠をとりました",
+    "ts": "1613629441.004700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/rgr-fdhm-nxd",
+        "id": 1,
+        "original_url": "https://meet.google.com/rgr-fdhm-nxd",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/rgr-fdhm-nxd"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "c=7c",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/rgr-fdhm-nxd"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f9730de-bdba-4d1b-af5f-1ed755d2f050",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/rgr-fdhm-nxd>",
+    "ts": "1613629383.004300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bPs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です、ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6588f55-9aff-491e-9661-03bbb4787b1b",
+    "team": "T6WULA63S",
+    "text": "了解です、ありがとうございます",
+    "ts": "1613614861.004100",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/GZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そう。今は機能→要求、問題対処だけど機能→要求→問題対処って感じだね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "18915f8a-f1ee-4999-87c6-b9e07dfb505f",
+    "team": "T6WULA63S",
+    "text": "そう。今は機能→要求、問題対処だけど機能→要求→問題対処って感じだね",
+    "ts": "1613614835.003500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SHC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最初は要求で分けて、そこから問題に対する対処という順に書くということであってますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "63e42ad3-f426-4ca5-866e-00aa0d692289",
+    "team": "T6WULA63S",
+    "text": "最初は要求で分けて、そこから問題に対する対処という順に書くということであってますか？",
+    "ts": "1613614730.001800",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F01N72AEB5G",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1613454591.000400",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/sfm-vzth-vkx",
+        "id": 1,
+        "original_url": "https://meet.google.com/sfm-vzth-vkx",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/sfm-vzth-vkx"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "vm7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/sfm-vzth-vkx"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48b19bdc-6b22-43fb-a4b0-47dcfed5c02f",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/sfm-vzth-vkx>",
+    "ts": "1613440092.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CTmqa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おおー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "79a9a3c0-ac1d-4551-a0ae-7c48d9841657",
+    "team": "T6WULA63S",
+    "text": "おおー",
+    "ts": "1611190940.010200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MtvXU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいかんじですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4227ac1-edee-45ea-9130-b5c998e1ba90",
+    "team": "T6WULA63S",
+    "text": "いいかんじですね",
+    "ts": "1611190545.010000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "45e316f6-8a74-4f27-a809-fc5e29c38795",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "F01KCF5EL2F",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1611190467.009400",
+    "type": "message",
+    "upload": true,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kZ0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "文字化けも直ったようです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90b745e5-91ab-4998-b9cb-25432108473d",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U97F49L68"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "文字化けも直ったようです",
+    "ts": "1611060547.009200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0xvf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "モニタリングは直ったようです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "462819e4-3555-475e-b1bb-8fcb76c506c0",
+    "team": "T6WULA63S",
+    "text": "モニタリングは直ったようです",
+    "ts": "1611060073.009000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01K2QU1Z0S",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1611020828.008600",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7SJcP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1cYlWHZ9IOSRtuURAOveaoIP8vtbyW8d_WhT7lKlTii4/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "64db655c-4cbf-4dad-a3cd-2148aab692af",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1cYlWHZ9IOSRtuURAOveaoIP8vtbyW8d_WhT7lKlTii4/edit?usp=sharing>",
+    "ts": "1611020335.008500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eIRP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "10時30分からここでお願いします\n",
+                "type": "text"
+              },
+              {
+                "text": "meet.google.com/hwy-cjht-mkq",
+                "type": "link",
+                "url": "http://meet.google.com/hwy-cjht-mkq"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "714106fc-75ee-403b-985c-7ed256fbcc77",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U97F49L68"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "10時30分からここでお願いします\n<http://meet.google.com/hwy-cjht-mkq|meet.google.com/hwy-cjht-mkq>",
+    "ts": "1611014411.008100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ouYhM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " くん大丈夫ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b7a7ddaf-17b2-4dc1-b5f6-64ef2d748e40",
+    "is_locked": false,
+    "latest_reply": "1610957188.007500",
+    "reply_count": 2,
+    "reply_users": [
+      "UNKU3S7C2",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@UNKU3S7C2> くん大丈夫ですか",
+    "thread_ts": "1610956958.006900",
+    "ts": "1610956958.006900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Tzvp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " で３人で午前中相談しますか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a96c5e3-244e-4170-974e-410fd327c6be",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U97F49L68",
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日<@UNKU3S7C2> <@U97F49L68> で３人で午前中相談しますか。",
+    "ts": "1610956622.006500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ahtmp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オンライン学習でDBに保存する顔画像を更新していって精度を高めていくってやり方でやれば認証部分は何か出やすそうですけどちょっと大変ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8766fca4-242f-447c-bd8b-19fb5636712b",
+    "team": "T6WULA63S",
+    "text": "オンライン学習でDBに保存する顔画像を更新していって精度を高めていくってやり方でやれば認証部分は何か出やすそうですけどちょっと大変ですね",
+    "ts": "1610955533.006000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kM05",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fae99c43-6629-4529-9799-ee057535d36c",
+    "team": "T6WULA63S",
+    "text": "そうですね",
+    "ts": "1610955453.004600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ttf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "顔抽出、認証、DBの3つでやりたいですけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bd38e3ad-ab71-45dd-ae64-a45d66a9b712",
+    "team": "T6WULA63S",
+    "text": "顔抽出、認証、DBの3つでやりたいですけど",
+    "ts": "1610955419.004100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P=j3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず関さんのデモみたいな感じで信用スコアみたいなのが出せれば…？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c3131484-d041-4def-b1e4-d821a35fa7a0",
+    "team": "T6WULA63S",
+    "text": "とりあえず関さんのデモみたいな感じで信用スコアみたいなのが出せれば…？",
+    "ts": "1610955387.003500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wxK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "顔を認識するとき、その顔の値をモニタリングとか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17187cff-41ac-4dac-854b-7648a1400bcb",
+    "team": "T6WULA63S",
+    "text": "顔を認識するとき、その顔の値をモニタリングとか",
+    "ts": "1610955099.002100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vdY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現状のD-Caseだと顔抽出をモニタリングしてますけどできますかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f832eb51-aa5b-401d-9308-181bc59cfa3e",
+    "team": "T6WULA63S",
+    "text": "現状のD-Caseだと顔抽出をモニタリングしてますけどできますかね",
+    "ts": "1610955001.001600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gtvYx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます！おつかれさまでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "92fea08c-2e5f-421f-961e-ecea0171f125",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます！おつかれさまでした",
+    "ts": "1608848040.067100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B4x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "機械学習班のスライドも見終わったので寝ます。論文の方で何かあったら松野先生お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "436227b2-d2a9-401e-85c2-f59831b0af00",
+    "team": "T6WULA63S",
+    "text": "機械学習班のスライドも見終わったので寝ます。論文の方で何かあったら松野先生お願いします。",
+    "ts": "1608841005.066700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7VgM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アップロードしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8106b107-3999-4733-b192-403e1c45fdd4",
+    "team": "T6WULA63S",
+    "text": "アップロードしました",
+    "ts": "1608835608.065000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "h5AyL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "といってもスペースがあまりなかったので顔検出のスコアと認証のスコアの2つがリアルタイムでモニタリングできる→特に顔検出に関して議論を簡略化でき、運用時にはシステムの現状のみに注目できるというふうに話しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56ad8091-4921-4377-b896-94e03bf3b444",
+    "team": "T6WULA63S",
+    "text": "といってもスペースがあまりなかったので顔検出のスコアと認証のスコアの2つがリアルタイムでモニタリングできる→特に顔検出に関して議論を簡略化でき、運用時にはシステムの現状のみに注目できるというふうに話しました",
+    "ts": "1608835097.064600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wMtrB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "要求に顔認証機能が正しく機能してるというのを入れてそれを以前の顔認識のGSNを日本語化して展開していきました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc57078a-1400-4e81-8bc4-e82419f04b85",
+    "team": "T6WULA63S",
+    "text": "要求に顔認証機能が正しく機能してるというのを入れてそれを以前の顔認識のGSNを日本語化して展開していきました。",
+    "ts": "1608834996.062700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aj3v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "入退室管理システムはGSNの同期とモニタリングの方向性で話しています",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "67440e20-2de4-45a6-8217-6adbddbb7260",
+    "team": "T6WULA63S",
+    "text": "入退室管理システムはGSNの同期とモニタリングの方向性で話しています",
+    "ts": "1608834890.061200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aKv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず完成しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae4a3d33-1e29-4ef0-8393-a63a2fb424dc",
+    "team": "T6WULA63S",
+    "text": "とりあえず完成しました",
+    "ts": "1608834840.060400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01HSC8PHRA",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1608828814.059900",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01HL7F0G4S",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1608828802.059600",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01HLDGKRA7",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1608828787.059300",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=+zPX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85c96d9f-bf2d-4197-a099-11a03cc7e66a",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1608816802.059000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xAACw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " すいませんあとよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c77ea8ca-76e1-481c-879d-ed49a46e269c",
+    "team": "T6WULA63S",
+    "text": "<@U97F49L68> <@UNKU3S7C2> すいませんあとよろしくお願いいたします。",
+    "ts": "1608816789.058800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gva",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b1d5d5c-5aea-444b-8ada-9faf157b4fc5",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1608815865.058200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "u0ZrG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今ブロック図を書いてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fb1225da-3246-48fa-afa8-7085a2fbfe7d",
+    "team": "T6WULA63S",
+    "text": "今ブロック図を書いてます",
+    "ts": "1608815810.058000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SAzm9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " 岡田さんのをマージして、だいたい私が書く所は書いたのですが、小池君と大熊君のところはどうですか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e6f2b6e-5f03-477f-ab74-39b011c589d5",
+    "team": "T6WULA63S",
+    "text": "<@U97F49L68> <@UNKU3S7C2> 岡田さんのをマージして、だいたい私が書く所は書いたのですが、小池君と大熊君のところはどうですか。",
+    "ts": "1608815784.057700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wR++9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.jst.go.jp/crest/crest-os/tech/D-Case-OSLC/Downloads/SysML_ModelingGuide_version1.0-JA.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86daadb0-e7d7-4d10-a8af-7327f2e08044",
+    "team": "T6WULA63S",
+    "text": "<https://www.jst.go.jp/crest/crest-os/tech/D-Case-OSLC/Downloads/SysML_ModelingGuide_version1.0-JA.pdf>",
+    "ts": "1608813846.056900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01HGQWT9FX",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1608813089.056500",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RTG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " ちょっと通話できる？内部ブロック図は難しそうだからブロック図をもっと細かく書いてクラス図に置き換えよう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e04aad3-493b-4a60-a25d-9a0021da0f29",
+    "is_locked": false,
+    "latest_reply": "1608813054.056300",
+    "reply_count": 3,
+    "reply_users": [
+      "UNKU3S7C2",
+      "U97F49L68"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@UNKU3S7C2> ちょっと通話できる？内部ブロック図は難しそうだからブロック図をもっと細かく書いてクラス図に置き換えよう。",
+    "thread_ts": "1608812973.055700",
+    "ts": "1608812973.055700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XHYbm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "入退室管理システムじゃなくて顔認証システムがカメラとかカードリーダーに繋がってるんじゃなかったっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b66d1ef4-cdcf-48c9-89c8-f6e4a4a0f739",
+    "team": "T6WULA63S",
+    "text": "入退室管理システムじゃなくて顔認証システムがカメラとかカードリーダーに繋がってるんじゃなかったっけ",
+    "ts": "1608811932.054300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SuyQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " 君、図７のD-Caseですが、字が小さいので、D-Case Communicatorで字を大きくして、図にしてくれませんか。D-Case Communicatorで、\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=iwO8k_i34dVxNfdQ0Vot9b7tSMI4oTPytnkFqcyjBS0_"
+              },
+              {
+                "text": "\nみたいに字を大きくすることができます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6fe4e6ff-faa4-4dc1-a776-b0038b53e324",
+    "team": "T6WULA63S",
+    "text": "<@UNKU3S7C2> 君、図７のD-Caseですが、字が小さいので、D-Case Communicatorで字を大きくして、図にしてくれませんか。D-Case Communicatorで、\n<https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=iwO8k_i34dVxNfdQ0Vot9b7tSMI4oTPytnkFqcyjBS0_>\nみたいに字を大きくすることができます。",
+    "ts": "1608811812.052500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wc6fY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、夕飯食べて遅くなりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01HKSV4MH8",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "すいません、夕飯食べて遅くなりました",
+    "ts": "1608811748.050800",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+8dHx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98e52818-e8b8-4835-ab68-306c0857a194",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1608811337.048000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6QS0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GSNの説明を追加しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02b8313a-be76-4476-b5b3-d12e3ed74a75",
+    "team": "T6WULA63S",
+    "text": "GSNの説明を追加しました",
+    "ts": "1608811325.047300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l9T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b9e443b-d036-4cf8-9c53-32f118c4d037",
+    "team": "T6WULA63S",
+    "text": "了解です。",
+    "ts": "1608810875.044900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WRA9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今入退室管理システムの所を見てます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "04dee8cb-71fd-4032-a804-c23aeab7389f",
+    "team": "T6WULA63S",
+    "text": "今入退室管理システムの所を見てます",
+    "ts": "1608810859.044500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l+kCW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。あと",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " 君、",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": "君で追加するところありますか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eca521c5-1894-4bc5-8450-5132b9082a1f",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。あと<@U97F49L68> 君、<@UNKU3S7C2>君で追加するところありますか。",
+    "ts": "1608810821.044000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5P6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "直しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9a1c7eaf-ce00-459b-8edc-67862bac03bb",
+    "team": "T6WULA63S",
+    "text": "直しました",
+    "ts": "1608810639.043500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tTtB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コード書けていますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c54612f-a121-4e7c-aa76-4abe99ce06e3",
+    "team": "T6WULA63S",
+    "text": "コード書けていますね",
+    "ts": "1608810579.043100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mQb9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あれ、図１のDevOpsアシュアランスケースの例が見えないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33927963-a753-41df-9bdc-27a43a86d073",
+    "team": "T6WULA63S",
+    "text": "あれ、図１のDevOpsアシュアランスケースの例が見えないです",
+    "ts": "1608810554.042900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1dJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうもこなさそうなので、論文にはちょっと間に合わなさそうですね。まあ前落ちた論文の例を載せるか、論文では省略して、発表のときに説明できるようにしようかなと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d2eafcc0-8186-42a0-8ebb-87fd253b2bad",
+    "team": "T6WULA63S",
+    "text": "どうもこなさそうなので、論文にはちょっと間に合わなさそうですね。まあ前落ちた論文の例を載せるか、論文では省略して、発表のときに説明できるようにしようかなと思います。",
+    "ts": "1608810502.042400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OM=M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "高橋さんからモニタリングについて来そうですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f328a307-7485-4342-8abb-f7d1bf55fa92",
+    "team": "T6WULA63S",
+    "text": "高橋さんからモニタリングについて来そうですか？",
+    "ts": "1608810265.041400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N3R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こういう感じでちゃんとどんな関数があるのかとかどういう操作があるのかとか書いたほうが良いと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ee282d32-7f89-4ece-b245-a8c5e8d5438e",
+    "team": "T6WULA63S",
+    "text": "こういう感じでちゃんとどんな関数があるのかとかどういう操作があるのかとか書いたほうが良いと思う",
+    "ts": "1608805332.040900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "MONOist: ブロック定義図の基礎",
+        "from_url": "https://monoist.atmarkit.co.jp/mn/articles/1002/08/news094_2.html",
+        "id": 1,
+        "original_url": "https://monoist.atmarkit.co.jp/mn/articles/1002/08/news094_2.html",
+        "service_icon": "http://monoist.atmarkit.co.jp/mn/favicon.ico",
+        "service_name": "MONOist",
+        "text": "SysMLの言語要素や表記方法について、モデルの具体例を挙げながら解説。第1回はSysMLの構造図「ブロック定義図」について。",
+        "thumb_height": 376,
+        "thumb_url": "https://image.itmedia.co.jp/mn/articles/1002/08/l_ay_sy01_03.gif",
+        "thumb_width": 1254,
+        "title": "ブロック定義図の基礎",
+        "title_link": "https://monoist.atmarkit.co.jp/mn/articles/1002/08/news094_2.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "VWDg5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://monoist.atmarkit.co.jp/mn/articles/1002/08/news094_2.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4f80f594-92ed-4666-925b-3dccbb99948b",
+    "team": "T6WULA63S",
+    "text": "<https://monoist.atmarkit.co.jp/mn/articles/1002/08/news094_2.html>",
+    "ts": "1608805302.040000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aXa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "書き換えました、確認お願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F01HRTJTZ8U",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "書き換えました、確認お願いします",
+    "ts": "1608804513.039600",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UgBs1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "UMLのクラス図 ≒ SysMLの内部ブロック図って感じ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0df93b58-81ac-4c72-8a2b-b0a02acfc66b",
+    "team": "T6WULA63S",
+    "text": "UMLのクラス図 ≒ SysMLの内部ブロック図って感じ",
+    "ts": "1608803019.039200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gwp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "内部ブロック図はプログラムについて書くべきかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f18a5e2-080e-4c28-9588-899263824230",
+    "team": "T6WULA63S",
+    "text": "内部ブロック図はプログラムについて書くべきかな",
+    "ts": "1608802442.038600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mhj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "内部ブロックこんな感じでいいですか\nastahのルールでデータのやり取りとかを細かくことができませんでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F01HGJLFGQ5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "内部ブロックこんな感じでいいですか\nastahのルールでデータのやり取りとかを細かくことができませんでした",
+    "ts": "1608802346.037900",
+    "type": "message",
+    "upload": false,
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T0UxP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "単に文字で入れてもいいと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D003845A-3BBE-4D91-A495-6127BB31A1D2",
+    "team": "T6WULA63S",
+    "text": "単に文字で入れてもいいと思います",
+    "ts": "1608802284.037500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9AqRX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Jsonってソースコード1,2とかにするべきですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84f66a74-1a9d-44fd-a97a-829f5bf37753",
+    "team": "T6WULA63S",
+    "text": "Jsonってソースコード1,2とかにするべきですかね",
+    "ts": "1608801502.035000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qP5u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "単に文字入れて次に示すとかで良いんですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a03dd0b3-45da-4984-8d81-1aafdfa32968",
+    "team": "T6WULA63S",
+    "text": "単に文字入れて次に示すとかで良いんですかね",
+    "ts": "1608800887.034400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yr7H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "verbatimだとただ文字入れるだけなんで図とかにならないんですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f486a9f1-2709-4c77-98aa-ea8c2028d57c",
+    "team": "T6WULA63S",
+    "text": "verbatimだとただ文字入れるだけなんで図とかにならないんですよね",
+    "ts": "1608800858.033900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NiA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "というよりJlistingを外部から入れようとしてるんですけど展開すると文字化けして上手く使えない感じです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f99f594a-3d4f-42ef-a8e7-be0c8c4f4ae0",
+    "team": "T6WULA63S",
+    "text": "というよりJlistingを外部から入れようとしてるんですけど展開すると文字化けして上手く使えない感じです",
+    "ts": "1608800840.033400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mGWJS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーんverbatimとか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "92CE41A1-1D64-4983-9010-4C43C0AEEEC1",
+    "team": "T6WULA63S",
+    "text": "うーんverbatimとか",
+    "ts": "1608800836.033200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Ke",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今mintedっていうソースコードを書くやつを使ってるんですけどキャプションを上手く入れられないんですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a15db550-33db-4095-b5ae-6b3b7a8f9e6c",
+    "team": "T6WULA63S",
+    "text": "今mintedっていうソースコードを書くやつを使ってるんですけどキャプションを上手く入れられないんですよね",
+    "ts": "1608800714.031700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pEC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Textttとかフォント使って文字で書いたらどうですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17F605B1-4297-4B5A-9B3A-4E9D1165CAC0",
+    "team": "T6WULA63S",
+    "text": "Textttとかフォント使って文字で書いたらどうですか",
+    "ts": "1608800662.031000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZCW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Jsonって図として載せるのが正しいんですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "815b4b92-2274-481e-8d76-51069da2b8e6",
+    "team": "T6WULA63S",
+    "text": "Jsonって図として載せるのが正しいんですか？",
+    "ts": "1608798398.030100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=CuCm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e348ce1-d85c-4b06-a7a6-894850c9988e",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1608789659.029400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lblE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとは小池君のほうで、Astahとの連携のところをお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a1588d0-2664-4a6d-9410-be8a852e726f",
+    "team": "T6WULA63S",
+    "text": "あとは小池君のほうで、Astahとの連携のところをお願いします",
+    "ts": "1608789643.029200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b+I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "12aa89ba-cbb4-4ded-ada5-3a2b059ac831",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1608789563.028800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RAB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず課題2のステークホルダとモデル図の層の定義は書きました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "088cc5a6-f2c8-4c34-a784-5e32f9db1e0b",
+    "team": "T6WULA63S",
+    "text": "とりあえず課題2のステークホルダとモデル図の層の定義は書きました",
+    "ts": "1608789438.028600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qlNm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "思ったんですがシーケンス図とかユースケースとかは荷物搬送システムの方で使いませんかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3512026e-6502-4c7a-aea8-ee77481308f7",
+    "team": "T6WULA63S",
+    "text": "思ったんですがシーケンス図とかユースケースとかは荷物搬送システムの方で使いませんかね",
+    "ts": "1608789375.028000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qq=u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=12cMi_eYidke7M899IzsLpsrsoFZPzve2&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48fb34b0-6a7b-4f7f-8690-407c13d0bd88",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "F01HKJA4519",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://drive.google.com/open?id=12cMi_eYidke7M899IzsLpsrsoFZPzve2&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>",
+    "ts": "1608786365.026900",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F01HKJA4519"
+    ]
+  },
+  {
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "python",
+        "id": "F01HG9C13LM",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "python",
+        "id": "F01HKBXLNPL",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1608785835.026300",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pAcb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "import DCaseMonitor as dcaseCom\nimport time\n\ndcaseID = “ARXk_1Jt5eZxrWWJaIIXErjxDuc8OWZ1dFoZheepqn8_”\nmonitorKey = “Key_zcs8j5yu”\n\ndata = [\n\t{\n\t\t“Key”: “Title1\",\n\t\t“Value”: 1,\n\t},\n\t{\n\t\t“Key”: “Title2”,\n\t\t“Value”: 2.0,\n\t},\n\t{\n\t\t“Key”: “Title3\",\n\t\t“Value”: “3(san)“,\n\t},\n\t{\n\t\t“Key”: “Title4\",\n\t\t“Value”: “red alert”,\n        “Color”: “",
+                "type": "text"
+              },
+              {
+                "type": "color",
+                "value": "#FF0000"
+              },
+              {
+                "text": "\",\n\t},\n]\n\ndata1 = [{“Key” : “Status”,“Value” : “Works Fine”}]\n\ndcase = dcaseCom.DCaseMonitor( dcaseID, monitorKey, sslIgnore=True )\n\nnum = 20\nfor i in range(num):\n\t# data1[0][“Value”] = str(i*5 - 0.02)+“%”\n\tdata1[0][“Color”] = “#{:02x}{:02x}{:02x}“.format(255, 0, int(i*2.0/num * 255) )\n\tprint(“upload data”, data1[0])\n\tret = dcase.uploadData( data1 )\n\tprint(“return”, ret)\n\ttime.sleep(10)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ce8700d-fcd4-4862-b150-40712e92aa29",
+    "team": "T6WULA63S",
+    "text": "import DCaseMonitor as dcaseCom\nimport time\n\ndcaseID = “ARXk_1Jt5eZxrWWJaIIXErjxDuc8OWZ1dFoZheepqn8_”\nmonitorKey = “Key_zcs8j5yu”\n\ndata = [\n\t{\n\t\t“Key”: “Title1\",\n\t\t“Value”: 1,\n\t},\n\t{\n\t\t“Key”: “Title2”,\n\t\t“Value”: 2.0,\n\t},\n\t{\n\t\t“Key”: “Title3\",\n\t\t“Value”: “3(san)“,\n\t},\n\t{\n\t\t“Key”: “Title4\",\n\t\t“Value”: “red alert”,\n        “Color”: “#FF0000\",\n\t},\n]\n\ndata1 = [{“Key” : “Status”,“Value” : “Works Fine”}]\n\ndcase = dcaseCom.DCaseMonitor( dcaseID, monitorKey, sslIgnore=True )\n\nnum = 20\nfor i in range(num):\n\t# data1[0][“Value”] = str(i*5 - 0.02)+“%”\n\tdata1[0][“Color”] = “#{:02x}{:02x}{:02x}“.format(255, 0, int(i*2.0/num * 255) )\n\tprint(“upload data”, data1[0])\n\tret = dcase.uploadData( data1 )\n\tprint(“return”, ret)\n\ttime.sleep(10)",
+    "ts": "1608785753.026200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "python",
+        "id": "F01HRGN7ARJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "python",
+        "id": "F01HY0Z1FL1",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1608785638.025600",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U8Mrd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Meet作りました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54a6f0d8-47da-4c63-9b22-604b3896735d",
+    "team": "T6WULA63S",
+    "text": "Meet作りました",
+    "ts": "1608785091.025500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/wac-teux-ztp",
+        "id": 1,
+        "original_url": "https://meet.google.com/wac-teux-ztp",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/wac-teux-ztp"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "rYZe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/wac-teux-ztp"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "946ee4ac-568c-4584-b068-474734c7fa55",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/wac-teux-ztp>",
+    "ts": "1608785040.024800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XhXgr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず今書くのを先生と進めます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8ec0bc9a-411d-4433-891a-06e497ab8366",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U97F49L68"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "とりあえず今書くのを先生と進めます",
+    "ts": "1608705349.024400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "name": "入退室管理システム開発",
+    "old_name": "顔認識システム開発",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"顔認識システム開発\" to \"入退室管理システム開発\"",
+    "ts": "1608705332.024000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jpeo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず大熊くんは入退室管理システムについて要旨に書いたような事を書いて貰ってそれが終わってからモニタリングについて考えよう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3cbf30e-ab42-4592-b909-b4d475cfd4ab",
+    "team": "T6WULA63S",
+    "text": "とりあえず大熊くんは入退室管理システムについて要旨に書いたような事を書いて貰ってそれが終わってからモニタリングについて考えよう",
+    "ts": "1608705216.023400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+4Co",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まず図の中の字とか読めないので、図を工夫したほうがいいですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "718e0374-82c4-47ff-b63f-b995f5f77a9c",
+    "team": "T6WULA63S",
+    "text": "まず図の中の字とか読めないので、図を工夫したほうがいいですね",
+    "ts": "1608597621.022000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Pf+Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dfbc25ca-74a2-4a32-aa5b-bf1b8ca78820",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1608590864.020600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iOo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.overleaf.com/5438626153kfkvvjkyzhkk"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [
+              {
+                "text": "早朝なので通知配慮で一応こっちの方に貼らさせていただきます。\n起きた時またオーバーフローの方で申請します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1c7fbd9c-1b19-467b-91d8-7eddcd7c38d2",
+    "team": "T6WULA63S",
+    "text": "```<https://www.overleaf.com/5438626153kfkvvjkyzhkk>```\n早朝なので通知配慮で一応こっちの方に貼らさせていただきます。\n起きた時またオーバーフローの方で申請します",
+    "ts": "1608573210.020400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "79cb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.ipa.go.jp/files/000040880.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1e4c7e4e-dc14-40c8-8c72-880334823b7b",
+    "team": "T6WULA63S",
+    "text": "<https://www.ipa.go.jp/files/000040880.pdf>",
+    "ts": "1608196112.018600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8tqpb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.overleaf.com/6854852683xkmvxprgdrdr"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a25930c6-79dd-421d-a59f-c2abad8cb893",
+    "team": "T6WULA63S",
+    "text": "```<https://www.overleaf.com/6854852683xkmvxprgdrdr>```",
+    "ts": "1608103999.018400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bE1Dg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/dcaseList.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "109cd392-f7e9-4bbc-a811-373619ab4a77",
+    "team": "T6WULA63S",
+    "text": "<https://mlab.ce.cst.nihon-u.ac.jp/dcase/dcaseList.html>",
+    "ts": "1608093552.018200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XiupP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "エラーと対処はセットにして",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "052734cf-4d49-4ca9-b165-54da34a7de40",
+    "team": "T6WULA63S",
+    "text": "エラーと対処はセットにして",
+    "ts": "1607861758.018000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=/hkZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあtry使ったところで起こりうるプログラムのエラーもまとめてほしいかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a3a7d3fa-ac86-499d-ba77-132f4c2e755e",
+    "team": "T6WULA63S",
+    "text": "まあtry使ったところで起こりうるプログラムのエラーもまとめてほしいかな",
+    "ts": "1607861700.017700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xcz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プログラム自体のバグは普通に直してほしいなぁ．．．．\nエラーはマスクとかで隠れてる時とか別のカードでタッチしちゃったりとかみたいな顔認識システムを使う上で正常に一連の流れができなくなる場合かな\nそういう場合でも出来てないのに成功しちゃうなんてことは無いですよって言いたい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d185402e-ef1c-4f5d-8935-b95840002cd3",
+    "team": "T6WULA63S",
+    "text": "プログラム自体のバグは普通に直してほしいなぁ．．．．\nエラーはマスクとかで隠れてる時とか別のカードでタッチしちゃったりとかみたいな顔認識システムを使う上で正常に一連の流れができなくなる場合かな\nそういう場合でも出来てないのに成功しちゃうなんてことは無いですよって言いたい",
+    "ts": "1607861668.017200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xaf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "色分けしました。\n内部ブロックは調べてとりあえずで書いてみます\nエラーは最初に関先生に見てもらったときのexceptだけでスキップしたのがダメみたいな話の部分であってます？とりあえずここもgoogleのスプレッドシートのまとめておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62a3a5e2-d3ec-4afe-a0d1-fb9302716a11",
+    "team": "T6WULA63S",
+    "text": "色分けしました。\n内部ブロックは調べてとりあえずで書いてみます\nエラーは最初に関先生に見てもらったときのexceptだけでスキップしたのがダメみたいな話の部分であってます？とりあえずここもgoogleのスプレッドシートのまとめておきます",
+    "ts": "1607861344.013200",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2fy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そしたら水曜日にD-Caseを作りましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7431a2d4-8562-4e7b-8e99-4be0c636c5ed",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そしたら水曜日にD-Caseを作りましょう",
+    "ts": "1607861117.010600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v9b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと水曜までに前に言ってた起こりそうなエラーのまとめみたいなのもdriveに入れておいてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7f0dcf02-560f-438c-b772-5869f3c5ce49",
+    "team": "T6WULA63S",
+    "text": "あと水曜までに前に言ってた起こりそうなエラーのまとめみたいなのもdriveに入れておいてください",
+    "ts": "1607861097.010200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v5o",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "要求図は主要求を機能要求に分割してそれぞれの機能要求に対して非機能要求を記述してるので機能要求と非機能要求は色を分けたほうが良いと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81307b01-61cc-415e-920e-cb113f59f8b7",
+    "team": "T6WULA63S",
+    "text": "要求図は主要求を機能要求に分割してそれぞれの機能要求に対して非機能要求を記述してるので機能要求と非機能要求は色を分けたほうが良いと思います",
+    "ts": "1607861004.009300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "axq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f70151e-f897-4ce0-88db-dccf72ae7def",
+    "team": "T6WULA63S",
+    "text": "そうですね",
+    "ts": "1607860836.007900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yK5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ソフトウェアをマイコンの下に作ってソフトウェアの構成を内部ブロック図で作ったほうが良いかもしれないですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "744d8ccc-033c-403f-9793-b7ebac67e0ef",
+    "team": "T6WULA63S",
+    "text": "ソフトウェアをマイコンの下に作ってソフトウェアの構成を内部ブロック図で作ったほうが良いかもしれないですね",
+    "ts": "1607860821.007700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fn+hz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まずこの図を使って論文に入れていきましょう。モデルに正解はないので、モデルの評価は専門家に聞く必要があります（私はいい感じじゃないかなと思いますが）。２１日にまたTier4さん、Change Visionさんと打ち合わせがあるので、聞きましょう。それ以前にSlackで聞いてもいいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56ae9f24-3be2-48ea-9960-d104a3cd9770",
+    "team": "T6WULA63S",
+    "text": "まずこの図を使って論文に入れていきましょう。モデルに正解はないので、モデルの評価は専門家に聞く必要があります（私はいい感じじゃないかなと思いますが）。２１日にまたTier4さん、Change Visionさんと打ち合わせがあるので、聞きましょう。それ以前にSlackで聞いてもいいです。",
+    "ts": "1607860703.006700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8ad",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いい感じですね。ブロック図のところ、キーボードとディスプレイだけですが、顔認証システムのソフトウェアもマイコンの下につけられるんじゃないですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87d3799e-5824-444c-a10f-c997e71253fb",
+    "team": "T6WULA63S",
+    "text": "いい感じですね。ブロック図のところ、キーボードとディスプレイだけですが、顔認証システムのソフトウェアもマイコンの下につけられるんじゃないですか",
+    "ts": "1607860553.004600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0zPcf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "astahのやつここで共有しました\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/u/1/folders/1TNHkTzGtxrARVHL_ubbLZJSBpLhx9x1d"
+              },
+              {
+                "text": "\nアクティビティ図はこれじゃない感否めないです\nブロック図も良くわかりませんでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bda11d9a-21f4-49aa-a23a-3e14878292b2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "astahのやつここで共有しました\n<https://drive.google.com/drive/u/1/folders/1TNHkTzGtxrARVHL_ubbLZJSBpLhx9x1d>\nアクティビティ図はこれじゃない感否めないです\nブロック図も良くわかりませんでした",
+    "ts": "1607860166.003700",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "システムとモデリング: カレーの作り方をSysMLでモデリングする(構造図） - システムとモデリング",
+        "from_url": "https://otepipi.hatenablog.com/entry/2018/01/28/162123",
+        "id": 1,
+        "image_bytes": 31342,
+        "image_height": 250,
+        "image_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/O/Otepipi/20180128/20180128160906.png",
+        "image_width": 321,
+        "original_url": "https://otepipi.hatenablog.com/entry/2018/01/28/162123",
+        "service_icon": "https://otepipi.hatenablog.com/icon/touch",
+        "service_name": "システムとモデリング",
+        "title": "カレーの作り方をSysMLでモデリングする(構造図） - システムとモデリング",
+        "title_link": "https://otepipi.hatenablog.com/entry/2018/01/28/162123",
+        "ts": 1517124083
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "2S47U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://otepipi.hatenablog.com/entry/2018/01/28/162123"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6aef56b3-460c-49d7-b0ff-9294ef46bc4b",
+    "team": "T6WULA63S",
+    "text": "<https://otepipi.hatenablog.com/entry/2018/01/28/162123>",
+    "ts": "1607577844.001800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "IT Koala Navi: 若手エンジニア必読！超絶分かるユースケース図－全知識と書き方５ステップ",
+        "from_url": "https://it-koala.com/usecasediagrams-1832",
+        "id": 1,
+        "image_bytes": 630103,
+        "image_height": 250,
+        "image_url": "https://it-koala.com/wp-content/uploads/2016/09/shutterstock_125411825.jpg",
+        "image_width": 392,
+        "original_url": "https://it-koala.com/usecasediagrams-1832",
+        "service_icon": "https://i0.wp.com/it-koala.com/wp-content/uploads/2016/01/cropped-favicon.png?fit=180%2C180&#038;ssl=1",
+        "service_name": "IT Koala Navi",
+        "text": "この記事では、ユースケース図の基礎知識から５つの作成ステップまで、エンジニアが抑えておくべきユースケース図の全知識をどの記事よりも分かりやすく徹底的に解説します。",
+        "title": "若手エンジニア必読！超絶分かるユースケース図－全知識と書き方５ステップ",
+        "title_link": "https://it-koala.com/usecasediagrams-1832",
+        "ts": 1474642597
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "euXV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://it-koala.com/usecasediagrams-1832"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a8156d11-54b7-40ba-8fc1-2e1bcc515d34",
+    "team": "T6WULA63S",
+    "text": "<https://it-koala.com/usecasediagrams-1832>",
+    "ts": "1607577816.001500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ua8=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SYSml ブロック図　内部ブロック図　アクティビティ図　要求図　stamp　ユースケース",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5DAB3B79-70A2-4F12-92ED-61632229F52D",
+    "edited": {
+      "ts": "1607576177.000000",
+      "user": "UNKU3S7C2"
+    },
+    "pinned_info": {
+      "channel": "C017493AW03",
+      "pinned_by": "UNKU3S7C2",
+      "pinned_ts": 1607576153
+    },
+    "pinned_to": [
+      "C017493AW03"
+    ],
+    "team": "T6WULA63S",
+    "text": "SYSml ブロック図　内部ブロック図　アクティビティ図　要求図　stamp　ユースケース",
+    "ts": "1606370668.000700",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "flshK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ngc.nvidia.com/catalog/containers/nvidia:l4t-tensorflow"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "51f6cef1-bdc6-4709-8a7f-b614320b1899",
+    "team": "T6WULA63S",
+    "text": "<https://ngc.nvidia.com/catalog/containers/nvidia:l4t-tensorflow>",
+    "ts": "1602748872.001500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: Jetson Xavier NX OpenCV &amp; TensorFlow - Qiita",
+        "from_url": "https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f",
+        "id": 1,
+        "image_bytes": 46090,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DJetson%2520Xavier%2520NX%2520OpenCV%2520%2526%2520TensorFlow%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D6596f18c218b9cf244abbe937fd2b9ef&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540misoragod%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D47a9e2acc4633255fdd68ce52e4195da&blend-align=center%2Cmiddle&blend-mode=normal&s=0ec692db8b72bc2dca77dd340277e16a",
+        "image_width": 476,
+        "original_url": "https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "Pythonの環境構築 Jetpackのバージョンを確認 $sudo apt-cache show nvidia-jetpack Package: nvidia-jetpack Version: 4.4-b144 Archi...",
+        "title": "Jetson Xavier NX OpenCV &amp; TensorFlow - Qiita",
+        "title_link": "https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "oJMx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f76f378-0574-482b-89c1-32ff998ab177",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f>",
+    "ts": "1602661668.001200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "NVIDIA Developer Forums: Official TensorFlow for Jetson AGX XavierNX",
+        "fields": [
+          {
+            "short": true,
+            "title": "Reading time",
+            "value": "1 mins :clock2:"
+          },
+          {
+            "short": true,
+            "title": "Likes",
+            "value": "1 :heart:"
+          }
+        ],
+        "from_url": "https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-agx-xaviernx/141306",
+        "id": 1,
+        "original_url": "https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-agx-xaviernx/141306",
+        "service_icon": "https://aws1.discourse-cdn.com/nvidia/optimized/2X/8/819b2855e1f1f3249e77dc713405cf77d1eda57c_2_180x180.png",
+        "service_name": "NVIDIA Developer Forums",
+        "text": "Here is the information of official TensorFlow release for XavierNX. Python 3.6+JetPack4.4 $ sudo apt-get update $ sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran $ sudo apt-get install python3-pip $ sudo pip3 install -U pip testresources setuptools $ sudo pip3 install -U numpy==1.16.1 future==0.17.1 mock==3.0.5 h5py==2.9.0 keras_preprocessing==1.0.5 keras_applications==1.0.8 gast==0.2.2 futures protobuf pybind11 #...",
+        "thumb_height": 42,
+        "thumb_url": "https://aws1.discourse-cdn.com/nvidia/original/2X/8/8f17cc8f1a724d6ecea8a197a267ec8a05ef1490.png",
+        "thumb_width": 237,
+        "title": "Official TensorFlow for Jetson AGX XavierNX",
+        "title_link": "https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-agx-xaviernx/141306",
+        "ts": 1594366797
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "wug9N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-agx-xaviernx/141306"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b7f6435-82d1-4a31-aae3-20bdbf5a28c9",
+    "team": "T6WULA63S",
+    "text": "<https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-agx-xaviernx/141306>",
+    "ts": "1602643000.000900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "スイッチサイエンス: Jetson Xavier NX用アルミケース - スイッチサイエンス",
+        "fields": [
+          {
+            "short": true,
+            "title": "価格",
+            "value": "13,200 円"
+          },
+          {
+            "short": true,
+            "title": "在庫",
+            "value": "15"
+          }
+        ],
+        "from_url": "https://www.switch-science.com/catalog/6522/",
+        "id": 1,
+        "original_url": "https://www.switch-science.com/catalog/6522/",
+        "service_icon": "http://docid81hrs3j1.cloudfront.net/apple-touch-icon-57x57.png",
+        "service_name": "スイッチサイエンス",
+        "text": "ナダ電子製のJetson Xavier NX 開発者キット用アルミケースです。写真のJetson Xavier NX 開発者キット本体、押しボタンスイッチや、外部アンテナは本製品には含まれておりません。熱伝導率の高いアルミ鋼材にヘアラインと黒アルマイトの表面処理をしたアルミケースです。Φ16押しボタンスイッチ、microSDカード、M.2 SSDヒートシンク、配線やカメラ用フレキシブルケーブルの取り出し等を考慮した設計です。",
+        "thumb_height": 500,
+        "thumb_url": "https://d2air1d4eqhwg2.cloudfront.net/images/6522/500x500/b366383c-b006-4e0c-9528-d0601bc6a23c.jpg",
+        "thumb_width": 500,
+        "title": "Jetson Xavier NX用アルミケース - スイッチサイエンス",
+        "title_link": "https://www.switch-science.com/catalog/6522/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cHgt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.switch-science.com/catalog/6522/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "406728d7-30d7-4c74-a4d5-dab455bbc23e",
+    "team": "T6WULA63S",
+    "text": "<https://www.switch-science.com/catalog/6522/>",
+    "ts": "1601447335.000500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "NVIDIA Jetson Nanoケース、冷却ファン付きNVIDIA Jetson Nano開発者キット用アクリルケース（3.0-5.8V）シェルエンクロージャークーラー.",
+        "from_url": "https://www.amazon.co.jp/dp/B07VLXHZLF/ref=as_sl_pc_tf_til?tag=rbstation00-22&linkCode=w00&linkId=c454925f6eb0d2d55367121e4f4677f9&creativeASIN=B07VLXHZLF",
+        "id": 1,
+        "image_bytes": 17565,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51NQ1sEcx4L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(39%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B07VLXHZLF/ref=as_sl_pc_tf_til?tag=rbstation00-22&amp;linkCode=w00&amp;linkId=c454925f6eb0d2d55367121e4f4677f9&amp;creativeASIN=B07VLXHZLF",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "NVIDIA Jetson Nanoケース、冷却ファン付きNVIDIA Jetson Nano開発者キット用アクリルケース（3.0-5.8V）シェルエンクロージャークーラー.",
+        "title": "NVIDIA Jetson Nanoケース、冷却ファン付きNVIDIA Jetson Nano開発者キット用アクリルケース（3.0-5.8V）シェルエンクロージャークーラー.",
+        "title_link": "https://www.amazon.co.jp/dp/B07VLXHZLF/ref=as_sl_pc_tf_til?tag=rbstation00-22&linkCode=w00&linkId=c454925f6eb0d2d55367121e4f4677f9&creativeASIN=B07VLXHZLF"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "yi1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B07VLXHZLF/ref=as_sl_pc_tf_til?tag=rbstation00-22&linkCode=w00&linkId=c454925f6eb0d2d55367121e4f4677f9&creativeASIN=B07VLXHZLF"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "947065f9-9840-4702-a70e-37c337002c5f",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/dp/B07VLXHZLF/ref=as_sl_pc_tf_til?tag=rbstation00-22&amp;linkCode=w00&amp;linkId=c454925f6eb0d2d55367121e4f4677f9&amp;creativeASIN=B07VLXHZLF>",
+    "ts": "1601446897.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MCPK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カメラは私が自宅で使っているものです。カードリーダーも大丈夫でしょう。明日注文できるかやってみます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b44dadec-5b96-4850-b261-e6a270f0f97c",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "カメラは私が自宅で使っているものです。カードリーダーも大丈夫でしょう。明日注文できるかやってみます",
+    "ts": "1599486982.015500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lY8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カメラ:",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.logicool.co.jp/ja-jp/product/hd-webcam-c310n"
+              },
+              {
+                "text": "\nカードリーダ:",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.yodobashi.com/product/100000001001606486/?gad1=&gad2=g&gad3=&gad4=452607784558&gad5=12803211759805049517&gad6=&gclid=CjwKCAjwtNf6BRAwEiwAkt6UQkYGwrNxfv-6lC-K1YpLWMKhhHSQvfBFuaqNwny78n18pFxCiXjG6hoC1rQQAvD_BwE&xfr=pla"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://tipszone.jp/20140902_introduction-to-nfc/"
+              },
+              {
+                "text": " を見たら今回の目的で使えそうな気が？ICの規格は有名(主流?)な2つに対応しているけど学生証に対応しているかどうかはよくわからない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "473c7261-f309-4bd7-aa15-40b9f1cf6e4f",
+    "edited": {
+      "ts": "1601519943.000000",
+      "user": "UNKU3S7C2"
+    },
+    "team": "T6WULA63S",
+    "text": "カメラ:<https://www.logicool.co.jp/ja-jp/product/hd-webcam-c310n>\nカードリーダ:<https://www.yodobashi.com/product/100000001001606486/?gad1=&amp;gad2=g&amp;gad3=&amp;gad4=452607784558&amp;gad5=12803211759805049517&amp;gad6=&amp;gclid=CjwKCAjwtNf6BRAwEiwAkt6UQkYGwrNxfv-6lC-K1YpLWMKhhHSQvfBFuaqNwny78n18pFxCiXjG6hoC1rQQAvD_BwE&amp;xfr=pla> <https://tipszone.jp/20140902_introduction-to-nfc/> を見たら今回の目的で使えそうな気が？ICの規格は有名(主流?)な2つに対応しているけど学生証に対応しているかどうかはよくわからない",
+    "ts": "1599474602.013700",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G6EZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "要件\n使用目的:研究室の入退室管理\nできれば自動で動く カメラの前に立つなどのアクション\n学生証をトリガーに\n人が来たかどうかを判別するだけのシステムも? #\n↑の確認時に稼働するシステム? #\n最長10秒, できれば2秒で動作完了\n予定使用人数最大20人？？\nslack通知　コマンドも　スプレットシート　4,5時に強制退出(この変化も通知?\nカメラ→webカメラ コマ送りでも\n速度やPC→組み込み業界系で調べてみる, 速度の速いプログラムを探す?\nラズパイ?\n場所　靴箱の上",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b74029c-64cb-48ff-8d44-38dd6f4ab512",
+    "edited": {
+      "ts": "1598696927.000000",
+      "user": "UNKU3S7C2"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "```要件\n使用目的:研究室の入退室管理\nできれば自動で動く カメラの前に立つなどのアクション\n学生証をトリガーに\n人が来たかどうかを判別するだけのシステムも? #\n↑の確認時に稼働するシステム? #\n最長10秒, できれば2秒で動作完了\n予定使用人数最大20人？？\nslack通知　コマンドも　スプレットシート　4,5時に強制退出(この変化も通知?\nカメラ→webカメラ コマ送りでも\n速度やPC→組み込み業界系で調べてみる, 速度の速いプログラムを探す?\nラズパイ?\n場所　靴箱の上```\n",
+    "ts": "1598423230.009700",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vp+63",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/zeze/items/09bdd7229713c0a6b090"
+              },
+              {
+                "text": "\nここを参考にコードを動かした。 data/imagesの中に画像を入れて動かすことにより距離を取り出すことができる。\n追記:顔が似ていると言われている二階堂ふみと宮崎あおいを比べたところ1.14と出たため別人と判定\n\nマスクとメガネの両方を装備している時だけ別人判定→macのカメラで撮ったため、性能の問題もあり\nマスクの特徴点が関係している可能性あり",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6194d56f-e1fe-40dc-bd19-8eba7e74306c",
+    "edited": {
+      "ts": "1598421355.000000",
+      "user": "UNKU3S7C2"
+    },
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/zeze/items/09bdd7229713c0a6b090>\nここを参考にコードを動かした。 data/imagesの中に画像を入れて動かすことにより距離を取り出すことができる。\n追記:顔が似ていると言われている二階堂ふみと宮崎あおいを比べたところ1.14と出たため別人と判定\n\nマスクとメガネの両方を装備している時だけ別人判定→macのカメラで撮ったため、性能の問題もあり\nマスクの特徴点が関係している可能性あり",
+    "ts": "1598421346.000300",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N0Uy2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オープンで利用可能かはわからない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bffa3a00-4ac5-492a-8a72-7c716b86e3f3",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "オープンで利用可能かはわからない",
+    "ts": "1597815154.007100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vBjFb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "顔データ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6858ed1f-915f-4b8f-a8fc-84244e633252",
+    "team": "T6WULA63S",
+    "text": "顔データ",
+    "ts": "1597815132.006600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "MegaFace",
+        "from_url": "http://megaface.cs.washington.edu/",
+        "id": 1,
+        "original_url": "http://megaface.cs.washington.edu/",
+        "service_icon": "http://megaface.cs.washington.edu/favicon.ico",
+        "service_name": "megaface.cs.washington.edu",
+        "text": "A million faces for face recognition at scale. MegaFace is the largest publicly available facial recognition dataset.",
+        "title": "MegaFace",
+        "title_link": "http://megaface.cs.washington.edu/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "5W12",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://megaface.cs.washington.edu/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dac1a214-682a-4646-9f06-a679843bafcd",
+    "team": "T6WULA63S",
+    "text": "<http://megaface.cs.washington.edu/>",
+    "ts": "1597815120.006300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L57FI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今度やるタクシーの話もこれだと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f368a40a-eb25-4fa0-99b3-f32d5091af37",
+    "team": "T6WULA63S",
+    "text": "今度やるタクシーの話もこれだと思う",
+    "ts": "1597809244.006100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Kj/f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一番最新の処理速度重視の物体認識",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17b1a830-4a2f-4717-b81a-4edcff78bdd5",
+    "team": "T6WULA63S",
+    "text": "一番最新の処理速度重視の物体認識",
+    "ts": "1597809226.005700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: YOLOv3 論文訳 - Qiita",
+        "from_url": "https://qiita.com/mdo4nt6n/items/7cd5f106adc775e5d92b",
+        "id": 1,
+        "image_bytes": 32979,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DYOLOv3%2520%25E8%25AB%2596%25E6%2596%2587%25E8%25A8%25B3%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3Dbdc1c3348c4a9c2a6c18c8046b68d1ad&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540mdo4nt6n%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D64cf1b44dac8c473a8cc909125b52f55&blend-align=center%2Cmiddle&blend-mode=normal&s=7ab6767ce11144523f7e644e0df89228",
+        "image_width": 476,
+        "original_url": "https://qiita.com/mdo4nt6n/items/7cd5f106adc775e5d92b",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "YOLOv3論文訳 SSDの3倍速いことで今流行りのYOLOv3の実装にあたって論文を読むことがあると思いますので，基本的な部分を簡単な日本語訳でまとめました．詳しくは無心でarXivの元論文を読むことをお勧めします．誤訳はコメ...",
+        "title": "YOLOv3 論文訳 - Qiita",
+        "title_link": "https://qiita.com/mdo4nt6n/items/7cd5f106adc775e5d92b"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "pVpp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/mdo4nt6n/items/7cd5f106adc775e5d92b"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c913357-5401-4a5d-ae0f-15ddf93525f8",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/mdo4nt6n/items/7cd5f106adc775e5d92b>",
+    "ts": "1597809198.005000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JUS6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/fury00812/items/08036e78a449d1cbeb48"
+              },
+              {
+                "text": "\nここを参考にしてpyenv pipenvが使える環境構築しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0fcfbadf-74bd-4e4c-a606-48a956dfc8b5",
+    "edited": {
+      "ts": "1596941471.000000",
+      "user": "UNKU3S7C2"
+    },
+    "is_locked": false,
+    "latest_reply": "1596942131.004500",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U97F49L68",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U97F49L68"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U97F49L68>\n<https://qiita.com/fury00812/items/08036e78a449d1cbeb48>\nここを参考にしてpyenv pipenvが使える環境構築しました。",
+    "thread_ts": "1596941465.004100",
+    "ts": "1596941465.004100",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8aP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.imind.jp/entry/2019/05/06/192603"
+              },
+              {
+                "text": " FaceNetを動かすのが趣旨のブログ\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/zeze/items/09bdd7229713c0a6b090"
+              },
+              {
+                "text": " FaceNetから特徴量を取り出してた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1c397195-28ec-4848-bbba-b35708c6c443",
+    "edited": {
+      "ts": "1596689652.000000",
+      "user": "UNKU3S7C2"
+    },
+    "team": "T6WULA63S",
+    "text": "<https://blog.imind.jp/entry/2019/05/06/192603> FaceNetを動かすのが趣旨のブログ\n<https://qiita.com/zeze/items/09bdd7229713c0a6b090> FaceNetから特徴量を取り出してた",
+    "ts": "1596605490.002500",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ti/bL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "関先生に教えてもらった顔認識システムの色々なサンプルです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f54ec6b2-0932-4daa-a8fb-edfae63964d5",
+    "team": "T6WULA63S",
+    "text": "関先生に教えてもらった顔認識システムの色々なサンプルです",
+    "ts": "1594797188.001600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "app_unfurl_url": "https://github.com/ageitgey/face_recognition",
+        "bot_id": "BQQJXQKEH",
+        "color": "24292f",
+        "fallback": "ageitgey/face_recognition",
+        "fields": [
+          {
+            "short": true,
+            "title": "Stars",
+            "value": "35262"
+          },
+          {
+            "short": true,
+            "title": "Language",
+            "value": "Python"
+          }
+        ],
+        "footer": "<https://github.com/ageitgey/face_recognition|ageitgey/face_recognition>",
+        "footer_icon": "https://github.githubassets.com/favicon.ico",
+        "id": 1,
+        "is_app_unfurl": true,
+        "mrkdwn_in": [
+          "text",
+          "fields"
+        ],
+        "text": "The world's simplest facial recognition api for Python and the command line",
+        "title": "ageitgey/face_recognition",
+        "ts": 1488577959
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "DWMw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/ageitgey/face_recognition"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f6af84be-16ec-42c2-b8c7-29a6f345e5f0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "UNKU3S7C2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://github.com/ageitgey/face_recognition>",
+    "ts": "1594797159.000800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1594797153.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1594797152.000400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1594797122.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

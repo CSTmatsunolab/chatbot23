@@ -1,0 +1,16 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1596762946.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1596762859.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

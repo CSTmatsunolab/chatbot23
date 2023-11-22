@@ -1,0 +1,4982 @@
+[
+  {
+    "channel": "C9FBV4UTA",
+    "no_notifications": false,
+    "permalink": "https://matsulabnu.slack.com/call/R01D8Q9C3S4",
+    "room": {
+      "app_id": "A00",
+      "call_family": "native_call",
+      "canvas_thread_ts": "0000000000.000000",
+      "channels": [
+        "C9FBV4UTA"
+      ],
+      "created_by": "U97F49L68",
+      "date_end": 1602655900,
+      "date_start": 1602655794,
+      "external_unique_id": "81089d7b-4549-475f-939f-eadd0fc31253",
+      "has_ended": true,
+      "id": "R01D8Q9C3S4",
+      "is_dm_call": false,
+      "media_backend_type": "free_willy",
+      "media_server": "",
+      "name": null,
+      "participant_history": [
+        "U97F49L68",
+        "UUDCP6WNQ",
+        "UD32JHVL7"
+      ],
+      "participants": [],
+      "participants_camera_off": [],
+      "participants_camera_on": [],
+      "participants_screenshare_off": [],
+      "participants_screenshare_on": [],
+      "thread_root_ts": "0000000000.000000",
+      "was_accepted": false,
+      "was_missed": false,
+      "was_rejected": false
+    },
+    "subtype": "sh_room_created",
+    "text": "Started a <https://matsulabnu.slack.com/call/R01D8Q9C3S4|call>.",
+    "ts": "1602655797.000100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d2E4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確かに",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eca2f81d-aed4-4867-a0de-52af2c884221",
+    "team": "T6WULA63S",
+    "text": "確かに",
+    "ts": "1588732278.009300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iPF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ワークフローだと投稿した後修正できないのがネックですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44db99ca-e328-4f8a-ae02-785190edb793",
+    "team": "T6WULA63S",
+    "text": "ワークフローだと投稿した後修正できないのがネックですかね",
+    "ts": "1588732261.009000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VJx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "毎週ブックマーク登録を押しまくる必要があるところでしたね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68d44a67-35d5-4944-9a30-8209f530c55d",
+    "team": "T6WULA63S",
+    "text": "毎週ブックマーク登録を押しまくる必要があるところでしたね",
+    "ts": "1588732010.008300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N4ENO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あーでも週間報告で検索すればワークフローの名前が週間報告だからそれの出力が全部表示されるわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4c468a8-a940-42ea-9ed3-83caa4ba64f8",
+    "team": "T6WULA63S",
+    "text": "あーでも週間報告で検索すればワークフローの名前が週間報告だからそれの出力が全部表示されるわ",
+    "ts": "1588731203.007600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "me5/g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タグ機能が欲しいな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "243121a0-8751-4c8e-810a-d135c5647969",
+    "team": "T6WULA63S",
+    "text": "タグ機能が欲しいな",
+    "ts": "1588731135.006900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WvX8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どっかにまとめるにしてもまとめるところで書けばいいだけですしね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43dbde9c-ade3-4487-ba14-8f23703ed7e0",
+    "team": "T6WULA63S",
+    "text": "どっかにまとめるにしてもまとめるところで書けばいいだけですしね",
+    "ts": "1588731121.006600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+n3p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あー、まあそうですねSlackの情報だけで足りるか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7e0a7207-0ff2-4062-80e4-9e8bb196e149",
+    "team": "T6WULA63S",
+    "text": "あー、まあそうですねSlackの情報だけで足りるか",
+    "ts": "1588731096.006100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NLAvX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "日付名前は送信日も送信者も分かるから要らないような気がする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6db45f4b-2bf8-49c4-9e9f-2ef3f35a2edd",
+    "team": "T6WULA63S",
+    "text": "日付名前は送信日も送信者も分かるから要らないような気がする",
+    "ts": "1588731077.005700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SmIR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確実に必要なのは、先生が出してるh2見出しのタイトルまでとかでいいですかね\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "日付(2020/**/**)\n# 名前\n## 全体ゼミ\n\n## その他参加しているゼミ\n\n## 〃\n\n## 研究\n\n## 日々のこと、就活など一言",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cc8d5a09-97c4-40d6-8194-a2313dd29300",
+    "team": "T6WULA63S",
+    "text": "確実に必要なのは、先生が出してるh2見出しのタイトルまでとかでいいですかね\n```日付(2020/**/**)\n# 名前\n## 全体ゼミ\n\n## その他参加しているゼミ\n\n## 〃\n\n## 研究\n\n## 日々のこと、就活など一言```",
+    "ts": "1588731017.005000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "732jR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあネストする必要があるならすればいいでしょうしね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b9fd4031-7c59-4beb-a5b7-c1b90ee2269a",
+    "team": "T6WULA63S",
+    "text": "まあネストする必要があるならすればいいでしょうしね",
+    "ts": "1588730727.002900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4S16",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "リストはまあ適宜くらいか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "300e2d83-d48f-4fac-89fc-e3c0645ad825",
+    "team": "T6WULA63S",
+    "text": "リストはまあ適宜くらいか",
+    "ts": "1588730416.002600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EmVKB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これでやるならmdはその他参加ゼミのタイトルくらいで良いかも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e18e4452-33cc-4276-a2e4-c25e83f61951",
+    "team": "T6WULA63S",
+    "text": "これでやるならmdはその他参加ゼミのタイトルくらいで良いかも",
+    "ts": "1588730399.002300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OKdvO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうなんだよなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "562b5125-65cb-410c-af23-05ce851128b5",
+    "team": "T6WULA63S",
+    "text": "そうなんだよなぁ",
+    "ts": "1588730362.001700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=du",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コード引用とか表示変えられたらいいんすけどね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73d5d598-6abf-4121-b5ff-769f1625b9f2",
+    "team": "T6WULA63S",
+    "text": "コード引用とか表示変えられたらいいんすけどね",
+    "ts": "1588730350.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y8oYy",
+        "text": {
+          "text": "*週間報告* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "EO6",
+        "text": {
+          "text": "*全体ゼミでやったこと*\n- hoge\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "+qJ",
+        "text": {
+          "text": "*その他参加ゼミでやったこと*\n# fugfuge\naaaaaaaaa\n\n# piyopiyo\nbbbbbbbb\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "lTD/j",
+        "text": {
+          "text": "*研究でやったこと*\n- ccccccccccccccc\n- ddddddddddddd\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "U5Dm",
+        "text": {
+          "text": "*日々のこと，就活のこと*\n- eeeeeeeeeeee\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "P=GC",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B013TV49JBS",
+    "subtype": "bot_message",
+    "text": "*週間報告* submission from <@U97F49L68> *全体ゼミでやったこと* - hoge   *その他参加ゼミでやったこと* # fugfuge aaaaaaaaa  # piyopiyo bbbbbbbb   *研究でやったこと* - ccccccccccccccc - ddddddddddddd   *日々のこと，就活のこと* - eeeeeeeeeeee  ",
+    "ts": "1588730316.000500",
+    "type": "message",
+    "username": "週間報告"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EzYn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "週間報告",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B013TV49JBS",
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> added a workflow to this channel: *週間報告*.",
+    "ts": "1588730139.000300",
+    "type": "message",
+    "username": "週間報告"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A7Zdh",
+        "text": {
+          "text": "こんにちは！まずこちらのフォームに入力してください。",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "56Do",
+        "text": {
+          "text": "<@U97F49L68> completed *ふぉーむてす*",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      }
+    ],
+    "bot_id": "BPRA72XEH",
+    "subtype": "bot_message",
+    "text": "done",
+    "ts": "1571909601.000700",
+    "type": "message",
+    "username": "てすと"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J0EZ",
+        "text": {
+          "text": "hoge<@U97F49L68> hoge",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "sFg",
+        "text": {
+          "text": "<@U97F49L68> clicked *続行する*",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      }
+    ],
+    "bot_id": "BPRA72XEH",
+    "subtype": "bot_message",
+    "text": "続行する",
+    "ts": "1571909598.000500",
+    "type": "message",
+    "username": "てすと"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YQU6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "てすと",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BPRA72XEH",
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> added a workflow to this channel: *てすと*.",
+    "ts": "1571909578.000300",
+    "type": "message",
+    "username": "てすと"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1549020066.000100",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "たじまだよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "たじまだよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541247119.001400",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Va",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "違うわ！谷島(ヤジマ)だよ！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AB8AD6BA-4615-4257-9DC7-EA772A8B6718",
+    "team": "T6WULA63S",
+    "text": "違うわ！谷島(ヤジマ)だよ！！",
+    "ts": "1541246358.001300",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7GT0TRQX> has joined the channel",
+    "ts": "1541245808.000300",
+    "type": "message",
+    "user": "U7GT0TRQX"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "小島だよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "小島だよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541245767.000100",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1541143633.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "小島だよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "小島だよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541143614.000600",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "小島だよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "小島だよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541054658.000500",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出だよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出だよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541054546.000400",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541054199.000300",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541053681.000200",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541052515.000100",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "id": "1",
+            "name": "one",
+            "style": "",
+            "text": "やじま",
+            "type": "button",
+            "value": "0"
+          },
+          {
+            "id": "2",
+            "name": "two",
+            "style": "",
+            "text": "たにじま",
+            "type": "button",
+            "value": "1"
+          },
+          {
+            "id": "3",
+            "name": "three",
+            "style": "",
+            "text": "こじま",
+            "type": "button",
+            "value": "2"
+          },
+          {
+            "id": "4",
+            "name": "four",
+            "style": "",
+            "text": "聖こじま3世",
+            "type": "button",
+            "value": "3"
+          },
+          {
+            "id": "5",
+            "name": "add_option_to_existing_poll",
+            "style": "",
+            "text": "＋ Add Option",
+            "type": "button",
+            "value": "jBjv9zYWTMB2LNDLm"
+          }
+        ],
+        "callback_id": "mdTjecjGQ2sCuJTWn",
+        "color": "35A8E0",
+        "fallback": "ふぁいなるやじま",
+        "id": 1,
+        "text": "You may vote for multiple options",
+        "title": "ふぁいなるやじま"
+      },
+      {
+        "actions": [
+          {
+            "id": "6",
+            "name": "add_comments",
+            "style": "",
+            "text": "Add a Comment",
+            "type": "button",
+            "value": "jBjv9zYWTMB2LNDLm"
+          }
+        ],
+        "callback_id": "mdTjecjGQ2sCuJTWn",
+        "fallback": "ふぁいなるやじま",
+        "fields": [
+          {
+            "short": false,
+            "title": "やじま",
+            "value": "`▇▇▇▇▇▇` 20% (1)\n<@U7FE1TCUR>"
+          },
+          {
+            "short": false,
+            "title": "たにじま",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": false,
+            "title": "こじま",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 80% (4)\n<@U7JLHH16F>, <@U7DKV6ACT>, <@U7D6SJCAD>, <@U97F49L68>"
+          },
+          {
+            "short": false,
+            "title": "聖こじま3世",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": true,
+            "title": "Total votes",
+            "value": "5"
+          },
+          {
+            "short": false,
+            "title": "Comments (1 total)",
+            "value": ":speech_balloon: <@U7FE1TCUR>: やじまだよ！！\n"
+          }
+        ],
+        "id": 2,
+        "mrkdwn_in": [
+          "fields"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "rOQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " has a poll for you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> has a poll for you!",
+    "ts": "1540533404.005300",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "id": "1",
+            "name": "one",
+            "style": "",
+            "text": "あ",
+            "type": "button",
+            "value": "0"
+          },
+          {
+            "id": "2",
+            "name": "two",
+            "style": "",
+            "text": "い",
+            "type": "button",
+            "value": "1"
+          },
+          {
+            "id": "3",
+            "name": "three",
+            "style": "",
+            "text": "う",
+            "type": "button",
+            "value": "2"
+          },
+          {
+            "id": "4",
+            "name": "four",
+            "style": "",
+            "text": "こ",
+            "type": "button",
+            "value": "3"
+          },
+          {
+            "id": "5",
+            "name": "add_option_to_existing_poll",
+            "style": "",
+            "text": "＋ Add Option",
+            "type": "button",
+            "value": "Q9JfoRpWBuPH6WbJk"
+          }
+        ],
+        "callback_id": "LwaLB9nx5fmaBsL8s",
+        "color": "35A8E0",
+        "fallback": "やじま",
+        "id": 1,
+        "title": "やじま"
+      },
+      {
+        "actions": [
+          {
+            "id": "6",
+            "name": "add_comments",
+            "style": "",
+            "text": "Add a Comment",
+            "type": "button",
+            "value": "Q9JfoRpWBuPH6WbJk"
+          }
+        ],
+        "callback_id": "LwaLB9nx5fmaBsL8s",
+        "fallback": "やじま",
+        "fields": [
+          {
+            "short": false,
+            "title": "あ",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 67% (2)\n<@U7JLHH16F>, <@U97F49L68>"
+          },
+          {
+            "short": false,
+            "title": "い",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": false,
+            "title": "う",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": false,
+            "title": "こ",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇` 33% (1)\n<@U7DKV6ACT>"
+          },
+          {
+            "short": true,
+            "title": "Total votes",
+            "value": "3"
+          }
+        ],
+        "id": 2,
+        "mrkdwn_in": [
+          "fields"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "nMvJS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " has a poll for you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> has a poll for you!",
+    "ts": "1540532963.003300",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "giphy: https://giphy.com/gifs/ufc-fight-ufc-202-ufc202-l0HlFc11AAcnNRscw",
+        "footer": "Posted using /giphy",
+        "id": 1,
+        "image_bytes": 1347871,
+        "image_height": 140,
+        "image_url": "https://media1.giphy.com/media/l0HlFc11AAcnNRscw/giphy-downsized.gif?cid=6104955e5bd2a9f84b537545493098eb",
+        "image_width": 250,
+        "is_animated": true,
+        "title": "やじま",
+        "title_link": "https://giphy.com/gifs/ufc-fight-ufc-202-ufc202-l0HlFc11AAcnNRscw"
+      }
+    ],
+    "bot_id": "BC2GYUATH",
+    "bot_profile": {
+      "app_id": "A0F827J2C",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png",
+        "image_48": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_48.png",
+        "image_72": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png"
+      },
+      "id": "BC2GYUATH",
+      "name": "giphy",
+      "team_id": "T6WULA63S",
+      "updated": 1533208982
+    },
+    "team": "T6WULA63S",
+    "text": "",
+    "ts": "1540532734.002300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "id": "1",
+            "name": "one",
+            "style": "",
+            "text": "10月",
+            "type": "button",
+            "value": "0"
+          },
+          {
+            "id": "2",
+            "name": "two",
+            "style": "",
+            "text": "1g1",
+            "type": "button",
+            "value": "1"
+          }
+        ],
+        "callback_id": "YBMAeiHZCSyhDmxrk",
+        "color": "35A8E0",
+        "fallback": "谷島",
+        "id": 1,
+        "title": "谷島"
+      },
+      {
+        "actions": [
+          {
+            "id": "3",
+            "name": "add_comments",
+            "style": "",
+            "text": "Add a Comment",
+            "type": "button",
+            "value": "EgezxLB5EDkjENY5e"
+          }
+        ],
+        "callback_id": "YBMAeiHZCSyhDmxrk",
+        "fallback": "谷島",
+        "fields": [
+          {
+            "short": false,
+            "title": "10月",
+            "value": "`▇▇▇▇▇▇▇▇` 25% (1)\n<@U7FE1TCUR>"
+          },
+          {
+            "short": false,
+            "title": "1g1",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 75% (3)\n<@U7DKV6ACT>, <@U97F49L68>, <@U7JLHH16F>"
+          },
+          {
+            "short": true,
+            "title": "Total votes",
+            "value": "4"
+          },
+          {
+            "short": false,
+            "title": "Comments (1 total)",
+            "value": ":speech_balloon: <@U7FE1TCUR>: aae"
+          }
+        ],
+        "id": 2,
+        "mrkdwn_in": [
+          "fields"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "kubF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7JLHH16F"
+              },
+              {
+                "text": " has a poll for you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "<@U7JLHH16F> has a poll for you!",
+    "ts": "1540532589.001700",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "id": "1",
+            "name": "one",
+            "style": "",
+            "text": "b",
+            "type": "button",
+            "value": "0"
+          },
+          {
+            "id": "2",
+            "name": "two",
+            "style": "",
+            "text": "c",
+            "type": "button",
+            "value": "1"
+          }
+        ],
+        "callback_id": "AAq8pkxoRYJYPY2ex",
+        "color": "35A8E0",
+        "fallback": "a",
+        "id": 1,
+        "title": "a"
+      },
+      {
+        "actions": [
+          {
+            "id": "3",
+            "name": "add_comments",
+            "style": "",
+            "text": "Add a Comment",
+            "type": "button",
+            "value": "nfYPQJpTesZGg6w5J"
+          }
+        ],
+        "callback_id": "AAq8pkxoRYJYPY2ex",
+        "fallback": "a",
+        "fields": [
+          {
+            "short": false,
+            "title": "b",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 80% (4)\n<@U7DKV6ACT>, <@U7D6SJCAD>, <@U97F49L68>, <@U7JLHH16F>"
+          },
+          {
+            "short": false,
+            "title": "c",
+            "value": "`▇▇▇▇▇▇` 20% (1)\n<@U7FE1TCUR>"
+          },
+          {
+            "short": true,
+            "title": "Total votes",
+            "value": "5"
+          }
+        ],
+        "id": 2,
+        "mrkdwn_in": [
+          "fields"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Cri+j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " has a poll for you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> has a poll for you!",
+    "ts": "1540532339.000500",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UA40WBXMW> has joined the channel",
+    "ts": "1540532243.000300",
+    "type": "message",
+    "user": "UA40WBXMW"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1535009963.000100",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mfj=g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自虐ネタww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DD3B4CA6-0760-4840-80F3-AE25D60740CC",
+    "team": "T6WULA63S",
+    "text": "自虐ネタww",
+    "ts": "1526649634.000468",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rUq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "って俺やないかーい！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0069831B-6784-4535-AC36-6DEAC7653480",
+    "team": "T6WULA63S",
+    "text": "って俺やないかーい！！",
+    "ts": "1526649448.000426",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HFU6v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "誰やその上目遣いのキモい奴は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "236662A5-D1AF-42FC-9935-BE97CE8CCADF",
+    "team": "T6WULA63S",
+    "text": "誰やその上目遣いのキモい奴は",
+    "ts": "1526649349.000621",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dBt5Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オモロイな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83834FE3-C4C6-468A-AA4B-C3FAD2E5AB4B",
+    "team": "T6WULA63S",
+    "text": "オモロイな",
+    "ts": "1526649213.000548",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qiH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ついに自供したか、、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ついに自供したか、、",
+    "ts": "1526648894.000267",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eAc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7WMM5F"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Slack for iOS Upload",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D7WMM5F/FARJ15F88/image_uploaded_from_ios.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FARJ15F88",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D7WMM5F> uploaded a file: <https://matsulabnu.slack.com/files/U7D7WMM5F/FARJ15F88/image_uploaded_from_ios.jpg|Slack for iOS Upload>",
+    "ts": "1526648866.000081",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "7F8B598F-1124-4372-9889-DC566BBC9124",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "M+Oe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "逮捕や逮捕！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "04C24B84-F621-4489-B21F-F10F0E5A6F88",
+    "team": "T6WULA63S",
+    "text": "逮捕や逮捕！",
+    "ts": "1526648845.000359",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pbk9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これいでちゃんだったのか！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "55A8EEAA-999E-41A2-BD20-8B4B16FD8B8F",
+    "team": "T6WULA63S",
+    "text": "これいでちゃんだったのか！！",
+    "ts": "1526648835.000140",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dKIH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "って俺やないかーい！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "って俺やないかーい！！",
+    "ts": "1526648726.000352",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cua",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マジ許すまじ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "マジ許すまじ",
+    "ts": "1526648715.000308",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ae=oN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たまげたなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48ae8863-cf8c-4561-8b00-4e87d99b6e1a",
+    "team": "T6WULA63S",
+    "text": "たまげたなぁ",
+    "ts": "1526648698.000317",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RUb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こいつが犯人かー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8d7e958-af14-4b1e-9e18-d690ebae88f6",
+    "team": "T6WULA63S",
+    "text": "こいつが犯人かー",
+    "ts": "1526648690.000497",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "befmi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "だれだこれ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "だれだこれ？",
+    "ts": "1526648648.000225",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Dx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こわっ！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "こわっ！",
+    "ts": "1526648643.000614",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IgC3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "iOS 版 Slack のアップロード",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FATAE1U9M/ios________________________________________.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FATAE1U9M",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FATAE1U9M/ios________________________________________.jpg|iOS 版 Slack のアップロード>",
+    "ts": "1526648618.000585",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "BB97E7DB-D6BF-434A-83A6-DAF301CF73D2",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "avmTX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "です〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2F588304-101F-4F48-A10A-3926DC4D9EA2",
+    "team": "T6WULA63S",
+    "text": "です〜",
+    "ts": "1526648122.000199",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ggS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でーす",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "でーす",
+    "ts": "1526648110.000004",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9eq6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でもみんな幸せそうなんでオッケーで〜す",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e6bd14ed-f8c7-451c-ab35-3f84434be5bb",
+    "team": "T6WULA63S",
+    "text": "でもみんな幸せそうなんでオッケーで〜す",
+    "ts": "1526648097.000287",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k=8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめんないー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C42E5CC3-9F96-4AB5-A3F8-D4C4BA7FB571",
+    "team": "T6WULA63S",
+    "text": "ごめんないー",
+    "ts": "1526648029.000448",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UChWf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "なるほど",
+    "ts": "1526647931.000041",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aWMtb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おるやんけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7996e444-46b8-4991-8d7e-6ad078def23b",
+    "team": "T6WULA63S",
+    "text": "おるやんけ",
+    "ts": "1526647925.000037",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JYDHS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アレクサ泥棒は大沼さんだった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81BBE6D8-CA6B-475D-8DDF-78F0566D8C2E",
+    "team": "T6WULA63S",
+    "text": "アレクサ泥棒は大沼さんだった",
+    "ts": "1526647923.000034",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MtIS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大沼先輩だそうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98e56e25-97a1-41e7-80a6-15b0454c154f",
+    "team": "T6WULA63S",
+    "text": "大沼先輩だそうです",
+    "ts": "1526647915.000142",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ek/P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "www",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CBA788F1-242C-4EBB-B473-32BB9EE9C0A3",
+    "team": "T6WULA63S",
+    "text": "www",
+    "ts": "1526647904.000347",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "inviter": "U7DKV6ACT",
+    "subtype": "channel_join",
+    "text": "<@U7D7WMM5F> has joined the channel",
+    "ts": "1526647779.000444",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y/Ng=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "警備員だったら笑うしかねーな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f027948-9a0c-4dc0-9549-9a8e842d5c1f",
+    "team": "T6WULA63S",
+    "text": "警備員だったら笑うしかねーな",
+    "ts": "1526647715.000501",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PSZUW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "警備員「アレクサ、おっけーぐーぐる」",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3C8D424F-F37C-455B-875E-AAC1650A5535",
+    "team": "T6WULA63S",
+    "text": "警備員「アレクサ、おっけーぐーぐる」",
+    "ts": "1526647667.000307",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Ut",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうなると大沼先輩濃厚",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そうなると大沼先輩濃厚",
+    "ts": "1526647494.000526",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "90+h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "遊んだ帰りに忘れ物取りに来たかと・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "遊んだ帰りに忘れ物取りに来たかと・・",
+    "ts": "1526647455.000470",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wtQoG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "井出ちゃん一緒に出たじゃん笑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DE73FE46-857C-42BE-9781-F9674A4CE234",
+    "team": "T6WULA63S",
+    "text": "井出ちゃん一緒に出たじゃん笑",
+    "ts": "1526647429.000099",
+    "type": "message",
+    "user": "U7JLHH16F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yv+v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でもこのネタ知ってるのは大沼さん以外思い浮かばんな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B5B739DE-CF1B-4465-B544-55B17763C76B",
+    "team": "T6WULA63S",
+    "text": "でもこのネタ知ってるのは大沼さん以外思い浮かばんな",
+    "ts": "1526647320.000100",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FcMHR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "青山？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "青山？",
+    "ts": "1526647284.000582",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K2WU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いないと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CD43123F-9F99-4B21-B7F7-96053776EBAB",
+    "team": "T6WULA63S",
+    "text": "いないと思う",
+    "ts": "1526647233.000244",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yoM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大沼先輩この時間にいるかなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff7edafe-0f8c-40b0-a40c-1720f0da06a1",
+    "team": "T6WULA63S",
+    "text": "大沼先輩この時間にいるかなぁ",
+    "ts": "1526647223.000569",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QLy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "心霊現象がありえる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0E74299B-07BC-4B38-A33B-CBEECD9F6C26",
+    "team": "T6WULA63S",
+    "text": "心霊現象がありえる",
+    "ts": "1526647215.000016",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/ns",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2回連続だし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "2回連続だし",
+    "ts": "1526647208.000150",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pn/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "勝手になんてありえんだろw",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4197B859-5D30-4334-99A8-F084C94F89A2",
+    "team": "T6WULA63S",
+    "text": "勝手になんてありえんだろw",
+    "ts": "1526647198.000371",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+box",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺出るとき大沼先輩いたけど・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "俺出るとき大沼先輩いたけど・・",
+    "ts": "1526647192.000366",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mXg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "監視カメラのLANケーブル抜いてるんだよなぁぁぁぁぁぁ今",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "34861C2E-9629-4F4C-8F28-EC235319C3A0",
+    "team": "T6WULA63S",
+    "text": "監視カメラのLANケーブル抜いてるんだよなぁぁぁぁぁぁ今",
+    "ts": "1526647191.000200",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8Kk2V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "勝手にかな？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "492C9978-C8AE-4DFF-948A-6BE2C9B3B5C0",
+    "team": "T6WULA63S",
+    "text": "勝手にかな？",
+    "ts": "1526647187.000125",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cm8w1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺家だよwww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CA7CB22C-CDC0-4318-B823-F964F5403AF5",
+    "team": "T6WULA63S",
+    "text": "俺家だよwww",
+    "ts": "1526647169.000032",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HislH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アレクサ泥棒か？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "アレクサ泥棒か？",
+    "ts": "1526647163.000062",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wWX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "誰wwww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BF3954E0-9F1B-4BC0-9AD8-DDFF9F85EDD8",
+    "team": "T6WULA63S",
+    "text": "誰wwww",
+    "ts": "1526647159.000343",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x4iK5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "妹背くんだろ！？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "65056297-2F1E-40A7-8CF6-5AFAFC42BDFD",
+    "team": "T6WULA63S",
+    "text": "妹背くんだろ！？",
+    "ts": "1526647159.000077",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T9W1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "え",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E44CB432-ABC5-4D80-92AC-A212B69961E6",
+    "team": "T6WULA63S",
+    "text": "え",
+    "ts": "1526647146.000319",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R=++z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちゃうよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ちゃうよ",
+    "ts": "1526647141.000455",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G4l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "え",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "96b09489-7456-4542-82c6-c0ff17c022c4",
+    "team": "T6WULA63S",
+    "text": "え",
+    "ts": "1526647138.000143",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mgS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "井出ちゃんじゃないんかい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3C8A7F98-ACAA-4B59-9F38-C438146BC568",
+    "team": "T6WULA63S",
+    "text": "井出ちゃんじゃないんかい",
+    "ts": "1526647131.000075",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zUv/M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確かに",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AA8970E5-8EF2-4DF5-A7EF-502827F7624D",
+    "team": "T6WULA63S",
+    "text": "確かに",
+    "ts": "1526647128.000168",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4ly8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "誰やこんな時間に？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "誰やこんな時間に？",
+    "ts": "1526647114.000538",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1526647092.000021",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1526647050.000086",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fIAr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2018Automaton2018mmdd",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "2018Automaton2018mmdd",
+    "ts": "1526457776.000014",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lDR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "オートマトン講義H30-1-概要.pdf",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FAQP1V21K/________________________h30-1-______.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAQP1V21K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FAQP1V21K/________________________h30-1-______.pdf|オートマトン講義H30-1-概要.pdf>",
+    "ts": "1526457770.000015",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1nE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "講義資料20180416.pdf",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FAQP1S2CD/____________20180416.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAQP1S2CD",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FAQP1S2CD/____________20180416.pdf|講義資料20180416.pdf>",
+    "ts": "1526457760.000031",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vet",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "講義資料20180423.pdf",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FARFU3WJJ/____________20180423.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FARFU3WJJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FARFU3WJJ/____________20180423.pdf|講義資料20180423.pdf>",
+    "ts": "1526457746.000097",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OvK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "オートマトン講義H30-4-非決定性有限オートマトン.pdf",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FAPTXCM3J/________________________h30-4-____________________________________.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAPTXCM3J",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FAPTXCM3J/________________________h30-4-____________________________________.pdf|オートマトン講義H30-4-非決定性有限オートマトン.pdf>",
+    "ts": "1526457742.000153",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FzSg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "オートマトン講義H30-5-等価・最簡形有限オートマトン.pdf",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FAQ2ZTA3T/________________________h30-5-__________________________________________.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAQ2ZTA3T",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FAQ2ZTA3T/________________________h30-5-__________________________________________.pdf|オートマトン講義H30-5-等価・最簡形有限オートマトン.pdf>",
+    "ts": "1526457740.000434",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1526457722.000468",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1526267948.000050",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7FE1TCUR> has joined the channel",
+    "ts": "1524823392.000158",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "item": {
+      "created": 1519870072,
+      "display_as_bot": false,
+      "editable": true,
+      "editor": null,
+      "external_type": "",
+      "file_access": "visible",
+      "filetype": "docs",
+      "has_rich_preview": false,
+      "id": "F04CRPLFMRP",
+      "is_external": false,
+      "is_public": true,
+      "is_starred": false,
+      "last_editor": "U97F49L68",
+      "migrated_id": "F9G13AMT2",
+      "mimetype": "application/vnd.slack-docs",
+      "mode": "docs",
+      "name": "_________D______________________________",
+      "non_owner_editable": true,
+      "permalink": "https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP",
+      "permalink_public": "https://slack-files.com/T6WULA63S-F04CRPLFMRP-714cd8413c",
+      "pretty_type": "Arugula",
+      "preview": "<h2>フレーズ - 動作</h2><p>受付 [名前] - 来た人をスプレッドシートに記録(外部の人用)<br>研究室に到着 [名前] - 来た人をSlackに通知(研究室メンバー用)<br>研究室から外出 [名前] - 出る人をSlackに通知<br>Hey Siri - D子ちゃんが怒る<br>トイレに行ってもいいですか - だめです<br>明日の天気は - アレクサに聞く<br>オープンキャンパスモードに繋いで - 松野研の説明をしてくれるモードになる<br></p>",
+      "public_url_shared": false,
+      "size": 247,
+      "timestamp": 1541143758,
+      "title": "頭文字D子ちゃん起動フレーズ",
+      "updated": 1541143758,
+      "url_private": "https://files.slack.com/files-pri/T6WULA63S-F04CRPLFMRP/_________d______________________________",
+      "url_private_download": "https://files.slack.com/files-pri/T6WULA63S-F04CRPLFMRP/download/_________d______________________________",
+      "user": "U97F49L68",
+      "user_team": "T6WULA63S",
+      "username": ""
+    },
+    "item_type": "F",
+    "subtype": "pinned_item",
+    "text": "<@U97F49L68> pinned ’s Arugula <https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP|頭文字D子ちゃん起動フレーズ> to this channel.",
+    "ts": "1524823380.000265",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ダメです。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "ダメです。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524751238.000295",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524457750.000097",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ダメです。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "ダメです。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524457607.000117",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524213348.000377",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524213319.000466",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524209043.000301",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524208929.000083",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ダメです。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "ダメです。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524126470.000459",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "前島さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "前島さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524054583.000318",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ダメです。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "ダメです。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524054575.000181",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "小池さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "小池さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524054552.000376",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ダメです。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "ダメです。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524042380.000027",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524042327.000427",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ダメです。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "ダメです。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524038905.000071",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "やじまだよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "やじまだよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524038627.000327",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "やじまだよ！",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "やじまだよ！"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1524038243.000107",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "優待さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "優待さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523616439.000420",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523589121.000031",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523508614.000185",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523508600.000082",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523508567.000196",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523436127.000334",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523426620.000080",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523264592.000389",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523264540.000419",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "icons": {
+      "image_36": "https://a.slack-edge.com/8f51/img/services/ifttt_36.png",
+      "image_48": "https://a.slack-edge.com/8f51/img/services/ifttt_48.png",
+      "image_72": "https://a.slack-edge.com/8f51/img/services/ifttt_72.png"
+    },
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1523264535.000170",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522744293.000067",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522742071.000134",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522731718.000111",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522731678.000121",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664604.000090",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664558.000060",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664367.000148",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664282.000101",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "天気をアレクサに聞きました",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "天気をアレクサに聞きました"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664267.000022",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "秋篠宮 佳子 さまさんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "秋篠宮 佳子 さまさんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664151.000190",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qQmi3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "豪華過ぎるww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fed87373-1aab-41c3-953c-a0967aef105a",
+    "team": "T6WULA63S",
+    "text": "豪華過ぎるww",
+    "ts": "1522664143.000152",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "麻生 太郎さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "麻生 太郎さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664122.000159",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0q1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "wwwww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa212e8a-f8bc-46f7-9ef1-7c6c8e3c602f",
+    "team": "T6WULA63S",
+    "text": "wwwww",
+    "ts": "1522664108.000149",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "の 安倍 晋三さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "の 安倍 晋三さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664097.000128",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "大沼さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "大沼さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522664080.000143",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522663034.000154",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1522217513.000135",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1521183435.000002",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1521108649.000123",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520847528.000189",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520839559.000157",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520390074.000120",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520232989.000191",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520232969.000107",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520230332.000163",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520224327.000066",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520224239.000086",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "優待さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "優待さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520209285.000116",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 和輝さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 和輝さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1520040722.000092",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519992303.000320",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519991482.000247",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "時 高崎さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "時 高崎さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519991267.000137",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519991243.000046",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519974398.000214",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "優待さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "優待さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519974275.000055",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R4S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "wwww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "25e4109a-28d5-4a0a-ab0f-486bf92305b4",
+    "team": "T6WULA63S",
+    "text": "wwww",
+    "ts": "1519965842.000168",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519965692.000061",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519965553.000065",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "深沼 先輩さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "深沼 先輩さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519965525.000009",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7EfoP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いじめんなよw",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "いじめんなよw",
+    "ts": "1519965511.000080",
+    "type": "message",
+    "user": "U7JLHH16F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519965446.000006",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 かずきさんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 かずきさんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519954432.000055",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 かずきさんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 かずきさんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519900190.000500",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Roq1M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ok",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ok",
+    "ts": "1519870566.000269",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "<@U97F49L68> commented on <@U97F49L68>’s file <https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP|https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP>: 作ったら追加していってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "comment": {
+      "comment": "作ったら追加していってください",
+      "created": 1519870527,
+      "id": "Fc9GHG5L9H",
+      "is_intro": false,
+      "timestamp": 1519870527,
+      "user": "U97F49L68"
+    },
+    "file": {
+      "created": 1519870072,
+      "display_as_bot": false,
+      "editable": true,
+      "editor": null,
+      "external_type": "",
+      "file_access": "visible",
+      "filetype": "docs",
+      "has_rich_preview": false,
+      "id": "F04CRPLFMRP",
+      "is_external": false,
+      "is_public": true,
+      "is_starred": false,
+      "last_editor": "U97F49L68",
+      "migrated_id": "F9G13AMT2",
+      "mimetype": "application/vnd.slack-docs",
+      "mode": "docs",
+      "name": "_________D______________________________",
+      "non_owner_editable": true,
+      "permalink": "https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP",
+      "permalink_public": "https://slack-files.com/T6WULA63S-F04CRPLFMRP-714cd8413c",
+      "pretty_type": "Arugula",
+      "preview": "<h2>フレーズ - 動作</h2><p>受付 [名前] - 来た人をスプレッドシートに記録(外部の人用)<br>研究室に到着 [名前] - 来た人をSlackに通知(研究室メンバー用)<br>研究室から外出 [名前] - 出る人をSlackに通知<br>Hey Siri - D子ちゃんが怒る<br>トイレに行ってもいいですか - だめです<br>明日の天気は - アレクサに聞く<br>オープンキャンパスモードに繋いで - 松野研の説明をしてくれるモードになる<br></p>",
+      "public_url_shared": false,
+      "size": 247,
+      "timestamp": 1541143758,
+      "title": "頭文字D子ちゃん起動フレーズ",
+      "updated": 1541143758,
+      "url_private": "https://files.slack.com/files-pri/T6WULA63S-F04CRPLFMRP/_________d______________________________",
+      "url_private_download": "https://files.slack.com/files-pri/T6WULA63S-F04CRPLFMRP/download/_________d______________________________",
+      "user": "U97F49L68",
+      "user_team": "T6WULA63S",
+      "username": ""
+    },
+    "files": [
+      {
+        "created": 1519870072,
+        "display_as_bot": false,
+        "editable": true,
+        "editor": null,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "docs",
+        "has_rich_preview": false,
+        "id": "F04CRPLFMRP",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "last_editor": "U97F49L68",
+        "migrated_id": "F9G13AMT2",
+        "mimetype": "application/vnd.slack-docs",
+        "mode": "docs",
+        "name": "_________D______________________________",
+        "non_owner_editable": true,
+        "permalink": "https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP",
+        "permalink_public": "https://slack-files.com/T6WULA63S-F04CRPLFMRP-714cd8413c",
+        "pretty_type": "Arugula",
+        "preview": "<h2>フレーズ - 動作</h2><p>受付 [名前] - 来た人をスプレッドシートに記録(外部の人用)<br>研究室に到着 [名前] - 来た人をSlackに通知(研究室メンバー用)<br>研究室から外出 [名前] - 出る人をSlackに通知<br>Hey Siri - D子ちゃんが怒る<br>トイレに行ってもいいですか - だめです<br>明日の天気は - アレクサに聞く<br>オープンキャンパスモードに繋いで - 松野研の説明をしてくれるモードになる<br></p>",
+        "public_url_shared": false,
+        "size": 247,
+        "timestamp": 1541143758,
+        "title": "頭文字D子ちゃん起動フレーズ",
+        "updated": 1541143758,
+        "url_private": "https://files.slack.com/files-pri/T6WULA63S-F04CRPLFMRP/_________d______________________________",
+        "url_private_download": "https://files.slack.com/files-pri/T6WULA63S-F04CRPLFMRP/download/_________d______________________________",
+        "user": "U97F49L68",
+        "user_team": "T6WULA63S",
+        "username": ""
+      }
+    ],
+    "is_intro": false,
+    "subtype": "file_comment",
+    "team": "T00",
+    "text": "<@U97F49L68> commented on <@U97F49L68>’s file <https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP|https://matsulabnu.slack.com/files/T6WULA63S/F04CRPLFMRP>: 作ったら追加していってください",
+    "ts": "1519870527.000191",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Vtz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " shared a file: ",
+                "type": "text"
+              },
+              {
+                "text": "頭文字D子ちゃん起動フレーズ",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U97F49L68/F9G13AMT2/_________D______________________________"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "space",
+        "id": "F9G13AMT2",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U97F49L68> shared a file: <https://matsulabnu.slack.com/files/U97F49L68/F9G13AMT2/_________D______________________________|頭文字D子ちゃん起動フレーズ>",
+    "ts": "1519870527.000138",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U7DKV6ACT",
+    "subtype": "channel_join",
+    "text": "<@U7JLHH16F> has joined the channel",
+    "ts": "1519870452.000147",
+    "type": "message",
+    "user": "U7JLHH16F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "青山さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "青山さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519870335.000019",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9T/sE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おん",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "おん",
+    "ts": "1519869904.000182",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0lwm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "研究室に到着だった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "研究室に到着だった",
+    "ts": "1519869876.000198",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 かずきさんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 かずきさんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519869865.000259",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a7+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "研究室へ到着や",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "研究室へ到着や",
+    "ts": "1519869833.000285",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+ZE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "入室室の合言葉忘れた結果やで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "入室室の合言葉忘れた結果やで",
+    "ts": "1519869818.000124",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qx8XW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんなん笑うしかないわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "こんなん笑うしかないわ",
+    "ts": "1519869786.000271",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519869693.000179",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 かずきさんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 かずきさんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519819028.000262",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519819007.000375",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "青山さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "青山さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519814358.000187",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519810326.000202",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "雄大さんが研究室から出発しました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "雄大さんが研究室から出発しました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519810046.000106",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 かずきさんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 かずきさんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519808879.000384",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519808830.000025",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519802850.000021",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "頭文字D子ちゃんが機嫌を悪くしました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "頭文字D子ちゃんが機嫌を悪くしました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519802758.000308",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "事務 室 の 井上 ですさんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "事務 室 の 井上 ですさんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519800530.000043",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "井出 かずきさんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "井出 かずきさんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519800513.000054",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "する 雄大さんが研究室に来ました。",
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "する 雄大さんが研究室に来ました。"
+      }
+    ],
+    "bot_id": "B9FBS0C64",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1519800461.000144",
+    "type": "message",
+    "username": "IFTTT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1519800393.000018",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1519800391.000205",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U9FEPJGKB> has joined the channel",
+    "ts": "1519800335.000029",
+    "type": "message",
+    "user": "U9FEPJGKB"
+  }
+]

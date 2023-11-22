@@ -1,0 +1,2826 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555910475.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555910463.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7DPNCR0U> has joined the channel",
+    "ts": "1535186152.000200",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7FE1TCUR> has joined the channel",
+    "ts": "1535152751.000200",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1nl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ホールは22時までのようです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "741AE98A-D698-4847-B1C6-B8EA748321A6",
+    "team": "T6WULA63S",
+    "text": "ホールは22時までのようです",
+    "ts": "1535111272.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lDlzQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬班試走しないの？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B803C926-2C46-435F-B56C-691F0A2B7CF9",
+    "team": "T6WULA63S",
+    "text": "中瀬班試走しないの？",
+    "ts": "1535109792.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "c",
+        "id": "FCE4ASPD0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535045330.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7WMM5F"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "c",
+        "id": "FCE7Q051T",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1535042856.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7WMM5F"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "FCDD8MQKE",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534996159.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7LFFED"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1534993640.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1534993626.000200",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "FCDFU04RH",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534993385.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9RQ3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "パワポ送り先\n締め：25日9時",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0D6841D3-4E43-451E-ADEA-5EF4782422E6",
+    "team": "T6WULA63S",
+    "text": "パワポ送り先\n締め：25日9時",
+    "ts": "1534992693.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=L=z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cita17035@g.nihon-u.ac.jp",
+                "type": "link",
+                "unsafe": true,
+                "url": "mailto:cita17035@g.nihon-u.ac.jp"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CAE59924-BC8D-421D-B0EA-8A31A4B1DF27",
+    "team": "T6WULA63S",
+    "text": "<mailto:cita17035@g.nihon-u.ac.jp|cita17035@g.nihon-u.ac.jp>",
+    "ts": "1534992651.000100",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "cpp",
+        "id": "FCE8VQC5C",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1534921149.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "frWw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分箱とかかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8177C105-80A0-4C77-99F9-497184DD3A0A",
+    "team": "T6WULA63S",
+    "text": "多分箱とかかな",
+    "ts": "1533346082.000019",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JkC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どっこにありますかね...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C2F1BC3E-5E89-4EFA-B5A4-5780DF02448E",
+    "team": "T6WULA63S",
+    "text": "どっこにありますかね...",
+    "ts": "1533346061.000077",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KxwJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どっかにある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AD577054-8E3C-4AF6-9263-B3A9AB883134",
+    "team": "T6WULA63S",
+    "text": "どっかにある",
+    "ts": "1533346018.000010",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=R7Ly",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はんだ吸い取り線って置いてないですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D84DF069-67A1-4E69-BE43-15548E9E88B0",
+    "team": "T6WULA63S",
+    "text": "はんだ吸い取り線って置いてないですか？",
+    "ts": "1533345920.000034",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vvBO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あんまり気にしたことなかったわ\nよく書いてあるけどいいかなーって",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2A26F87F-CE5F-4DC1-AB7B-94772A95BFB7",
+    "team": "T6WULA63S",
+    "text": "あんまり気にしたことなかったわ\nよく書いてあるけどいいかなーって",
+    "ts": "1533120647.000217",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J3U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よくモータの逆起電力ガーとかいいますけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4DA07150-6D24-455B-BE3C-DEF87BDB6A37",
+    "team": "T6WULA63S",
+    "text": "よくモータの逆起電力ガーとかいいますけど",
+    "ts": "1533120311.000162",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JB8cH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こういうのって、間にダイオード挟んだりしなくていいんですかね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C1F7578F-6425-44E0-B104-475259B21AB7",
+    "team": "T6WULA63S",
+    "text": "こういうのって、間にダイオード挟んだりしなくていいんですかね？",
+    "ts": "1533120286.000286",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i/h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "前者の方が接続安定しそうだけどね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B3FF341F-D814-4DEE-B0D8-94E2C2C57F5E",
+    "team": "T6WULA63S",
+    "text": "前者の方が接続安定しそうだけどね",
+    "ts": "1533120230.000254",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "アイネックス USBケーブルAオス4ピンオス USB-007B",
+        "from_url": "https://www.amazon.co.jp/dp/B004SD418W/ref=cm_sw_r_cp_api_i_E6yyBb735E734",
+        "id": 1,
+        "image_bytes": 13302,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41uxncS9lNL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_SCLZZZZZZZ_.jpg",
+        "image_width": 429,
+        "original_url": "https://www.amazon.co.jp/dp/B004SD418W/ref=cm_sw_r_cp_api_i_E6yyBb735E734",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "アイネックス USBケーブルAオス4ピンオス USB-007B",
+        "title": "アイネックス USBケーブルAオス4ピンオス USB-007B",
+        "title_link": "https://www.amazon.co.jp/dp/B004SD418W/ref=cm_sw_r_cp_api_i_E6yyBb735E734"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "rYZ8s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちでいいかも\nアイネックス USBケーブルAオス4ピンオス USB-007B ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B004SD418W/ref=cm_sw_r_cp_api_i_E6yyBb735E734"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0C108E45-8102-415B-85BD-215A0EC8C042",
+    "team": "T6WULA63S",
+    "text": "こっちでいいかも\nアイネックス USBケーブルAオス4ピンオス USB-007B <https://www.amazon.co.jp/dp/B004SD418W/ref=cm_sw_r_cp_api_i_E6yyBb735E734>",
+    "ts": "1533120202.000022",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JWq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これの回路用端子買って流すのはありかも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ED3C0584-04DB-4CA8-B851-030642C59AE8",
+    "team": "T6WULA63S",
+    "text": "これの回路用端子買って流すのはありかも",
+    "ts": "1533120122.000124",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "オーバルマルチメディア USB丸ピン電源ケーブル 5.5x2.1mm 100cm OV588681",
+        "from_url": "https://www.amazon.co.jp/dp/B01IBC6ELM/ref=cm_sw_r_cp_api_i_h5yyBb55DE704",
+        "id": 1,
+        "image_bytes": 15003,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41-jmHeR3JL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_SCLZZZZZZZ_.jpg",
+        "image_width": 429,
+        "original_url": "https://www.amazon.co.jp/dp/B01IBC6ELM/ref=cm_sw_r_cp_api_i_h5yyBb55DE704",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "オーバルマルチメディア USB丸ピン電源ケーブル 5.5x2.1mm 100cm OV588681",
+        "title": "オーバルマルチメディア USB丸ピン電源ケーブル 5.5x2.1mm 100cm OV588681",
+        "title_link": "https://www.amazon.co.jp/dp/B01IBC6ELM/ref=cm_sw_r_cp_api_i_h5yyBb55DE704"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "g+Ss",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オーバルマルチメディア USB丸ピン電源ケーブル 5.5x2.1mm 100cm OV588681 ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B01IBC6ELM/ref=cm_sw_r_cp_api_i_h5yyBb55DE704"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "912EA1FF-DC49-4C79-A788-654E285402B2",
+    "team": "T6WULA63S",
+    "text": "オーバルマルチメディア USB丸ピン電源ケーブル 5.5x2.1mm 100cm OV588681 <https://www.amazon.co.jp/dp/B01IBC6ELM/ref=cm_sw_r_cp_api_i_h5yyBb55DE704>\n",
+    "ts": "1533120099.000050",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZLz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あんま良くないかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78D2E327-0C00-4465-BA41-4C95C7909C54",
+    "team": "T6WULA63S",
+    "text": "あんま良くないかな",
+    "ts": "1533119882.000184",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HtDE/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "500mAしかでないですけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3F9311C5-22D7-447E-A5EB-EBEC3D6E49F2",
+    "team": "T6WULA63S",
+    "text": "500mAしかでないですけど",
+    "ts": "1533119237.000199",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vAm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "適当なUSBケーブル買ってきて切断して電源の部分だけ接続するのじゃダメなんですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9C3A9FA4-5AF6-4C3F-BF9C-381835D61D3B",
+    "team": "T6WULA63S",
+    "text": "適当なUSBケーブル買ってきて切断して電源の部分だけ接続するのじゃダメなんですかね",
+    "ts": "1533119226.000042",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EP7bI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "な感じのやつ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C4230229-1101-441C-88BA-5090E09FFD00",
+    "team": "T6WULA63S",
+    "text": "な感じのやつ",
+    "ts": "1533119101.000215",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JB17",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "な感じのやつですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83E77211-F929-48FA-B9D9-1301D711B9E0",
+    "team": "T6WULA63S",
+    "text": "な感じのやつですか",
+    "ts": "1533119095.000296",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ncn/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "USB-A to 赤黒",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "891335FD-47AF-4DD4-BAEE-A1ACBC9DBF40",
+    "team": "T6WULA63S",
+    "text": "USB-A to 赤黒",
+    "ts": "1533119090.000272",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v4Pns",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "げーぶるが欲しいんだけど\n名前がわからない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "15333776-4CD4-438F-9594-8497ACD345C0",
+    "team": "T6WULA63S",
+    "text": "げーぶるが欲しいんだけど\n名前がわからない",
+    "ts": "1533119066.000136",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wo=t1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "他に。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4C9B1401-C500-48CF-9425-BA6995A628D5",
+    "team": "T6WULA63S",
+    "text": "他に。",
+    "ts": "1533118886.000128",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KWih7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんかありますかね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9B3B49F7-8F5F-4BBB-9F8F-B881D7920859",
+    "team": "T6WULA63S",
+    "text": "なんかありますかね？",
+    "ts": "1533118861.000231",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w3c",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとでやっときますー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "892A8B8E-2E71-4867-8DF8-72EB9ACB9F02",
+    "team": "T6WULA63S",
+    "text": "あとでやっときますー",
+    "ts": "1533118856.000251",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T83",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "んじゃ、その他諸々必要そうなものあったら含めてまとめて投げつけておいてくれると助かる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "658095D4-9D66-4D85-A439-61DEE8DBBABA",
+    "team": "T6WULA63S",
+    "text": "んじゃ、その他諸々必要そうなものあったら含めてまとめて投げつけておいてくれると助かる",
+    "ts": "1533118841.000187",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mKU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいとおもいます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AEF50669-0643-40DD-8B8F-CEE5B8F33D28",
+    "team": "T6WULA63S",
+    "text": "いいとおもいます",
+    "ts": "1533118791.000303",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gveP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Amazonで先生に投げつければいいかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F93FC41D-D932-4656-AECA-6C66CCE90D67",
+    "team": "T6WULA63S",
+    "text": "Amazonで先生に投げつければいいかな",
+    "ts": "1533118781.000117",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "48gI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうだね\n去年のを予備としてそれでいいと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4A8379F5-C961-4F22-ACB2-76C94F856244",
+    "team": "T6WULA63S",
+    "text": "そうだね\n去年のを予備としてそれでいいと思う",
+    "ts": "1533118760.000149",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FBEu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "冗談はさておき、そのダンボーと上のデカダンボーを2個ずつ買えばいいかんじなんじゃないでしょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4C19D8B4-B481-4E23-BEC3-494AABC9DB04",
+    "team": "T6WULA63S",
+    "text": "冗談はさておき、そのダンボーと上のデカダンボーを2個ずつ買えばいいかんじなんじゃないでしょうか",
+    "ts": "1533118700.000207",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9got",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いんでね()",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4C7B64A3-8CF0-4674-AAA4-2BF23351C1DB",
+    "team": "T6WULA63S",
+    "text": "いんでね()",
+    "ts": "1533118664.000090",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Tdq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "先頭に置きましょう！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80E3CD56-89E6-4261-8438-792ED3470654",
+    "team": "T6WULA63S",
+    "text": "先頭に置きましょう！",
+    "ts": "1533118494.000242",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8O9v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ひかるお",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7F6873E8-303B-45AB-8200-7719782A85C5",
+    "team": "T6WULA63S",
+    "text": "ひかるお",
+    "ts": "1533118483.000130",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fmLb=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ目光るならトレーサの先頭に置きたいですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DFE19752-76F7-4C19-9944-B12C4DE1CA85",
+    "team": "T6WULA63S",
+    "text": "これ目光るならトレーサの先頭に置きたいですね",
+    "ts": "1533118471.000080",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6dwb8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "が、いいかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E55A201D-FFD2-4D19-94F7-851A88F24023",
+    "team": "T6WULA63S",
+    "text": "が、いいかな",
+    "ts": "1533118447.000073",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JGp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応、Amazonには売ってるな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0776A15D-2BA9-4154-85BF-D96265D5270B",
+    "team": "T6WULA63S",
+    "text": "一応、Amazonには売ってるな",
+    "ts": "1533118431.000214",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "cheero Power Plus 6000mAh DANBOARD version -mini- 目が光る モバイルバッテリー [ 国産Sanyo/Panasonic高品質電池搭載 ] iPhone 6 6Plus 5s 5c 5 / iPad / Android / Xperia / Galaxy / 各種スマホ / タブレット / ゲーム機 / Wi-Fiルータ 等 急速充電 対応",
+        "from_url": "https://www.amazon.co.jp/cheero-DANBOARD-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-Panasonic%E9%AB%98%E5%93%81%E8%B3%AA%E9%9B%BB%E6%B1%A0%E6%90%AD%E8%BC%89-Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF/dp/B00G8I2BU0",
+        "id": 1,
+        "image_bytes": 8577,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/31S6Hgm44OL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(598%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/cheero-DANBOARD-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-Panasonic%E9%AB%98%E5%93%81%E8%B3%AA%E9%9B%BB%E6%B1%A0%E6%90%AD%E8%BC%89-Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF/dp/B00G8I2BU0",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "商品仕様 【製品名】cheero Power Plus DANBOARD version -mini- 【内蔵バッテリー】3.7V 6000mAh、リチウムイオン 【入力】5V / 1A MicroUSB 【出力】USB1 5V/1A 、USB2 5V/2.1A 【本体充電時間】約7-8時間 *1A USBアダプタ利用の場合 【主要機能】残量インジケーター(3段階：口を押すと目が黄→オレンジ→赤と遷移します) 【寸法(本体)】74mm(W)×48mm(H)×34mm(D) 【重量(本体)】140g 【付属品】本体充電用USB-MicroUSBケーブル(白)、ポーチ、説明書/保証書 【各種...",
+        "title": "cheero Power Plus 6000mAh DANBOARD version -mini- 目が光る モバイルバッテリー [ 国産Sanyo/Panasonic高品質電池搭載 ] iPhone 6 6Plus 5s 5c 5 / iPad / Android / Xperia / Galaxy / 各種スマホ / タブレット / ゲーム機 / Wi-Fiルータ 等 急速充電 対応",
+        "title_link": "https://www.amazon.co.jp/cheero-DANBOARD-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-Panasonic%E9%AB%98%E5%93%81%E8%B3%AA%E9%9B%BB%E6%B1%A0%E6%90%AD%E8%BC%89-Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF/dp/B00G8I2BU0"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fsCU/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/cheero-DANBOARD-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-Panasonic%E9%AB%98%E5%93%81%E8%B3%AA%E9%9B%BB%E6%B1%A0%E6%90%AD%E8%BC%89-Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF/dp/B00G8I2BU0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7B74F302-073D-4B99-9A61-2DA1B14F30DB",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/cheero-DANBOARD-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-Panasonic%E9%AB%98%E5%93%81%E8%B3%AA%E9%9B%BB%E6%B1%A0%E6%90%AD%E8%BC%89-Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF/dp/B00G8I2BU0>",
+    "ts": "1533118412.000103",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J9U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "手動→ダンボー\nトレーサー→Canvas\nって感じにしますかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DC299C49-2A52-4064-A7C3-2FFD47889A9C",
+    "team": "T6WULA63S",
+    "text": "手動→ダンボー\nトレーサー→Canvas\nって感じにしますかね",
+    "ts": "1533118323.000010",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WOcfe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "トレーサーの話ね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "129B0B3A-5906-4F00-A27A-A7B3220607EE",
+    "team": "T6WULA63S",
+    "text": "トレーサーの話ね",
+    "ts": "1533118277.000238",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bzIJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ぐちゃぐちゃになってもーた\n二出力ないならCanvasがいいかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6C6C5951-6F2E-4EBC-A34D-716371B84100",
+    "team": "T6WULA63S",
+    "text": "ぐちゃぐちゃになってもーた\n二出力ないならCanvasがいいかね",
+    "ts": "1533118266.000311",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/2P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今はトレーサーのバッテリーの話をしているのでは...?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1BE07579-5797-4AE2-945A-22EB23F99881",
+    "team": "T6WULA63S",
+    "text": "今はトレーサーのバッテリーの話をしているのでは...?",
+    "ts": "1533118121.000231",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "q1bK0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ん？？？？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90D4266B-A371-4525-853E-70B16AE82E1E",
+    "team": "T6WULA63S",
+    "text": "ん？？？？？",
+    "ts": "1533118111.000113",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sh3G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でかいか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3D9B32AC-E06D-40F7-9A8C-64678A5A34C2",
+    "team": "T6WULA63S",
+    "text": "でかいか？",
+    "ts": "1533118106.000017",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1=C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "手動の話ね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2A38EDA0-447C-46C9-AA40-A3BC3A5B7093",
+    "team": "T6WULA63S",
+    "text": "手動の話ね",
+    "ts": "1533118090.000009",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PANr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんせんさすぅ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "06D713F3-C6A1-4B53-8330-4E0841BED820",
+    "team": "T6WULA63S",
+    "text": "こんせんさすぅ",
+    "ts": "1533118065.000124",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5jWNG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、canvasのことですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1C8C3D2C-5304-4934-87B6-3803662C7EFA",
+    "team": "T6WULA63S",
+    "text": "あ、canvasのことですか？",
+    "ts": "1533117913.000339",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=BQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デカくないすか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6A5B4FF9-D2CE-4668-8502-E759FCBEFAF8",
+    "team": "T6WULA63S",
+    "text": "デカくないすか？",
+    "ts": "1533117889.000047",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "odT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うえのじゃだめなん？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "50DEEE09-CF47-4BD0-99B1-0EB01C26FEAE",
+    "team": "T6WULA63S",
+    "text": "うえのじゃだめなん？",
+    "ts": "1533117875.000249",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yGF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ヤスリで削りましょう",
+                "type": "text"
+              },
+              {
+                "name": "hammer",
+                "type": "emoji",
+                "unicode": "1f528"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A21170F2-D2AB-44CA-AC16-76072AD5FAE8",
+    "team": "T6WULA63S",
+    "text": "ヤスリで削りましょう:hammer:",
+    "ts": "1533117863.000280",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "djQL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これの耳切れば同サイズになるのでは......?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DCC66847-1C95-46A7-8F9C-C6E87405171D",
+    "team": "T6WULA63S",
+    "text": "これの耳切れば同サイズになるのでは......?",
+    "ts": "1533117818.000377",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "cheero Power Plus nyanboard ver. 6000mAh コンパクト型 モバイルバッテリー AUTO-IC機能付き 急速充電対応 (mike) CHE-073-MI",
+        "from_url": "https://www.amazon.co.jp/dp/B01MRPJJ7D/ref=cm_sw_r_cp_api_AvyyBbD7FB1A4",
+        "id": 1,
+        "image_bytes": 10922,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41rdF1KLinL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(294%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B01MRPJJ7D/ref=cm_sw_r_cp_api_AvyyBbD7FB1A4",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "●商品仕様● 【製品名】 cheero Power Plus 6000mAh nyanboard version 【型番】 CHE-073 【入力】 DC 5V / 2.0A max MicroUSB 【出力】 DC 5V / 2.4A (AUTO-IC機能付き) 【寸法(本体)】 約 79 × 70 × 24 mm 【重量(本体)】 約 135g 【主要機能】 ①AUTO-IC機能 接続したデバイスを自動検知し、最大2.4Aで最適な電流を流します。 ②自動停止機能 過充電(電圧/電流)時 , 過放電(電圧/電流)時 短絡化(ショート)時 , 発熱時 ③デバイス充電完了時自動停止機能 ※...",
+        "title": "cheero Power Plus nyanboard ver. 6000mAh コンパクト型 モバイルバッテリー AUTO-IC機能付き 急速充電対応 (mike) CHE-073-MI",
+        "title_link": "https://www.amazon.co.jp/dp/B01MRPJJ7D/ref=cm_sw_r_cp_api_AvyyBbD7FB1A4"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "aF2I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cheero Power Plus nyanboard ver. 6000mAh コンパクト型 モバイルバッテリー AUTO-IC機能付き 急速充電対応 (mike) CHE-073-MI ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B01MRPJJ7D/ref=cm_sw_r_cp_api_AvyyBbD7FB1A4"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CD715104-2ECE-4799-8A5B-CD7961C006C6",
+    "team": "T6WULA63S",
+    "text": "cheero Power Plus nyanboard ver. 6000mAh コンパクト型 モバイルバッテリー AUTO-IC機能付き 急速充電対応 (mike) CHE-073-MI <https://www.amazon.co.jp/dp/B01MRPJJ7D/ref=cm_sw_r_cp_api_AvyyBbD7FB1A4>",
+    "ts": "1533117802.000231",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8a/JM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "手動に関してはそれバリバリ流せばおけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BEF54752-688D-483D-81CB-19FE54A247B2",
+    "team": "T6WULA63S",
+    "text": "手動に関してはそれバリバリ流せばおけ",
+    "ts": "1533117762.000309",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D67",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コンセンサスうううううう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3947B977-D903-4474-98A3-61A7FFCB7D33",
+    "team": "T6WULA63S",
+    "text": "コンセンサスうううううう",
+    "ts": "1533117711.000266",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uHVjC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、トレーサーの話でしたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59B4ABD1-F7FD-4AB5-8F51-2669FD9B4B07",
+    "team": "T6WULA63S",
+    "text": "あ、トレーサーの話でしたか",
+    "ts": "1533117696.000235",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0S0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、トレーサーの話じゃなくてか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6E23D40F-86F3-4726-BC0D-261947934709",
+    "team": "T6WULA63S",
+    "text": "あ、トレーサーの話じゃなくてか",
+    "ts": "1533117683.000323",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B/uK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これじゃないんです？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D3A5A266-5E67-483C-89CB-9C441E080743",
+    "team": "T6WULA63S",
+    "text": "これじゃないんです？",
+    "ts": "1533117647.000208",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "cheero Power Plus 10050mAh DANBOARD Auto-IC機能 モバイルバッテリー オリジナルカラー CHE-066",
+        "from_url": "https://www.amazon.co.jp/dp/B016M90DTA/ref=cm_sw_r_cp_api_3syyBbBE4BAA4",
+        "id": 1,
+        "image_bytes": 9158,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/31FO-OAUk6L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(467%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/dp/B016M90DTA/ref=cm_sw_r_cp_api_3syyBbBE4BAA4",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "●商品仕様● 【製品名】cheero Power Plus 10050mAh DANBOARD version モバイルバッテリー 【型番】 CHE-066 【電池容量】10050mAh 3.6V (36.18Wh) リチウムイオン 【入力】 DC 5V / 2.0A MAX MicroUSB 【出力】 DC 5V / 3.4A(合計) (AUTO-IC機能付き) 【本体充電時間】約5時間（別売り2Aアダプタ使用の場合) 【寸法(本体)】 95 × 62 × 22 mm 【重量(本体)】 190 g 【本体仕様】 インジケーター(4段階) 【主要機能】 ①AUTO-IC機能 接続されたデ...",
+        "title": "cheero Power Plus 10050mAh DANBOARD Auto-IC機能 モバイルバッテリー オリジナルカラー CHE-066",
+        "title_link": "https://www.amazon.co.jp/dp/B016M90DTA/ref=cm_sw_r_cp_api_3syyBbBE4BAA4"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "i0Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cheero Power Plus 10050mAh DANBOARD Auto-IC機能 モバイルバッテリー オリジナルカラー CHE-066 ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B016M90DTA/ref=cm_sw_r_cp_api_3syyBbBE4BAA4"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7BCDAC19-504A-423E-B323-002B60B86552",
+    "team": "T6WULA63S",
+    "text": "cheero Power Plus 10050mAh DANBOARD Auto-IC機能 モバイルバッテリー オリジナルカラー CHE-066 <https://www.amazon.co.jp/dp/B016M90DTA/ref=cm_sw_r_cp_api_3syyBbBE4BAA4>",
+    "ts": "1533117643.000192",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7SHN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まーそうか\nでも、あのダンボーもう売ってないんだよねw",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "39CDD7C8-8C25-4BFE-B023-A706AFD71385",
+    "team": "T6WULA63S",
+    "text": "まーそうか\nでも、あのダンボーもう売ってないんだよねw",
+    "ts": "1533117605.000147",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "49N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いちおう微電流でも電源がオフにならないって仕様みたいですけど、モータガンガン動かしてるのに微電流になることはまずないと思うんで、今のダンボーと同じやつ買い足せばいいんじゃないですかね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CDC59673-B426-4F12-B21B-7E1033E4E717",
+    "team": "T6WULA63S",
+    "text": "いちおう微電流でも電源がオフにならないって仕様みたいですけど、モータガンガン動かしてるのに微電流になることはまずないと思うんで、今のダンボーと同じやつ買い足せばいいんじゃないですかね？",
+    "ts": "1533117554.000282",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "u1xu0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、これだ\n去年高橋研使ってた気がする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4F48E67C-BE86-422B-B0A1-33BCCD0B0FED",
+    "team": "T6WULA63S",
+    "text": "あ、これだ\n去年高橋研使ってた気がする",
+    "ts": "1533117473.000371",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qmgcd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Cheero CanvasってやつなんですけどUSBが1口しかついてないんでダメですねこれ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "24FF0457-E519-49F3-99ED-82BEFC3B1D0D",
+    "team": "T6WULA63S",
+    "text": "Cheero CanvasってやつなんですけどUSBが1口しかついてないんでダメですねこれ",
+    "ts": "1533116910.000086",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ag5ds",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Cheeroから電子工作用のバッテリーが出てたと思うんですけどそれいきますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0030F75B-C267-4469-8771-1DF3E7AFCEEF",
+    "team": "T6WULA63S",
+    "text": "Cheeroから電子工作用のバッテリーが出てたと思うんですけどそれいきますか？",
+    "ts": "1533116579.000179",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wZp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たしかに",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6D30FE96-6C90-4B63-AA91-7D5F3718B49B",
+    "team": "T6WULA63S",
+    "text": "たしかに",
+    "ts": "1533116546.000086",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VIx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ばってりーどうするよ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "183CDCDF-70F9-484A-9FC6-689368AEE258",
+    "team": "T6WULA63S",
+    "text": "ばってりーどうするよ？",
+    "ts": "1533116523.000220",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "88Vq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "フォトリフレクタ買いました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "09EBB442-E01C-4A95-B1A1-C3C9DF545DD6",
+    "team": "T6WULA63S",
+    "text": "フォトリフレクタ買いました",
+    "ts": "1533115427.000094",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "FBZSP3S80",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1533104152.000103",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tJUw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "iOS の画像",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FBXEDKYS1/ios__________.jpg"
+              },
+              {
+                "text": " and commented: ベアリングブロックを軸受けにするという選択肢もあるけど2160円コース",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FBXEDKYS1",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "ベアリングブロックを軸受けにするという選択肢もあるけど2160円コース",
+    "ts": "1532595468.000340",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "553507FF-F228-464F-8A69-FA72C8189BB8",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T=s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと車輪の軸受けがないなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EA2592A5-B7C6-44F2-B3FB-5C05ADB8EC5B",
+    "team": "T6WULA63S",
+    "text": "あと車輪の軸受けがないなぁ",
+    "ts": "1532595401.000046",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+O/Hw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "iOS の画像",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/FBXA7G5DY/ios__________.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FBXA7G5DY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/FBXA7G5DY/ios__________.jpg|iOS の画像>",
+    "ts": "1532595051.000281",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "269C0759-450C-423C-BAA8-85D9E9FC88C7",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i+1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ベルトを受けるプーリーがめっちゃ高い問題が...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "20C315D7-8E03-4D79-9657-F401636EEA95",
+    "team": "T6WULA63S",
+    "text": "ベルトを受けるプーリーがめっちゃ高い問題が...",
+    "ts": "1532595026.000236",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "モータドライバの使い方について | うしこlog",
+        "from_url": "http://usicolog.nomaki.jp/engineering/avr_lineTracer/motorDriver.html",
+        "id": 1,
+        "original_url": "http://usicolog.nomaki.jp/engineering/avr_lineTracer/motorDriver.html",
+        "service_name": "usicolog.nomaki.jp",
+        "text": "ライントレーサを作るにあたって、モータの制御は欠かせません。そこで、今回はモータを制御するためのモータドライバの使い方について説明します。モータドライバは、入力を変えることでモータの回転を制御するものです。",
+        "title": "モータドライバの使い方について | うしこlog",
+        "title_link": "http://usicolog.nomaki.jp/engineering/avr_lineTracer/motorDriver.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "4as",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://usicolog.nomaki.jp/engineering/avr_lineTracer/motorDriver.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C59124CC-040A-4C35-BD48-10991946D2DF",
+    "team": "T6WULA63S",
+    "text": "<http://usicolog.nomaki.jp/engineering/avr_lineTracer/motorDriver.html>",
+    "ts": "1531975156.000129",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zjX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "USBホストシールド",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a1918c0-30f1-454a-97d7-f3c8fdac8571",
+    "team": "T6WULA63S",
+    "text": "USBホストシールド",
+    "ts": "1531966012.000025",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "aitendo: USBホストシールド",
+        "from_url": "http://www.aitendo.com/product/10293",
+        "id": 1,
+        "original_url": "http://www.aitendo.com/product/10293",
+        "service_icon": "http://aitendo3.sakura.ne.jp/favicon/favicon.ico",
+        "service_name": "aitendo",
+        "text": "●概要MAX3241搭載、Google Android ADK、サポート●仕様・機能Arduino対応USBホストシールドの完成品、MAX3241搭載、Google Android ADKをサポート、…",
+        "thumb_height": 200,
+        "thumb_url": "https://www.aitendo.com/data/aitendo/product/20141015_88a841.png",
+        "thumb_width": 250,
+        "title": "USBホストシールド",
+        "title_link": "http://www.aitendo.com/product/10293"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fQx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.aitendo.com/product/10293"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eff00810-4ea4-459e-806b-0a652b290da9",
+    "team": "T6WULA63S",
+    "text": "<http://www.aitendo.com/product/10293>",
+    "ts": "1531966006.000135",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J3Uk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コンベアに使えそうな部品",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "acbf9245-12aa-4bf6-bb2c-610a96d76c42",
+    "team": "T6WULA63S",
+    "text": "コンベアに使えそうな部品",
+    "ts": "1531965279.000128",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2P=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.robotshop.com/jp/ja/lynxmotion-track-trk-01.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f5d575eb-8a59-40bd-89e0-aa60b853a6ce",
+    "team": "T6WULA63S",
+    "text": "<https://www.robotshop.com/jp/ja/lynxmotion-track-trk-01.html>",
+    "ts": "1531965243.000155",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=/5nV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D4DABEBA-B1EE-4CF0-8C78-AED2FC64ADAB",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1531475367.000147",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rDSB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全体じゃなくて要素ごとに確認するのを勧めるロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57960695-FD92-462C-A064-EDFAD853D5BD",
+    "team": "T6WULA63S",
+    "text": "全体じゃなくて要素ごとに確認するのを勧めるロボ:robot_face:",
+    "ts": "1531474573.000198",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q7n2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ソースサンプルにArduino.zipをぶち込んでおいたロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              },
+              {
+                "text": "Bluetooth接続とかトレースとかの参考にするロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DB3F3205-58AF-4A2B-88F8-BEC2E0D0E772",
+    "team": "T6WULA63S",
+    "text": "ソースサンプルにArduino.zipをぶち込んでおいたロボ:robot_face:Bluetooth接続とかトレースとかの参考にするロボ:robot_face:",
+    "ts": "1531474503.000244",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OYZ3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ロボコンの細かい打ち合わせはここでやるロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B3519618-929C-41CB-BB47-D5AB09DA65F1",
+    "team": "T6WULA63S",
+    "text": "ロボコンの細かい打ち合わせはここでやるロボ:robot_face:",
+    "ts": "1531474370.000039",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7GD94Y9W> has joined the channel",
+    "ts": "1531474284.000166",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7JLHH16F> has joined the channel",
+    "ts": "1531474284.000151",
+    "type": "message",
+    "user": "U7JLHH16F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rfzeh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとなす！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d230f8f1-2ede-423d-b319-7c2037f1c579",
+    "team": "T6WULA63S",
+    "text": "ありがとなす！",
+    "ts": "1530584081.000040",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YuR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "初日は移動と調整で競技するのは次の日",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ca480219-133b-4658-a89e-a50166f0c7a5",
+    "team": "T6WULA63S",
+    "text": "初日は移動と調整で競技するのは次の日",
+    "ts": "1530458003.000034",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NkX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "8月24~26日",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a2f93d7-acb8-42f1-8b06-301c0f7d72e7",
+    "team": "T6WULA63S",
+    "text": "8月24~26日",
+    "ts": "1530457950.000006",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NRW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ロボコンって8月の何日からでしたっけ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C84332B7-30EE-42D7-83ED-44E4CB6D4F7C",
+    "team": "T6WULA63S",
+    "text": "ロボコンって8月の何日からでしたっけ？",
+    "ts": "1530442917.000014",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TYP4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "かしこまロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DA863DCC-9BE3-4370-96A3-53CF7143CCA4",
+    "team": "T6WULA63S",
+    "text": "かしこまロボ:robot_face:",
+    "ts": "1527384886.000010",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F4j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2限、TAに行かなきゃならんので\n15時で宜しくロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DB8B542E-3500-4C33-8738-10EAF3849636",
+    "team": "T6WULA63S",
+    "text": "2限、TAに行かなきゃならんので\n15時で宜しくロボ:robot_face:",
+    "ts": "1527384644.000086",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QH9z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3限授業なので午前か15時以降がいいロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "3限授業なので午前か15時以降がいいロボ:robot_face:",
+    "ts": "1527341104.000107",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lmnrG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃー、月曜日のお昼過ぎ(1時ぐらい)お願いロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "じゃー、月曜日のお昼過ぎ(1時ぐらい)お願いロボ:robot_face:",
+    "ts": "1527330742.000029",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JXxQi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "木曜が好ましいですけど月曜でも構わないロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3A64CAE8-5DDA-4F9B-B8D8-D0809C66588E",
+    "team": "T6WULA63S",
+    "text": "木曜が好ましいですけど月曜でも構わないロボ:robot_face:",
+    "ts": "1527330173.000005",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bYDt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ロボコン関連に資料はドライブのイベント関連＞☆ロボコンに入れてきますロボ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ロボコン関連に資料はドライブのイベント関連＞☆ロボコンに入れてきますロボ",
+    "ts": "1527329444.000042",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+YG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬はどうロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "中瀬はどうロボ:robot_face:",
+    "ts": "1527329130.000094",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "srpMh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月曜がいいロボ",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4E2F53E4-C4D4-4899-8CB8-28B28F8ED965",
+    "team": "T6WULA63S",
+    "text": "月曜がいいロボ:robot_face:",
+    "ts": "1527329068.000017",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hxf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、就活終わった組をどんどん参加させてこ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あと、就活終わった組をどんどん参加させてこ",
+    "ts": "1527329025.000067",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7=j5C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月、火(午前)、木、金のうちどこかで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "月、火(午前)、木、金のうちどこかで",
+    "ts": "1527328935.000085",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G8U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ミスった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ミスった",
+    "ts": "1527328886.000078",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lTnu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ロボコンの軽い打ち合わせをしたいと思うのだが\n月、火()",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ロボコンの軽い打ち合わせをしたいと思うのだが\n月、火()",
+    "ts": "1527328880.000072",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SAh9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ロボコン",
+                "type": "text"
+              },
+              {
+                "name": "robot_face",
+                "type": "emoji",
+                "unicode": "1f916"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "587C58BA-BA21-4507-B8AC-544CF8EE6A42",
+    "team": "T6WULA63S",
+    "text": "ロボコン:robot_face:",
+    "ts": "1527221287.000122",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "purpose": "ロボコン:robot_face:",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ロボコン:robot_face:",
+    "ts": "1527221270.000141",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "purpose": "ロボコン:robot_face:",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ロボコン:robot_face:",
+    "ts": "1527221181.000104",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1527221140.000011",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7D7WMM5F> has joined the channel",
+    "ts": "1527221139.000255",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "purpose": "ロボコン",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ロボコン",
+    "ts": "1527221105.000256",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1527221105.000186",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  }
+]

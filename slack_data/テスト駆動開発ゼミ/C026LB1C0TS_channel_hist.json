@@ -1,0 +1,391 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "5d5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "古大工君のテストケースを見ながら誰でもできるのかを検証したい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cf79ec9a-81d8-4a4d-b69a-bc7d995af59d",
+    "team": "T6WULA63S",
+    "text": "古大工君のテストケースを見ながら誰でもできるのかを検証したい",
+    "ts": "1639456896.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A7ul",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いえ、大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "da1f77cd-39e4-47a0-aa38-4197c8b97e62",
+    "team": "T6WULA63S",
+    "text": "いえ、大丈夫です",
+    "ts": "1625536057.014700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "E63",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません家の用事で出れないです。ごめんなさい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "826C80E1-271B-4E4C-B11A-B84BBA5E9E84",
+    "team": "T6WULA63S",
+    "text": "すいません家の用事で出れないです。ごめんなさい",
+    "ts": "1625535968.014500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n/D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": "\n先生、参加できますでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e24a483e-3487-422b-87f3-1728ab7201f3",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK>\n先生、参加できますでしょうか？",
+    "ts": "1625535918.013800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1625108828.013400",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OvNJg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "先生も参加できるといいと思うので、火曜の2限でいいですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d0e2193e-f212-4c2c-b17f-d3933819fe1f",
+    "team": "T6WULA63S",
+    "text": "先生も参加できるといいと思うので、火曜の2限でいいですかね",
+    "ts": "1625108403.013200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zrbo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月曜日午前、火曜日午前、水曜日",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37d038dc-5c04-4fde-a4d8-4ea3153c1cef",
+    "team": "T6WULA63S",
+    "text": "月曜日午前、火曜日午前、水曜日",
+    "ts": "1625108294.012700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SxZA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大河内：月曜日　　、火曜日午前、水曜日、木曜日、金曜日午前\n古大工：月曜日午前、火曜日　　、水曜日、×　　 、金曜日午後",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c921aac4-d8fd-45e5-8fb8-fe75e984c7db",
+    "team": "T6WULA63S",
+    "text": "大河内：月曜日　　、火曜日午前、水曜日、木曜日、金曜日午前\n古大工：月曜日午前、火曜日　　、水曜日、×　　 、金曜日午後",
+    "ts": "1625108274.012300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "name": "テスト駆動開発ゼミ",
+    "old_name": "テスト駆動開発",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"テスト駆動開発\" to \"テスト駆動開発ゼミ\"",
+    "ts": "1625104730.009900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://avatars.slack-edge.com/2021-04-22/2002756178657_b36cfb8ff16025927bac_48.png",
+        "author_id": "UD32JHVL7",
+        "author_link": "https://matsulabnu.slack.com/team/UD32JHVL7",
+        "author_name": "杉田卓斗",
+        "author_subname": "杉田卓斗",
+        "channel_id": "C026LB1C0TS",
+        "channel_name": "テスト駆動開発",
+        "fallback": "[June 22nd, 2021 9:49 PM] cstk16052: <https://a.co/gajJnAg|https://a.co/gajJnAg>",
+        "footer": "Posted in #テスト駆動開発",
+        "from_url": "https://matsulabnu.slack.com/archives/C026LB1C0TS/p1624423799002100",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/C026LB1C0TS/p1624423799002100",
+        "text": "<https://a.co/gajJnAg|https://a.co/gajJnAg>",
+        "ts": "1624423799.002100"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "9TmU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これの第Ⅲ部からをやりたいですね。一応読了したので言いますが、TDDのなんたるかは第Ⅲ部からで、前半Ⅱ部は具体的な事例ですので、独学する方が良いと思います\n\n",
+                "type": "text"
+              },
+              {
+                "text": "https://matsulabnu.slack.com/archives/C026LB1C0TS/p1624423799002100",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/C026LB1C0TS/p1624423799002100"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b703d4d7-8bd5-438a-8e00-c2d92f1fc2ce",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01BMM61G7Q",
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "これの第Ⅲ部からをやりたいですね。一応読了したので言いますが、TDDのなんたるかは第Ⅲ部からで、前半Ⅱ部は具体的な事例ですので、独学する方が良いと思います\n\n<https://matsulabnu.slack.com/archives/C026LB1C0TS/p1624423799002100|https://matsulabnu.slack.com/archives/C026LB1C0TS/p1624423799002100>",
+    "ts": "1625016886.008900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b5Y/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "直近どこで集まるかですが、どこが良いですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac64a122-3a48-4bbf-8f38-c1194e17929b",
+    "team": "T6WULA63S",
+    "text": "直近どこで集まるかですが、どこが良いですかね",
+    "ts": "1624424033.004000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0uFon",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ、かなと思うんですが、もっと概念的な本があればその方がいいので、いいのがあったら教えてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "964bbee9-c8da-458e-8f23-0371cddf479a",
+    "team": "T6WULA63S",
+    "text": "これ、かなと思うんですが、もっと概念的な本があればその方がいいので、いいのがあったら教えてください",
+    "ts": "1624423966.003500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pavDI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://a.co/gajJnAg",
+                "type": "link",
+                "url": "https://a.co/gajJnAg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a5505340-b067-4cb8-9045-eb69b148b597",
+    "team": "T6WULA63S",
+    "text": "<https://a.co/gajJnAg|https://a.co/gajJnAg>",
+    "ts": "1624423799.002100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Usw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ回数は少ないかもしれないですけど連絡相談用に",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "701cb8cb-b7f1-4bcd-a47d-b9413417100e",
+    "team": "T6WULA63S",
+    "text": "まあ回数は少ないかもしれないですけど連絡相談用に",
+    "ts": "1624423725.001800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1624423607.000800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01BMM61G7Q> has joined the channel",
+    "ts": "1624423566.000600",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1624423565.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1624423551.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

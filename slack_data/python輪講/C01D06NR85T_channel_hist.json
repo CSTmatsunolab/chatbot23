@@ -1,0 +1,438 @@
+[
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1617883551.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "name": "python輪講",
+    "old_name": "python",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"python\" to \"python輪講\"",
+    "ts": "1617881862.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N/9h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうそうgotoといえばPHPの公式がはっちゃけてるのみたときは流石に笑いましたね\n",
+                "type": "text"
+              },
+              {
+                "text": "https://www.php.net/manual/ja/control-structures.goto.php",
+                "type": "link",
+                "url": "https://www.php.net/manual/ja/control-structures.goto.php"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9ac2ba7e-64bc-48c2-9c4d-14c874e7fe43",
+    "team": "T6WULA63S",
+    "text": "そうそうgotoといえばPHPの公式がはっちゃけてるのみたときは流石に笑いましたね\n<https://www.php.net/manual/ja/control-structures.goto.php|https://www.php.net/manual/ja/control-structures.goto.php>",
+    "ts": "1605575052.029900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: 【Python】クロージャ(関数閉方)とは - Qiita",
+        "from_url": "https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f",
+        "id": 1,
+        "image_bytes": 46109,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3D%25E3%2580%2590Python%25E3%2580%2591%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A3%2528%25E9%2596%25A2%25E6%2595%25B0%25E9%2596%2589%25E6%2596%25B9%2529%25E3%2581%25A8%25E3%2581%25AF%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3De2e23b0c92377bfd47cc6cfe7e8eab05&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540naomi7325%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D9d8762196411327a20a6fd7367901355&blend-align=center%2Cmiddle&blend-mode=normal&s=f2e2ae0a6d8696720b06496b15e5a380",
+        "image_width": 476,
+        "original_url": "https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "クロージャの説明 クロージャ(関数閉方)とは外側の変数を記憶した関数です。 # 例1 def func(): x = 3 def add3(y): return y+x return a...",
+        "title": "【Python】クロージャ(関数閉方)とは - Qiita",
+        "title_link": "https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "yBAJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f",
+                "type": "link",
+                "url": "https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f"
+              },
+              {
+                "text": "\nそういえば大熊君のソースコード見てて初めて知った概念（Pythonにあるのを初めて知った）なんですけど、こういう書き方しても良いんだとちょっと驚きを得ましたね・・・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2081c357-df51-4274-9e0e-b1ab797310af",
+    "is_locked": false,
+    "latest_reply": "1605574902.028000",
+    "reply_count": 2,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f|https://qiita.com/naomi7325/items/57d141f2e56d644bdf5f>\nそういえば大熊君のソースコード見てて初めて知った概念（Pythonにあるのを初めて知った）なんですけど、こういう書き方しても良いんだとちょっと驚きを得ましたね・・・・",
+    "thread_ts": "1605574608.027600",
+    "ts": "1605574608.027600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZcCs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "雑だけどこれね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "992f5d8b-162b-42c8-a222-3f24b245d760",
+    "team": "T6WULA63S",
+    "text": "雑だけどこれね",
+    "ts": "1605074612.024900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7rbNk",
+        "elements": [
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3757a97-5b74-4a3e-87b8-39855048e076",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F01F6C0C2QY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1605074581.023800",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dktu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ワークフローを作成したので、何か質問したいことがあるとき文字打ち込むところの左下にある雷マークから、質問を選択してそこから質問内容を書いてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3470c9d4-8463-428c-9eda-0ab98667c6e5",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ワークフローを作成したので、何か質問したいことがあるとき文字打ち込むところの左下にある雷マークから、質問を選択してそこから質問内容を書いてください",
+    "ts": "1605071429.023600",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "W/aWk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "質問",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01ENKB4L8L",
+    "subtype": "bot_message",
+    "text": "<@UNKU3S7C2> added a workflow to this channel: *質問*.",
+    "ts": "1605071338.022100",
+    "type": "message",
+    "username": "質問"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/40be5cf201e1b52a05781ef67b8f5aa3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+        "author_id": "U6YLZUWAK",
+        "author_link": "https://matsulabnu.slack.com/team/U6YLZUWAK",
+        "author_name": "Yutaka Matsuno",
+        "author_subname": "Yutaka Matsuno",
+        "channel_id": "C01BN4G5PB8",
+        "channel_name": "20年3年ゼミ",
+        "fallback": "[November 8th, 2020 6:43 AM] yutaka: Pythonの確認にいいかも\n<https://kaityo256.github.io/python_zero/>",
+        "footer": "Thread in #20年3年ゼミ",
+        "from_url": "https://matsulabnu.slack.com/archives/C01BN4G5PB8/p1604846623069600",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "is_thread_root_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/C01BN4G5PB8/p1604846623069600",
+        "text": "Pythonの確認にいいかも\n<https://kaityo256.github.io/python_zero/>",
+        "ts": "1604846623.069600"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "YBr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/C01BN4G5PB8/p1604846623069600"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f281dd9-3a88-44ab-ac25-3b4eda082442",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/C01BN4G5PB8/p1604846623069600>",
+    "ts": "1605071008.021700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RaANR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "AIZU ONLINE JUDGE Courses  Lesson - ITP2  ITP2_1_A (",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1/ITP2_1_A"
+              },
+              {
+                "text": ")  について質問です。\nこの問題の入力で最初の数字は操作の種類を示し、次の数字にはその数字を使って何かを行う(例：0 3 と入力したら配列の末尾に3を加える)入力ですが最初の数字によって次の数字が空白になる場合があって、それらの入力を上手くまとめれる方法ってありますか？\n自分はinput().split()で配列にしたりとか、b, c = (int(x) for x in input().split())でbが操作、cが使う数字みたいに分けてやったのですが、「EOFError: EOF when reading a line」や「ValueError: not enough values to unpack」というエラーが入力に出ました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bbcc3919-f8e8-4d51-b11e-d22fba49914f",
+    "is_locked": false,
+    "latest_reply": "1604837566.018900",
+    "reply_count": 13,
+    "reply_users": [
+      "UD32JHVL7",
+      "U01C72C0B7T",
+      "U97F49L68"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "AIZU ONLINE JUDGE Courses  Lesson - ITP2  ITP2_1_A (<https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1/ITP2_1_A>)  について質問です。\nこの問題の入力で最初の数字は操作の種類を示し、次の数字にはその数字を使って何かを行う(例：0 3 と入力したら配列の末尾に3を加える)入力ですが最初の数字によって次の数字が空白になる場合があって、それらの入力を上手くまとめれる方法ってありますか？\n自分はinput().split()で配列にしたりとか、b, c = (int(x) for x in input().split())でbが操作、cが使う数字みたいに分けてやったのですが、「EOFError: EOF when reading a line」や「ValueError: not enough values to unpack」というエラーが入力に出ました。",
+    "thread_ts": "1604835889.012400",
+    "ts": "1604835889.012400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1603343861.002700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1603343860.002500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UNYMRF17S> has joined the channel",
+    "ts": "1603343860.002300",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1603343859.002100",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BDLWP7T9> has joined the channel",
+    "ts": "1603343859.001900",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BMM61G7Q> has joined the channel",
+    "ts": "1603343859.001700",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BRAMRXD3> has joined the channel",
+    "ts": "1603343858.001500",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1603343858.001300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWLPAQ> has joined the channel",
+    "ts": "1603343857.001100",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWMER2> has joined the channel",
+    "ts": "1603343857.000900",
+    "type": "message",
+    "user": "U01C0JWMER2"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1603343857.000700",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1603343857.000500",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "purpose": "pythonゼミについての色々",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: pythonゼミについての色々",
+    "ts": "1603343792.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1603343792.000200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  }
+]

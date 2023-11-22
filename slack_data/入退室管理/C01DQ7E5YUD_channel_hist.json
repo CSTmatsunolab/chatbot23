@@ -1,0 +1,3329 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "/OV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はです。",
+    "ts": "1610766535.000200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qkNv=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はです。",
+    "ts": "1610766507.000100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VM4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はIWATE_SPYGEA, okuma, pyg, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はIWATE_SPYGEA, okuma, pyg, です。",
+    "ts": "1609993360.000100",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/opy-ioyb-niv?pli=1&authuser=0https://meet.google.com/opy-ioyb-niv?pli=1&authuser=0",
+        "id": 1,
+        "original_url": "https://meet.google.com/opy-ioyb-niv?pli=1&amp;authuser=0https://meet.google.com/opy-ioyb-niv?pli=1&amp;authuser=0",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/opy-ioyb-niv?pli=1&authuser=0https://meet.google.com/opy-ioyb-niv?pli=1&authuser=0"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "DA6aQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/opy-ioyb-niv?pli=1&authuser=0https://meet.google.com/opy-ioyb-niv?pli=1&authuser=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c4f284b-44b4-42a4-962f-5ee5c1f00a15",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/opy-ioyb-niv?pli=1&amp;authuser=0https://meet.google.com/opy-ioyb-niv?pli=1&amp;authuser=0>",
+    "ts": "1608789472.000200",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "bot_id": "B01GPJFJ16K",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01GPJFJ16K|entering a room>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01GPJFJ16K|entering a room>",
+    "ts": "1608198879.000400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "bot_id": "B01GPHSDCUX",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01GPHSDCUX|entering a room>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01GPHSDCUX|entering a room>",
+    "ts": "1608198297.000300",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "bot_id": "B01H9SV840L",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01H9SV840L|entering a room>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01H9SV840L|entering a room>",
+    "ts": "1608175063.000200",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "bot_id": "B01H9SRKHLL",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01H9SRKHLL|entering a room>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01H9SRKHLL|entering a room>",
+    "ts": "1608174889.000100",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "bot_id": "B01FYU11L2Z",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01FYU11L2Z|IN_ROOM>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01FYU11L2Z|IN_ROOM>",
+    "ts": "1606978886.009000",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XThw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01G26YMRAP",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1606978602.008900",
+    "type": "message"
+  },
+  {
+    "bot_id": "B01G26YMRAP",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01G26YMRAP|E_A>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01G26YMRAP|E_A>",
+    "ts": "1606978508.008800",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G4qY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1606978201.008700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fC89/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586750.008600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eBy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586748.008500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mTLos",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586745.008400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hPQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586743.008300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "McX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586741.008200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JVoKv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586736.008100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DTY9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586733.008000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H3n",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586730.007900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+1mS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586726.007800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ien",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586723.007700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AlOlY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586721.007600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CKVO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586718.007500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=54Rh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586714.007400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EeTfD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586710.007300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mq6Pe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586707.007200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GPbk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586704.007100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/QdNR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586699.007000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DDpqO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586696.006900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qjO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586692.006800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aQdF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586690.006700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7yFCZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586681.006600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wl7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586154.006500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HjW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586152.006400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tAu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586150.006300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U1m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586147.006200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y2/8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586145.006100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X2I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586141.006000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m43cs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586139.005900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a5R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586137.005800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mFMfr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586134.005700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "07M1V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586131.005600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cR4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586128.005500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "No9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586126.005400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "39c2t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586123.005300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5j4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586121.005200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "++M00",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586118.005100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I=u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586115.005000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ofu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586113.004900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kyjD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586110.004800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/+dM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586107.004700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kMJU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586105.004600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nNV0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586102.004500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b6Z0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586100.004400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N0U8s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606586097.004300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cNSJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606586094.004200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NoWBg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585689.004100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t6MNl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585686.004000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uhTj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585684.003900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zdi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585682.003800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vDjT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585680.003700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pqSZC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585678.003600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SS4aA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585676.003500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Flf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585674.003400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BSwB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585672.003300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7are6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585670.003200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k0z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585668.003100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hfn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585666.003000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZUsr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585663.002900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tux5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585661.002800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DPdm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585479.002700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kM8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585474.002600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fKmC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585472.002500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gtQi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585470.002400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "218t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585468.002300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QjR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585466.002200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Wk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585464.002100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S2+gB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585462.002000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iMBK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585460.001900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4Iy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585458.001800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "45flk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585406.001700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gr/XF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585383.001600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2wh8=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606585317.001500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ia8p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606585208.001400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/xz24",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1606585142.001300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x6O5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スパァ?が入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "スパァ?が入室しました",
+    "ts": "1606492360.001200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9h/p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スパァ?が退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "スパァ?が退室しました",
+    "ts": "1606492356.001100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p74Y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1606492273.001000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Sil=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1606492270.000900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gjlj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606492261.000800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IBy21",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが退室しました",
+    "ts": "1606492257.000700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hc2q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1606491364.000600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6Ol",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1606491355.000500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "63Ab",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1606490986.000400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "okLr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "IWATE_SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "IWATE_SPYGEAが入室しました",
+    "ts": "1606490562.000300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TY0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1606490551.000200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vUUs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1606490543.000100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f/8Uf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1606370527.000200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dCcg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1606370450.000100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H4y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605753316.002800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pxn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605753235.002700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bE0lD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1605753224.002600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ga5ey",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1605753219.002500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zdB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1605753213.002400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GogZc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605749489.002300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dN5j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605335243.002200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X6GM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605335239.002100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WRceJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ァ？が入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "ァ？が入室しました",
+    "ts": "1605335232.002000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Oao",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ァ？が退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "ァ？が退室しました",
+    "ts": "1605335224.001900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "h0G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605335139.001800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g3KAp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605335135.001700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=hz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605335114.001600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jr0gV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605335110.001500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RlWX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605334490.001400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3+M8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605334481.001300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wy7Vk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1605334471.001200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c49",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1605334467.001100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1O4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605334408.001000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xeksO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605334385.000900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IlPXk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1605334160.000800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "REjmv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1605334157.000700",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zUF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605334142.000600",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xU2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605333438.000500",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1yW/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605333434.000400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bvA5I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605333331.000300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U2YPT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが入室しました",
+    "ts": "1605333302.000200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8U0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605333191.000100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DPD4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605276983.000400",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aePDL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "SPYGEAが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "SPYGEAが退室しました",
+    "ts": "1605275838.000300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t2D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが入室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが入室しました",
+    "ts": "1605274969.000200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9frl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "okumaが退室しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "okumaが退室しました",
+    "ts": "1605273793.000100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dacw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, okuma, matuoka, okuma, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, okuma, matuoka, okuma, です。",
+    "ts": "1604992528.000100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3i=y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604410115.001300",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VOg4y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604410051.001200",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8No",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604312202.001100",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G0Fl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604304977.001000",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UiRVG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604304954.000900",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7hS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604304694.000800",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "h7q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01EH5JA3ME",
+    "subtype": "bot_message",
+    "text": "現在在室している人はXx_JP_RUI_JP_xX, iwaturu, matuoka, です。",
+    "ts": "1604299995.000700",
+    "type": "message"
+  },
+  {
+    "bot_id": "B01EH5JA3ME",
+    "bot_link": "<https://matsulabnu.slack.com/services/B01EH5JA3ME|E_A>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/B01EH5JA3ME|E_A>",
+    "ts": "1604299919.000600",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "purpose": "まだテストだから見つけても入らないでもろて\n入退室通知のテスト及び本番環境\nクローズチャンネルを使用していたためオープンチャンネル作成",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: まだテストだから見つけても入らないでもろて\n入退室通知のテスト及び本番環境\nクローズチャンネルを使用していたためオープンチャンネル作成",
+    "ts": "1604299753.000500",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "purpose": "入退室通知のテスト及び本番環境\nクローズチャンネルを使用していたためオープンチャンネル作成",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 入退室通知のテスト及び本番環境\nクローズチャンネルを使用していたためオープンチャンネル作成",
+    "ts": "1604299718.000400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "purpose": "入退室通知のテスト及び本番環境",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 入退室通知のテスト及び本番環境",
+    "ts": "1604299665.000300",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1604299664.000200",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  }
+]

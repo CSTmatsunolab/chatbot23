@@ -1,0 +1,407 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555910427.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555910420.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TPc1I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Image uploaded from iOS",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7FE1TCUR/F8AE099S5/image_uploaded_from_ios.jpg"
+              },
+              {
+                "text": " and commented: 『プロフィール』\n猫は正義",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F8AE099S5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "『プロフィール』\n猫は正義",
+    "ts": "1512622738.000129",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "4739B1CB-43E2-4EF4-B163-558C598F6610",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7FE1TCUR> has joined the channel",
+    "ts": "1508956722.000623",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ekh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7DKV6ACT"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "664a39df.jpg",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7DKV6ACT/F7MP7M9QB/664a39df.jpg"
+              },
+              {
+                "text": " and commented: プロフィール：飛んで火にいる夏の僕",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F7MP7M9QB",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "プロフィール：飛んで火にいる夏の僕",
+    "ts": "1508589949.000014",
+    "type": "message",
+    "upload": true,
+    "user": "U7DKV6ACT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1508571963.000025",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bYN+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Image uploaded from iOS",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D7LFFED/F7LK5FJ48/image_uploaded_from_ios.jpg"
+              },
+              {
+                "text": " and commented: 【プロフィール】\n乃木坂を登ってます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F7LK5FJ48",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "【プロフィール】\n乃木坂を登ってます",
+    "ts": "1508488382.000344",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "AA0FBE11-3E9E-485C-B464-6249DB6F7B81",
+    "user": "U7D7LFFED"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1508487945.000086",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sVH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくです",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よろしくです:pray:",
+    "ts": "1508396097.000034",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aMU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【プロフィール】見習いvimmerです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "【プロフィール】見習いvimmerです",
+    "ts": "1508396067.000019",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bu0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "IMG_1269.JPG",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/F7LNTDJKF/img_1269.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F7LNTDJKF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/F7LNTDJKF/img_1269.jpg|IMG_1269.JPG>",
+    "ts": "1508396046.000062",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1508395866.000180",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BDlMV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> ",
+    "ts": "1508384436.000036",
+    "type": "message",
+    "user": "U7H6XS5BP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bJp5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7DKV6ACT"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7JLHH16F"
+              },
+              {
+                "type": "user",
+                "user_id": "U7DPNCR0U"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7GD94Y9W"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7GT0TRQX"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7JLHH16F"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " \nここにプロフィール写真と一言送ってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U7D6SJCAD> <@U7DKV6ACT> <@U7D7LFFED> <@U7JLHH16F><@U7DPNCR0U> <@U7GD94Y9W> <@U7GT0TRQX> <@U7JLHH16F> <@U7FE1TCUR> \nここにプロフィール写真と一言送ってください",
+    "ts": "1508384400.000079",
+    "type": "message",
+    "user": "U7H6XS5BP"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7H6XS5BP> has joined the channel",
+    "ts": "1508384217.000032",
+    "type": "message",
+    "user": "U7H6XS5BP"
+  }
+]

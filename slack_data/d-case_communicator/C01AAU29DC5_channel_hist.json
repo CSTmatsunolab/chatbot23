@@ -1,0 +1,1696 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "jL0Im",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "D-Case CommunicatorのAPI\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/api.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ead3587c-037e-4221-ad90-7d9e5058cfc0",
+    "team": "T6WULA63S",
+    "text": "D-Case CommunicatorのAPI\n<https://mlab.ce.cst.nihon-u.ac.jp/dcase/api.html>",
+    "ts": "1634174534.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v/0A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Amazon版は２９日だけ動かす予定です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f769330a-d98e-43c1-a5bd-e9c0e6cbca16",
+    "team": "T6WULA63S",
+    "text": "Amazon版は２９日だけ動かす予定です。",
+    "ts": "1632842864.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/r8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Amazon AWS版も動いています。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://ec2-18-181-48-172.ap-northeast-1.compute.amazonaws.com/dcase/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5c53c0d9-c2d0-4a57-87f8-12a574a646e8",
+    "team": "T6WULA63S",
+    "text": "Amazon AWS版も動いています。\n<https://ec2-18-181-48-172.ap-northeast-1.compute.amazonaws.com/dcase/>",
+    "ts": "1632842335.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kxvIR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "D-Case Communicatorが復活しました。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/login.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9c3e1d9-882e-4831-a7fe-633757b6eff2",
+    "team": "T6WULA63S",
+    "text": "D-Case Communicatorが復活しました。\n<https://mlab.ce.cst.nihon-u.ac.jp/dcase/login.html>",
+    "ts": "1632842292.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AbtwO",
+        "text": {
+          "text": "*要望* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "4QBz",
+        "text": {
+          "text": "*問題点*\n関係者のページからTopに戻ろうとすると404が表示される\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "/2t",
+        "text": {
+          "text": "*機能、改善後の状態の要望*\nURLをクリックしたら、新規ウィンドウで開いてほしい\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ca7I",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01NWTSLRPA",
+    "subtype": "bot_message",
+    "text": "*要望* submission from <@UD32JHVL7> *問題点* 関係者のページからTopに戻ろうとすると404が表示される   *機能、改善後の状態の要望* URLをクリックしたら、新規ウィンドウで開いてほしい  ",
+    "ts": "1626056601.000700",
+    "type": "message",
+    "username": "改善要望"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YeBVg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " 矢印が細くなったみたいです。確認してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9c5cb471-11cb-4e0a-9713-e88217367d0c",
+    "is_locked": false,
+    "latest_reply": "1614591737.001600",
+    "reply_count": 2,
+    "reply_users": [
+      "U97F49L68",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U97F49L68> 矢印が細くなったみたいです。確認してください。",
+    "thread_ts": "1614591534.001200",
+    "ts": "1614591534.001200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JdSw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バグ報告： 文字のサイズを変えるとリンクが切れる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ba67f36a-7ea9-41f9-a83c-b64558288210",
+    "team": "T6WULA63S",
+    "text": "バグ報告： 文字のサイズを変えるとリンクが切れる",
+    "ts": "1614060564.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wl/cS",
+        "text": {
+          "text": "*要望* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "klN",
+        "text": {
+          "text": "*問題点*\n本文にJSを記述するとURLで共有した時にJSが機能しなくなる。\n例：リンクを押すと画像プレビューが表示されるようにJSを作成して、編集時には機能しているが、ログインしていない状態の閲覧状態だと画像のプレビューが表示されない。\n\n&lt;a href=\"#\" onclick=\"javascript:var id=document.getElementById('Requirement Diagram'); if(id.style.display=='block'){id.style.display='none';}else{id.style.display='block';}\"&gt;Requirement Diagram&lt;/a&gt;\n\n&lt;a href=\"https://mlab.ce.cst.nihon-u.ac.jp/dcase/api/getFile.php?dcaseID=tExZT_fJ8X_5KTMeja_sgWJHlN05SkuKk3F3u1qriI4_&amp;fileName=6KaB5rGC5ZuzMQ__\" target=\"_blank\"&gt;&lt;img id=\"Requirement Diagram\" src=\"https://mlab.ce.cst.nihon-u.ac.jp/dcase/api/getFile.php?dcaseID=tExZT_fJ8X_5KTMeja_sgWJHlN05SkuKk3F3u1qriI4_&amp;fileName=6KaB5rGC5ZuzMQ__\" alt=\"\" style=\"max-width:100%;height:auto;display:none;\"&gt;&lt;/a&gt;\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tBd",
+        "text": {
+          "text": "*機能、改善後の状態の要望*\n閲覧状態でも本文に記述されたJSが動くようにしてほしい。\nそれかJSの書き方の問題なのか知りたい。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "6g4",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01NWTSLRPA",
+    "subtype": "bot_message",
+    "text": "*要望* submission from <@U97F49L68> *問題点* 本文にJSを記述するとURLで共有した時にJSが機能しなくなる。 例：リンクを押すと画像プレビューが表示されるようにJSを作成して、編集時には機能しているが、ログインしていない状態の閲覧状態だと画像のプレビューが表示されない。  &lt;a href=\"#\" onclick=\"javascript:var id=document.getElementById('Requirement Diagram'); if(id.style.display=='block'){id.style.display='none';}else{id.style.display='block';}\"&gt;Requirement Diagram&lt;/a&gt;  &lt;a href=\"https://mlab.ce.cst.nihon-u.ac.jp/dcase/api/getFile.php?dcaseID=tExZT_fJ8X_5KTMeja_sgWJHlN05SkuKk3F3u1qriI4_&amp;fileName=6KaB5rGC5ZuzMQ__\" target=\"_blank\"&gt;&lt;img id=\"Requirement Diagram\" src=\"https://mlab.ce.cst.nihon-u.ac.jp/dcase/api/getFile.php?dcaseID=tExZT_fJ8X_5KTMeja_sgWJHlN05SkuKk3F3u1qriI4_&amp;fileName=6KaB5rGC5ZuzMQ__\" alt=\"\" style=\"max-width:100%;height:auto;display:none;\"&gt;&lt;/a&gt;   *機能、改善後の状態の要望* 閲覧状態でも本文に記述されたJSが動くようにしてほしい。 それかJSの書き方の問題なのか知りたい。  ",
+    "ts": "1613967811.000300",
+    "type": "message",
+    "username": "改善要望"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "On0R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "出来てます。環境依存問題については後日大熊くんの方でビルドしてもらって試すなりする予定です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37e66674-5788-417a-8a30-b7f159a0e8aa",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "出来てます。環境依存問題については後日大熊くんの方でビルドしてもらって試すなりする予定です。",
+    "ts": "1613739752.018500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "beI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "小池くんの環境では変換できているんですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e620cc25-8d08-4667-a291-d855f9688493",
+    "team": "T6WULA63S",
+    "text": "小池くんの環境では変換できているんですね",
+    "ts": "1613738935.017700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wxn5I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "987fd57b-0229-44c5-99cd-f3720c5cebf3",
+    "team": "T6WULA63S",
+    "text": "なるほど了解です",
+    "ts": "1613738859.017200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QEVi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今処理の順番がD-Caseの新規作成→変換→送信になってるので変換に失敗すると新規作成だけして放置になっちゃってます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "837ab678-06ac-4698-8c00-e4e7b45cf15f",
+    "team": "T6WULA63S",
+    "text": "今処理の順番がD-Caseの新規作成→変換→送信になってるので変換に失敗すると新規作成だけして放置になっちゃってます",
+    "ts": "1613737117.016800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LtTh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それは修正予定のバグですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ce205cc7-f8e1-4507-acc0-f06509d5206b",
+    "team": "T6WULA63S",
+    "text": "それは修正予定のバグですね",
+    "ts": "1613736777.015700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6ZH0y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "D-Case Communicatorになにもかかれていないファイルはできるみたいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5035fbab-8f9e-4f58-9767-4b4375fd44a0",
+    "team": "T6WULA63S",
+    "text": "D-Case Communicatorになにもかかれていないファイルはできるみたいです。",
+    "ts": "1613736751.015400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "58u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、Astahからの変換で、GSN変換エラーがでますね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5c83eec4-21b6-4a0b-8ecb-c328dfae07c7",
+    "team": "T6WULA63S",
+    "text": "うーん、Astahからの変換で、GSN変換エラーがでますね。",
+    "ts": "1613736685.014600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QWh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今試しました、動くの確認できました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54adc864-2c29-4457-88bd-c6eff905d504",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "今試しました、動くの確認できました",
+    "ts": "1613707743.014100",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=VlOq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "だそうです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "595ab00f-e8af-4798-87ca-211518813b61",
+    "team": "T6WULA63S",
+    "text": "だそうです。",
+    "ts": "1613707600.013500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8rC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たぶん、動きますので、並行して動作確認をお願いします。\nあと、デバックにはretの変数をprint(ret)で見ることができますよ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85e34cf2-d5e7-4007-8311-90aaf332a889",
+    "team": "T6WULA63S",
+    "text": "たぶん、動きますので、並行して動作確認をお願いします。\nあと、デバックにはretの変数をprint(ret)で見ることができますよ。",
+    "ts": "1613707598.013300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BBf82",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開発者の高橋さんからです。とりあえず動かしてみてください。エラーメッセージの全体と、コード全体も送ってください。\n\nエラー表示が途中で、どこが悪いのかわからないので、\nコード全体もいただけますでしょうか?\n\n一応、エラーの出ないようにサーバー側を修正しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9fcd2ea9-95d1-41df-935b-73c1216e41a3",
+    "team": "T6WULA63S",
+    "text": "開発者の高橋さんからです。とりあえず動かしてみてください。エラーメッセージの全体と、コード全体も送ってください。\n\nエラー表示が途中で、どこが悪いのかわからないので、\nコード全体もいただけますでしょうか?\n\n一応、エラーの出ないようにサーバー側を修正しました。",
+    "ts": "1613705700.013100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xn4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "809ccf0c-3f1b-4fec-91ff-2771d476fc29",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1613702655.012300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "87L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "partsID = \"Parts_Sn15\"\n            dcase = dcaseCom.DCaseMonitor(dcaseID, partsID, sslIgnore=True)\n            if 0.08<=np.abs(face_distance - 0.38):\n                data=[\n                        {\n                            \"Key\": \"閾値との差\",\n                            \"Value\": round(np.abs(face_distance - 0.38), 3),\n                        },\n                        {\n                            \"Key\": \"本人確認\",\n                            \"Value\": \"true\",\n                        },\n                    ]\n                ret = dcase.uploadNodeState(\n                    partsID, state=True, detail=\"認証スコア\", kind=dcase.Evidence)\n                apiPartsID = ret[\"partsID\"]\n                ret = dcase.uploadData(data, partsID=apiPartsID)\n                ret = dcase.uploadBolderStyle(partsID=apiPartsID, color=\"#0000AA\", thick=1)\n            else:\n                ret = dcase.uploadNodeState(partsID, state=False, detail=\"認証スコア\", kind=dcase.Evidence)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/api//uploadNodeState.php"
+              },
+              {
+                "text": "\nTraceback (most recent call last):\n  File \"main.py\", line 129, in <module>\n    su(str(idm), x)\n  File \"main.py\", line 73, in su\n    apiPartsID = ret[\"partsID\"]",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "code": true
+                },
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=eq8vXwX4pAS8nM4QXJt4YqS2CBk8q8iBSdip1XheuXI_"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d90bd531-61fe-4fcd-a1c9-401f04393f7b",
+    "edited": {
+      "ts": "1613702209.000000",
+      "user": "UNKU3S7C2"
+    },
+    "team": "T6WULA63S",
+    "text": "```partsID = \"Parts_Sn15\"\n            dcase = dcaseCom.DCaseMonitor(dcaseID, partsID, sslIgnore=True)\n            if 0.08&lt;=np.abs(face_distance - 0.38):\n                data=[\n                        {\n                            \"Key\": \"閾値との差\",\n                            \"Value\": round(np.abs(face_distance - 0.38), 3),\n                        },\n                        {\n                            \"Key\": \"本人確認\",\n                            \"Value\": \"true\",\n                        },\n                    ]\n                ret = dcase.uploadNodeState(\n                    partsID, state=True, detail=\"認証スコア\", kind=dcase.Evidence)\n                apiPartsID = ret[\"partsID\"]\n                ret = dcase.uploadData(data, partsID=apiPartsID)\n                ret = dcase.uploadBolderStyle(partsID=apiPartsID, color=\"#0000AA\", thick=1)\n            else:\n                ret = dcase.uploadNodeState(partsID, state=False, detail=\"認証スコア\", kind=dcase.Evidence)```\n```<https://mlab.ce.cst.nihon-u.ac.jp/dcase/api//uploadNodeState.php>\nTraceback (most recent call last):\n  File \"main.py\", line 129, in &lt;module&gt;\n    su(str(idm), x)\n  File \"main.py\", line 73, in su\n    apiPartsID = ret[\"partsID\"]```\n`<https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=eq8vXwX4pAS8nM4QXJt4YqS2CBk8q8iBSdip1XheuXI_>`",
+    "ts": "1613702080.011900",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wdDy8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Undevelopedで double clickと書かないでほしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e82e2d28-dd5b-4558-af64-cda51e68757f",
+    "team": "T6WULA63S",
+    "text": "Undevelopedで double clickと書かないでほしい",
+    "ts": "1613613368.010900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vbz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "インポートできない図\nユースケース図\nUCA表\nマインドマップ\nGSN",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "299f082e-457e-4816-b1fe-271ef1ba1f05",
+    "team": "T6WULA63S",
+    "text": "インポートできない図\nユースケース図\nUCA表\nマインドマップ\nGSN",
+    "ts": "1613613224.010600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ui8",
+        "text": {
+          "text": "*要望* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "TGJVm",
+        "text": {
+          "text": "*問題点*\nastah* System Safetyと共有すると矢印の大きさでレイアウトが崩れてしまう\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "wkh",
+        "text": {
+          "text": "*機能、改善後の状態の要望*\n矢印を細い矢印にしてほしい\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "FmYmU",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01NWTSLRPA",
+    "subtype": "bot_message",
+    "text": "*要望* submission from <@U97F49L68> *問題点* astah* System Safetyと共有すると矢印の大きさでレイアウトが崩れてしまう   *機能、改善後の状態の要望* 矢印を細い矢印にしてほしい  ",
+    "ts": "1613455597.009900",
+    "type": "message",
+    "username": "改善要望"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3IiQL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "改善要望",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01NWTSLRPA",
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> added a workflow to this channel: *改善要望*.",
+    "ts": "1613455479.009700",
+    "type": "message",
+    "username": "改善要望"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q0G/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あれ、一旦ログインしていたからかもしれません。ログインしていないsafariで見たら画像が見えませんでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90070b94-f02b-4baf-9323-27b2f004d14d",
+    "team": "T6WULA63S",
+    "text": "あれ、一旦ログインしていたからかもしれません。ログインしていないsafariで見たら画像が見えませんでした",
+    "ts": "1612521406.008800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BaR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ログインしてない閲覧モードで試したら反応しなかったのですが..",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ec825013-6b47-4129-bca9-bce9318c37a9",
+    "team": "T6WULA63S",
+    "text": "ログインしてない閲覧モードで試したら反応しなかったのですが..",
+    "ts": "1612517471.007900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TNVGY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あれ、先生ログインしてなくても画像開けますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b71fa875-77c3-4aad-ba00-e3bcbbb1c3ad",
+    "team": "T6WULA63S",
+    "text": "あれ、先生ログインしてなくても画像開けますか？",
+    "ts": "1612517425.007200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pnqek",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開いたり閉じたりできました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74419551-8695-414c-a5a5-b89b97f2a233",
+    "team": "T6WULA63S",
+    "text": "開いたり閉じたりできました",
+    "ts": "1612516946.006600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F4Nn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "292ffe25-0b1d-4854-aa58-1fcb11599f98",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。",
+    "ts": "1612516936.006400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mE9h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "画像をクリックすると別タブで大きく表示できます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "327d2c84-2112-4c80-b0de-14beade3d1e4",
+    "team": "T6WULA63S",
+    "text": "画像をクリックすると別タブで大きく表示できます",
+    "ts": "1612516868.006100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "22I3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "リンクで開いたり閉じたり出来るようにしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c4a53a6-a8f2-41a2-b737-a6fa8af7de4d",
+    "team": "T6WULA63S",
+    "text": "リンクで開いたり閉じたり出来るようにしました",
+    "ts": "1612516847.005600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pZ9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうか、今閲覧モードでみていたので、大きさを変えられなかったのですが、編集しているときは大きさを変えられるんですね。余裕があったらお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e3164c83-dd8b-4e00-9cbd-f4e509d7192d",
+    "team": "T6WULA63S",
+    "text": "そうか、今閲覧モードでみていたので、大きさを変えられなかったのですが、編集しているときは大きさを変えられるんですね。余裕があったらお願いします。",
+    "ts": "1612512293.004900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e4b6z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "横の大きさを変更すれば図を小さく出来るのでまあ問題はあまりないですが閉じるのも出来るようにしてみます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3ff2f49d-d982-47ef-9154-d64ea8d60bd2",
+    "team": "T6WULA63S",
+    "text": "横の大きさを変更すれば図を小さく出来るのでまあ問題はあまりないですが閉じるのも出来るようにしてみます",
+    "ts": "1612512099.004100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IOCS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "リンクの数とか図の大きさに合わせて自動でノードの大きさを変更出来るようにしたいんですけど今の所方法を思いついてないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5ee2cc60-6d9e-4c0b-a97d-0372b3394dc5",
+    "team": "T6WULA63S",
+    "text": "リンクの数とか図の大きさに合わせて自動でノードの大きさを変更出来るようにしたいんですけど今の所方法を思いついてないです",
+    "ts": "1612512041.003100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5TgZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "閉じることはできないんですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78a7944b-b750-4db1-94fc-be7f4e28cf2e",
+    "team": "T6WULA63S",
+    "text": "閉じることはできないんですね",
+    "ts": "1612512009.002600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KXlU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これいいですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c9fa4ad-81f4-428b-8d14-32960f3801d6",
+    "team": "T6WULA63S",
+    "text": "これいいですね。",
+    "ts": "1612511956.001500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4aHT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大きさの調節は手動ですが",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9750be3-bf0a-4deb-a2b8-948390bfde96",
+    "team": "T6WULA63S",
+    "text": "大きさの調節は手動ですが",
+    "ts": "1612511304.001300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J/8oV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "画像を直接表示出来るようにしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4bd9185-c024-47bd-a3b7-2af36cbde86d",
+    "team": "T6WULA63S",
+    "text": "画像を直接表示出来るようにしました",
+    "ts": "1612511270.001000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NV8X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=8YAu_gi3UyyR_4BnfyqxAjuXoYw_jixMJjc9o_mlr_E_"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1932937b-20c4-41af-83f5-a5ad91ec8f27",
+    "team": "T6WULA63S",
+    "text": "<https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=8YAu_gi3UyyR_4BnfyqxAjuXoYw_jixMJjc9o_mlr_E_>",
+    "ts": "1612511255.000600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "to2TC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "高橋さんとのはどこでやりますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0f6d87da-f30e-45fb-b78d-65708cc2235a",
+    "team": "T6WULA63S",
+    "text": "高橋さんとのはどこでやりますか？",
+    "ts": "1612508723.000400",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PeOAv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "英語訳の改訂\n戦略　Plan -> Strategy\n前提    Suppose -> Context\n未到達 Unachieved -> Undeveloped\n外部->モジュール->モジュール",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2ff358c6-a549-4925-8a8b-3cec2df1c471",
+    "team": "T6WULA63S",
+    "text": "英語訳の改訂\n戦略　Plan -&gt; Strategy\n前提    Suppose -&gt; Context\n未到達 Unachieved -&gt; Undeveloped\n外部-&gt;モジュール-&gt;モジュール",
+    "ts": "1612163831.004000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lepK2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コンテキストへのリンクはゴールの横、ストラテジはゴールの下から出てほしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bac7a774-a50f-4c02-8b56-a9e8b33516ef",
+    "team": "T6WULA63S",
+    "text": "コンテキストへのリンクはゴールの横、ストラテジはゴールの下から出てほしい",
+    "ts": "1612157177.002700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3sZj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Commitの右のtestって何？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3bb3ebde-bd8c-4812-9e43-682682198157",
+    "team": "T6WULA63S",
+    "text": "Commitの右のtestって何？",
+    "ts": "1612155545.002200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GG9tA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "D-Case Communicator変更要求\n英語モードで日本語になっているところを直してほしい\n招待されたメンバーのみ→Invited members only\nすべてのユーザー→ All users\nURLでアクセス可能→Everyone can access via URL",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70c0a558-d0cb-46aa-94d9-072a46a82e7d",
+    "team": "T6WULA63S",
+    "text": "D-Case Communicator変更要求\n英語モードで日本語になっているところを直してほしい\n招待されたメンバーのみ→Invited members only\nすべてのユーザー→ All users\nURLでアクセス可能→Everyone can access via URL",
+    "ts": "1612155529.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "name": "d-case_communicator",
+    "old_name": "d-case_communicatorバグ報告_改善要望",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"d-case_communicatorバグ報告_改善要望\" to \"d-case_communicator\"",
+    "ts": "1611120262.001000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1611120257.000900",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5wcLY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=Gdo9O26HyS3AVyTIz_JmUZIydLXvEgjv_seBq43np0Y_"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80fdb8c1-5091-40e1-bc20-5d39d3b82d88",
+    "team": "T6WULA63S",
+    "text": "<https://mlab.ce.cst.nihon-u.ac.jp/dcase/editor.html?dcaseID=Gdo9O26HyS3AVyTIz_JmUZIydLXvEgjv_seBq43np0Y_>",
+    "ts": "1611120237.000700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F01KE64QRTN",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1611120186.000300",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gXh3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Forkの機能(履歴から新たなD-Caseを作成)を作ってもらいました。\nOpen Historyの右上にボタンから作成できます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "18864799-cf4a-4bce-a970-dda860a04485",
+    "team": "T6WULA63S",
+    "text": "Forkの機能(履歴から新たなD-Caseを作成)を作ってもらいました。\nOpen Historyの右上にボタンから作成できます。",
+    "ts": "1606868837.004000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eTm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野さん\nお世話になっております。\n\nご要望いただいたForkする機能にか関して、他への影響がなさそうなので実装を行い、\nOpen Historyの右上にボタンを追加しました。\n\nよろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "418e2fea-f678-4b62-bc83-33d3e3666433",
+    "team": "T6WULA63S",
+    "text": "松野さん\nお世話になっております。\n\nご要望いただいたForkする機能にか関して、他への影響がなさそうなので実装を行い、\nOpen Historyの右上にボタンを追加しました。\n\nよろしくお願いします。",
+    "ts": "1606831854.003300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yFbRT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "不具合があれば連絡してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "69e9f1a9-3576-44b2-94e2-70e78df0587d",
+    "team": "T6WULA63S",
+    "text": "不具合があれば連絡してください",
+    "ts": "1606698109.003100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gsi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "動かない場合、ウェブブラウザのキャッシュを削除したりしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "49a0a6a0-e577-4588-8a27-4bcb69ab1a7e",
+    "team": "T6WULA63S",
+    "text": "動かない場合、ウェブブラウザのキャッシュを削除したりしてください",
+    "ts": "1606698100.002700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H2Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "D-Case Communicatorで更新履歴を見れる機能が付きました。\n■使用方法\n1. DCase Editorの上にある“Commit”ボタンを押す\nメッセージは、変更時のメモ書きなので、無くてもよいです。\n2. パーツを動かすしたり、内容を変更したりする\n→　なお、パーツが更新されたという情報のみを保持しているので、どこが編集されたかは記録されていません。\n3. もう一度、Commitする\n\n4. DCase一覧で、“OpenHistory”を押して、変更管理画面を出す\nひだりのメニューの中から、閲覧したい履歴を選択してください。\n赤くなっているのが、差分となります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae45603b-6f7b-4380-bb16-fe998717e298",
+    "team": "T6WULA63S",
+    "text": "D-Case Communicatorで更新履歴を見れる機能が付きました。\n■使用方法\n1. DCase Editorの上にある“Commit”ボタンを押す\nメッセージは、変更時のメモ書きなので、無くてもよいです。\n2. パーツを動かすしたり、内容を変更したりする\n→　なお、パーツが更新されたという情報のみを保持しているので、どこが編集されたかは記録されていません。\n3. もう一度、Commitする\n\n4. DCase一覧で、“OpenHistory”を押して、変更管理画面を出す\nひだりのメニューの中から、閲覧したい履歴を選択してください。\n赤くなっているのが、差分となります。",
+    "ts": "1606698064.002100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "23f4d938-6fa0-489f-ac53-247949fc322c",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01FAR6BM1V",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1606698059.001800",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "891871d1-db12-4d83-9815-56dc825a66ed",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01FJRG207Q",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1606698055.001500",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Akzn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "関係者一覧でTOPボタンを押すと404になる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a22c79f-6aa2-4308-8e36-4de0cd4315bf",
+    "team": "T6WULA63S",
+    "text": "関係者一覧でTOPボタンを押すと404になる",
+    "ts": "1601961554.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1V5G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "jsonコードのダウンロードがChrome(mac)でできない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b7e9dff-6166-47fa-961f-9c72d0a2c4f3",
+    "team": "T6WULA63S",
+    "text": "jsonコードのダウンロードがChrome(mac)でできない",
+    "ts": "1600806974.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9OEL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ACP機能の追加",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "009ebf9c-b0c7-4330-a322-4a87cd8ae674",
+    "team": "T6WULA63S",
+    "text": "ACP機能の追加",
+    "ts": "1599719296.003300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "name": "d-case_communicatorバグ報告_改善要望",
+    "old_name": "d-case_communicatorバグ報告",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"d-case_communicatorバグ報告\" to \"d-case_communicatorバグ報告_改善要望\"",
+    "ts": "1599719285.003100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1599719239.003000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Chxt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "操作した側、操作していない側でも同様に表示される",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f034d49-f79c-4063-9ce3-7bbb5586b52e",
+    "team": "T6WULA63S",
+    "text": "操作した側、操作していない側でも同様に表示される",
+    "ts": "1599718176.002800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1Q2Pd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "リロードすると直る",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "94e43df4-fe11-4e3a-b0ee-2da7fdc0d5f1",
+    "team": "T6WULA63S",
+    "text": "リロードすると直る",
+    "ts": "1599718109.001800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1599718103.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NqRY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "他の人が追加したノードが2つ置かれる事がある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c6063d6a-5fff-4f2c-8c88-b6f0c189e3c7",
+    "team": "T6WULA63S",
+    "text": "他の人が追加したノードが2つ置かれる事がある",
+    "ts": "1599718098.001300",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01ASKSRABT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1599718054.000300",
+    "type": "message",
+    "upload": false,
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1599718037.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

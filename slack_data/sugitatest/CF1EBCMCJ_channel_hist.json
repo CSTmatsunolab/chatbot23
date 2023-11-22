@@ -1,0 +1,41 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1551088336.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "15Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/messages/CF0PSCJ65"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87fc689d-2200-49a5-9d8c-edb72a70c74f",
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/messages/CF0PSCJ65>",
+    "ts": "1545736310.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1545736302.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

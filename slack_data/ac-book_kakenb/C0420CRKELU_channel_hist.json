@@ -1,0 +1,4387 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "foJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "５分後ぐらいに戻ります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a2acd4a-ed72-4239-ba63-2c3efd4211ab",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "５分後ぐらいに戻ります",
+    "ts": "1686290362.801789",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jvmmz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "このチャネルのバーにリンクがあります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86649965-f941-4e50-b8c1-9ff7bb6799b4",
+    "team": "T6WULA63S",
+    "text": "このチャネルのバーにリンクがあります",
+    "ts": "1686290241.495349",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I1n",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3565adad-d410-4f84-87a9-a33a42c847d9",
+    "team": "T6WULA63S",
+    "text": "それですね",
+    "ts": "1686290186.587029",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qlwAg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              },
+              {
+                "text": "　これ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a753a618-cc7d-481a-b1e0-d63b508f333a",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/3288805434>　これ？",
+    "ts": "1686290178.150349",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i2V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、少々お待ち下さい。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b47e7ea4-82cf-44fd-bb92-76cb098b5f5a",
+    "team": "T6WULA63S",
+    "text": "すいません、少々お待ち下さい。",
+    "ts": "1686290177.347439",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qEFs0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "会議のURLはどちらかご存じでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "14344af2-fa18-4c08-9413-af0933ba06a3",
+    "team": "T6WULA63S",
+    "text": "会議のURLはどちらかご存じでしょうか？",
+    "ts": "1686290136.439549",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/W9m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はい、私の方も進展ないですが、打ち合わせは認識しています。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b751d60-08f3-40aa-b3e5-2a60a27dfc19",
+    "team": "T6WULA63S",
+    "text": "はい、私の方も進展ないですが、打ち合わせは認識しています。",
+    "ts": "1686290100.715989",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iwXaY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日の3時って定例の打合せですよね？ ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": "\nすみません、こちらの進展はありません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "564d9e1d-cc18-4477-8cb4-f2c4967055d1",
+    "team": "T6WULA63S",
+    "text": "今日の3時って定例の打合せですよね？ <@U6YLZUWAK> <@U041HCMLGLF>\nすみません、こちらの進展はありません。",
+    "ts": "1686290065.059269",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qL0p6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": "\nたった今、e-Radで申請を完了しました。お二人もe-Radにログインすると、申請済み課題から閲覧・編集できると思います。\n最後に提出した申請書はこちらです。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/scl/fi/n7u7l1bi7t2wfpru36rnr/2023-a-step-ikusei-shinsei_01-20230509_fin03.docx?dl=0&rlkey=4usm18mplbvaxpdg4i6vmn4l1"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ee011b7e-2aee-44fb-9cea-9f1302fec918",
+    "is_locked": false,
+    "latest_reply": "1683625620.109249",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U041HCMHR47"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> <@U041HCMLGLF>\nたった今、e-Radで申請を完了しました。お二人もe-Radにログインすると、申請済み課題から閲覧・編集できると思います。\n最後に提出した申請書はこちらです。\n<https://www.dropbox.com/scl/fi/n7u7l1bi7t2wfpru36rnr/2023-a-step-ikusei-shinsei_01-20230509_fin03.docx?dl=0&amp;rlkey=4usm18mplbvaxpdg4i6vmn4l1>",
+    "thread_ts": "1683625241.149089",
+    "ts": "1683625241.149089",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/Ynj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野さんの追記分を基に、書式統合した５月９日版（本日版）は下記のリンクからアクセスできます。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/scl/fi/451u5gv8axnt1hqxhaw9r/2023-a-step-ikusei-shinsei_01-20230509_fin.docx?dl=0&rlkey=g17stf0ypwkhdy9ae7fjr4cqf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9a9d7116-2083-4121-8d2c-0892b79ac9c8",
+    "is_locked": false,
+    "latest_reply": "1683601677.093629",
+    "reply_count": 8,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U041HCMHR47"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "松野さんの追記分を基に、書式統合した５月９日版（本日版）は下記のリンクからアクセスできます。\n<https://www.dropbox.com/scl/fi/451u5gv8axnt1hqxhaw9r/2023-a-step-ikusei-shinsei_01-20230509_fin.docx?dl=0&amp;rlkey=g17stf0ypwkhdy9ae7fjr4cqf>",
+    "thread_ts": "1683595766.612639",
+    "ts": "1683595766.612639",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rpg/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後は「10　研究費の応募・受入等の状況・エフォート」の「主たる研究分担者氏名…」で高井さんの分を追記いただければ、一通り完成ですね。 ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "931de23e-3bf1-4919-bcdb-c07864f9ed28",
+    "team": "T6WULA63S",
+    "text": "後は「10　研究費の応募・受入等の状況・エフォート」の「主たる研究分担者氏名…」で高井さんの分を追記いただければ、一通り完成ですね。 <@U6YLZUWAK> <@U041HCMLGLF>",
+    "ts": "1683595701.362939",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ed6kS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私の分を記載いたしました",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5fff95d-afc7-40c1-a264-2cc2905192b3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "F056W4CDKQU",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "text": "私の分を記載いたしました<@U041HCMHR47> <@U041HCMLGLF>",
+    "ts": "1683595328.837159",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "53U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちなみに、定例の打合せが5月12日15:00-16:00に設定されていますが、やります？ ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9c18f5ba-bc84-482e-9fe4-ec9e8c5e9ba7",
+    "edited": {
+      "ts": "1683539968.000000",
+      "user": "U041HCMHR47"
+    },
+    "is_locked": false,
+    "latest_reply": "1683595068.307649",
+    "reply_count": 1,
+    "reply_users": [
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "ちなみに、定例の打合せが5月12日15:00-16:00に設定されていますが、やります？ <@U6YLZUWAK> <@U041HCMLGLF>",
+    "thread_ts": "1683539953.390219",
+    "ts": "1683539953.390219",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Kv5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "5/8の打合せの内容を基に、高井さんの記述をマージして、費用分担の表を追記して、岡本作文担当を追記しました。\n分担研究者の外部資金獲得状況など、お二人に追記いただきたいか所は「黄色背景」にしてあります。 ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/scl/fi/i8p8vd7gzl0lx9s1j42zo/2023-a-step-ikusei-shinsei_01-20230508_okamoto.docx?dl=0&rlkey=y0rxn5g8zx9vqqb4hmsh6oyoy"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "611e256b-4c7f-476a-903b-777e0fa57b09",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK",
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "5/8の打合せの内容を基に、高井さんの記述をマージして、費用分担の表を追記して、岡本作文担当を追記しました。\n分担研究者の外部資金獲得状況など、お二人に追記いただきたいか所は「黄色背景」にしてあります。 <@U6YLZUWAK> <@U041HCMLGLF>\n<https://www.dropbox.com/scl/fi/i8p8vd7gzl0lx9s1j42zo/2023-a-step-ikusei-shinsei_01-20230508_okamoto.docx?dl=0&amp;rlkey=y0rxn5g8zx9vqqb4hmsh6oyoy>",
+    "ts": "1683537357.432079",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=dFLt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、この応募って、分担者の場合、日大側でのe-Radでの承認はいらないんですか。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c784a4f-16e6-4986-9df7-6eed302cb69d",
+    "is_locked": false,
+    "latest_reply": "1683535392.383769",
+    "reply_count": 1,
+    "reply_users": [
+      "U041HCMHR47"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すいません、この応募って、分担者の場合、日大側でのe-Radでの承認はいらないんですか。<@U041HCMHR47>",
+    "thread_ts": "1683529765.348919",
+    "ts": "1683529765.348919",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NmrMc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野さん、申請書の未定箇所（金額欄他）の話が終わりましたので、オンライン会議は退出しました。\n本日中に、打ち合わせ内容分を追記して、明日の朝一でマージしたいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "addbb06d-a994-4923-ba40-e8b245512261",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "松野さん、申請書の未定箇所（金額欄他）の話が終わりましたので、オンライン会議は退出しました。\n本日中に、打ち合わせ内容分を追記して、明日の朝一でマージしたいと思います。",
+    "ts": "1683528541.787299",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XDjz+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/scl/fi/i8p8vd7gzl0lx9s1j42zo/2023-a-step-ikusei-shinsei_01-20230507_okamoto.docx?dl=0&rlkey=y0rxn5g8zx9vqqb4hmsh6oyoy"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f1fb412b-243b-45f8-9be2-a30168faa439",
+    "team": "T6WULA63S",
+    "text": "<https://www.dropbox.com/scl/fi/i8p8vd7gzl0lx9s1j42zo/2023-a-step-ikusei-shinsei_01-20230507_okamoto.docx?dl=0&amp;rlkey=y0rxn5g8zx9vqqb4hmsh6oyoy>",
+    "ts": "1683525795.022889",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rer",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "高井担当分、まだできてないですが、一旦共有します。また午後更新します（すみません、岡本さん見れてません）。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e5c0c85d-63f2-47f6-853a-ea41d3de53c3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "F056ETEUH9C",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1683529668.658539",
+    "reply_count": 3,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "text": "高井担当分、まだできてないですが、一旦共有します。また午後更新します（すみません、岡本さん見れてません）。",
+    "thread_ts": "1683514610.151199",
+    "ts": "1683514610.151199",
+    "type": "message",
+    "upload": false,
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PiWG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、一通り書いたバージョンとかもうありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f9df538b-2a20-436b-acdf-95b8e47e9916",
+    "is_locked": false,
+    "latest_reply": "1683444385.310669",
+    "reply_count": 1,
+    "reply_users": [
+      "U041HCMHR47"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すいません、一通り書いたバージョンとかもうありますか？",
+    "thread_ts": "1682999950.408109",
+    "ts": "1682999950.408109",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/l/X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "70534220, 松野裕, mitaka です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8f8cadf5-ff0f-4a9d-81ee-deae8ebeb399",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "70534220, 松野裕, mitaka です",
+    "ts": "1682988761.440819",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CRGwz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "以下の情報をお知らせください。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": "\n「なお、応募時には、e-Rad 上の「研究分担者」の「研究者番号」「氏名」「研究分担者キ ー（当該研究者が設定している場合のみ）」を、「研究組織情報の登録」において入力いた だく必要があります。\nプロジェクトリーダーはあらかじめ研究責任者や主たる研究分担者 から、各情報を入手しておいてください。」\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.jst.go.jp/a-step/koubo/files/2023_sangaku/2023-a-step-sangaku_erad_01.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3faec45-d3d9-4e5d-9f96-d1744af80953",
+    "is_locked": false,
+    "latest_reply": "1683453419.701809",
+    "reply_count": 1,
+    "reply_users": [
+      "U041HCMLGLF"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "以下の情報をお知らせください。<@U6YLZUWAK> <@U041HCMLGLF>\n「なお、応募時には、e-Rad 上の「研究分担者」の「研究者番号」「氏名」「研究分担者キ ー（当該研究者が設定している場合のみ）」を、「研究組織情報の登録」において入力いた だく必要があります。\nプロジェクトリーダーはあらかじめ研究責任者や主たる研究分担者 から、各情報を入手しておいてください。」\n<https://www.jst.go.jp/a-step/koubo/files/2023_sangaku/2023-a-step-sangaku_erad_01.pdf>",
+    "thread_ts": "1682985852.544759",
+    "ts": "1682985852.544759",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "AES7B2V7D",
+        "app_unfurl_url": "https://www.dropbox.com/s/xel78y92vcguej3/2023-a-step-ikusei-shinsei_01-20230427takai.docx?dl=0",
+        "blocks": [
+          {
+            "block_id": "DZAi",
+            "external_id": "1-06a138ec9222c398efe08b07e579e1af37327f9d80fd2af318e2609a9025a67c",
+            "file": {
+              "channels": [],
+              "comments_count": 0,
+              "created": 1682665832,
+              "display_as_bot": false,
+              "editable": false,
+              "external_id": "1-06a138ec9222c398efe08b07e579e1af37327f9d80fd2af318e2609a9025a67c",
+              "external_type": "app",
+              "external_url": "https://www.dropbox.com/s/xel78y92vcguej3/2023-a-step-ikusei-shinsei_01-20230427takai.docx?dl=0&unfurl=slack_gen",
+              "file_access": "visible",
+              "filetype": "docx",
+              "groups": [],
+              "has_more_shares": false,
+              "has_rich_preview": true,
+              "id": "F055AAB3FFF",
+              "ims": [],
+              "is_external": true,
+              "is_public": true,
+              "media_display_type": "unknown",
+              "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "mode": "external",
+              "name": "2023-a-step-ikusei-shinsei_01-20230427takai_docx",
+              "original_h": 500,
+              "original_w": 1000,
+              "permalink": "https://matsulabnu.slack.com/files/UKT4N7MRC/F055AAB3FFF/2023-a-step-ikusei-shinsei_01-20230427takai_docx",
+              "pretty_type": "Word Document",
+              "public_url_shared": false,
+              "shares": {},
+              "size": 8790,
+              "thumb_160": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_160.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_360.png",
+              "thumb_360_h": 180,
+              "thumb_360_w": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_480.png",
+              "thumb_480_h": 240,
+              "thumb_480_w": 480,
+              "thumb_64": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_64.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_720.png",
+              "thumb_720_h": 360,
+              "thumb_720_w": 720,
+              "thumb_80": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_80.png",
+              "thumb_800": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_800.png",
+              "thumb_800_h": 400,
+              "thumb_800_w": 800,
+              "thumb_960": "https://files.slack.com/files-tmb/T6WULA63S-F055AAB3FFF-acb96d4e7c/2023-a-step-ikusei-shinsei_01-20230427takai_docx_960.png",
+              "thumb_960_h": 480,
+              "thumb_960_w": 960,
+              "thumb_tiny": "AwAYADDTooooAKKKKACikpKAHUUUUAFFFFADaKKKAP/Z",
+              "timestamp": 1682665832,
+              "title": "2023-a-step-ikusei-shinsei_01-20230427takai.docx",
+              "url_private": "https://www.dropbox.com/s/xel78y92vcguej3/2023-a-step-ikusei-shinsei_01-20230427takai.docx?dl=0&unfurl=slack_gen",
+              "user": "UKT4N7MRC",
+              "user_team": "T6WULA63S",
+              "username": ""
+            },
+            "file_id": "F055AAB3FFF",
+            "source": "remote",
+            "type": "file"
+          }
+        ],
+        "bot_id": "BKT4N7MFG",
+        "fallback": "[no preview available]",
+        "id": 1,
+        "is_app_unfurl": true
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Udb2i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/s/xel78y92vcguej3/2023-a-step-ikusei-shinsei_01-20230427takai.docx?dl=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9cb3b8a-0378-4bfb-b4b1-15961d29a590",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://www.dropbox.com/s/xel78y92vcguej3/2023-a-step-ikusei-shinsei_01-20230427takai.docx?dl=0>",
+    "ts": "1682665826.275669",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LXp5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回５月８日、１５時から打ち合わせ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "482810ef-ee82-4215-a5ef-fa47520a1f6b",
+    "team": "T6WULA63S",
+    "text": "次回５月８日、１５時から打ち合わせ",
+    "ts": "1682665747.547239",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bzP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 私の方も、大学事務に連絡し、GW明けには申請書を見せてほしい旨言われました。会社にも申請したい旨連絡しました。また何かありましたら連絡します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "554f69a1-06e0-4b14-84f4-7e689fe369eb",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK",
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> <@U6YLZUWAK> 私の方も、大学事務に連絡し、GW明けには申請書を見せてほしい旨言われました。会社にも申請したい旨連絡しました。また何かありましたら連絡します。",
+    "ts": "1682321217.651889",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "AES7B2V7D",
+        "app_unfurl_url": "https://www.dropbox.com/s/flp9tkn31dq10xb/2023-a-step-ikusei-shinsei_01-20230415matsu.docx?dl=0",
+        "blocks": [
+          {
+            "block_id": "A=w",
+            "external_id": "1-e65befd73f67199ed33acc3c5a7b851f2656066f85dd60da85aef4973348330b",
+            "file": {
+              "channels": [],
+              "comments_count": 0,
+              "created": 1682303604,
+              "display_as_bot": false,
+              "editable": false,
+              "external_id": "1-e65befd73f67199ed33acc3c5a7b851f2656066f85dd60da85aef4973348330b",
+              "external_type": "app",
+              "external_url": "https://www.dropbox.com/s/flp9tkn31dq10xb/2023-a-step-ikusei-shinsei_01-20230415matsu.docx?dl=0&unfurl=slack_gen",
+              "file_access": "visible",
+              "filetype": "docx",
+              "groups": [],
+              "has_more_shares": false,
+              "has_rich_preview": true,
+              "id": "F0558J4J672",
+              "ims": [],
+              "is_external": true,
+              "is_public": true,
+              "media_display_type": "unknown",
+              "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "mode": "external",
+              "name": "2023-a-step-ikusei-shinsei_01-20230415matsu_docx",
+              "original_h": 500,
+              "original_w": 1000,
+              "permalink": "https://matsulabnu.slack.com/files/UKT4N7MRC/F0558J4J672/2023-a-step-ikusei-shinsei_01-20230415matsu_docx",
+              "pretty_type": "Word Document",
+              "public_url_shared": false,
+              "shares": {},
+              "size": 8790,
+              "thumb_160": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_160.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_360.png",
+              "thumb_360_h": 180,
+              "thumb_360_w": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_480.png",
+              "thumb_480_h": 240,
+              "thumb_480_w": 480,
+              "thumb_64": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_64.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_720.png",
+              "thumb_720_h": 360,
+              "thumb_720_w": 720,
+              "thumb_80": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_80.png",
+              "thumb_800": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_800.png",
+              "thumb_800_h": 400,
+              "thumb_800_w": 800,
+              "thumb_960": "https://files.slack.com/files-tmb/T6WULA63S-F0558J4J672-06a61962f5/2023-a-step-ikusei-shinsei_01-20230415matsu_docx_960.png",
+              "thumb_960_h": 480,
+              "thumb_960_w": 960,
+              "thumb_tiny": "AwAYADDTooooAKKKKACikpKAHUUUUAFFFFADaKKKAP/Z",
+              "timestamp": 1682303604,
+              "title": "2023-a-step-ikusei-shinsei_01-20230415matsu.docx",
+              "url_private": "https://www.dropbox.com/s/flp9tkn31dq10xb/2023-a-step-ikusei-shinsei_01-20230415matsu.docx?dl=0&unfurl=slack_gen",
+              "user": "UKT4N7MRC",
+              "user_team": "T6WULA63S",
+              "username": ""
+            },
+            "file_id": "F0558J4J672",
+            "source": "remote",
+            "type": "file"
+          }
+        ],
+        "bot_id": "BKT4N7MFG",
+        "fallback": "[no preview available]",
+        "id": 1,
+        "is_app_unfurl": true
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "QKYN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、事務から、もっと内容を書くように言われたのですが、なにかアップデートがあるでしょうか",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": "\n私のものでは、",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/s/flp9tkn31dq10xb/2023-a-step-ikusei-shinsei_01-20230415matsu.docx?dl=0"
+              },
+              {
+                "text": "\nが最新です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "42645609-b97a-4e74-8b4a-366bc3fb11b7",
+    "is_locked": false,
+    "latest_reply": "1682664573.142199",
+    "reply_count": 11,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U041HCMHR47",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すいません、事務から、もっと内容を書くように言われたのですが、なにかアップデートがあるでしょうか<@U041HCMHR47> <@U041HCMLGLF>\n私のものでは、<https://www.dropbox.com/s/flp9tkn31dq10xb/2023-a-step-ikusei-shinsei_01-20230415matsu.docx?dl=0>\nが最新です",
+    "thread_ts": "1682303603.960709",
+    "ts": "1682303603.960709",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gv0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4月28日15時30分からまたおねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6501c7fc-4699-4552-890e-d49cdd3e7f00",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "4月28日15時30分からまたおねがいします",
+    "ts": "1681807888.557329",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sBN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              },
+              {
+                "text": "\nでおねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f1546022-ba71-4bac-ab65-f42a1600c9df",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/3288805434>\nでおねがいします",
+    "ts": "1681804844.430189",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ajva",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "近年稀に見る低評価でした。\n\\assurance-book\\科研費2022\\採択結果\nに採択結果を入れておきました。\n科研費向きのネタではないのかも…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cc668e3e-d03c-4fbb-8969-ab12d3f5b986",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "dF2",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "科研の審査結果でていますね。。。",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "b90992db-2f95-46b5-85d8-bad3789846f3",
+      "is_locked": false,
+      "latest_reply": "1681540129.958639",
+      "reply_count": 8,
+      "reply_users": [
+        "U041HCMHR47",
+        "U041HCMLGLF",
+        "U6YLZUWAK"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T6WULA63S",
+      "text": "科研の審査結果でていますね。。。",
+      "thread_ts": "1681189867.885939",
+      "ts": "1681189867.885939",
+      "type": "message",
+      "user": "U6YLZUWAK"
+    },
+    "subtype": "thread_broadcast",
+    "text": "近年稀に見る低評価でした。\n\\assurance-book\\科研費2022\\採択結果\nに採択結果を入れておきました。\n科研費向きのネタではないのかも…",
+    "thread_ts": "1681189867.885939",
+    "ts": "1681266180.287259",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dF2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "科研の審査結果でていますね。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b90992db-2f95-46b5-85d8-bad3789846f3",
+    "is_locked": false,
+    "latest_reply": "1681540129.958639",
+    "reply_count": 8,
+    "reply_users": [
+      "U041HCMHR47",
+      "U041HCMLGLF",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "科研の審査結果でていますね。。。",
+    "thread_ts": "1681189867.885939",
+    "ts": "1681189867.885939",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kDUi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "１８日１７時で大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "24d3b9be-ffc3-4fff-a0da-9079ffab46e8",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "09LeG",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "4月14日(金)15:00-16:00に定例(本)の打合せが入ってましたね。\n次回は、この日時で打ち合わせでよいですか？",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "5fe48865-b3b7-4c80-8fe4-61c55add8ddd",
+      "is_locked": false,
+      "latest_reply": "1681391959.607489",
+      "reply_count": 13,
+      "reply_users": [
+        "U041HCMLGLF",
+        "U041HCMHR47",
+        "U6YLZUWAK"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T6WULA63S",
+      "text": "4月14日(金)15:00-16:00に定例(本)の打合せが入ってましたね。\n次回は、この日時で打ち合わせでよいですか？",
+      "thread_ts": "1680653305.328749",
+      "ts": "1680653305.328749",
+      "type": "message",
+      "user": "U041HCMHR47"
+    },
+    "subtype": "thread_broadcast",
+    "text": "１８日１７時で大丈夫です",
+    "thread_ts": "1680653305.328749",
+    "ts": "1680750212.309639",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "09LeG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4月14日(金)15:00-16:00に定例(本)の打合せが入ってましたね。\n次回は、この日時で打ち合わせでよいですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5fe48865-b3b7-4c80-8fe4-61c55add8ddd",
+    "is_locked": false,
+    "latest_reply": "1681391959.607489",
+    "reply_count": 13,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U041HCMHR47",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "4月14日(金)15:00-16:00に定例(本)の打合せが入ってましたね。\n次回は、この日時で打ち合わせでよいですか？",
+    "thread_ts": "1680653305.328749",
+    "ts": "1680653305.328749",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qw9H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "推薦書原案は、ChatGPT先生に聞いてみます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "548c1661-23ec-4ea0-9ba2-94be05e94de2",
+    "team": "T6WULA63S",
+    "text": "推薦書原案は、ChatGPT先生に聞いてみます。",
+    "ts": "1680602922.481759",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y7Su",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回はslackで相談",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "071edbe7-9e5d-4992-9cba-3bc78086cc49",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK",
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "次回はslackで相談",
+    "ts": "1680573547.659399",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WCAWy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://sdlab.naist.jp/authors/toshiki-hirao/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ec8621b7-3465-4056-b9fc-279a79416f58",
+    "team": "T6WULA63S",
+    "text": "<https://sdlab.naist.jp/authors/toshiki-hirao/>",
+    "ts": "1680571671.614089",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FlSEW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、いまzoomにはいりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dcc66cbf-4c5e-4493-8839-a788c2db5778",
+    "team": "T6WULA63S",
+    "text": "すいません、いまzoomにはいりました",
+    "ts": "1680570262.709339",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XM3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ca10a300-4737-4b18-acf3-6bdb243369af",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。",
+    "ts": "1680570255.637129",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l2Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、松野教授、昇任おめでとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "07531bfc-f149-459d-bc5f-df5979eddd98",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "congratulations",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あ、松野教授、昇任おめでとうございます！",
+    "ts": "1680570098.604939",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AAkd=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません少々お待ちください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02D2BBE4-7584-4C04-9078-A4F439F60F47",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません少々お待ちください",
+    "ts": "1680570097.754699",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eur",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いつもの　",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              },
+              {
+                "text": "　が開始されてません…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "620f8029-ae57-41c0-98fe-f93803036858",
+    "team": "T6WULA63S",
+    "text": "いつもの　<https://nihon-u-ac-jp.zoom.us/j/3288805434>　が開始されてません…",
+    "ts": "1680570062.713679",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PpgF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6a15345d-94e0-42f5-b9ff-aba127ed3491",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ですね。",
+    "ts": "1680570030.425519",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OU0e",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "here",
+                "type": "broadcast"
+              },
+              {
+                "text": " 今日10:00-11:00からですかね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "717fb0b2-5869-46fe-8a38-b58480949fac",
+    "team": "T6WULA63S",
+    "text": "<!here> 今日10:00-11:00からですかね。",
+    "ts": "1680570004.841519",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yWaeL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "先日はお疲れ様でした。書き始めることができてよかったです。次の打ち合わせっていつに設定していましたっけ。あと、次の公募なにか出しますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3c853cce-1b00-4fc0-8e1d-ca6e054d2869",
+    "is_locked": false,
+    "latest_reply": "1678773713.009769",
+    "reply_count": 10,
+    "reply_users": [
+      "U041HCMHR47",
+      "U6YLZUWAK",
+      "U041HCMLGLF"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "先日はお疲れ様でした。書き始めることができてよかったです。次の打ち合わせっていつに設定していましたっけ。あと、次の公募なにか出しますか？",
+    "thread_ts": "1678369956.712639",
+    "ts": "1678369956.712639",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "A-STEP 2023年度公募実施状況：研究成果最適展開支援プログラム  A-STEP",
+        "from_url": "https://www.jst.go.jp/a-step/koubo/index.html",
+        "id": 1,
+        "original_url": "https://www.jst.go.jp/a-step/koubo/index.html",
+        "service_icon": "https://www.jst.go.jp/favicon.ico",
+        "service_name": "jst.go.jp",
+        "text": "研究成果最適展開支援プログラム 　A-STEPは、社会経済や科学技術の発展、国民生活の向上に寄与するため、大学や公的研究機関等の優れた研究成果の実用化を通じた、イノベーションの効率的・効果的創出を目的とした技術移転事業です。",
+        "title": "A-STEP 2023年度公募実施状況：研究成果最適展開支援プログラム  A-STEP",
+        "title_link": "https://www.jst.go.jp/a-step/koubo/index.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "iur",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.jst.go.jp/a-step/koubo/index.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7924ea56-3388-48aa-b2bf-65055b5a4c21",
+    "team": "T6WULA63S",
+    "text": "<https://www.jst.go.jp/a-step/koubo/index.html>",
+    "ts": "1677820031.492319",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CtcRM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.jst.go.jp/start/file/call/2023youkou_biz-model.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f55400f5-fa84-4a54-b94f-d323727e873b",
+    "team": "T6WULA63S",
+    "text": "<https://www.jst.go.jp/start/file/call/2023youkou_biz-model.pdf>",
+    "ts": "1677817591.442239",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/wkr-reoo-bbr",
+        "id": 1,
+        "original_url": "https://meet.google.com/wkr-reoo-bbr",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/wkr-reoo-bbr"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "9eVr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/wkr-reoo-bbr"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f510e70-4941-4e61-84a5-97048bbabcd0",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/wkr-reoo-bbr>",
+    "ts": "1677801516.519169",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B6RG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " おはようございます。A307という部屋におります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6ef6c9ff-2650-48b9-b8a2-013bfdbf6f1e",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> <@U041HCMHR47> おはようございます。A307という部屋におります。",
+    "ts": "1677800603.892459",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HdUTB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " はい，了解です．大丈夫です（ちょっと昼間の他の打ち合わせの予定が夕方になるかも，という連絡をうけとったので）．またどこかで食事も一緒に行きましょう．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e197e655-3617-45f6-9819-cd6476ba3a9d",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> はい，了解です．大丈夫です（ちょっと昼間の他の打ち合わせの予定が夕方になるかも，という連絡をうけとったので）．またどこかで食事も一緒に行きましょう．",
+    "ts": "1677656538.348329",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "umGx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私金曜の夜の飛行機で仙台に戻ります。食事、行きたかった…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8cc60bc7-ba6c-42c4-9cad-c1b143067f73",
+    "team": "T6WULA63S",
+    "text": "私金曜の夜の飛行機で仙台に戻ります。食事、行きたかった…",
+    "ts": "1677656425.033889",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DzJtj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " そういえば，金曜日って夕方食事とか行く想定ですかね．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d6e73e29-2c78-42e7-8ec9-ff722e9265a2",
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> <@U6YLZUWAK> そういえば，金曜日って夕方食事とか行く想定ですかね．",
+    "ts": "1677656392.914479",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gV5J",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "問題の学生が国費留学生で、出身国の大使館、うちの学校の経営層、高専機構（高専の統括組織）も含めて、絶賛炎上中です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a5c6f6f9-230f-4be1-8d10-e9647d28bda2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "open_mouth",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "問題の学生が国費留学生で、出身国の大使館、うちの学校の経営層、高専機構（高専の統括組織）も含めて、絶賛炎上中です。",
+    "ts": "1677652828.300929",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UkL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "３月は面談の季節でもありますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e56e3882-91c3-4faa-8d5b-308f3836a09b",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "cry",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "３月は面談の季節でもありますね",
+    "ts": "1677651388.074739",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kUEu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "11:30-13:00の間で、学生の進級案件でオンライン面談しなくてはならなくなりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "419f7e41-48af-4f29-9389-45283179abba",
+    "team": "T6WULA63S",
+    "text": "11:30-13:00の間で、学生の進級案件でオンライン面談しなくてはならなくなりました。",
+    "ts": "1677651342.932109",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3mNk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": " さん、了解です。\n「奈良県 生駒市 高山町8916-5 情報科学領域A棟3階 奈良先端大ソフトウェア設計学研究室」に9:00にお伺いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3dc494a-005d-4aa3-960b-1926b59ba2f3",
+    "is_locked": false,
+    "latest_reply": "1677652717.593819",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U041HCMHR47"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U041HCMLGLF> さん、了解です。\n「奈良県 生駒市 高山町8916-5 情報科学領域A棟3階 奈良先端大ソフトウェア設計学研究室」に9:00にお伺いします。",
+    "thread_ts": "1677627351.437349",
+    "ts": "1677627351.437349",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fsFC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " また金曜日お願いします．ちなみに，その日，13:00-14:15でオンライン打ち合わせが入ってしまったので，そのときは別の部屋にいると思います．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0349d2d5-1a28-4997-8e6c-9d5cf513e149",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> <@U041HCMHR47> また金曜日お願いします．ちなみに，その日，13:00-14:15でオンライン打ち合わせが入ってしまったので，そのときは別の部屋にいると思います．",
+    "ts": "1677627060.162649",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ATN1i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " 科研費結果連絡ありがとうございます．また議論させてください．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54ba0c43-df1a-4c5a-b472-f8330862451b",
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> 科研費結果連絡ありがとうございます．また議論させてください．",
+    "ts": "1677626977.483609",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tEp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どっちもですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "357867de-354d-418d-9201-d7b8980022bc",
+    "team": "T6WULA63S",
+    "text": "どっちもですね",
+    "ts": "1677579608.132159",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dZm5o",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今度のミーティングで是非詳細に検討させてください。\nといって、本の中身を書き始めるのが先ですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a407bfdf-fe54-4d4f-b208-4d28ff68d82c",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "今度のミーティングで是非詳細に検討させてください。\nといって、本の中身を書き始めるのが先ですね。",
+    "ts": "1677579260.968839",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4etw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Cか、民間の研究費ですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44fb61a0-5de9-461d-996e-25dffbc08cf7",
+    "team": "T6WULA63S",
+    "text": "Cか、民間の研究費ですかね",
+    "ts": "1677562618.609359",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ajHA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中身（ツール外注）削って、Cで出すのが妥当ですかね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fb0b9d81-5a9e-438d-add1-18945e53d0f8",
+    "team": "T6WULA63S",
+    "text": "中身（ツール外注）削って、Cで出すのが妥当ですかね。",
+    "ts": "1677562547.551119",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZQXe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ご連絡ありがとうございます。そうですね。めげずに次を目指しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58871463-e889-4323-9ba7-98506dc1345d",
+    "team": "T6WULA63S",
+    "text": "ご連絡ありがとうございます。そうですね。めげずに次を目指しましょう",
+    "ts": "1677562417.030069",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JQo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "申し訳ありません。こちらも「不採択」でした。審査結果の開示はまだのようです。\n同じネタで別のところに出してみますか？（次回の合宿で相談ですかね。） ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c66705d0-0510-4b95-85ee-2f9c16a76fb3",
+    "team": "T6WULA63S",
+    "text": "申し訳ありません。こちらも「不採択」でした。審査結果の開示はまだのようです。\n同じネタで別のところに出してみますか？（次回の合宿で相談ですかね。） <@U6YLZUWAK>",
+    "ts": "1677562389.262449",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wJSBn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "科研の結果、出たみたいですね（私が出したものはダメでした。。）",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc58ec97-1dee-417e-87e6-95b24b2732ee",
+    "team": "T6WULA63S",
+    "text": "科研の結果、出たみたいですね（私が出したものはダメでした。。）<@U041HCMHR47>",
+    "ts": "1677561278.692989",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5HY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2月10日に、いつものミーティングが入っていますが、ここでいいですかね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5938b1ed-bfc8-448e-87e1-23e7d083c9dd",
+    "is_locked": false,
+    "latest_reply": "1675924611.904869",
+    "reply_count": 2,
+    "reply_users": [
+      "U6YLZUWAK",
+      "U041HCMLGLF"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "2月10日に、いつものミーティングが入っていますが、ここでいいですかね？",
+    "thread_ts": "1675404832.868159",
+    "ts": "1675404832.868159",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hDmo9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野さん、それでは2月9日にお伺いします。\nまた、お手数をおかけしますが、下記の案内メールを\n",
+                "type": "text"
+              },
+              {
+                "text": "okamoto@sendai-nct.ac.jp",
+                "type": "link",
+                "unsafe": true,
+                "url": "mailto:okamoto@sendai-nct.ac.jp"
+              },
+              {
+                "text": "までお送りいただけませんでしょうか？\n\n共同研究打ち合わせの案内をお送りします。\n\n日時：2月9日（木）15:00-17:00\n場所：日本大学・工学部・習志野キャンパス・松野研究室\n内容：アシュアランスケースとSTAMP/STPAによる安全分析に関する研究打合せ\n\nどうぞよろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "437f85ab-632a-48eb-9ad6-4435c3078145",
+    "is_locked": false,
+    "latest_reply": "1675644834.666529",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U041HCMHR47",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "松野さん、それでは2月9日にお伺いします。\nまた、お手数をおかけしますが、下記の案内メールを\n<mailto:okamoto@sendai-nct.ac.jp|okamoto@sendai-nct.ac.jp>までお送りいただけませんでしょうか？\n\n共同研究打ち合わせの案内をお送りします。\n\n日時：2月9日（木）15:00-17:00\n場所：日本大学・工学部・習志野キャンパス・松野研究室\n内容：アシュアランスケースとSTAMP/STPAによる安全分析に関する研究打合せ\n\nどうぞよろしくお願いします。",
+    "thread_ts": "1675238399.235149",
+    "ts": "1675238399.235149",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ny5l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " 遅くなってすいません、\n2/9(木)15:00くらいから（第2候補）\n2/27(月)15:00くらいから（第3候補）\nは大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d0580d16-d3cf-4de7-8ea8-ba41af5babb2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> 遅くなってすいません、\n2/9(木)15:00くらいから（第2候補）\n2/27(月)15:00くらいから（第3候補）\nは大丈夫です",
+    "ts": "1675229738.375549",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PUB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "高井さん：\n奈良先端大で前泊する場合には、どの駅周辺が良いでしょうか？\n調べてみたところ、大学の近くにはなさそうでした。\n奈良駅か大阪市内から通うのが妥当でしょうか？\n\n松野さん：\n下記の日時で日本大学・習志野キャンパスの松野研にお伺いして、\nSTAMP/STPAやセーフティ＆セキュリティの情報交換をするのは可能でしょうか？\n2/6(月)15:00くらいから（第1候補）\n2/9(木)15:00くらいから（第2候補）\n2/27(月)15:00くらいから（第3候補）\n難しいようでしたら、改めて3月中で日時を設定します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "faacc9bb-62d7-480f-a9bb-292e0f49897b",
+    "is_locked": false,
+    "latest_reply": "1675652953.658559",
+    "reply_count": 2,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U041HCMHR47"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "高井さん：\n奈良先端大で前泊する場合には、どの駅周辺が良いでしょうか？\n調べてみたところ、大学の近くにはなさそうでした。\n奈良駅か大阪市内から通うのが妥当でしょうか？\n\n松野さん：\n下記の日時で日本大学・習志野キャンパスの松野研にお伺いして、\nSTAMP/STPAやセーフティ＆セキュリティの情報交換をするのは可能でしょうか？\n2/6(月)15:00くらいから（第1候補）\n2/9(木)15:00くらいから（第2候補）\n2/27(月)15:00くらいから（第3候補）\n難しいようでしたら、改めて3月中で日時を設定します。",
+    "thread_ts": "1675222599.215229",
+    "ts": "1675222599.215229",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pqq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "db103c47-9b40-4557-b2bd-352e9399e3f2",
+    "team": "T6WULA63S",
+    "text": "了解です。",
+    "ts": "1674799438.391549",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "==l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません5分ほど遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "871A3BB8-055E-4C71-9E14-D1C2598E5EB3",
+    "team": "T6WULA63S",
+    "text": "すいません5分ほど遅れます",
+    "ts": "1674798782.762049",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k15uR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんはいそれで大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "287B2793-4ADA-459E-AB09-F545CE7B3289",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいませんはいそれで大丈夫です",
+    "ts": "1674795851.672809",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j7oy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日の打合せも以前と同じ Zoom URL(下)でいいですか？\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05c9d8f0-dcef-42e6-a347-6dbe1ad7cedc",
+    "team": "T6WULA63S",
+    "text": "今日の打合せも以前と同じ Zoom URL(下)でいいですか？\n<https://nihon-u-ac-jp.zoom.us/j/3288805434>",
+    "ts": "1674795380.960869",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SACm+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "27日通常の打ち合わせで了解です（15:00-16:00）。予定変更ご迷惑をおかけします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d4519f63-ee01-42bd-af7e-01b79dee30a2",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "27日通常の打ち合わせで了解です（15:00-16:00）。予定変更ご迷惑をおかけします。",
+    "ts": "1673420107.182239",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZnxI8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大変申し訳ありません。２７日に通常の打ち合わせでよいでしょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "abcecf4d-e320-41cd-8767-0b4677f093fe",
+    "team": "T6WULA63S",
+    "text": "大変申し訳ありません。２７日に通常の打ち合わせでよいでしょうか",
+    "ts": "1673416940.138099",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nWP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "時期的に、改めて日程調整がよいかなと個人的には思います。合宿でない通常の打ち合わせくらいですかね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b0f417c1-988a-449c-9b0f-15e93425bf3e",
+    "team": "T6WULA63S",
+    "text": "時期的に、改めて日程調整がよいかなと個人的には思います。合宿でない通常の打ち合わせくらいですかね。",
+    "ts": "1673415632.795929",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VBp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確認ありがとうございます。そういえば合宿という話もありましたね",
+                "type": "text"
+              },
+              {
+                "name": "sweat_drops",
+                "type": "emoji",
+                "unicode": "1f4a6"
+              },
+              {
+                "text": "  一応予定は確保しています。今からでも宿探した方がいいでしょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a62180da-9d7f-4e49-988f-dbcee2b0aeb2",
+    "team": "T6WULA63S",
+    "text": "確認ありがとうございます。そういえば合宿という話もありましたね:sweat_drops:  一応予定は確保しています。今からでも宿探した方がいいでしょうか。",
+    "ts": "1673408319.515999",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B6p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "27日(金)は空いてます。その週は他に火曜・木曜の午後は空いてます。27日は合宿？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a9accf9-5727-4d27-8e7d-66f1320d1626",
+    "team": "T6WULA63S",
+    "text": "27日(金)は空いてます。その週は他に火曜・木曜の午後は空いてます。27日は合宿？",
+    "ts": "1673402868.170519",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xGz+/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": "\nあけましておめでとうございます。すいません、全然進んでいませんが２０日の１６時３０分からいかがでしょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a0585398-0d1d-4581-9add-7e9f94414fe0",
+    "is_locked": false,
+    "latest_reply": "1673398328.958839",
+    "reply_count": 1,
+    "reply_users": [
+      "U041HCMLGLF"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U041HCMLGLF> <@U041HCMHR47>\nあけましておめでとうございます。すいません、全然進んでいませんが２０日の１６時３０分からいかがでしょうか",
+    "thread_ts": "1673398264.086619",
+    "ts": "1673398264.086619",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rJqhQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえばslackチャンネルもつくりましたね",
+                "type": "text"
+              },
+              {
+                "name": "sweat_drops",
+                "type": "emoji",
+                "unicode": "1f4a6"
+              },
+              {
+                "text": "\nメールの方に、日程変更お願い送っておきました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b1e2f84f-d886-401a-a5af-6300d52ffe28",
+    "team": "T6WULA63S",
+    "text": "そういえばslackチャンネルもつくりましたね:sweat_drops:\nメールの方に、日程変更お願い送っておきました。",
+    "ts": "1673397772.386289",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f+chn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です。また年明けにお願いいたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9f28a970-21c0-443f-bd24-5cb54b7c29a2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "man-bowing",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "大丈夫です。また年明けにお願いいたします",
+    "ts": "1670588213.778909",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d3tXj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、連絡してませんでしたが、今週も都合により参加できませんでした。大変すみません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e8cd6ed5-c510-4a2c-9741-f74780514562",
+    "team": "T6WULA63S",
+    "text": "すみません、連絡してませんでしたが、今週も都合により参加できませんでした。大変すみません。",
+    "ts": "1670571843.930769",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IXvc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              },
+              {
+                "text": "\nでおねがいします",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "92dcdcd9-1549-4b77-a081-23e1b2bd5c01",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/3288805434>\nでおねがいします<@U041HCMLGLF> <@U041HCMHR47>",
+    "ts": "1670565543.100079",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01BDLWP7T9> has joined the channel",
+    "ts": "1670476428.577529",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n/j8W",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回は１２月９日（金）15:00~16:00",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3111f867-7757-415b-b16b-083c95b40656",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "次回は１２月９日（金）15:00~16:00",
+    "ts": "1669010147.915059",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "AES7B2V7D",
+        "app_unfurl_url": "https://www.dropbox.com/sh/hcxb7awze7x0gcv/AACAUwNtyurz-nUePG6Voe0Xa?dl=0",
+        "blocks": [
+          {
+            "block_id": "=NkB",
+            "external_id": "1-80cd8ed7524a7e8ca2bf6eb1496c67a86ebd20404df636b932aafc95bcc658fe",
+            "file": {
+              "channels": [],
+              "comments_count": 0,
+              "created": 1669009373,
+              "display_as_bot": false,
+              "editable": false,
+              "external_id": "1-80cd8ed7524a7e8ca2bf6eb1496c67a86ebd20404df636b932aafc95bcc658fe",
+              "external_type": "app",
+              "external_url": "https://www.dropbox.com/sh/hcxb7awze7x0gcv/AACAUwNtyurz-nUePG6Voe0Xa?dl=0&unfurl=slack_gen",
+              "file_access": "visible",
+              "filetype": "directory",
+              "groups": [],
+              "has_more_shares": false,
+              "has_rich_preview": false,
+              "id": "F04BL4DBMCN",
+              "ims": [],
+              "is_external": true,
+              "is_public": true,
+              "media_display_type": "unknown",
+              "mimetype": "application/vnd.slack-remote-directory",
+              "mode": "external",
+              "name": "____________________________________",
+              "permalink": "https://matsulabnu.slack.com/files/UKT4N7MRC/F04BL4DBMCN/____________________________________",
+              "pretty_type": "Remote Directory",
+              "public_url_shared": false,
+              "shares": {},
+              "size": 0,
+              "timestamp": 1669009373,
+              "title": "アシュアランスケース関連",
+              "url_private": "https://www.dropbox.com/sh/hcxb7awze7x0gcv/AACAUwNtyurz-nUePG6Voe0Xa?dl=0&unfurl=slack_gen",
+              "user": "UKT4N7MRC",
+              "user_team": "T6WULA63S",
+              "username": ""
+            },
+            "file_id": "F04BL4DBMCN",
+            "source": "remote",
+            "type": "file"
+          }
+        ],
+        "bot_id": "BKT4N7MFG",
+        "fallback": "[no preview available]",
+        "id": 1,
+        "is_app_unfurl": true
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "YHi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/sh/hcxb7awze7x0gcv/AACAUwNtyurz-nUePG6Voe0Xa?dl=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44f30f19-ded8-4adb-9fbb-366ff7b3f4a9",
+    "team": "T6WULA63S",
+    "text": "<https://www.dropbox.com/sh/hcxb7awze7x0gcv/AACAUwNtyurz-nUePG6Voe0Xa?dl=0>",
+    "ts": "1669009370.918709",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "74LcJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "原則、毎月の第２金曜日\n次回11月18日の3時30分",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cbcce37d-ee6a-434c-872e-5900e2a3186c",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U041HCMLGLF",
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "原則、毎月の第２金曜日\n次回11月18日の3時30分",
+    "ts": "1665729250.781689",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CjP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              },
+              {
+                "text": "\nでおねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59a0593d-0ec9-4f86-874b-b918ced46814",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/3288805434>\nでおねがいします",
+    "ts": "1665727275.029789",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hWvuj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、ちょっとお待ち下さい。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c49771b7-b737-449d-89f1-c78aacf51d4d",
+    "team": "T6WULA63S",
+    "text": "すいません、ちょっとお待ち下さい。",
+    "ts": "1665727252.381669",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jSwr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大村さんと岡田さんとオンラインで打ち合わせして、お二人とも著者に入っていただくことで了承いただきました。2年後ぐらいの出版を目指します。最初は、岡本さん、高井さん、松野で進めて、ある程度進んだら、大村さん、岡田さんにも執筆に加わっていただこうと思います。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58702a24-9ec7-4008-802c-6c824af4f426",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U041HCMLGLF",
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "大村さんと岡田さんとオンラインで打ち合わせして、お二人とも著者に入っていただくことで了承いただきました。2年後ぐらいの出版を目指します。最初は、岡本さん、高井さん、松野で進めて、ある程度進んだら、大村さん、岡田さんにも執筆に加わっていただこうと思います。<@U041HCMHR47> <@U041HCMLGLF>",
+    "ts": "1665476591.276609",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "AES7B2V7D",
+        "app_unfurl_url": "https://www.dropbox.com/sh/weiklsqyf4jkouc/AAAiVAHyGAmZSSJPE3vNmMFQa?dl=0",
+        "blocks": [
+          {
+            "block_id": "gjLoi",
+            "external_id": "1-b602d126e22a16380155a2d0531e555bf081cb79da38c696a59f1f8a99a9a177",
+            "file": {
+              "channels": [],
+              "comments_count": 0,
+              "created": 1665312197,
+              "display_as_bot": false,
+              "editable": false,
+              "external_id": "1-b602d126e22a16380155a2d0531e555bf081cb79da38c696a59f1f8a99a9a177",
+              "external_type": "app",
+              "external_url": "https://www.dropbox.com/sh/weiklsqyf4jkouc/AAAiVAHyGAmZSSJPE3vNmMFQa?dl=0&unfurl=slack",
+              "file_access": "visible",
+              "filetype": "directory",
+              "groups": [],
+              "has_more_shares": false,
+              "has_rich_preview": false,
+              "id": "F046F8C0A2U",
+              "ims": [],
+              "is_external": true,
+              "is_public": true,
+              "media_display_type": "unknown",
+              "mimetype": "application/vnd.slack-remote-directory",
+              "mode": "external",
+              "name": "safety_assurance_contents",
+              "permalink": "https://matsulabnu.slack.com/files/UKT4N7MRC/F046F8C0A2U/safety_assurance_contents",
+              "pretty_type": "Remote Directory",
+              "public_url_shared": false,
+              "shares": {},
+              "size": 0,
+              "timestamp": 1665312197,
+              "title": "safety_assurance_contents",
+              "url_private": "https://www.dropbox.com/sh/weiklsqyf4jkouc/AAAiVAHyGAmZSSJPE3vNmMFQa?dl=0&unfurl=slack",
+              "user": "UKT4N7MRC",
+              "user_team": "T6WULA63S",
+              "username": ""
+            },
+            "file_id": "F046F8C0A2U",
+            "source": "remote",
+            "type": "file"
+          }
+        ],
+        "bot_id": "BKT4N7MFG",
+        "fallback": "[no preview available]",
+        "id": 1,
+        "is_app_unfurl": true
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "CU=h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/sh/weiklsqyf4jkouc/AAAiVAHyGAmZSSJPE3vNmMFQa?dl=0"
+              },
+              {
+                "text": "\nに各チャプターごとのファイルをおいたので、ご担当のチャプターを書き進めていただけたら幸いです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "054d0421-f659-45f1-8764-87e2979e2a2a",
+    "team": "T6WULA63S",
+    "text": "<https://www.dropbox.com/sh/weiklsqyf4jkouc/AAAiVAHyGAmZSSJPE3vNmMFQa?dl=0>\nに各チャプターごとのファイルをおいたので、ご担当のチャプターを書き進めていただけたら幸いです",
+    "ts": "1665312218.682379",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "app_id": "AES7B2V7D",
+        "app_unfurl_url": "https://www.dropbox.com/sh/c11du4dnwzc61ox/AADlOsaqEug1S92bQkPdYV15a?dl=0",
+        "blocks": [
+          {
+            "block_id": "MAwG",
+            "external_id": "1-8a750ab107cde1f50cd15668f826c8482ba5ba514e5d1f01684fb7a9d43dc8d4",
+            "file": {
+              "channels": [],
+              "comments_count": 0,
+              "created": 1665312171,
+              "display_as_bot": false,
+              "editable": false,
+              "external_id": "1-8a750ab107cde1f50cd15668f826c8482ba5ba514e5d1f01684fb7a9d43dc8d4",
+              "external_type": "app",
+              "external_url": "https://www.dropbox.com/sh/c11du4dnwzc61ox/AADlOsaqEug1S92bQkPdYV15a?dl=0&unfurl=slack",
+              "file_access": "visible",
+              "filetype": "directory",
+              "groups": [],
+              "has_more_shares": false,
+              "has_rich_preview": false,
+              "id": "F045B0U6887",
+              "ims": [],
+              "is_external": true,
+              "is_public": true,
+              "media_display_type": "unknown",
+              "mimetype": "application/vnd.slack-remote-directory",
+              "mode": "external",
+              "name": "assurance_book_tex",
+              "permalink": "https://matsulabnu.slack.com/files/UKT4N7MRC/F045B0U6887/assurance_book_tex",
+              "pretty_type": "Remote Directory",
+              "public_url_shared": false,
+              "shares": {},
+              "size": 0,
+              "timestamp": 1665312171,
+              "title": "assurance_book_tex",
+              "url_private": "https://www.dropbox.com/sh/c11du4dnwzc61ox/AADlOsaqEug1S92bQkPdYV15a?dl=0&unfurl=slack",
+              "user": "UKT4N7MRC",
+              "user_team": "T6WULA63S",
+              "username": ""
+            },
+            "file_id": "F045B0U6887",
+            "source": "remote",
+            "type": "file"
+          }
+        ],
+        "bot_id": "BKT4N7MFG",
+        "fallback": "[no preview available]",
+        "id": 1,
+        "is_app_unfurl": true
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fmD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": " コロナ社のスタイルファイルを使って、texソースの雛形を作りました。overleafへの移植はいまいちうまくいきませんでした。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/sh/c11du4dnwzc61ox/AADlOsaqEug1S92bQkPdYV15a?dl=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a4862e0-660c-4efc-9d9a-518c6be6669e",
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> <@U041HCMLGLF> コロナ社のスタイルファイルを使って、texソースの雛形を作りました。overleafへの移植はいまいちうまくいきませんでした。\n<https://www.dropbox.com/sh/c11du4dnwzc61ox/AADlOsaqEug1S92bQkPdYV15a?dl=0>",
+    "ts": "1665312167.945449",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pOch",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041HCMHR47"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U041HCMLGLF"
+              },
+              {
+                "text": " 日産の大村さんから、２年ぐらいかけてもいいなら岡田さんと、Tier4の公開している事例をもとに書けるかもという返事をもらいました。大村さんは、自動運転関係の国際規格で日本側の取りまとめをされているので、もし書いてくれると、いい方向にいけそうです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0adb05c6-4b3e-4279-87a5-bc9c1d42feab",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart",
+        "users": [
+          "U041HCMHR47"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U041HCMHR47> <@U041HCMLGLF> 日産の大村さんから、２年ぐらいかけてもいいなら岡田さんと、Tier4の公開している事例をもとに書けるかもという返事をもらいました。大村さんは、自動運転関係の国際規格で日本側の取りまとめをされているので、もし書いてくれると、いい方向にいけそうです。",
+    "ts": "1665302344.623909",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jxY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Dropboxの最上位階層にフォルダ「科研費2022」に、最終版の申請書「s-13.docx」をアップロードしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "95a15ecf-713f-4b59-ab92-f21d19cafa44",
+    "is_locked": false,
+    "latest_reply": "1664860365.338649",
+    "reply_count": 2,
+    "reply_users": [
+      "U041HCMLGLF",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "Dropboxの最上位階層にフォルダ「科研費2022」に、最終版の申請書「s-13.docx」をアップロードしました。",
+    "thread_ts": "1664859014.744219",
+    "ts": "1664859014.744219",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ktK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "学内査読者（東北大名誉教授・審査員経験多数）に「超」付けた方が良いと言われ、「Ultra」を付けました。一通り書いて提出したので、科研費システムからのPDFを上のフォルダにアップロードしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9827a97-72d3-47bb-9a86-6d8e39f2db5e",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "学内査読者（東北大名誉教授・審査員経験多数）に「超」付けた方が良いと言われ、「Ultra」を付けました。一通り書いて提出したので、科研費システムからのPDFを上のフォルダにアップロードしました。",
+    "ts": "1663477926.990739",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qMgv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Ultra-Lightにしたんですね。これまでの手法がSTPA-Lightで、それよりも軽量な手法を提案する、という意味でしょうか。そろそろ締め切りですね。大変お疲れ様です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89fe2988-7388-400e-9413-aab8969b0f4e",
+    "team": "T6WULA63S",
+    "text": "Ultra-Lightにしたんですね。これまでの手法がSTPA-Lightで、それよりも軽量な手法を提案する、という意味でしょうか。そろそろ締め切りですね。大変お疲れ様です",
+    "ts": "1663465203.039489",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GfGX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Dropboxの最上位階層にフォルダ「科研費2022」を作成し、申請書「s-13.docx」をアップロードしました。TeX形式をワード形式に手動変換して、各種コメントを反映しました。\nコメントなどございましたら、お知らせください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8155b702-f168-4328-ba5d-65e82446cfe0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "Dropboxの最上位階層にフォルダ「科研費2022」を作成し、申請書「s-13.docx」をアップロードしました。TeX形式をワード形式に手動変換して、各種コメントを反映しました。\nコメントなどございましたら、お知らせください。",
+    "ts": "1663229684.920379",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5XJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いまさらながら、本年度申請書のひな型と昨年度申請書のひな型の差（年度に関する記載）に気づきました。最後に提出する前に書き直します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b836110c-b38b-4dcb-baa2-fd6f4c0288a1",
+    "team": "T6WULA63S",
+    "text": "いまさらながら、本年度申請書のひな型と昨年度申請書のひな型の差（年度に関する記載）に気づきました。最後に提出する前に書き直します。",
+    "ts": "1663036622.702239",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "r0qYY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "texのスタイル\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/s/jcoizoj7minn041/corona-cls-1.1.zip?dl=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f6d21de4-49e8-48c1-8623-81671f6b92f3",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "texのスタイル\n<https://www.dropbox.com/s/jcoizoj7minn041/corona-cls-1.1.zip?dl=0>",
+    "ts": "1662962804.508409",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q4o",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "慶應の学位の名前はこんな感じでした。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dda82fd6-4d33-45bf-a7e7-79a285a08e46",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F041V4ES83X",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "慶應の学位の名前はこんな感じでした。",
+    "ts": "1662961868.953669",
+    "type": "message",
+    "upload": false,
+    "user": "U041HCMLGLF"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "connpass: 第4回 AI/IoTシステム安全性シンポジウム (2022/11/30 09:30〜)",
+        "from_url": "https://ai-iot-system-safsec.connpass.com/event/246280/",
+        "id": 1,
+        "image_bytes": 163937,
+        "image_height": 198,
+        "image_url": "https://connpass-tokyo.s3.amazonaws.com/thumbs/54/d0/54d069233753178499321c65e0a94669.png",
+        "image_width": 468,
+        "original_url": "https://ai-iot-system-safsec.connpass.com/event/246280/",
+        "service_icon": "https://connpass.com/static/img/apple_touch_icon.png",
+        "service_name": "connpass",
+        "text": "# お知らせ 第4回 AI/IoTシステム安全性シンポジウムは、2022年11月末頃にオンライン形式での開催を予定しています。昨年に引き続き、 Asian STAMP Workshop を併設開催します。Asian STAMP Workshopの発表募集を開始しました。なお、FRAM Workshopは同時期にFARMilyが日本で開催されるため、併設ワークショップの開催はありません。 第4回 AI/IoTシステム安全性シンポジウム、および、The 3rd Asian STAMP Workshopのプログラムと参加募集は、準備ができ次第掲載します。 # Asian STAMPワーク...",
+        "title": "第4回 AI/IoTシステム安全性シンポジウム (2022/11/30 09:30〜)",
+        "title_link": "https://ai-iot-system-safsec.connpass.com/event/246280/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "/No",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ai-iot-system-safsec.connpass.com/event/246280/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b8bc75f7-52ab-4b9c-89c8-76a021e8c870",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U041HCMLGLF"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://ai-iot-system-safsec.connpass.com/event/246280/>",
+    "ts": "1662961814.423889",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=JoGJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "科研費の期限は，2週間後",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2a1b5252-ec20-469a-baf8-abd03d819072",
+    "team": "T6WULA63S",
+    "text": "科研費の期限は，2週間後",
+    "ts": "1662961637.001699",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "name": "ac-book_kakenb",
+    "old_name": "assurance-case-book",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"assurance-case-book\" to \"ac-book_kakenb\"",
+    "ts": "1662961466.112299",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wWC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/3288805434"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f9a8428-e984-4f20-8e1b-c0cbc2b16e1a",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/3288805434>",
+    "ts": "1662961230.394519",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HI=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回の予定",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17b3179d-4eb8-47e5-8cba-f594420d86f1",
+    "team": "T6WULA63S",
+    "text": "次回の予定",
+    "ts": "1662961194.330529",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k2Zi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "10月14日金曜日１時３０分",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6093ed8e-1483-4ed7-b669-907e26080a0a",
+    "team": "T6WULA63S",
+    "text": "10月14日金曜日１時３０分",
+    "ts": "1662961187.919339",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "97Ob",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Todo: 各自次回までに数ページ書いておく。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6b04ff43-9b62-48d2-a45b-a71b0d04e801",
+    "edited": {
+      "ts": "1662961305.000000",
+      "user": "U041HCMLGLF"
+    },
+    "team": "T6WULA63S",
+    "text": "Todo: 各自次回までに数ページ書いておく。",
+    "ts": "1662960885.589019",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dhQp2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "総合演習はPBL演習を想定？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d7b2fef-334d-4b89-b922-2dd049eeafdd",
+    "team": "T6WULA63S",
+    "text": "総合演習はPBL演習を想定？",
+    "ts": "1662960518.898579",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cM7CF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "総合演習があるのであれば，それぞれの章の演習問題の題材は揃えなくてもいいかも",
+                "type": "text"
+              },
+              {
+                "name": "interrobang",
+                "type": "emoji",
+                "unicode": "2049-fe0f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "27e071c6-7b35-4cad-8b4c-0ea81a2d072c",
+    "team": "T6WULA63S",
+    "text": "総合演習があるのであれば，それぞれの章の演習問題の題材は揃えなくてもいいかも:interrobang:",
+    "ts": "1662960460.354279",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rckx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "各章は，ある程度独立させ，それぞれ集中講義などでも使えるようにする。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cae738cf-3c5a-4b5a-a9f9-d750df5da124",
+    "team": "T6WULA63S",
+    "text": "各章は，ある程度独立させ，それぞれ集中講義などでも使えるようにする。",
+    "ts": "1662960397.427349",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ps2i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "章：アシュアランスケース，安全分析，MBSE？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "76c55b9c-79cb-4730-bcbc-64c6d4e229a7",
+    "team": "T6WULA63S",
+    "text": "章：アシュアランスケース，安全分析，MBSE？",
+    "ts": "1662960214.879059",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lJy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "課題：章と講義の関係",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "049aae64-cb95-4ef3-b04a-a96ee94c9150",
+    "team": "T6WULA63S",
+    "text": "課題：章と講義の関係",
+    "ts": "1662959967.221579",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UDyY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "安全分析手法\n1.安全分析とSTAMP／STPAの基礎\n\nアシュアランスケース\n1.アシュアランスケースの背景\n\nモデルベースシステムズ\n エンジニアリング\n1.モデルベースシステムズエンジニアリングの背景",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7be2383a-d312-46a1-8d2f-0069b21b80cf",
+    "team": "T6WULA63S",
+    "text": "安全分析手法\n1.安全分析とSTAMP／STPAの基礎\n\nアシュアランスケース\n1.アシュアランスケースの背景\n\nモデルベースシステムズ\n エンジニアリング\n1.モデルベースシステムズエンジニアリングの背景",
+    "ts": "1662959831.303909",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fmo8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ですますの方が現代的？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "40309174-642f-4199-8350-b56252f03615",
+    "team": "T6WULA63S",
+    "text": "ですますの方が現代的？",
+    "ts": "1662959268.626499",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2vB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ですます、であるか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f993f40e-de66-42ff-b3ea-92c75aab1f81",
+    "team": "T6WULA63S",
+    "text": "ですます、であるか",
+    "ts": "1662959063.883539",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6PC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "参考になりそうな本\nソフトウェア工学入門\n",
+                "type": "text"
+              },
+              {
+                "text": "https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7[…]80-Computer-Science-Library-%E9%B0%BA%E5%9D%82/dp/4781911935",
+                "type": "link",
+                "url": "https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80-Computer-Science-Library-%E9%B0%BA%E5%9D%82/dp/4781911935"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a623ee51-4c5c-41b1-9e49-fad1d8185a9d",
+    "edited": {
+      "ts": "1662959556.000000",
+      "user": "U041HCMLGLF"
+    },
+    "is_locked": false,
+    "latest_reply": "1662959375.639979",
+    "reply_count": 1,
+    "reply_users": [
+      "U041HCMLGLF"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "参考になりそうな本\nソフトウェア工学入門\n<https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80-Computer-Science-Library-%E9%B0%BA%E5%9D%82/dp/4781911935|https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7[…]80-Computer-Science-Library-%E9%B0%BA%E5%9D%82/dp/4781911935>",
+    "thread_ts": "1662959062.967129",
+    "ts": "1662959062.967129",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eW/y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "文体とか、演習の量をなにかを参考に統一する",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c57e86a1-da89-4e5a-8455-ce1638f4db42",
+    "team": "T6WULA63S",
+    "text": "文体とか、演習の量をなにかを参考に統一する",
+    "ts": "1662958965.557319",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "elpu7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "モデルベースシステムズ\n エンジニアリング\n1.モデルベースシステムズエンジニアリングの背景\n2.モデルベースシステムズエンジニアリングの手順\n3.ステークホルダーの関心事を考えてみよう\n4.モデルの評価指標を考えてみよう\n5.関心事に基づいてモデルの全体構造を考えてみよう\n6.開発対象システムのコンテキストを考えてみよう\n7.システムの運用とその概念を考えてみよう\n8.システムの実現可能性を考えてみよう\n9.検証や妥当性確認をしてみよう\n10.安全分析、アシュアランスケースを使ったMBSE",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a480667-ac89-49b4-9513-e9597fa1ce38",
+    "team": "T6WULA63S",
+    "text": "モデルベースシステムズ\n エンジニアリング\n1.モデルベースシステムズエンジニアリングの背景\n2.モデルベースシステムズエンジニアリングの手順\n3.ステークホルダーの関心事を考えてみよう\n4.モデルの評価指標を考えてみよう\n5.関心事に基づいてモデルの全体構造を考えてみよう\n6.開発対象システムのコンテキストを考えてみよう\n7.システムの運用とその概念を考えてみよう\n8.システムの実現可能性を考えてみよう\n9.検証や妥当性確認をしてみよう\n10.安全分析、アシュアランスケースを使ったMBSE",
+    "ts": "1662958939.406019",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Q+MT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アシュアランスケース\n1.アシュアランスケースの背景\n2.アシュアランスケースの現状、国際規格\n3.アシュアランスケースの記法(GSN)\n4.アシュアランスケース手法(D-Case手法)\n5.演習",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a17d7ceb-4bd0-42cb-9556-b32c920e91c9",
+    "team": "T6WULA63S",
+    "text": "アシュアランスケース\n1.アシュアランスケースの背景\n2.アシュアランスケースの現状、国際規格\n3.アシュアランスケースの記法(GSN)\n4.アシュアランスケース手法(D-Case手法)\n5.演習",
+    "ts": "1662958923.083339",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pSoy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "安全分析手法\n1.安全分析とSTAMP／STPAの基礎\n1.安全分析概説\n2.ハザード分析手法STAMP／STPA\n2.例題を用いたSTAMP／STPA演習・デモ\n1.演習対象解説\n2.Step1：アクシデント、ハザードの識別\n3.Step2：安全コントロールストラクチャーの構成\n4.Step3：非安全制御動作(Unsafe Control Action)の識別\n5.Step4：ロスシナリオの識別",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7eaf3ada-7710-4bfc-9808-df00f0b923aa",
+    "team": "T6WULA63S",
+    "text": "安全分析手法\n1.安全分析とSTAMP／STPAの基礎\n1.安全分析概説\n2.ハザード分析手法STAMP／STPA\n2.例題を用いたSTAMP／STPA演習・デモ\n1.演習対象解説\n2.Step1：アクシデント、ハザードの識別\n3.Step2：安全コントロールストラクチャーの構成\n4.Step3：非安全制御動作(Unsafe Control Action)の識別\n5.Step4：ロスシナリオの識別",
+    "ts": "1662958906.466609",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/ZSwu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1.はじめに 10ページ (全員)\n2.安全分析(岡本さん)　50ページ\n3.アシュアランスケース(松野) 50ページ\n4.モデルベースシステムズエンジニアリング(MBSE) 50ページ(高井さん)\n5.自動運転におけるユースケース (全員) 20ページ\n6.まとめ　ツール、環境構築 (全員) 10ページ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fe21f8f3-99e0-4284-a83f-334936a2e4e9",
+    "team": "T6WULA63S",
+    "text": "1.はじめに 10ページ (全員)\n2.安全分析(岡本さん)　50ページ\n3.アシュアランスケース(松野) 50ページ\n4.モデルベースシステムズエンジニアリング(MBSE) 50ページ(高井さん)\n5.自動運転におけるユースケース (全員) 20ページ\n6.まとめ　ツール、環境構築 (全員) 10ページ",
+    "ts": "1662958893.483849",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9vJLB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月１ぐらい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aaf75638-6114-4921-928f-b82afd156670",
+    "team": "T6WULA63S",
+    "text": "月１ぐらい",
+    "ts": "1662958855.437499",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yge",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "１年から１年半",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bb1b517b-e413-41c9-aa9b-aa68c6580185",
+    "team": "T6WULA63S",
+    "text": "１年から１年半",
+    "ts": "1662958850.646829",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wHHDS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "wave",
+                "type": "emoji",
+                "unicode": "1f44b"
+              },
+              {
+                "text": " チームの皆さま、よろしくです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e763da96-7c58-491d-8725-f75b0fcfa483",
+    "team": "T6WULA63S",
+    "text": ":wave: チームの皆さま、よろしくです。",
+    "ts": "1662958845.665159",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U041HCMLGLF> has joined the channel",
+    "ts": "1662958795.871789",
+    "type": "message",
+    "user": "U041HCMLGLF"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QpWxg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "with コロナ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f26205e1-d2e1-462d-bf96-5b24d7176df6",
+    "team": "T6WULA63S",
+    "text": "with コロナ",
+    "ts": "1662958795.292599",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HZ1GY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "wave",
+                "type": "emoji",
+                "unicode": "1f44b"
+              },
+              {
+                "text": " チームの皆さま、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e8a0c9cd-35ce-4859-8190-460484c52b24",
+    "team": "T6WULA63S",
+    "text": ":wave: チームの皆さま、",
+    "ts": "1662958738.076599",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U041HCMHR47> has joined the channel",
+    "ts": "1662958690.159889",
+    "type": "message",
+    "user": "U041HCMHR47"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1662958590.942289",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

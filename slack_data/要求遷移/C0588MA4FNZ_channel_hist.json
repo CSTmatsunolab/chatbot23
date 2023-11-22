@@ -1,0 +1,797 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "5NyV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U044Q4JABPD"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 今日も16時からの方が都合が良いでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4D56FEAE-CA8B-47FD-9939-57138E8F6C80",
+    "is_locked": false,
+    "latest_reply": "1686635949.198369",
+    "reply_count": 4,
+    "reply_users": [
+      "U044Q4JABPD",
+      "U02GK7DPF8C"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U044Q4JABPD> <@U6YLZUWAK> 今日も16時からの方が都合が良いでしょうか？",
+    "thread_ts": "1686618648.087859",
+    "ts": "1686618648.087859",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ODcA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいんじゃないんですか。毎週、進めていければいいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6E036A45-E8ED-4CBF-87E2-DB71E97385F9",
+    "team": "T6WULA63S",
+    "text": "いいんじゃないんですか。毎週、進めていければいいです",
+    "ts": "1686042131.620019",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EBmRS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "当分の間、\n・時間が取れなそう\n・最初から論文フルで読ませるのはキツいのでは\nという理由で、自分と加藤さんで読む論文を1つに合わせようと思うのですが、どうでしょう？ ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044Q4JABPD"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5039f38d-cc6a-458a-9a5a-7d9df3939bc5",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "当分の間、\n・時間が取れなそう\n・最初から論文フルで読ませるのはキツいのでは\nという理由で、自分と加藤さんで読む論文を1つに合わせようと思うのですが、どうでしょう？ <@U044Q4JABPD> <@U6YLZUWAK>",
+    "ts": "1686042057.516269",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/xqn-ixyo-tua",
+        "id": 1,
+        "original_url": "https://meet.google.com/xqn-ixyo-tua",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/xqn-ixyo-tua"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Uo1A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "要求遷移/既存研究\n6月 13日 (火曜日) · 午後3:00～4:00\nタイムゾーン: Asia/Tokyo\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/xqn-ixyo-tua"
+              },
+              {
+                "text": "\nダイヤルイン: ‪(US) +1 702-941-0559‬ PIN: ‪732 516 112‬#",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "091c5f7a-0048-4b51-898e-99c282dab136",
+    "team": "T6WULA63S",
+    "text": "要求遷移/既存研究\n6月 13日 (火曜日) · 午後3:00～4:00\nタイムゾーン: Asia/Tokyo\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: <https://meet.google.com/xqn-ixyo-tua>\nダイヤルイン: ‪(US) <tel:+1702-941-0559|+1 702-941-0559>‬ PIN: ‪732 516 112‬#",
+    "ts": "1686041558.699919",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Behavior-Driven Requirements Traceability via Automated Acceptance Tests",
+        "from_url": "https://ieeexplore.ieee.org/abstract/document/8054891/keywords#keywords",
+        "id": 1,
+        "original_url": "https://ieeexplore.ieee.org/abstract/document/8054891/keywords#keywords",
+        "service_icon": "https://ieeexplore.ieee.org/favicon.ico",
+        "service_name": "ieeexplore.ieee.org",
+        "text": "Although information retrieval advances significantly improved automated traceability tools, their accuracy is still far from 100% and therefore they still need human intervention. Furthermore, despite the demonstrated benefits of traceability, many practitioners find the overhead for its creation and maintenance too high. We propose the Behavior Driven Traceability Method (BDT) that takes a different standpoint on automated traceability: we establish ubiquitous traceability between user story requirements and source code by taking advantage of the automated acceptance tests that are created as part of the Behavior Driven Development process.",
+        "thumb_height": 200,
+        "thumb_url": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+        "thumb_width": 200,
+        "title": "Behavior-Driven Requirements Traceability via Automated Acceptance Tests",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8054891/keywords#keywords"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "4Boi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ieeexplore.ieee.org/abstract/document/8054891/keywords#keywords"
+              },
+              {
+                "text": "\n自動化された受け入れテストによる行動駆動型要件のトレーサビリティ\nBehavior-Driven Requirements Traceability via Automated Acceptance Tests\n\n次週はこれでお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8da13f54-5756-40be-84d1-ee483640ca1f",
+    "team": "T6WULA63S",
+    "text": "<https://ieeexplore.ieee.org/abstract/document/8054891/keywords#keywords>\n自動化された受け入れテストによる行動駆動型要件のトレーサビリティ\nBehavior-Driven Requirements Traceability via Automated Acceptance Tests\n\n次週はこれでお願いします",
+    "ts": "1686038404.879789",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tvbs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回も一旦16時~としておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "45892d91-670c-4890-b619-461f950206f7",
+    "team": "T6WULA63S",
+    "text": "次回も一旦16時~としておきます",
+    "ts": "1686036489.095339",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Bhk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1PxAYDzXlrf8axU5w2wnUhSbeO_RtXCHRfwB2BYot3zM/edit#heading=h.vtjetc9zvq0u"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ee4992fe-841a-489f-99be-a1ff9f84e34d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gdoc",
+        "id": "F05B70RBRMJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://docs.google.com/document/d/1PxAYDzXlrf8axU5w2wnUhSbeO_RtXCHRfwB2BYot3zM/edit#heading=h.vtjetc9zvq0u>",
+    "ts": "1686035832.996179",
+    "type": "message",
+    "upload": false,
+    "user": "U02GK7DPF8C",
+    "x_files": [
+      "F05B70RBRMJ"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fpBV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://agilemanifesto.org/iso/ja/manifesto.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53351e31-3eb7-480a-b4c5-847b1f46d3f3",
+    "team": "T6WULA63S",
+    "text": "<https://agilemanifesto.org/iso/ja/manifesto.html>",
+    "ts": "1686035268.456949",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "unuJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です、4時～4時半で進めます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed6be89a-3909-4ba7-bc29-84cb5d8b595d",
+    "team": "T6WULA63S",
+    "text": "了解です、4時～4時半で進めます。",
+    "ts": "1686030891.570009",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uxQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫ですが4時半までになります、すみません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4DFF212B-551F-411C-9ACA-6BC002FB294F",
+    "team": "T6WULA63S",
+    "text": "大丈夫ですが4時半までになります、すみません。",
+    "ts": "1686030537.795869",
+    "type": "message",
+    "user": "U044Q4JABPD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XCQ+8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、４時ちょっとすぎからでもいいでしょうか",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044Q4JABPD"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dae415c7-e20a-4bd9-86db-4b038f30e361",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C",
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません、４時ちょっとすぎからでもいいでしょうか<@U044Q4JABPD> <@U02GK7DPF8C>",
+    "ts": "1686024333.730379",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/xqn-ixyo-tua",
+        "id": 1,
+        "original_url": "https://meet.google.com/xqn-ixyo-tua",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/xqn-ixyo-tua"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "tH9jL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "要求遷移/既存研究\n6月 6日 (火曜日) · 午後3:00～4:00\nタイムゾーン: Asia/Tokyo\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/xqn-ixyo-tua"
+              },
+              {
+                "text": "\nダイヤルイン: ‪(US) +1 702-941-0559‬ PIN: ‪732 516 112‬#",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8730208a-a2f4-4498-8266-1a961ae56141",
+    "team": "T6WULA63S",
+    "text": "要求遷移/既存研究\n6月 6日 (火曜日) · 午後3:00～4:00\nタイムゾーン: Asia/Tokyo\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: <https://meet.google.com/xqn-ixyo-tua>\nダイヤルイン: ‪(US) <tel:+1702-941-0559|+1 702-941-0559>‬ PIN: ‪732 516 112‬#",
+    "ts": "1685935337.241619",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "client_msg_id": "7f76bb1a-3046-44e0-854b-94974c25d7ac",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F05AX2H0G9Y",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1685935244.014539",
+    "type": "message",
+    "upload": false,
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "client_msg_id": "2b69362d-884f-400a-ad61-ee44f82b4f55",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F058LHSBMLN",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1684725768.308079",
+    "type": "message",
+    "upload": false,
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9FuF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/u/1/folders/1lYN30gi-Znxr6jJ7AfX5CpUve20SGjiO?ths=true"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54dda697-72c3-4402-9699-cc79805dae9c",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/u/1/folders/1lYN30gi-Znxr6jJ7AfX5CpUve20SGjiO?ths=true>",
+    "ts": "1684725580.881299",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Analysis of requirements volatility during software development life cycle",
+        "from_url": "https://ieeexplore.ieee.org/document/1290455",
+        "id": 1,
+        "original_url": "https://ieeexplore.ieee.org/document/1290455",
+        "service_icon": "https://ieeexplore.ieee.org/favicon.ico",
+        "service_name": "ieeexplore.ieee.org",
+        "text": "Investigating the factors that drive requirements change is an important prerequisite for understanding the nature of requirements volatility. This increased understanding will improve the process of requirements change management. We mainly focus on change analysis to identify and characterize the causes of requirements volatility. We apply a causal analysis method on change request data to develop a taxonomy of change. This taxonomy allows us to identify and trace the problems, reasons and sources of changes. Adopting an industrial case study approach, our findings reveal that the main causes of requirements volatility were changes in customer needs (or market demands), developers' increased understanding of the products, and changes in the organization policy. During the development process, we also examined the extent of requirements volatility and discovered that the rate of volatility was high at the time of requirements specification completion and while functional specification reviews were conducted.",
+        "thumb_height": 200,
+        "thumb_url": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+        "thumb_width": 200,
+        "title": "Analysis of requirements volatility during software development life cycle",
+        "title_link": "https://ieeexplore.ieee.org/document/1290455"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "5Tps",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ieeexplore.ieee.org/document/1290455"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "50811eb9-7e1f-4ae8-9b1c-ece944af6bdc",
+    "team": "T6WULA63S",
+    "text": "<https://ieeexplore.ieee.org/document/1290455>",
+    "ts": "1684725378.740539",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "B5xdA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://iis-lab.org/misc/paperreading/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e6c3f9d1-0e30-4389-854d-3cfa3dd4f402",
+    "team": "T6WULA63S",
+    "text": "<https://iis-lab.org/misc/paperreading/>",
+    "ts": "1684725206.794849",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xi9iX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、明日は１限があることを忘れていました。お昼休みの時間におねがいします ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044Q4JABPD"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ae3380e-fd4e-4d67-86c9-9a590e561fda",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044Q4JABPD",
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません、明日は１限があることを忘れていました。お昼休みの時間におねがいします <@U044Q4JABPD> <@U02GK7DPF8C>",
+    "ts": "1684659444.205139",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rlIH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "では９時４５分から１０時３０分の間でやりますか。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044Q4JABPD"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9f525f9-4e4e-4237-bc34-cb18fe6d6c93",
+    "team": "T6WULA63S",
+    "text": "では９時４５分から１０時３０分の間でやりますか。<@U02GK7DPF8C> <@U044Q4JABPD>",
+    "ts": "1684466419.329089",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aGE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、3限はwebゼミあるので、1限の方がありがたいです…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D7DD4317-13F2-4E4D-9531-3990E21AA721",
+    "team": "T6WULA63S",
+    "text": "すみません、3限はwebゼミあるので、1限の方がありがたいです…",
+    "ts": "1684466251.077569",
+    "type": "message",
+    "user": "U044Q4JABPD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZWk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3限開けました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C3B53262-074C-4C36-AEEF-1D7B34BF965A",
+    "team": "T6WULA63S",
+    "text": "3限開けました",
+    "ts": "1684448929.151599",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I6e",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1限か5限になりますが大丈夫ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "72de8c0b-7b33-4f9d-a12d-736ab6146ea5",
+    "team": "T6WULA63S",
+    "text": "1限か5限になりますが大丈夫ですか",
+    "ts": "1684389467.538729",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BHlQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "要求遷移に関するチャネルです。鳥谷部くん、来週の月曜日、加藤さんと相談する時間作れますか。とりあえず論文読もうと思います。",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0e435805-d18f-441d-b88b-b7c8fc58323b",
+    "team": "T6WULA63S",
+    "text": "要求遷移に関するチャネルです。鳥谷部くん、来週の月曜日、加藤さんと相談する時間作れますか。とりあえず論文読もうと思います。<!channel>",
+    "ts": "1684381356.434829",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1684381317.215169",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1684381317.122529",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U044Q4JABPD> has joined the channel",
+    "ts": "1684381317.056569",
+    "type": "message",
+    "user": "U044Q4JABPD"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1684381304.717139",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

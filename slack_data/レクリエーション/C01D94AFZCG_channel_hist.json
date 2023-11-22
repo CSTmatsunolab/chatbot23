@@ -1,0 +1,3775 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "C6O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "リクレーションありがとうございました。なかなか白熱した試合でしたね。次回のオリエンテーションは、ボードゲームをするとか、また検討しましょう。よろしくお願いいたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac943fee-02b9-4205-97ad-4d84381203ac",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U02GH21B3H8"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "リクレーションありがとうございました。なかなか白熱した試合でしたね。次回のオリエンテーションは、ボードゲームをするとか、また検討しましょう。よろしくお願いいたします",
+    "ts": "1669337643.874989",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "882835f0-4103-470c-aa53-1290ddc6d4dc",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "heic",
+        "id": "F04CC9WDGDR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1669290832.915239",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "a778762d-b640-412a-9708-0c0a53914121",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "heic",
+        "id": "F04D23DL5GQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1669290800.588499",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "4c52f701-8d6c-419e-a871-d8816571a95a",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "heic",
+        "id": "F04CCBZE1PU",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1669290395.859509",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "65d60c3b-0ce0-40a5-99b3-a3ed9206cb3c",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "heic",
+        "id": "F04C9DF15GV",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1669290272.116219",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "997add17-8c9f-44bc-b78a-fa13f04384e7",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "F04D22X67ME",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1669290194.044269",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VC5EH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "レクリエーションとっても楽しかったです！\n有り難うございました",
+                "type": "text"
+              },
+              {
+                "name": "relaxed",
+                "type": "emoji",
+                "unicode": "263a-fe0f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7BEE9B3E-FEE2-4840-88F3-DE03F1A45D34",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "レクリエーションとっても楽しかったです！\n有り難うございました:relaxed:",
+    "ts": "1669282645.459509",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "client_msg_id": "83E8DEDA-9CE3-4EAE-9895-6F74128A50CD",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04C8KYN62Z",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 5,
+        "name": "お疲れ様でした",
+        "users": [
+          "U02GH21BWSE",
+          "U0452RUNKAM",
+          "U0449L54VKR",
+          "UNYMRF17S",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "",
+    "ts": "1669280469.522439",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0T/P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "追記です\n\n運動着は体操着などでいいので私服はやめてください、室内用の履き物もお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a8fbea0a-f367-4890-9fd9-2671a2bcd83b",
+    "team": "T6WULA63S",
+    "text": "追記です\n\n運動着は体操着などでいいので私服はやめてください、室内用の履き物もお願いします",
+    "ts": "1669085336.542149",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZGxy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "text": "\nすみません、今週なので再度連絡です\n\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "【レクリエーションのお知らせ】",
+                "type": "text"
+              },
+              {
+                "text": "\n日時: 11月24日(木曜日) 16:40～\n場所: スポーツホール半面\n持ち物: 室内用の履物、運動着\n\n\nレクリエーションの連絡遅くなり申し訳ありません、今回のレクはスポーツホールでのバレーボールとバスケになりました！\nチームを学年をなるべくバラバラにして組みます。\n\nフリースロー大会で景品も出ます。\n\n質問等ございましたらDMでも構いませんので何卒よろしくお願いします。\n\nまた、参加、不参加関わらずこちらのフォームに回答お願いいたします。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/1whj0ZZ0cLbPqek2iOUdEq-2oXBW4Wx_NZjDPEj_C6f4/edit"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "143f781c-ae05-4c75-8a26-1c2e296b957c",
+    "edited": {
+      "ts": "1669096899.000000",
+      "user": "U02GH21B3H8"
+    },
+    "team": "T6WULA63S",
+    "text": "<!channel> \nすみません、今週なので再度連絡です\n\n*【レクリエーションのお知らせ】*\n日時: 11月24日(木曜日) 16:40～\n場所: スポーツホール半面\n持ち物: 室内用の履物、運動着\n\n\nレクリエーションの連絡遅くなり申し訳ありません、今回のレクはスポーツホールでのバレーボールとバスケになりました！\nチームを学年をなるべくバラバラにして組みます。\n\nフリースロー大会で景品も出ます。\n\n質問等ございましたらDMでも構いませんので何卒よろしくお願いします。\n\nまた、参加、不参加関わらずこちらのフォームに回答お願いいたします。\n<https://docs.google.com/forms/d/1whj0ZZ0cLbPqek2iOUdEq-2oXBW4Wx_NZjDPEj_C6f4/edit>",
+    "ts": "1669083327.546759",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yYPt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n当日の流れは、チーム分けをしてバレーのトーナメント、バスケのトーナメントを行いたいと思います。\n\nまた、レクリエーションの日にゼミ費を半年分（1200円）回収するので持ってきてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3e6d60aa-9099-41a6-a49f-c67b6730437e",
+    "team": "T6WULA63S",
+    "text": "<!channel>\n当日の流れは、チーム分けをしてバレーのトーナメント、バスケのトーナメントを行いたいと思います。\n\nまた、レクリエーションの日にゼミ費を半年分（1200円）回収するので持ってきてください",
+    "ts": "1668490048.793739",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X/oQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "【レクリエーションのお知らせ】",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "日時: ",
+                "type": "text"
+              },
+              {
+                "text": "11",
+                "type": "text"
+              },
+              {
+                "text": "月2",
+                "type": "text"
+              },
+              {
+                "text": "4",
+                "type": "text"
+              },
+              {
+                "text": "日(木曜日) 1",
+                "type": "text"
+              },
+              {
+                "text": "6",
+                "type": "text"
+              },
+              {
+                "text": ":",
+                "type": "text"
+              },
+              {
+                "text": "40",
+                "type": "text"
+              },
+              {
+                "text": "～",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "場所: ",
+                "type": "text"
+              },
+              {
+                "text": "スポーツホール半面\n",
+                "type": "text"
+              },
+              {
+                "text": "持ち物: ",
+                "type": "text"
+              },
+              {
+                "text": "室内用の履物、運動着\n\n\nレクリエーションの連絡遅くなり申し訳ありません、今回のレクはスポーツホールでのバレーボールとバスケになりました！\n\n質問等ございましたらDMでも構いませんので何卒よろしくお願いします\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FF9C617F-A77C-4261-B47E-0B5F10981B74",
+    "team": "T6WULA63S",
+    "text": "<!channel> \n*【レクリエーションのお知らせ】*\n日時: 11月24日(木曜日) 16:40～\n場所: スポーツホール半面\n持ち物: 室内用の履物、運動着\n\n\nレクリエーションの連絡遅くなり申し訳ありません、今回のレクはスポーツホールでのバレーボールとバスケになりました！\n\n質問等ございましたらDMでも構いませんので何卒よろしくお願いします\n",
+    "ts": "1668398906.252999",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "WILD BEACH - TOKYO SKY RESORT | ワイルドビーチ 新宿: WILD BEACH - TOKYO SKY RESORT | ワイルドビーチ 新宿 | 都心のルーフトップに広がるラグジュアリーな非日常ヴァカンス",
+        "from_url": "https://wildbeach.jp/shinjuku/",
+        "id": 1,
+        "original_url": "https://wildbeach.jp/shinjuku/",
+        "service_icon": "https://wildbeach.jp/shinjuku/cms/wp-content/uploads/fbrfg/apple-touch-icon.png",
+        "service_name": "WILD BEACH - TOKYO SKY RESORT | ワイルドビーチ 新宿",
+        "text": "都心のルーフトップに広がるラグジュアリーな非日常ヴァカンス",
+        "title": "WILD BEACH - TOKYO SKY RESORT | ワイルドビーチ 新宿 | 都心のルーフトップに広がるラグジュアリーな非日常ヴァカンス",
+        "title_link": "https://wildbeach.jp/shinjuku/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "41s6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新宿のワイルドビーチというお店で\n\n",
+                "type": "text"
+              },
+              {
+                "text": "https://wildbeach.jp/shinjuku/",
+                "type": "link",
+                "url": "https://wildbeach.jp/shinjuku/"
+              },
+              {
+                "text": "\n\n費用は僕のバイト先でもあるので社割使うと\n1人4000円でお酒飲み放題と手ぶらでお肉とか色々出てきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6CA3B362-FD31-45A6-AD2F-627F9F958CA2",
+    "team": "T6WULA63S",
+    "text": "新宿のワイルドビーチというお店で\n\n<https://wildbeach.jp/shinjuku/|https://wildbeach.jp/shinjuku/>\n\n費用は僕のバイト先でもあるので社割使うと\n1人4000円でお酒飲み放題と手ぶらでお肉とか色々出てきます",
+    "ts": "1666258907.336099",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8pVjV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中道くん、もうちょっとバーベキューの詳細を教えてくれませんか。場所（新宿？）やお店のURL、どれぐらいの費用か（肉代とかは一部私が負担します）など。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH21B3H8"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GVKN3CJV"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "63d5b408-2de2-45e8-94a3-65301bb42be2",
+    "team": "T6WULA63S",
+    "text": "中道くん、もうちょっとバーベキューの詳細を教えてくれませんか。場所（新宿？）やお店のURL、どれぐらいの費用か（肉代とかは一部私が負担します）など。<@U02GH21B3H8> <@U02GVKN3CJV>",
+    "ts": "1666257407.354599",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jmZm/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "【レクリエーションのお知らせ】",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "日時: ",
+                "type": "text"
+              },
+              {
+                "text": "10",
+                "type": "text"
+              },
+              {
+                "text": "月2",
+                "type": "text"
+              },
+              {
+                "text": "7",
+                "type": "text"
+              },
+              {
+                "text": "日(",
+                "type": "text"
+              },
+              {
+                "text": "木",
+                "type": "text"
+              },
+              {
+                "text": "曜日) ",
+                "type": "text"
+              },
+              {
+                "text": "19:00～\n",
+                "type": "text"
+              },
+              {
+                "text": "場所: ",
+                "type": "text"
+              },
+              {
+                "text": "未定\n",
+                "type": "text"
+              },
+              {
+                "text": "持ち物: ",
+                "type": "text"
+              },
+              {
+                "text": "BBQ費\n\n",
+                "type": "text"
+              },
+              {
+                "text": "今回のレクリエーションは",
+                "type": "text"
+              },
+              {
+                "text": "一日を使うのが難しそうなので夜にBBQをしようと思います！\n\n参加できる人はこちらの文章に",
+                "type": "text"
+              },
+              {
+                "text": "20",
+                "type": "text"
+              },
+              {
+                "text": "日までにグッドボタンお願いします。\n\n質問ある方は私のDMにお願いします",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "485C9DEB-5491-4676-9EDD-3DE069B705AF",
+    "reactions": [
+      {
+        "count": 13,
+        "name": "+1",
+        "users": [
+          "U0452RUNKAM",
+          "U0449L54VKR",
+          "U02GH21BWSE",
+          "U02GH21B3H8",
+          "U02GE1XMN4V",
+          "U044HJDLCJ2",
+          "U044Q4JABPD",
+          "U044SLE6D3N",
+          "U044SLE9UG4",
+          "U044SLECG76",
+          "U044HJDHF2A",
+          "U6YLZUWAK",
+          "U01CN9SKE8J"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> \n*【レクリエーションのお知らせ】*\n日時: 10月27日(木曜日) 19:00～\n場所: 未定\n持ち物: BBQ費\n\n今回のレクリエーションは一日を使うのが難しそうなので夜にBBQをしようと思います！\n\n参加できる人はこちらの文章に20日までにグッドボタンお願いします。\n\n質問ある方は私のDMにお願いします:pray:\n",
+    "ts": "1665882170.625739",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ywToR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ回答が住んでいない方、参加できる日がないもしくはいつでも良い方も回答をお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd4ce997-71ee-4415-984a-bec5fa555ace",
+    "team": "T6WULA63S",
+    "text": "まだ回答が住んでいない方、参加できる日がないもしくはいつでも良い方も回答をお願いします",
+    "ts": "1665458137.554739",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ktki",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "日程調整のアンケートは本日までです！\n回答の方よろしくお願い致します！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c2f2ad18-be3b-4e17-8999-6b35cb40712b",
+    "team": "T6WULA63S",
+    "text": "日程調整のアンケートは本日までです！\n回答の方よろしくお願い致します！",
+    "ts": "1665363874.568899",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qqt8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "[日程調整のお願い]\nお疲れ様です。4年幹事の中道です。\n今月に三年生の送迎会を行いたいと思っています！\n以下のフォームから都合の良い日をいくつか選択してください。\n三年生の参加者が一番多い日程で開催したいと思っています。\n\nお手数ですが、10月10日(月)までに参加可能日程の回答をお願いします。\n\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/B1sBr2BaWHszyAwo6"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1adf3922-2264-4878-913c-978a1d1b577f",
+    "team": "T6WULA63S",
+    "text": "[日程調整のお願い]\nお疲れ様です。4年幹事の中道です。\n今月に三年生の送迎会を行いたいと思っています！\n以下のフォームから都合の良い日をいくつか選択してください。\n三年生の参加者が一番多い日程で開催したいと思っています。\n\nお手数ですが、10月10日(月)までに参加可能日程の回答をお願いします。\n\n<https://forms.gle/B1sBr2BaWHszyAwo6>",
+    "ts": "1665021428.478359",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MJ2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "style": {
+                  "bold": true
+                },
+                "type": "broadcast"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": " \n【応用情報工学科レクリエーションのお知らせ】\n",
+                "type": "text"
+              },
+              {
+                "text": "日時: 9月14日(水曜日) 3・4限(13:20〜16:30)",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "場所:今のところ 2号館",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "持ち物: 特になし",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "※自由参加",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "応用情報工学科の学年を問わず参加出来るレクリエーションです。久々の対面のレクリエーションなので良ければ参加してください。",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "\n企画としてはストーリー性のある謎解きゲームを予定しているみたいです。",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "詳細はメールでも送られてくるそうなので、参加予定の方はメールが届き次第確認お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "38B0DE83-89EF-419A-8C13-2A1543BF0DA3",
+    "edited": {
+      "ts": "1658904460.000000",
+      "user": "U02GH21B3H8"
+    },
+    "team": "T6WULA63S",
+    "text": "*<!channel> \n【応用情報工学科レクリエーションのお知らせ】*\n日時: 9月14日(水曜日) 3・4限(13:20〜16:30)\n場所:今のところ 2号館\n持ち物: 特になし\n※自由参加\n\n\n応用情報工学科の学年を問わず参加出来るレクリエーションです。久々の対面のレクリエーションなので良ければ参加してください。\n\n企画としてはストーリー性のある謎解きゲームを予定しているみたいです。\n\n\n詳細はメールでも送られてくるそうなので、参加予定の方はメールが届き次第確認お願いします。",
+    "ts": "1658904407.219259",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Em1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本日のレクでの写真です",
+                "type": "text"
+              },
+              {
+                "text": "。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2DAAFC56-01F2-429C-953A-1361D850FE2C",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F03DA1WD49X",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F03CXD1KNE7",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F03CUG1JKEH",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F03DM5PC0KA",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "本日のレクでの写真です。",
+    "ts": "1650956971.529059",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21B3H8"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U017H6V4KKJ> has joined the channel",
+    "ts": "1650843015.856609",
+    "type": "message",
+    "user": "U017H6V4KKJ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7vzh6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "style": {
+                  "bold": true
+                },
+                "type": "broadcast"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "【レクリエーションのお知らせ】",
+                "type": "text"
+              },
+              {
+                "text": "\n日時: 3月26日(火曜日) 3限(13:20〜)\n場所: 松野研究室\n持ち物: ゼミ費(1200円)、(コントローラー)\n\n今回のレクリエーションは全体ゼミの時間にゲーム大会を行います。\n画面をスクリーンに映して、switchで大乱闘スマッシュブラザーズ、マリオカートe.t.c.をやります。\nゲームを持っていて、自分のコントローラーで遊びたい方は持参してください。\n\nまた、このタイミングでゼミ費(",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "1人1200円",
+                "type": "text"
+              },
+              {
+                "text": ")も徴収します。\n\n[ゼミ費]\n4月・10月に一人あたり月200円ずつ、6ヶ月分 (計1,200円) 徴収します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "51c85c72-c35d-4f6d-bd94-db4c9f78bba8",
+    "team": "T6WULA63S",
+    "text": "*<!channel>* \n*【レクリエーションのお知らせ】*\n日時: 3月26日(火曜日) 3限(13:20〜)\n場所: 松野研究室\n持ち物: ゼミ費(1200円)、(コントローラー)\n\n今回のレクリエーションは全体ゼミの時間にゲーム大会を行います。\n画面をスクリーンに映して、switchで大乱闘スマッシュブラザーズ、マリオカートe.t.c.をやります。\nゲームを持っていて、自分のコントローラーで遊びたい方は持参してください。\n\nまた、このタイミングでゼミ費(*1人1200円*)も徴収します。\n\n[ゼミ費]\n4月・10月に一人あたり月200円ずつ、6ヶ月分 (計1,200円) 徴収します。",
+    "ts": "1650519033.515429",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qgtv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "幹事の方に連絡しましたが今日休みます(T_T)すみませんまた機会があったらお願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3b5f7b0-7cc0-48a5-812b-6358d38be8de",
+    "team": "T6WULA63S",
+    "text": "幹事の方に連絡しましたが今日休みます(T_T)すみませんまた機会があったらお願いします！",
+    "ts": "1648281278.204829",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l=h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません遅れます。先はいっていてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B2CB5997-3865-4670-83C3-E14DD2A14D73",
+    "is_locked": false,
+    "latest_reply": "1648282518.379249",
+    "reply_count": 1,
+    "reply_users": [
+      "U02GVKN3CJV"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すいません遅れます。先はいっていてください",
+    "thread_ts": "1648280870.521269",
+    "ts": "1648280870.521269",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ir6O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "動きやすい服装、靴で来るとより楽しめると思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19654690-f0fb-4cf1-bcd9-b9fbc9bf0c0e",
+    "team": "T6WULA63S",
+    "text": "動きやすい服装、靴で来るとより楽しめると思います。",
+    "ts": "1648259277.695109",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Bbi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n【本日17時からの送別会について】\n幹事の瀧山です。\n卒業生の皆さん、ご卒業おめでとうございます！\n\n本日17時からの送別会についてお知らせです。\n送別会では、ラウンドワンのスポッチャで遊びたいと思ってます。ドリンクバーは無料で利用できます！スポッチャは20時まで遊べます。\nラウンドワン習志野店までは無料のシャトルバスもあります。\nなるべく",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "17時を過ぎないよう",
+                "type": "text"
+              },
+              {
+                "text": "時間に余裕を持って来てください。\n集合場所で集金するので手元に2000円用意しておいてくれると助かります。\n学生の方は",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "学生証",
+                "type": "text"
+              },
+              {
+                "text": "を忘れずに持ってきてください。\n質問がある方は",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GVKN3CJV"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH21B3H8"
+              },
+              {
+                "text": " まで連絡してください。\n\n時間: 17時〜20時\n集合場所: ラウンドワン 習志野店の前\n参加費: 1人2000円\n\nアクセス方法\n・車（湾岸習志野ICより約10分/駐車場無料）\n・電車（JR京葉線新習志野より徒歩約15分）\n・バス（JR津田沼駅 南口8番出口から新習志野駅経由 イオンモール幕張新都心バスターミナル行き乗車「芝園東」下車徒歩5分）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0fa83406-0210-4bbf-8f8c-e73f097bd19a",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F038L52C17G",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F0395CZ0YQZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F038PTNTUVB",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<!channel>\n【本日17時からの送別会について】\n幹事の瀧山です。\n卒業生の皆さん、ご卒業おめでとうございます！\n\n本日17時からの送別会についてお知らせです。\n送別会では、ラウンドワンのスポッチャで遊びたいと思ってます。ドリンクバーは無料で利用できます！スポッチャは20時まで遊べます。\nラウンドワン習志野店までは無料のシャトルバスもあります。\nなるべく*17時を過ぎないよう*時間に余裕を持って来てください。\n集合場所で集金するので手元に2000円用意しておいてくれると助かります。\n学生の方は*学生証*を忘れずに持ってきてください。\n質問がある方は<@U02GVKN3CJV> <@U02GH21B3H8> まで連絡してください。\n\n時間: 17時〜20時\n集合場所: ラウンドワン 習志野店の前\n参加費: 1人2000円\n\nアクセス方法\n・車（湾岸習志野ICより約10分/駐車場無料）\n・電車（JR京葉線新習志野より徒歩約15分）\n・バス（JR津田沼駅 南口8番出口から新習志野駅経由 イオンモール幕張新都心バスターミナル行き乗車「芝園東」下車徒歩5分）",
+    "ts": "1648259225.226589",
+    "type": "message",
+    "upload": false,
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wxwf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "Googleフォームへの記入本日までとなっております。よろしくお願い致します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "413695F5-F8E7-4C86-8553-63FB89EF820A",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel>\nGoogleフォームへの記入本日までとなっております。よろしくお願い致します。",
+    "ts": "1647332887.137479",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dva7A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " \n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "82FAB55E-403F-4651-8A8E-EA40941AAF12",
+    "team": "T6WULA63S",
+    "text": "<!channel> \n\n",
+    "ts": "1647004723.866229",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Google Forms - create and analyze surveys, for free.",
+        "from_url": "https://forms.gle/W59GCcii9iTM18sQA",
+        "id": 1,
+        "original_url": "https://forms.gle/W59GCcii9iTM18sQA",
+        "service_icon": "https://accounts.google.com/favicon.ico",
+        "service_name": "accounts.google.com",
+        "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+        "title": "Google Forms - create and analyze surveys, for free.",
+        "title_link": "https://forms.gle/W59GCcii9iTM18sQA"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "5CBFu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【参加確認のお願い】\nお疲れ様です。3年幹事の中道です。\n卒業生送別会の日程が確定したので、参加不参加関わらず、以下のフォームの記入と内容の確認お願いします。\n\nお手数ですが、15日までに回答お願いします。\n是非参加よろしくお願いします。\n",
+                "type": "text"
+              },
+              {
+                "text": "https://forms.gle/W59GCcii9iTM18sQA",
+                "type": "link",
+                "url": "https://forms.gle/W59GCcii9iTM18sQA"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7E8F7284-0D2F-47EA-B365-49C77CC63BD6",
+    "edited": {
+      "ts": "1647004639.000000",
+      "user": "U02GH21B3H8"
+    },
+    "team": "T6WULA63S",
+    "text": "【参加確認のお願い】\nお疲れ様です。3年幹事の中道です。\n卒業生送別会の日程が確定したので、参加不参加関わらず、以下のフォームの記入と内容の確認お願いします。\n\nお手数ですが、15日までに回答お願いします。\n是非参加よろしくお願いします。\n<https://forms.gle/W59GCcii9iTM18sQA|https://forms.gle/W59GCcii9iTM18sQA>",
+    "ts": "1647004579.191639",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "65Jq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "94911ed3-2d22-414b-8a66-4d7b9d27c9bc",
+    "team": "T6WULA63S",
+    "text": "<!channel>",
+    "ts": "1646272369.820509",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Google Docs: 卒業生送別会の日程",
+        "from_url": "https://forms.gle/isUvV1oM2n7uFyPZ8",
+        "id": 1,
+        "image_bytes": 33495,
+        "image_height": 250,
+        "image_url": "https://lh5.googleusercontent.com/PHQqeebn3VktQRpeEO-nQxChderCjghilogUgcU3Jdk_RluJMmPrIEU1nzXNo7DxvX3LDPwmpRU",
+        "image_width": 333,
+        "original_url": "https://forms.gle/isUvV1oM2n7uFyPZ8",
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "service_name": "Google Docs",
+        "text": "送別会は17時集合の予定です。場所などは追々連絡します。",
+        "title": "卒業生送別会の日程",
+        "title_link": "https://forms.gle/isUvV1oM2n7uFyPZ8"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "vER7G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "[日程調整のお願い]\nお疲れ様です。３年幹事の瀧山です。\n今月に卒業生の送別会を行いたいと思っています！\n以下のフォームから都合の良い日をいくつか選択してください。\n卒業生の参加者が一番多い日程で開催したいと思っています。\n時間は17時集合を考えています。\n集合場所などは追々連絡します。\n\nお手数ですが、3月7日(月)までに参加可能日程の回答をお願いします。\n\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/isUvV1oM2n7uFyPZ8"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3bf41fa-6158-4e6a-abf2-61856f680762",
+    "team": "T6WULA63S",
+    "text": "[日程調整のお願い]\nお疲れ様です。３年幹事の瀧山です。\n今月に卒業生の送別会を行いたいと思っています！\n以下のフォームから都合の良い日をいくつか選択してください。\n卒業生の参加者が一番多い日程で開催したいと思っています。\n時間は17時集合を考えています。\n集合場所などは追々連絡します。\n\nお手数ですが、3月7日(月)までに参加可能日程の回答をお願いします。\n\n<https://forms.gle/isUvV1oM2n7uFyPZ8>",
+    "ts": "1646271505.277129",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/UYkwy3Lwicb28thY6",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/UYkwy3Lwicb28thY6",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/UYkwy3Lwicb28thY6"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "m/=01",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 33204\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/UYkwy3Lwicb28thY6"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 33204\n<https://minhaya.com/link/UYkwy3Lwicb28thY6>\n#みんはや",
+    "ts": "1639640747.015300",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/jimKxbEDzaGcHPpb6",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/jimKxbEDzaGcHPpb6",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/jimKxbEDzaGcHPpb6"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "jRQxt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 61310\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/jimKxbEDzaGcHPpb6"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 61310\n<https://minhaya.com/link/jimKxbEDzaGcHPpb6>\n#みんはや",
+    "ts": "1639640345.015100",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/UAK6JqMaSbBPBCsP8",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/UAK6JqMaSbBPBCsP8",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/UAK6JqMaSbBPBCsP8"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "kGOX7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 42295\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/UAK6JqMaSbBPBCsP8"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 42295\n<https://minhaya.com/link/UAK6JqMaSbBPBCsP8>\n#みんはや",
+    "ts": "1639639743.014900",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/bcstnz8eEKKApDLJ8",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/bcstnz8eEKKApDLJ8",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/bcstnz8eEKKApDLJ8"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "qHFt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 69599\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/bcstnz8eEKKApDLJ8"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 69599\n<https://minhaya.com/link/bcstnz8eEKKApDLJ8>\n#みんはや",
+    "ts": "1639639141.014700",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/XuUUBUsLFiSLWz4WA",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/XuUUBUsLFiSLWz4WA",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/XuUUBUsLFiSLWz4WA"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "==y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 73011\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/XuUUBUsLFiSLWz4WA"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 73011\n<https://minhaya.com/link/XuUUBUsLFiSLWz4WA>\n#みんはや",
+    "ts": "1639638328.014500",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/CsSi8FvS4VaRcfua9",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/CsSi8FvS4VaRcfua9",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/CsSi8FvS4VaRcfua9"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "41f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "雑魚決定戦\nみんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 38523\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/CsSi8FvS4VaRcfua9"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "雑魚決定戦\nみんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Aランク\nルームID: 38523\n<https://minhaya.com/link/CsSi8FvS4VaRcfua9>\n#みんはや",
+    "ts": "1639637720.014300",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/link/9WUi84A9ESC1aFAJ6",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/link/9WUi84A9ESC1aFAJ6",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/link/9WUi84A9ESC1aFAJ6"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "c2rS7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Cランク\nルームID: 56575\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/link/9WUi84A9ESC1aFAJ6"
+              },
+              {
+                "text": "\n#みんはや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みんなで早押しクイズ対戦！\nリンクをタップしてゲームに参加しよう。\n出題問題: Cランク\nルームID: 56575\n<https://minhaya.com/link/9WUi84A9ESC1aFAJ6>\n#みんはや",
+    "ts": "1639636324.014100",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pw5t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本日４限(15:00 ~ 16:30)にやるレクのズームのリンクです。\nトピック: 松野ゼミレクリエーション\n時間: 2021年12月16日 03:00 PM 大阪、札幌、東京\n\nZoomミーティングに参加する\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/82873462597?pwd=VWlkaG1JakppTmxGbjdqcnFpWExuQT09"
+              },
+              {
+                "text": "\n\nミーティングID: 828 7346 2597\nパスコード: 882674",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1164b942-8946-4cd6-9a29-c4c28851ba49",
+    "team": "T6WULA63S",
+    "text": "本日４限(15:00 ~ 16:30)にやるレクのズームのリンクです。\nトピック: 松野ゼミレクリエーション\n時間: 2021年12月16日 03:00 PM 大阪、札幌、東京\n\nZoomミーティングに参加する\n<https://nihon-u-ac-jp.zoom.us/j/82873462597?pwd=VWlkaG1JakppTmxGbjdqcnFpWExuQT09>\n\nミーティングID: 828 7346 2597\nパスコード: 882674",
+    "ts": "1639624927.014000",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "みんなで早押しクイズ(みんはや)",
+        "from_url": "https://minhaya.com/",
+        "id": 1,
+        "image_bytes": 56448,
+        "image_height": 480,
+        "image_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "image_width": 640,
+        "original_url": "https://minhaya.com/",
+        "service_icon": "https://minhaya.com/./favicon.io",
+        "service_name": "minhaya.com",
+        "text": "オンライン対戦早押しクイズゲームアプリが登場！ライバルと対戦してレーティング上位を目指そう！",
+        "thumb_height": 480,
+        "thumb_url": "https://i4.ytimg.com/vi/jMl7IZ8BL7E/sddefault.jpg",
+        "thumb_width": 640,
+        "title": "みんなで早押しクイズ(みんはや)",
+        "title_link": "https://minhaya.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "zhHmY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【12月16日(木)に行うレクリエーションのお知らせ】\n　12月16日(木)に４限の時間にレクリエーションをします。レクリエーションで行う内容は、「みんなで早押しクイズ(みんはや)」というゲームをすることに決まりました。\n　下のリンクから、iPhoneを使っている人も、Androidを使っている人もアプリをインストールすることができるので、レクリエーションの時間までにインストールをお願いします。アプリをインストールされたら、ゲーム中わかりやすいように、みんはやの方でプロフィールを更新もお願いします。\n　当日はZoomを使ってゲームをします。Zoomのリンクは後日送信します。\n　質問があれば3年幹事(自分か",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH21B3H8"
+              },
+              {
+                "text": ") 4年幹事(",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " さんか ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": " さん)に聞いてください。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://minhaya.com/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "811596a8-f215-437c-a58d-d8391b4b2335",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH21B3H8"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "【12月16日(木)に行うレクリエーションのお知らせ】\n　12月16日(木)に４限の時間にレクリエーションをします。レクリエーションで行う内容は、「みんなで早押しクイズ(みんはや)」というゲームをすることに決まりました。\n　下のリンクから、iPhoneを使っている人も、Androidを使っている人もアプリをインストールすることができるので、レクリエーションの時間までにインストールをお願いします。アプリをインストールされたら、ゲーム中わかりやすいように、みんはやの方でプロフィールを更新もお願いします。\n　当日はZoomを使ってゲームをします。Zoomのリンクは後日送信します。\n　質問があれば3年幹事(自分か<@U02GH21B3H8>) 4年幹事(<@U01BRAMRXD3> さんか <@U01BUKC708K> さん)に聞いてください。\n<https://minhaya.com/>",
+    "ts": "1638433632.013600",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VG8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GVKN3CJV"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH21B3H8"
+              },
+              {
+                "text": " 短大生の皆さんも(",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01UG7USLHF"
+              },
+              {
+                "type": "user",
+                "user_id": "U01UTDJ5XLG"
+              },
+              {
+                "type": "user",
+                "user_id": "U01TNT22M2T"
+              },
+              {
+                "type": "user",
+                "user_id": "U01TWRNR222"
+              },
+              {
+                "text": ")ここを見れているので、連絡とかに使ってください。短大生の皆さんは12月16日の4限の時間は参加できるそうです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8a603dd-91e6-48bf-9980-9a415904f5e0",
+    "is_locked": false,
+    "latest_reply": "1637317825.002400",
+    "reply_count": 1,
+    "reply_users": [
+      "U01BUKC708K"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U01BUKC708K> <@U01BRAMRXD3> <@U02GVKN3CJV> <@U02GH21B3H8> 短大生の皆さんも(<@U01UG7USLHF><@U01UTDJ5XLG><@U01TNT22M2T><@U01TWRNR222>)ここを見れているので、連絡とかに使ってください。短大生の皆さんは12月16日の4限の時間は参加できるそうです。",
+    "thread_ts": "1637303905.002300",
+    "ts": "1637303905.002300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "943d95c0-5cd4-44c7-993d-4d41bd887659",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HTG47L7N",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1634192785.004300",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "client_msg_id": "0e1eae1f-f839-4d6e-844a-c8e32687d2f2",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HN9THRJR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02JEUWM5L0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HJHA83GE",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02JEUW1H32",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02J3T9QNMP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HR9U7ZMZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HRAGA5T5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HRA55LHG",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1634192687.004200",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "client_msg_id": "616b3498-c9d7-4d5f-ae0b-37216798c9b9",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HR9JJQ9Y",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1634192346.004100",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "client_msg_id": "f79ec276-7a9b-4e15-9ff5-8b13b2341ce0",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HN8CJ2MT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02JETG5YAU",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HTDYH8HJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HR8F4JLB",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02JETGD5AL",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HAH903UP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HJFWEH2A",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02J3RWNEL9",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HTDZ2H5J",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HN8DCWNR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1634190987.004000",
+    "type": "message",
+    "upload": false,
+    "user": "U01BUKC708K"
+  },
+  {
+    "client_msg_id": "a4684bed-d096-45cd-aa72-ee3856b6047b",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HR8C64LT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HJFTENR4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HJFTHU22",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HN8AAG5T",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HN8AECGM",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HR816DTL",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HTDWBZ44",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02J3RU84GZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HJFU4X0W",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gif",
+        "id": "F02HAH6QXV5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1634190916.003900",
+    "type": "message",
+    "upload": false,
+    "user": "U01BUKC708K"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Gartic Phone - 伝言ゲーム",
+        "from_url": "https://garticphone.com/ja/?c=0324485e8f",
+        "id": 1,
+        "image_bytes": 2113564,
+        "image_height": 250,
+        "image_url": "https://garticphone.com/images/thumb.png",
+        "image_width": 423,
+        "original_url": "https://garticphone.com/ja/?c=0324485e8f",
+        "service_name": "garticphone.com",
+        "text": "伝言ゲーム！今すぐ無料でこの有名なゲームをプレイしよう！",
+        "title": "Gartic Phone - 伝言ゲーム",
+        "title_link": "https://garticphone.com/ja/?c=0324485e8f"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "VI7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://garticphone.com/ja/?c=0324485e8f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "11e6d087-8789-471d-8229-ec1fb4044671",
+    "team": "T6WULA63S",
+    "text": "<https://garticphone.com/ja/?c=0324485e8f>",
+    "ts": "1634187091.003600",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/riv-snap-syo",
+        "id": 1,
+        "original_url": "https://meet.google.com/riv-snap-syo",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/riv-snap-syo"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "DDIhD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "レクB\n10月 14日 (木曜日) · 午後2:00～3:00\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/riv-snap-syo"
+              },
+              {
+                "text": "\nダイヤルイン: ‪(US) +1 505-445-7559‬ PIN: ‪125 068 729‬#",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dd63799a-fa57-408f-91f0-d148d1fe0b4a",
+    "team": "T6WULA63S",
+    "text": "レクB\n10月 14日 (木曜日) · 午後2:00～3:00\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: <https://meet.google.com/riv-snap-syo>\nダイヤルイン: ‪(US) <tel:+1505-445-7559|+1 505-445-7559>‬ PIN: ‪125 068 729‬#",
+    "ts": "1634186964.003300",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Gartic Phone - 伝言ゲーム",
+        "from_url": "https://garticphone.com/ja",
+        "id": 1,
+        "image_bytes": 2113564,
+        "image_height": 250,
+        "image_url": "https://garticphone.com/images/thumb.png",
+        "image_width": 423,
+        "original_url": "https://garticphone.com/ja",
+        "service_name": "garticphone.com",
+        "text": "伝言ゲーム！今すぐ無料でこの有名なゲームをプレイしよう！",
+        "title": "Gartic Phone - 伝言ゲーム",
+        "title_link": "https://garticphone.com/ja"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "q5N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 木曜日のレクは、自己紹介＋GarticPhoneやります。\n越前谷さんの送信した、meetに集まってください。\n\n自己紹介は\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "名前",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "学年",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "研究室での役職",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "なんか話したいこと",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "と言うような感じでおねがいします。\n\nGarticPhoneは余った時間でやります。\nmeetの部屋二つ作るので、好きな方に入ってください。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://garticphone.com/ja"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "04af2810-0a28-4fd6-8301-5a1cc387691f",
+    "is_locked": false,
+    "latest_reply": "1633958025.003000",
+    "reply_count": 1,
+    "reply_users": [
+      "U01BRAMRXD3"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<!channel> 木曜日のレクは、自己紹介＋GarticPhoneやります。\n越前谷さんの送信した、meetに集まってください。\n\n自己紹介は\n• 名前\n• 学年\n• 研究室での役職\n• なんか話したいこと\nと言うような感じでおねがいします。\n\nGarticPhoneは余った時間でやります。\nmeetの部屋二つ作るので、好きな方に入ってください。\n<https://garticphone.com/ja>",
+    "thread_ts": "1633926314.002200",
+    "ts": "1633926314.002200",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/768077f6f4b2fc4efe7507c90ab2037b.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-48.png",
+        "author_id": "U01BUKC708K",
+        "author_link": "https://matsulabnu.slack.com/team/U01BUKC708K",
+        "author_name": "越前谷彩乃",
+        "author_subname": "越前谷彩乃",
+        "channel_id": "C6XL0T6UU",
+        "channel_name": "全体ゼミ",
+        "color": "D0D0D0",
+        "fallback": "[October 7th, 2021 2:26 PM] csaa18010: <!channel>\n３年生レクリエーションをオンラインで行います。\n日にち：10月14日(木)\n時間：3限 (10:40~12:10)\nレクの内容は、後日お知らせします。\n当日は、以下のGoogle Meetで行います。よろしくお願いします。\n\nビデオ通話のリンク: <https://meet.google.com/chq-acvo-yft|https://meet.google.com/chq-acvo-yft>\nダイヤルイン: ‪(US) <tel:+1413-591-4106|+1 413-591-4106>‬ PIN: ‪390 974 004‬#",
+        "footer": "Posted in #全体ゼミ",
+        "from_url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1633584390069500",
+        "is_msg_unfurl": true,
+        "is_share": true,
+        "message_blocks": [
+          {
+            "channel": "C6XL0T6UU",
+            "message": {
+              "blocks": [
+                {
+                  "block_id": "u63uB",
+                  "elements": [
+                    {
+                      "elements": [
+                        {
+                          "range": "channel",
+                          "type": "broadcast"
+                        },
+                        {
+                          "text": "\n３年生レクリエーションをオンラインで行います。\n日にち：10月14日(木)\n時間：3限 (10:40~12:10)\nレクの内容は、後日お知らせします。\n当日は、以下のGoogle Meetで行います。よろしくお願いします。\n\nビデオ通話のリンク: ",
+                          "type": "text"
+                        },
+                        {
+                          "text": "https://meet.google.com/chq-acvo-yft",
+                          "type": "link",
+                          "url": "https://meet.google.com/chq-acvo-yft"
+                        },
+                        {
+                          "text": "\nダイヤルイン: ‪(US) +1 413-591-4106‬ PIN: ‪390 974 004‬#",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "rich_text_section"
+                    }
+                  ],
+                  "type": "rich_text"
+                }
+              ]
+            },
+            "team": "T6WULA63S",
+            "ts": "1633584390.069500"
+          }
+        ],
+        "mrkdwn_in": [
+          "text"
+        ],
+        "text": "<!channel>\n３年生レクリエーションをオンラインで行います。\n日にち：10月14日(木)\n時間：3限 (10:40~12:10)\nレクの内容は、後日お知らせします。\n当日は、以下のGoogle Meetで行います。よろしくお願いします。\n\nビデオ通話のリンク: <https://meet.google.com/chq-acvo-yft|https://meet.google.com/chq-acvo-yft>\nダイヤルイン: ‪(US) <tel:+1413-591-4106|+1 413-591-4106>‬ PIN: ‪390 974 004‬#",
+        "ts": "1633584390.069500"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "ecJQ",
+        "elements": [
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1633653491.001200",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U01BUKC708K"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "",
+    "thread_ts": "1633603591.001000",
+    "ts": "1633603591.001000",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N/H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0dc07ac1-23df-4c27-b28a-9301595ca04f",
+    "team": "T6WULA63S",
+    "text": "お願いします",
+    "ts": "1620281359.008600",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=47",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "短大生UPBKFF",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6a3e4299-0677-492b-aa6f-60db72d982bd",
+    "team": "T6WULA63S",
+    "text": "短大生UPBKFF",
+    "ts": "1620281332.008400",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iKuaY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "殺されて話し相手が欲しい人どうぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc3cb954-edb3-470b-87a8-2935e2e87ad7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "殺されて話し相手が欲しい人どうぞ",
+    "ts": "1620278517.008000",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/npd-ptiy-jjz",
+        "id": 1,
+        "original_url": "https://meet.google.com/npd-ptiy-jjz",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/npd-ptiy-jjz"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "=3Z4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "死亡者ルーム\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/npd-ptiy-jjz"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "417a4753-fcab-4a50-9ff8-8347dc7c9e5f",
+    "team": "T6WULA63S",
+    "text": "死亡者ルーム\nビデオ通話のリンク: <https://meet.google.com/npd-ptiy-jjz>",
+    "ts": "1620278484.007400",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/Ykr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "UPBKFF",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84e101f7-90ae-4495-a25c-8a281e07f2b2",
+    "team": "T6WULA63S",
+    "text": "UPBKFF",
+    "ts": "1620278414.007000",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ML+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "死亡者ルームとかつくりますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9c31973e-711e-499b-9fb8-3d14e435a45b",
+    "team": "T6WULA63S",
+    "text": "死亡者ルームとかつくりますか？",
+    "ts": "1620278337.006700",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7RAm+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Bグループ\n",
+                "type": "text"
+              },
+              {
+                "text": "meet.google.com/xvc-huci-dpc",
+                "type": "link",
+                "url": "http://meet.google.com/xvc-huci-dpc"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "45f466db-4651-4889-a2b3-01f96af0d5c9",
+    "team": "T6WULA63S",
+    "text": "Bグループ\n<http://meet.google.com/xvc-huci-dpc|meet.google.com/xvc-huci-dpc>",
+    "ts": "1620278240.006400",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SL7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Aグループ\n<院生>\n杉田先輩\n安藤先輩\n松岡先輩\n<4年>\n越前谷\n大河内くん\n古大工くん\n前山くん\n<短大生>\n小熊くん\n松浦さん\n\nBグループ\n<院生>\nドウゼン先輩\n岩鶴先輩\n大熊先輩\n<4年生>\n榎本くん\n松浦さん\n村田くん\n山田くん\n<短大生>\n片岡さん\n和田さん",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bc0043a2-9b38-4f13-8623-47641f1ac70f",
+    "team": "T6WULA63S",
+    "text": "Aグループ\n&lt;院生&gt;\n杉田先輩\n安藤先輩\n松岡先輩\n&lt;4年&gt;\n越前谷\n大河内くん\n古大工くん\n前山くん\n&lt;短大生&gt;\n小熊くん\n松浦さん\n\nBグループ\n&lt;院生&gt;\nドウゼン先輩\n岩鶴先輩\n大熊先輩\n&lt;4年生&gt;\n榎本くん\n松浦さん\n村田くん\n山田くん\n&lt;短大生&gt;\n片岡さん\n和田さん",
+    "ts": "1620278111.006000",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F020LTD92KH",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1620269428.005800",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fsi+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "参加される方は、ご確認よろしくお願いします",
+                "type": "text"
+              },
+              {
+                "name": "nerd_face",
+                "type": "emoji",
+                "unicode": "1f913"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F021HGZ8ZGQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 6,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U011D5HFK7H",
+          "U01UG7USLHF",
+          "UD32JHVL7",
+          "U01C72C0B7T",
+          "U01BDLWP7T9"
+        ]
+      }
+    ],
+    "text": "参加される方は、ご確認よろしくお願いします:nerd_face:",
+    "ts": "1620120125.005100",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/channel/UCW2sBBDDPEKu-aKlF067TFw",
+        "author_name": "オータムGames",
+        "fallback": "YouTube Video: 【Among Us】これを見れば分かる！初心者向け攻略法！《アモングアス/アマングアス》",
+        "from_url": "https://youtu.be/4K678Om75ZA",
+        "id": 1,
+        "original_url": "https://youtu.be/4K678Om75ZA",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/4K678Om75ZA/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "【Among Us】これを見れば分かる！初心者向け攻略法！《アモングアス/アマングアス》",
+        "title_link": "https://youtu.be/4K678Om75ZA",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/4K678Om75ZA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "lhZA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/4K678Om75ZA"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84174006-8946-4f08-81d1-db552b404f67",
+    "reactions": [
+      {
+        "count": 5,
+        "name": "man-gesturing-ok",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01UG7USLHF",
+          "U011D5HFK7H",
+          "UNKU3S7C2",
+          "U01C0JWMER2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://youtu.be/4K678Om75ZA>",
+    "ts": "1619764509.003900",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f1X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ルール等は下記の動画を見て頂ければ、大体の流れがつかめると思います。どうしても勝ちたい人は、細かいテクニックとか調べてみてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "34163fb0-93d6-4a34-a48d-e7e2a8c648fb",
+    "team": "T6WULA63S",
+    "text": "ルール等は下記の動画を見て頂ければ、大体の流れがつかめると思います。どうしても勝ちたい人は、細かいテクニックとか調べてみてください。",
+    "ts": "1619764505.003700",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UNed",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "レクの日時が5/6の3限と決まったので、軽いアナウンスをします。\n短大生歓迎レクはAmong usをやります。レクの日までにスマホ版もしくはsteam版のアプリをダウンロードしておいてください。お願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "25c07f16-ebd8-4c78-85b4-7d381a0c020d",
+    "team": "T6WULA63S",
+    "text": "レクの日時が5/6の3限と決まったので、軽いアナウンスをします。\n短大生歓迎レクはAmong usをやります。レクの日までにスマホ版もしくはsteam版のアプリをダウンロードしておいてください。お願いします！",
+    "ts": "1619764425.002300",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KVa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Meetの部屋を作っていただいてあるのですが、ブレイクアウトルームを使用したいので、ZOOMを利用させていただきます。申し訳ございません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "812a0a71-8d4e-419e-83f7-4764cbb35013",
+    "is_locked": false,
+    "latest_reply": "1608127594.027400",
+    "reply_count": 3,
+    "reply_users": [
+      "UD32JHVL7",
+      "U01BRAMRXD3"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "Meetの部屋を作っていただいてあるのですが、ブレイクアウトルームを使用したいので、ZOOMを利用させていただきます。申し訳ございません。",
+    "thread_ts": "1608127467.026900",
+    "ts": "1608127467.026900",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oMmt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日のレクリエーションはこのような形で行いたいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F01HE742EKT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "明日のレクリエーションはこのような形で行いたいと思います。",
+    "ts": "1608127411.025600",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bX60B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ご回答いただきありがとうございました",
+                "type": "text"
+              },
+              {
+                "name": "grin",
+                "type": "emoji",
+                "unicode": "1f601"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bab77797-3249-4cec-9feb-d1e040d17ef7",
+    "team": "T6WULA63S",
+    "text": "ご回答いただきありがとうございました:grin:",
+    "ts": "1607907997.023500",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m336",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 上のリクレーションのアンケートよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b10c0f4d-9815-4471-a5c6-c1e4c1a70500",
+    "team": "T6WULA63S",
+    "text": "<!channel> 上のリクレーションのアンケートよろしくお願いいたします。",
+    "ts": "1607680467.019500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U01CN9SKE8J> has joined the channel",
+    "ts": "1607662343.018600",
+    "type": "message",
+    "user": "U01CN9SKE8J"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UQWQC3GPJ> has joined the channel",
+    "ts": "1607661861.018400",
+    "type": "message",
+    "user": "UQWQC3GPJ"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1607661861.018200",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lRCy3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "標題のとおり、参加者の確認を行っておきたいです。\n12月13日までに投票お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "750ae5a9-868e-4c46-ba1f-65d0ab546069",
+    "edited": {
+      "ts": "1607657753.000000",
+      "user": "U01BRAMRXD3"
+    },
+    "team": "T6WULA63S",
+    "text": "標題のとおり、参加者の確認を行っておきたいです。\n12月13日までに投票お願いします。",
+    "ts": "1607657730.017600",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7d/",
+        "text": {
+          "text": "*12月17日に行うレクの参加人数及び参加者の確認*\n",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CHa1j",
+        "text": {
+          "text": "This polly is closed.",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "2IM",
+        "fields": [
+          {
+            "text": "参加する。  \n\n`██████████████████████ ⁢ ⁢ ⁢`  |  88% (14)\n\n<@UNYMRF17S>, <@U01CJ8MK0M6>, <@U010MRUUSF7> + 11 more",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "参加できない。  \n\n`███ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  13% (2)\n\n<@U011D5HFK7H>, <@U01CN9SKE8J>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "V0we2",
+        "elements": [
+          {
+            "text": "*Total Votes*: 16",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "Te6f",
+        "elements": [
+          {
+            "action_id": "PollMessage(SzZ7QAuCEjzW22aSK).ViewAllResponsesButton",
+            "text": {
+              "emoji": true,
+              "text": "View All Responses",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "ZqFL",
+        "type": "divider"
+      },
+      {
+        "block_id": "ZAo4",
+        "elements": [
+          {
+            "text": "Sender: @榎本シン  |  *:clock930: Closed: *<!date^1607907970^{date_short} at {time}|Dec 14, 2020 at 01:06 AM>  |  :unlock: Responses are Non-Anonymous\n\n:zap: Try sending your own polly using one of <https://app.polly.ai/templates/global?utm_source=poll-message&amp;utm_medium=slack&amp;utm_term=view-templates|our templates>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "edited": {
+      "ts": "1607907970.000000",
+      "user": "BA40WBXLG"
+    },
+    "subtype": "bot_message",
+    "text": "*This polly is closed.* <@U01BRAMRXD3> has a polly for you!",
+    "ts": "1607657674.016400",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "name": "レクリエーション",
+    "old_name": "オリエンテーション",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"オリエンテーション\" to \"レクリエーション\"",
+    "ts": "1607585775.015900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xsT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "承知しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c94a013b-8342-40a7-8efa-eb27378814d6",
+    "team": "T6WULA63S",
+    "text": "承知しました。",
+    "ts": "1607517367.015500",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "h7l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。明日みなさんと相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e3b80b14-2f1b-4f96-ace5-a961f5f617ba",
+    "team": "T6WULA63S",
+    "text": "了解です。明日みなさんと相談しましょう",
+    "ts": "1607517283.015300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EysX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "16時から、いいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "906216fa-438b-4495-b8d4-865ae1e537ea",
+    "team": "T6WULA63S",
+    "text": "16時から、いいと思います。",
+    "ts": "1607517028.015000",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jxns",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "12月17日ですが、凸版印刷の説明会とかぶらないようにする必要がありますが、例えば、4時からにしましょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4f780da-4319-46c2-a9f9-2c94879f4cfe",
+    "team": "T6WULA63S",
+    "text": "12月17日ですが、凸版印刷の説明会とかぶらないようにする必要がありますが、例えば、4時からにしましょうか。",
+    "ts": "1607510604.013600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "【おえかきチャットゲーム　おえかきの森】 - おえかき・クイズゲームのハンゲ",
+        "from_url": "http://casual.hange.jp/oekaki/",
+        "id": 1,
+        "original_url": "http://casual.hange.jp/oekaki/",
+        "service_icon": "http://casual.hange.jp/favicon.ico",
+        "service_name": "casual.hange.jp",
+        "text": "おえかきチャットゲーム「あつまれ！おえかきの森」がハンゲに登場！みんなが記憶を頼りに描いた絵を、何の絵か当てよう！",
+        "title": "【おえかきチャットゲーム　おえかきの森】 - おえかき・クイズゲームのハンゲ",
+        "title_link": "http://casual.hange.jp/oekaki/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "nt7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "連絡が遅くなり申し訳ございません。\n今回のレクリエーションは、｢おえかきの森+座談会｣を行いたいと思います。 \n\nおえかきの森を行うにあたり、以下のURLで会員登録をお願いいたします。\n",
+                "type": "text"
+              },
+              {
+                "text": "http://casual.hange.jp/oekaki/",
+                "type": "link",
+                "url": "http://casual.hange.jp/oekaki/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7ee55d8f-1061-4d5e-8aa2-ad53d9085b14",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T",
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "連絡が遅くなり申し訳ございません。\n今回のレクリエーションは、｢おえかきの森+座談会｣を行いたいと思います。 \n\nおえかきの森を行うにあたり、以下のURLで会員登録をお願いいたします。\n<http://casual.hange.jp/oekaki/|http://casual.hange.jp/oekaki/>",
+    "ts": "1607499152.012300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Iz99",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "宇宙人狼がみんな出来るんなら興味ある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "360cb4dc-9e63-4646-9b5a-6d69bf293802",
+    "team": "T6WULA63S",
+    "text": "宇宙人狼がみんな出来るんなら興味ある",
+    "ts": "1607491363.011900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ygd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お絵かきの森いいんじゃね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EA4FA66B-464E-4853-A647-76CE849E65FB",
+    "team": "T6WULA63S",
+    "text": "お絵かきの森いいんじゃね",
+    "ts": "1607491281.010800",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QQa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オリエンテーションやるとしたら自分からは\napexが過疎った原因\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://playvalorant.com/en-gb/"
+              },
+              {
+                "text": "\nみんな大好きおえ森\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "http://casual.hange.jp/oekaki/"
+              },
+              {
+                "text": "\n最近流行りの宇宙人狼\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://apps.apple.com/jp/app/among-us/id1351168404"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=ja&gl=US"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19a9cc13-b426-41b6-9eec-df1b0ab5b799",
+    "edited": {
+      "ts": "1607491214.000000",
+      "user": "UNKU3S7C2"
+    },
+    "is_locked": false,
+    "latest_reply": "1607499053.012000",
+    "reply_count": 1,
+    "reply_users": [
+      "U01BUKC708K"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "オリエンテーションやるとしたら自分からは\napexが過疎った原因\n<https://playvalorant.com/en-gb/>\nみんな大好きおえ森\n<http://casual.hange.jp/oekaki/>\n最近流行りの宇宙人狼\n<https://apps.apple.com/jp/app/among-us/id1351168404>\n<https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&amp;hl=ja&amp;gl=US>",
+    "thread_ts": "1607491199.010000",
+    "ts": "1607491199.010000",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oOH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オリエンテーションですが、12月24日にすると、次の日が卒論発表会なので、ちょっと大変なので、オリエンテーションは12月17日の3年ゼミの時間にしようかなと思うのですが、どうでしょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "382daa57-b175-4745-a73c-f40ed250c98d",
+    "team": "T6WULA63S",
+    "text": "オリエンテーションですが、12月24日にすると、次の日が卒論発表会なので、ちょっと大変なので、オリエンテーションは12月17日の3年ゼミの時間にしようかなと思うのですが、どうでしょうか。",
+    "ts": "1606225291.008500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "purpose": "オリエンテーションの企画、発案、相談を行うチャンネルです",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: オリエンテーションの企画、発案、相談を行うチャンネルです",
+    "ts": "1605574113.007200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "name": "オリエンテーション",
+    "old_name": "3年オリエンテーション",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"3年オリエンテーション\" to \"オリエンテーション\"",
+    "ts": "1605574113.007100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gYM2j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": " さん、",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " 君、年末にまたオンラインでリクレーションができたらと思います。また相談させてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f53fca38-1bd3-442f-8e68-f88a4b177267",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01BRAMRXD3",
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01BUKC708K> さん、<@U01BRAMRXD3> 君、年末にまたオンラインでリクレーションができたらと思います。また相談させてください",
+    "ts": "1605189093.006800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lVDl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みなさん、今日は大変ありがとうございました。途中までいれませんでしたが、大変楽しかったです。また機会をつくってなんかできたらと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37a7bcce-1dd4-42b4-89d8-59d0d85ff612",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "smile",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01BRAMRXD3"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "tada",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "みなさん、今日は大変ありがとうございました。途中までいれませんでしたが、大変楽しかったです。また機会をつくってなんかできたらと思います。",
+    "ts": "1602757549.005400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1602679833.004500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1602679833.004300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F01CKBBH35G",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1602668721.003900",
+    "type": "message",
+    "upload": false,
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1602666747.003300",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UNM7EU5A7> has joined the channel",
+    "ts": "1602666747.003100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UNYMRF17S> has joined the channel",
+    "ts": "1602666747.002900",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@UP0TP0QH4> has joined the channel",
+    "ts": "1602666747.002700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U010MRUUSF7> has joined the channel",
+    "ts": "1602666747.002500",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BDLWP7T9> has joined the channel",
+    "ts": "1602666747.002300",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BMM61G7Q> has joined the channel",
+    "ts": "1602666747.002100",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BRAMRXD3> has joined the channel",
+    "ts": "1602666747.001900",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1602666747.001700",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWLPAQ> has joined the channel",
+    "ts": "1602666746.001500",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWMER2> has joined the channel",
+    "ts": "1602666746.001300",
+    "type": "message",
+    "user": "U01C0JWMER2"
+  },
+  {
+    "inviter": "UUDCP6WNQ",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1602666746.001100",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1602666545.000900",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1602666444.000700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1602666293.000200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  }
+]

@@ -1,0 +1,6865 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1617883209.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+YVLR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "昨日と同じところで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C453F77B-D907-4056-8C04-D73798A13D6C",
+    "team": "T6WULA63S",
+    "text": "昨日と同じところで",
+    "ts": "1613696269.005100",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S4cu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん寝付けない\n多分寝坊する",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b073f08-68a2-4e1f-aee6-ee319e7731e5",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ok_hand",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ごめん寝付けない\n多分寝坊する",
+    "ts": "1613679124.004800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01NDJFG31B",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1613612894.004000",
+    "type": "message",
+    "upload": false,
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dnEL4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "用事終わったから行きます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E8DB71FE-E8D2-4467-B800-F40281A1C037",
+    "team": "T6WULA63S",
+    "text": "用事終わったから行きます",
+    "ts": "1613610891.003900",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ANm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "16日のアジャイルにいます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7cddef5e-05eb-4c04-a314-09d6b8b3be48",
+    "team": "T6WULA63S",
+    "text": "16日のアジャイルにいます",
+    "ts": "1613610719.003600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P3Zy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どこいる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b0320bd-498c-4670-910c-638ff29c1783",
+    "team": "T6WULA63S",
+    "text": "どこいる？",
+    "ts": "1613610488.003200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Nkimc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめんちょっと遅れる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5ee08d2c-9d81-40c1-9fbf-55bf5e74b5cd",
+    "team": "T6WULA63S",
+    "text": "ごめんちょっと遅れる",
+    "ts": "1613609733.003000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+49",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cc22f95f-072b-486b-8f62-493f7bc2336f",
+    "team": "T6WULA63S",
+    "text": "了解",
+    "ts": "1613570722.002600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g8myw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "27ae3481-c7e5-4e5d-9afd-248bc7a30fc3",
+    "team": "T6WULA63S",
+    "text": "おけ",
+    "ts": "1613564378.002400",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WTDB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AC81FDF8-703A-4796-9B75-DA071549195A",
+    "team": "T6WULA63S",
+    "text": "大丈夫",
+    "ts": "1613558555.002200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EKz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず金曜10時からは確定でいい？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d90b3872-c84e-4e4f-a570-47e509da630d",
+    "team": "T6WULA63S",
+    "text": "とりあえず金曜10時からは確定でいい？",
+    "ts": "1613558538.002000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XmaN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "他の人も厳しそうなら変更しよう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "038a74bd-82f5-4b3c-bf25-a7d2d488df2f",
+    "team": "T6WULA63S",
+    "text": "他の人も厳しそうなら変更しよう",
+    "ts": "1613558512.001500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ORQN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん木曜行けない",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1CB96497-2E90-4B58-83D3-805500B66090",
+    "team": "T6WULA63S",
+    "text": "ごめん木曜行けない:pray:",
+    "ts": "1613557833.001100",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mzN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週も明日と明後日の10時スタートでいい？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f2867a1c-070b-4623-a79c-85c5ea8cc2e9",
+    "team": "T6WULA63S",
+    "text": "今週も明日と明後日の10時スタートでいい？",
+    "ts": "1613557762.000700",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zD2i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業始めます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b6cbfa4-99f5-4e57-a0a2-ff7cbfa558e4",
+    "team": "T6WULA63S",
+    "text": "作業始めます",
+    "ts": "1613091799.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yo/my",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業を開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "499e6083-bd53-4801-8ba8-fbcd0e74a358",
+    "team": "T6WULA63S",
+    "text": "作業を開始します",
+    "ts": "1613005985.008700",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gx5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3b50d47-a7b2-4191-b179-db71d8c59077",
+    "team": "T6WULA63S",
+    "text": "おけ",
+    "ts": "1612947897.008300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D10L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダーに追加しといた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5a83228e-7bbe-4330-b6d4-69c0ff54dd87",
+    "team": "T6WULA63S",
+    "text": "カレンダーに追加しといた",
+    "ts": "1612947891.008200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ktE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "オッケーじゃあそこでよろしく〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3dc491ff-f1cf-4c20-a754-6e237c997979",
+    "team": "T6WULA63S",
+    "text": "オッケーじゃあそこでよろしく〜",
+    "ts": "1612947777.007900",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cf2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "同じく",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9da6b6e-2c9a-4b7a-b312-3d8c8ec309e4",
+    "team": "T6WULA63S",
+    "text": "同じく",
+    "ts": "1612947598.007100",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uPus",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺はいけると思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5812944a-909f-4717-8c6e-409e38e4c44a",
+    "team": "T6WULA63S",
+    "text": "俺はいけると思う",
+    "ts": "1612945828.006900",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x0I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "10時〜でどう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d27a373c-4589-49c2-89c6-e24f56f01c0f",
+    "team": "T6WULA63S",
+    "text": "10時〜でどう？",
+    "ts": "1612945342.006500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yuU6y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかった　何時からにする？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4facbd0c-7c81-4f9c-9ece-eb03494b291b",
+    "team": "T6WULA63S",
+    "text": "わかった　何時からにする？",
+    "ts": "1612945316.006200",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gpm0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんな木金午前で大丈夫そうならそれでいこう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "91adf35c-b884-45eb-b0f9-1ed2cfa2ffae",
+    "team": "T6WULA63S",
+    "text": "みんな木金午前で大丈夫そうならそれでいこう",
+    "ts": "1612944093.005800",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6Nqmc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "木金午前？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b7e096a-0070-41e7-a2cb-72441b7beb57",
+    "team": "T6WULA63S",
+    "text": "木金午前？",
+    "ts": "1612943672.005300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ajJH9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "木金でどう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E8259452-3618-463B-A5FA-4C00D21F562E",
+    "team": "T6WULA63S",
+    "text": "木金でどう？",
+    "ts": "1612929523.004800",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b/o0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "水（午後）木金は大丈夫",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bd13660b-d594-499b-a6b0-cf56f5714b48",
+    "team": "T6WULA63S",
+    "text": "水（午後）木金は大丈夫",
+    "ts": "1612923839.004100",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LKK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "水曜は全体ゼミ終わった後なら、木金は16頃までなら",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ce9384a-e454-4fa4-9509-968ade5ea1ec",
+    "team": "T6WULA63S",
+    "text": "水曜は全体ゼミ終わった後なら、木金は16頃までなら",
+    "ts": "1612922642.002900",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2JWaV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕は水曜は18時まで、木曜はいつでも、金曜は午前中なら行ける",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2F2D4983-163A-499B-AA14-BE08926C8A54",
+    "team": "T6WULA63S",
+    "text": "僕は水曜は18時まで、木曜はいつでも、金曜は午前中なら行ける",
+    "ts": "1612920996.002000",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5cgDS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いつやる？\n僕は水木金ならできるよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f16a6b69-cbcf-4827-b6e8-d4c51e5a90d7",
+    "team": "T6WULA63S",
+    "text": "いつやる？\n僕は水木金ならできるよ",
+    "ts": "1612917602.000800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HwS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "023ad08f-5ac0-4b3b-86e7-e41d52005aea",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "pray",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1612813815.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rvcDH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7627cfaa-06d7-4bae-9403-34f192788969",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1612797074.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/2O",
+        "text": {
+          "text": "*開発者スクラム* submission from <@U010MRUUSF7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "VPF",
+        "text": {
+          "text": "*今までにやったこと*\nホワイトボードの同期\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "T3r4i",
+        "text": {
+          "text": "*これからやること*\nホワイトボードの同期の不備を治す\n他のオブジェクトの同期\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "H758",
+        "text": {
+          "text": "*問題点や課題*\nコンポーネントを利用した同期ができないこと\nモノビットの同期をオブジェクトに適用しようとしても同期されないこと\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "v2bO/",
+        "text": {
+          "text": "*疑問点*\nモノビットの同期方法\nオブジェクトの同期とは\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "=Ee",
+        "text": {
+          "text": "*その他*\nチュートリアル？ぽいやつどうりに勧めたのに最終的に同期されなかった\n一応表示だけ似非同期っぽい感じ出てきたけど…\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "yXtVm",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@U010MRUUSF7> *今までにやったこと* ホワイトボードの同期   *これからやること* ホワイトボードの同期の不備を治す 他のオブジェクトの同期   *問題点や課題* コンポーネントを利用した同期ができないこと モノビットの同期をオブジェクトに適用しようとしても同期されないこと   *疑問点* モノビットの同期方法 オブジェクトの同期とは   *その他* チュートリアル？ぽいやつどうりに勧めたのに最終的に同期されなかった 一応表示だけ似非同期っぽい感じ出てきたけど…  ",
+    "ts": "1612548171.002400",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MrdH1",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Jhp46",
+        "text": {
+          "text": "*今までにやったこと*\n付箋機能の実装\n･ドロップダウンで色の変更可能\nシーンの削除\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "UeKg",
+        "text": {
+          "text": "*これからやること*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "KD4L",
+        "text": {
+          "text": "*問題点や課題*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "sAB=",
+        "text": {
+          "text": "*疑問点*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "3aoR",
+        "text": {
+          "text": "*その他*\n久々に普通にタスク終わった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "NmgW",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* 付箋機能の実装 ･ドロップダウンで色の変更可能 シーンの削除   *これからやること* なし   *問題点や課題* なし   *疑問点* なし   *その他* 久々に普通にタスク終わった  ",
+    "ts": "1612495139.002300",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "32kiS",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "wbUq",
+        "text": {
+          "text": "*今までにやったこと*\n付箋機能の実装\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Gy8",
+        "text": {
+          "text": "*これからやること*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tNcQ",
+        "text": {
+          "text": "*問題点や課題*\n今のところなし\n強いて言うなら付箋の色をもっと柔軟に変更できるようにするくらい\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "yI3/K",
+        "text": {
+          "text": "*疑問点*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Dtq=7",
+        "text": {
+          "text": "*その他*\nkoba_newUIシーンとkoba_StartSecneシーンを消しました\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "A+svx",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* 付箋機能の実装   *これからやること* 特になし   *問題点や課題* 今のところなし 強いて言うなら付箋の色をもっと柔軟に変更できるようにするくらい   *疑問点* なし   *その他* koba_newUIシーンとkoba_StartSecneシーンを消しました  ",
+    "ts": "1612494335.002200",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FOE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "40a03171-e5dd-43b5-8b9d-f4749f7e9fae",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1612494183.001900",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "npvA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2cd0befe-3655-4c7e-bb19-6ece270d214c",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1612466830.001500",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nzG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b7c1a38-5a16-4f2e-a99a-9637bf00eeda",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1612448863.001000",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y6z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EBF8A80D-5B52-4348-9383-B1A400D1B5DC",
+    "team": "T6WULA63S",
+    "text": "終わりました",
+    "ts": "1612406969.000700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HORf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始してました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "065D1C57-EF71-477F-9536-6EFD8EDCC8A3",
+    "team": "T6WULA63S",
+    "text": "作業開始してました",
+    "ts": "1612406046.000400",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IK5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もうちょい全体的に見てみるわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a8cc050f-3434-43d5-b6cd-d15a395afcb0",
+    "team": "T6WULA63S",
+    "text": "もうちょい全体的に見てみるわ",
+    "ts": "1612033266.000500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g1u",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ITV1J",
+        "text": {
+          "text": "*今までにやったこと*\nVoiceActorのオブジェクトからGetComponentでaudiosourceとってきてWatsonの音声認識とボイスチャットが一応同時にできるようにした\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ji1y",
+        "text": {
+          "text": "*これからやること*\nGoogleAPIの方もどうにかやってみる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "TJP",
+        "text": {
+          "text": "*問題点や課題*\nWatsonのほう、一応ボイスチャットしながら音声認識できるようになったけど、認識精度がゴミカスになってほぼ使い物にならないレベルになってしまった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CYpO",
+        "text": {
+          "text": "*疑問点*\nGoogleAPIの方のGitにブランチ切ってあげてたものを一度masterにブランチ切り替えてからまたGoogleAPIのブランチに切り替えてプルしたらヒエラルキーのprefabが消えてしまった\nもう一度設定し直すのがめんどくさい\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "p+bQ7",
+        "text": {
+          "text": "*その他*\n@TakatomoKobayashi VoiceActorからGetComponentしてきたAudioClipをそのまま_recordingにつっこんでも動かなかった\nなんかいろいろコメントアウトした覚えがあるけど今外にいるから思い出せない\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "FVX+",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* VoiceActorのオブジェクトからGetComponentでaudiosourceとってきてWatsonの音声認識とボイスチャットが一応同時にできるようにした   *これからやること* GoogleAPIの方もどうにかやってみる   *問題点や課題* Watsonのほう、一応ボイスチャットしながら音声認識できるようになったけど、認識精度がゴミカスになってほぼ使い物にならないレベルになってしまった   *疑問点* GoogleAPIの方のGitにブランチ切ってあげてたものを一度masterにブランチ切り替えてからまたGoogleAPIのブランチに切り替えてプルしたらヒエラルキーのprefabが消えてしまった もう一度設定し直すのがめんどくさい   *その他* @TakatomoKobayashi VoiceActorからGetComponentしてきたAudioClipをそのまま_recordingにつっこんでも動かなかった なんかいろいろコメントアウトした覚えがあるけど今外にいるから思い出せない  ",
+    "ts": "1611932084.000200",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y9m=O",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "WDvC",
+        "text": {
+          "text": "*今までにやったこと*\nメインシーンに行った時にVoiceActorを取得して、_recordingに代入してみたけど音声認識が反応しなかった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Q1+5z",
+        "text": {
+          "text": "*これからやること*\n他の案が思いつけばやる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "N2b",
+        "text": {
+          "text": "*問題点や課題*\n今のところ解決策が思いつかない\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "/sQUo",
+        "text": {
+          "text": "*疑問点*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CFMbQ",
+        "text": {
+          "text": "*その他*\nコード読むのに一週間かかりそう\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "QVu+",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* メインシーンに行った時にVoiceActorを取得して、_recordingに代入してみたけど音声認識が反応しなかった   *これからやること* 他の案が思いつけばやる   *問題点や課題* 今のところ解決策が思いつかない   *疑問点* なし   *その他* コード読むのに一週間かかりそう  ",
+    "ts": "1611910827.000100",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RSa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おけ、ありがと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0be1fdcc-334c-444f-94b1-09f9846b5a04",
+    "team": "T6WULA63S",
+    "text": "おけ、ありがと",
+    "ts": "1611644795.003800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XG=J8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後一応、ボイスチャットの方がデフォルトでBROADCASTモード（自分の声以外の声全てが聞こえるモード）なんで、もしかしたらMULTICASTモードにして自分の声も聞こえるようにしてからじゃないともしかしたらダメかも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44cb5742-1924-48d7-aa49-ae60f2cd8e91",
+    "team": "T6WULA63S",
+    "text": "後一応、ボイスチャットの方がデフォルトでBROADCASTモード（自分の声以外の声全てが聞こえるモード）なんで、もしかしたらMULTICASTモードにして自分の声も聞こえるようにしてからじゃないともしかしたらダメかも",
+    "ts": "1611640274.003200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZtnG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕がさっき言ってたMonobitのボイスチャットの方の音源の引っこ抜き方なんですけど、\nExampleStreaming.csスクリプトのOnJoinedRoom()メソッド内で、\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "code": true
+                },
+                "text": "GameObject go = MonobitNetwork.Instantiate(\"VoiceActor\", Vector3.zero, Quaternion.identity, 0);",
+                "type": "text"
+              },
+              {
+                "text": "\nっていう表記があるんだけど、これがボイスチャット時に出てくるVoiceActorのゲームオブジェクトを作ってる（プレハブを生成している）行なんで、このgoから例えば\n",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "code": true
+                },
+                "text": "AudioClip audioclip = go.GetComponent<AudioSource>().clip",
+                "type": "text"
+              },
+              {
+                "text": "\nとかでとってこれると思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c2751ec7-f444-4367-8693-4511e685dac2",
+    "team": "T6WULA63S",
+    "text": "僕がさっき言ってたMonobitのボイスチャットの方の音源の引っこ抜き方なんですけど、\nExampleStreaming.csスクリプトのOnJoinedRoom()メソッド内で、\n`GameObject go = MonobitNetwork.Instantiate(\"VoiceActor\", Vector3.zero, Quaternion.identity, 0);`\nっていう表記があるんだけど、これがボイスチャット時に出てくるVoiceActorのゲームオブジェクトを作ってる（プレハブを生成している）行なんで、このgoから例えば\n`AudioClip audioclip = go.GetComponent&lt;AudioSource&gt;().clip`\nとかでとってこれると思います",
+    "ts": "1611640173.001700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "68y/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05547bc9-af45-4b12-b00b-aa287126ccb5",
+    "team": "T6WULA63S",
+    "text": "作業終わります",
+    "ts": "1611467018.000600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eB4V3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f6e400bc-962d-4864-9210-48de3cc98005",
+    "team": "T6WULA63S",
+    "text": "作業します",
+    "ts": "1611461024.000400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DQl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "知らない人じゃなくてよかったw\n作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "91b331a8-e138-4043-8405-45d4c4253779",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "pray",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "知らない人じゃなくてよかったw\n作業終わりました",
+    "ts": "1611218359.006800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V2=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、ごめんRoom1作ってたの俺だわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "92395200-12BE-4173-8F50-DB87F61BEE1A",
+    "team": "T6WULA63S",
+    "text": "あ、ごめんRoom1作ってたの俺だわ",
+    "ts": "1611217727.006100",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K5m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕たちもビビった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c86e44ae-1867-42f0-a287-01f49855af23",
+    "team": "T6WULA63S",
+    "text": "僕たちもビビった",
+    "ts": "1611217467.005500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Ul",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3d8f88e2-c4ac-4822-8ec6-d28593b28993",
+    "team": "T6WULA63S",
+    "text": "わかる",
+    "ts": "1611217445.005200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2JqL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あいや、ツール起動したら部屋立ってたからびっくりしただけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cec6bbd2-7860-48c0-bb5d-ac17c3691f24",
+    "team": "T6WULA63S",
+    "text": "あいや、ツール起動したら部屋立ってたからびっくりしただけ",
+    "ts": "1611215809.004900",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S76+p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さっきroom1っていう部屋があったよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9367d099-8bab-464b-b247-0d16ae8073ac",
+    "team": "T6WULA63S",
+    "text": "さっきroom1っていう部屋があったよ",
+    "ts": "1611215787.004400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j1a5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "14時から作業してました\n言うの遅れてごめん",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4889b052-61f9-412f-baba-f13fcc491446",
+    "team": "T6WULA63S",
+    "text": "14時から作業してました\n言うの遅れてごめん",
+    "ts": "1611215761.003800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sgF4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今議事録ツールでルーム作ってる人いる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bf1ef48d-2eb6-4997-92c6-f6d944ff3e9a",
+    "team": "T6WULA63S",
+    "text": "今議事録ツールでルーム作ってる人いる？",
+    "ts": "1611212681.003300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n7oB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1CFB844D-C0C9-4891-93F4-F181738F81E2",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1611199391.002900",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Awt+k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "昨日作ったGoogleCloudSpeechRecognitionVersionブランチにプッシュするときに、間違えてExmapleStreeming.csのスクリプトを削除してしまったので、ブランチを削除して最新のmasterブランチから分岐させて新しくGoogloeCloudSpeechRecogniotionVersion2ブランチを作ってそっちにGoogleCloudSpeechRecognitionアセットをインポートしたものをプッシュしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8d5e967c-3583-48d8-b0f0-2f2d0648b6a4",
+    "team": "T6WULA63S",
+    "text": "昨日作ったGoogleCloudSpeechRecognitionVersionブランチにプッシュするときに、間違えてExmapleStreeming.csのスクリプトを削除してしまったので、ブランチを削除して最新のmasterブランチから分岐させて新しくGoogloeCloudSpeechRecogniotionVersion2ブランチを作ってそっちにGoogleCloudSpeechRecognitionアセットをインポートしたものをプッシュしました",
+    "ts": "1611193555.002600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0xR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d7883bd-c462-4f93-bcf4-0b60ddd984c3",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1611193399.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Svv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "出来たらmasterの最新のやつでホストにちゃんとしたファイルできるか試して見てください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "08c2f829-b4f8-4326-8870-7c5c1d97ecb2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "出来たらmasterの最新のやつでホストにちゃんとしたファイルできるか試して見てください",
+    "ts": "1611161606.003100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CIMa/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dc1032aa-5e36-4a4a-8a5c-7733190cd42c",
+    "team": "T6WULA63S",
+    "text": "作業終わります",
+    "ts": "1611161549.001700",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Awra",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業始めます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bcfd916e-b38d-4de6-b861-b3053ad5c809",
+    "team": "T6WULA63S",
+    "text": "作業始めます",
+    "ts": "1611148171.001400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3PFz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GoogleCloudSpeechRecognitionversionブランチを作ってそっちにcloudspeechRecognitionのアセットをインポートしたものをプッシュしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb0457e1-64f6-43a5-b410-3754dbff1907",
+    "edited": {
+      "ts": "1611109095.000000",
+      "user": "UP0TP0QH4"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UNM7EU5A7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "GoogleCloudSpeechRecognitionversionブランチを作ってそっちにcloudspeechRecognitionのアセットをインポートしたものをプッシュしました",
+    "ts": "1611108955.001000",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dGk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業を終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9be969e6-0b8f-4102-bd2a-86e63609326b",
+    "team": "T6WULA63S",
+    "text": "作業を終了します",
+    "ts": "1611025741.000700",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X6n",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業を開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7562224f-3b51-4d81-91c0-b1e96e6b78a7",
+    "team": "T6WULA63S",
+    "text": "作業を開始します",
+    "ts": "1611019125.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0N=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6de8e166-8bc4-466e-b2b4-05268c37c8ec",
+    "team": "T6WULA63S",
+    "text": "終わりました",
+    "ts": "1610967426.000600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "isq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d311ec6e-70f3-4fdc-b6a0-6180afd00058",
+    "team": "T6WULA63S",
+    "text": "開始します",
+    "ts": "1610951567.000400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Rw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48884530-42e0-43f7-b487-7b69f76d2890",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1610606639.001200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DJN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9a5731c7-9d51-49c4-a20c-1c9bf26cb91c",
+    "team": "T6WULA63S",
+    "text": "開始します",
+    "ts": "1610600790.000500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HBh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "gitignoreで.metaファイルが無視できるようにアップデートしてプッシュしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ab5a7ed4-4cd1-4d53-9945-9d1df2cf5cbb",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "UNM7EU5A7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "gitignoreで.metaファイルが無視できるようにアップデートしてプッシュしました",
+    "ts": "1609983512.000800",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1609898713.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n8+3d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ソート機能がまだ完璧じゃないので完成したらシーンをマージさせようと思ってます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0f327158-f016-4e50-8f97-cd77d7ad6c21",
+    "team": "T6WULA63S",
+    "text": "ソート機能がまだ完璧じゃないので完成したらシーンをマージさせようと思ってます",
+    "ts": "1607332894.002000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ig7d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "シーン遷移のところ元に戻しちゃいました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9643e121-6def-4cb1-973d-82410ec7137e",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "シーン遷移のところ元に戻しちゃいました",
+    "ts": "1607332862.001200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mvY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業してました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c144cb54-eca4-4c5e-91c7-ae954e6a7029",
+    "team": "T6WULA63S",
+    "text": "作業してました",
+    "ts": "1607332815.000200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qQO94",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "91BE152B-0CF4-48A8-903F-1D555AB73729",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1607050242.000600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Et7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c54290e-3cf0-4754-90bb-9bb9e00287a3",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1607044621.000300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FpRkE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dd87ae16-3b05-40cc-b2f7-ff307e66fec8",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1606996787.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cm5yC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "400bc650-ac19-4bfe-b9d7-aaff708391fb",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1606995274.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KzmA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c9eb519-d9cb-4ea4-ae3f-505f51bc98a0",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1606883529.000300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Tkdo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2d2ca3ea-041a-49bf-92c0-76c5bc65e188",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1606793070.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ouu0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業を開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "210b8ce3-4ee9-49ae-a9f9-e8afe8f61f94",
+    "team": "T6WULA63S",
+    "text": "作業を開始します",
+    "ts": "1606785225.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aGTtV",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "atfOD",
+        "text": {
+          "text": "*今までにやったこと*\ncsvファイルに時間とIDを追加した\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Q0f",
+        "text": {
+          "text": "*これからやること*\n同期ファイルを作って全員のファイルをマージさせる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cxnF6",
+        "text": {
+          "text": "*問題点や課題*\n共有フォルダって考え方だと難しそう\nホストの所にファイルを集めるっていう方向でやろうと思ってる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "dL1h",
+        "text": {
+          "text": "*疑問点*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "mL7hC",
+        "text": {
+          "text": "*その他*\n今回のスプリントのタスクどっちもえぐいな\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tTUpv",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* csvファイルに時間とIDを追加した   *これからやること* 同期ファイルを作って全員のファイルをマージさせる   *問題点や課題* 共有フォルダって考え方だと難しそう ホストの所にファイルを集めるっていう方向でやろうと思ってる   *疑問点* 特になし   *その他* 今回のスプリントのタスクどっちもえぐいな  ",
+    "ts": "1606544903.000100",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uVz91",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "fMUm",
+        "text": {
+          "text": "*今までにやったこと*\nMonobitとWatsonの競合の原因を探った\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "JQQ",
+        "text": {
+          "text": "*これからやること*\ndllファイルについて調べる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "HPxIO",
+        "text": {
+          "text": "*問題点や課題*\nMonobitMicrophoneコンポーネントの中身を弄ればなんとかなりそうだが、MonobitMicrophoneコンポーネントがC#スクリプトで書かれてなくて、おそらくC++で書かれてるファイルをコンパイルしたであろう.dll形式になってたので中身を書き換えられない\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "0R67",
+        "text": {
+          "text": "*疑問点*\n.dllファイルは逆コンパイル成功したけど、MonobitMicrophoneコンポーネントが書かれているmvc.dllの中身はMonobitMicrophoneコンポーネントだけじゃなかったから、mvc.dllに逆コンパイルしてから編集したc++スクリプトをまたぶち込むにはどうすればいいんだろう\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "y8epN",
+        "text": {
+          "text": "*その他*\ndllってなんだよ、大人しくC#で書けよ\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "6NJ",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* MonobitとWatsonの競合の原因を探った   *これからやること* dllファイルについて調べる   *問題点や課題* MonobitMicrophoneコンポーネントの中身を弄ればなんとかなりそうだが、MonobitMicrophoneコンポーネントがC#スクリプトで書かれてなくて、おそらくC++で書かれてるファイルをコンパイルしたであろう.dll形式になってたので中身を書き換えられない   *疑問点* .dllファイルは逆コンパイル成功したけど、MonobitMicrophoneコンポーネントが書かれているmvc.dllの中身はMonobitMicrophoneコンポーネントだけじゃなかったから、mvc.dllに逆コンパイルしてから編集したc++スクリプトをまたぶち込むにはどうすればいいんだろう   *その他* dllってなんだよ、大人しくC#で書けよ  ",
+    "ts": "1606500847.000100",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j/Fh",
+        "text": {
+          "text": "*開発者スクラム* submission from <@U010MRUUSF7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "sd6",
+        "text": {
+          "text": "*今までにやったこと*\ncsvファイルの出力変更\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ruLFb",
+        "text": {
+          "text": "*これからやること*\nそれぞれのcsvファイルの同期または結合するためのフォルダの作製か探索\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "BHF/e",
+        "text": {
+          "text": "*問題点や課題*\n共有フォルダなるものが現存しない可能性と同期の不安\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "kzUSQ",
+        "text": {
+          "text": "*疑問点*\n共有フォルダとは\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "fEn",
+        "text": {
+          "text": "*その他*\nモノビット\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "3oL",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@U010MRUUSF7> *今までにやったこと* csvファイルの出力変更   *これからやること* それぞれのcsvファイルの同期または結合するためのフォルダの作製か探索   *問題点や課題* 共有フォルダなるものが現存しない可能性と同期の不安   *疑問点* 共有フォルダとは   *その他* モノビット  ",
+    "ts": "1606492862.000800",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nLT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eab17140-24b4-415c-9529-a3422a1d1032",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1606492716.000300",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DhdLx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59cc1d5b-97d2-4882-929a-ac08551d3121",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1606446898.000700",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "muBT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0d7e81ec-0054-405a-acd1-387db673ea35",
+    "team": "T6WULA63S",
+    "text": "作業開始しました",
+    "ts": "1606440703.000300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9cRs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5aa7e4a8-b064-4535-86c6-44d3534466c6",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1606385028.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lZM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89e4becb-cc12-497b-98e1-cda2f6e4e856",
+    "team": "T6WULA63S",
+    "text": "作業開始しました",
+    "ts": "1606378263.000300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "わくわく会議術 - 効率的な会議の進め方を徹底解説！ -: 〔完全無料〕Web会議・テレビ会議の文字起こしを自動化してみよう",
+        "from_url": "https://kaigi-susumekata.com/gdoc/",
+        "id": 1,
+        "original_url": "https://kaigi-susumekata.com/gdoc/",
+        "service_icon": "https://kaigi-susumekata.com/wp/wp-content/uploads/2020/04/cropped-f_f_business_43_s512_f_business_43_0bg-180x180.png",
+        "service_name": "わくわく会議術 - 効率的な会議の進め方を徹底解説！ -",
+        "text": "会議の議事録を作成するとき、「発言を書き起こしたものがあれば、議論が思い出せて、議事録作成が楽何だけどなぁ。」そんなふうに思ったことがありませんか。以前の記事では、Sloosという自動文字起こしアプリがリリースされたことをご紹介しましたが、",
+        "thumb_height": 1280,
+        "thumb_url": "https://kaigi-susumekata.com/wp/wp-content/uploads/2020/05/gdoc.png",
+        "thumb_width": 1920,
+        "title": "〔完全無料〕Web会議・テレビ会議の文字起こしを自動化してみよう",
+        "title_link": "https://kaigi-susumekata.com/gdoc/",
+        "ts": 1590802697
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "WqN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kaigi-susumekata.com/gdoc/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5db453eb-a17b-412d-aa33-19ed38935df9",
+    "team": "T6WULA63S",
+    "text": "<https://kaigi-susumekata.com/gdoc/>",
+    "ts": "1606194460.000700",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "音声認識ラボ by 東京反訳: Web会議での発話をリアルタイムで文字に書き起こせる便利ツール2選。Zoomなどと併用可能！ - 音声認識ラボ by 東京反訳",
+        "fields": [
+          {
+            "short": true,
+            "title": "Written by",
+            "value": "秋月"
+          },
+          {
+            "short": true,
+            "title": "Est. reading time",
+            "value": "1分"
+          }
+        ],
+        "from_url": "https://8089.co.jp/onsei-ninshiki/2148",
+        "id": 1,
+        "image_bytes": 13150,
+        "image_height": 250,
+        "image_url": "https://8089.co.jp/onsei-ninshiki/content/uploads/2020/05/gijilock_01.png",
+        "image_width": 359,
+        "original_url": "https://8089.co.jp/onsei-ninshiki/2148",
+        "service_icon": "https://8089.co.jp/favicon.ico",
+        "service_name": "音声認識ラボ by 東京反訳",
+        "text": "Web会議ツールは無料版から有料版までいろいろとあるが、まだ音声・ビデオ会議の日本語でのライブ自動文字起こしや字幕表示には対応していないツールも多い。例えば人気のZoomでも音声認識による日本語ライブ自動文字起こしや字幕表示は対応が待たれる現状だ。 そこで今回は、ZoomなどのWeb会議ツールと併用可能な、Web会議での発話をリアルタイムで文字に書き起こせる便利ツールを2つ紹介したいと思う。どちら […]",
+        "title": "Web会議での発話をリアルタイムで文字に書き起こせる便利ツール2選。Zoomなどと併用可能！ - 音声認識ラボ by 東京反訳",
+        "title_link": "https://8089.co.jp/onsei-ninshiki/2148",
+        "ts": 1590641942
+      },
+      {
+        "fallback": "さくらのナレッジ: ビデオ会議上の発言を音声認識で自動的にテキスト化してみよう | さくらのナレッジ",
+        "from_url": "https://knowledge.sakura.ad.jp/24077/",
+        "id": 2,
+        "original_url": "https://knowledge.sakura.ad.jp/24077/",
+        "service_icon": "https://knowledge.sakura.ad.jp/favicon.ico",
+        "service_name": "さくらのナレッジ",
+        "text": "こんにちは。さくらインターネットの大井＠在宅勤務中です。 ここ最近の世界情勢の中、インターネットを介して遠隔で会議を行う「ビデオ会議」が急速に普及しつつあります。これまではどうしても現地に参加者が集まることができない場合など限定的なシチュエーションでの利用が中心となっていましたが、すでに原則として在宅勤務となった弊社ではミーティングのほぼ100%がビデオ会議……",
+        "thumb_height": 184,
+        "thumb_url": "https://knowledge.sakura.ad.jp/images/2020/05/video-conference-5167472_1280_2-252x184.jpg",
+        "thumb_width": 252,
+        "title": "ビデオ会議上の発言を音声認識で自動的にテキスト化してみよう | さくらのナレッジ",
+        "title_link": "https://knowledge.sakura.ad.jp/24077/"
+      },
+      {
+        "fallback": "音声認識ラボ by 東京反訳: 同時発言も話者を特定した形でテキスト化。気になる「LiveTalk」の機能や特徴を紹介する - 音声認識ラボ by 東京反訳",
+        "fields": [
+          {
+            "short": true,
+            "title": "Written by",
+            "value": "秋月"
+          },
+          {
+            "short": true,
+            "title": "Est. reading time",
+            "value": "0分"
+          }
+        ],
+        "from_url": "https://8089.co.jp/onsei-ninshiki/660",
+        "id": 3,
+        "image_bytes": 169491,
+        "image_height": 250,
+        "image_url": "https://8089.co.jp/onsei-ninshiki/content/uploads/2015/06/demo0518-01.jpg",
+        "image_width": 427,
+        "original_url": "https://8089.co.jp/onsei-ninshiki/660",
+        "service_icon": "https://8089.co.jp/favicon.ico",
+        "service_name": "音声認識ラボ by 東京反訳",
+        "text": "「2015年4月14日に発表された「FUJITSU Software LiveTalk」。その特徴からコミュニケーションツールとしてだけでなく、議事録作成といった用途で使える可能性も秘めており、今後の進化が期待される製品だ。先日のデモを踏まえてその機能や特徴を紹介する」 「FUJITSU Software LiveTalk」（以下、LiveTalk）は、富士通と富士通ソーシアルサイエンスラボラトリ […]",
+        "title": "同時発言も話者を特定した形でテキスト化。気になる「LiveTalk」の機能や特徴を紹介する - 音声認識ラボ by 東京反訳",
+        "title_link": "https://8089.co.jp/onsei-ninshiki/660",
+        "ts": 1433293886
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "IDSj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://8089.co.jp/onsei-ninshiki/2148"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://knowledge.sakura.ad.jp/24077/"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://8089.co.jp/onsei-ninshiki/660"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2c12e5b5-2a14-4a5d-a436-36c49de88ad7",
+    "team": "T6WULA63S",
+    "text": "<https://8089.co.jp/onsei-ninshiki/2148>\n<https://knowledge.sakura.ad.jp/24077/>\n<https://8089.co.jp/onsei-ninshiki/660>",
+    "ts": "1606194330.000400",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "by0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん30分時間間違えてた\n遅れます",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9664FD79-CA26-40CF-B77C-C68A4C4A48A2",
+    "team": "T6WULA63S",
+    "text": "ごめん30分時間間違えてた\n遅れます:pray:",
+    "ts": "1605880672.001600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/unm-xenf-dru",
+        "id": 1,
+        "original_url": "https://meet.google.com/unm-xenf-dru",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/unm-xenf-dru"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "HvCwf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/unm-xenf-dru"
+              },
+              {
+                "text": "\n今日ここでやろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "766a42c6-8bf2-4dc6-a77c-f064aa6e9de0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UUDCP6WNQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/unm-xenf-dru>\n今日ここでやろ",
+    "ts": "1605880075.000900",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9OTSw",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "J=l",
+        "text": {
+          "text": "*今までにやったこと*\nボイスチャットの実装\nミュート機能の実装\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "r66",
+        "text": {
+          "text": "*これからやること*\n問題点の調査\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "+mC",
+        "text": {
+          "text": "*問題点や課題*\nWatsonとボイチャが同時に使えない\nスクリプトを読む気になれない\nGitHubの競合\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CHe",
+        "text": {
+          "text": "*疑問点*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "UP8",
+        "text": {
+          "text": "*その他*\n完全に忘れてた、ありがとう栗間\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "qFog",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* ボイスチャットの実装 ミュート機能の実装   *これからやること* 問題点の調査   *問題点や課題* Watsonとボイチャが同時に使えない スクリプトを読む気になれない GitHubの競合   *疑問点* 特になし   *その他* 完全に忘れてた、ありがとう栗間  ",
+    "ts": "1605852933.000400",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8g1A",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "YCeGY",
+        "text": {
+          "text": "*今までにやったこと*\nボイスチャット機能のミュート機能を実装\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "f=ZKs",
+        "text": {
+          "text": "*これからやること*\nボイスチャット機能と音声認識が競合したのでそれの解決\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "vb1N9",
+        "text": {
+          "text": "*問題点や課題*\nボイスチャット中にWatsonが使えないという割とヤバめの問題が発生、ヤバい\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Gcy",
+        "text": {
+          "text": "*疑問点*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Xtc2",
+        "text": {
+          "text": "*その他*\n開発者スクラム書くの忘れがちだよね\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "/PCY8",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* ボイスチャット機能のミュート機能を実装   *これからやること* ボイスチャット機能と音声認識が競合したのでそれの解決   *問題点や課題* ボイスチャット中にWatsonが使えないという割とヤバめの問題が発生、ヤバい   *疑問点* なし   *その他* 開発者スクラム書くの忘れがちだよね  ",
+    "ts": "1605850264.000300",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZYms",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7c741ae-9aff-4d11-8b55-17f42662cf09",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1605772038.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "svE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "OK",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62726140-0217-4ddf-a14e-dc70ea753eff",
+    "team": "T6WULA63S",
+    "text": "OK",
+    "ts": "1605674090.002300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JZ2M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おっけいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "130E96D8-8DD9-4B48-87DB-71366A3D5393",
+    "team": "T6WULA63S",
+    "text": "おっけいです",
+    "ts": "1605673112.002100",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0UjL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ金曜の23時からとかでどっすか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e13d05d5-fcc0-4ca9-b22b-17163c931261",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U011D5HFK7H"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "じゃあ金曜の23時からとかでどっすか？",
+    "ts": "1605672980.001900",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LdjF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜の夜空いてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C913C1DB-8AF7-4CFE-97EA-994B8A4079C5",
+    "team": "T6WULA63S",
+    "text": "金曜の夜空いてます",
+    "ts": "1605670240.000600",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oCFZF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分もどちらでも大丈夫",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bf2f165a-7a8f-4313-850a-cb34d2e2795b",
+    "team": "T6WULA63S",
+    "text": "自分もどちらでも大丈夫",
+    "ts": "1605663000.000800",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "384",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕もどちらでも大丈夫",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54401CE6-CDD7-42FA-B8F6-6A7B62AC09CD",
+    "team": "T6WULA63S",
+    "text": "僕もどちらでも大丈夫",
+    "ts": "1605657717.001000",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QVy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 他の人はどうですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f54e28d-20cd-4aa5-adcf-ac43ffdf1254",
+    "team": "T6WULA63S",
+    "text": "<!channel> 他の人はどうですか？",
+    "ts": "1605657687.000500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zoEcO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕は木曜のゼミ終わりとか、金曜の深夜とかどうですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d1a8cdc0-0ecd-419a-b36b-2524885e0e5d",
+    "is_locked": false,
+    "latest_reply": "1605609155.000100",
+    "reply_count": 1,
+    "reply_users": [
+      "UUDCP6WNQ"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "僕は木曜のゼミ終わりとか、金曜の深夜とかどうですか？",
+    "thread_ts": "1605595131.003400",
+    "ts": "1605595131.003400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UnfWd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今回起きちゃった競合のことで話し合って解決したいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6ef11248-3093-4554-9f2e-d7e5ac5a8b09",
+    "team": "T6WULA63S",
+    "text": "今回起きちゃった競合のことで話し合って解決したいです",
+    "ts": "1605595042.002300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1PMP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週ここの5人で集まるタイミング決めたいんだけど希望の日程ありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8f37759-339f-4c78-87bd-5577c0b9dfa4",
+    "team": "T6WULA63S",
+    "text": "今週ここの5人で集まるタイミング決めたいんだけど希望の日程ありますか？",
+    "ts": "1605595015.001400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mumm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カメラはポジションと写す場所",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b9e0df57-4405-4de5-93da-1380e529aec9",
+    "team": "T6WULA63S",
+    "text": "カメラはポジションと写す場所",
+    "ts": "1605578948.007800",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+PfX=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カメラは具体的に何をいじったの？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bc4ab7a8-428b-4c51-9d84-9f0d5da09cb9",
+    "team": "T6WULA63S",
+    "text": "カメラは具体的に何をいじったの？",
+    "ts": "1605578829.007100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: [Git] SourceTreeで競合を解決する方法 - Qiita",
+        "from_url": "https://qiita.com/ymiyamae/items/ad3ec3d7242ee4ea451a",
+        "id": 1,
+        "image_bytes": 47195,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3D%255BGit%255D%2520SourceTree%25E3%2581%25A7%25E7%25AB%25B6%25E5%2590%2588%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D6d7f35b543f0cdaa637a3837e8b08db9&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540ymiyamae%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D82394c23e30d06482b3ddd980e0bd584&blend-align=center%2Cmiddle&blend-mode=normal&s=efd3c133e85ade53986c733028d54798",
+        "image_width": 476,
+        "original_url": "https://qiita.com/ymiyamae/items/ad3ec3d7242ee4ea451a",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "[Git] SourceTreeで競合を解決する方法 いつも競合する時にどっちが自分でどっちが相手が わからなくなってしまうので,　メモついでに書いてみました。 競合解決 競合する際に&lt;&lt;&lt;&lt;&amp;lt...",
+        "title": "[Git] SourceTreeで競合を解決する方法 - Qiita",
+        "title_link": "https://qiita.com/ymiyamae/items/ad3ec3d7242ee4ea451a"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "SRvUx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/ymiyamae/items/ad3ec3d7242ee4ea451a"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4b03dd2d-9fb5-4994-b047-8a5e334420c1",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/ymiyamae/items/ad3ec3d7242ee4ea451a>",
+    "ts": "1605578763.006700",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yB5y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ホワイトボードとカメラを少し",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4d53fa06-0aeb-4eab-8647-f852a47698c8",
+    "team": "T6WULA63S",
+    "text": "ホワイトボードとカメラを少し",
+    "ts": "1605578710.006500",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dlm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マージしたとき何変更した？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dc57940b-66e6-4912-9539-8d55834accd9",
+    "team": "T6WULA63S",
+    "text": "マージしたとき何変更した？",
+    "ts": "1605578420.005700",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iuck",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今調べてるけどまだわかんない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d0794d02-9bd6-4992-8dad-86d0ba7195f5",
+    "team": "T6WULA63S",
+    "text": "今調べてるけどまだわかんない",
+    "ts": "1605578396.005300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZdR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どこの競合で消えたのかわかる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ec27152a-926a-4316-8422-5ab635bbd9e1",
+    "team": "T6WULA63S",
+    "text": "どこの競合で消えたのかわかる？",
+    "ts": "1605578301.004400",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UvD/N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開いたけどシーンの中身がなくなってた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "af59ad3e-4858-4853-8d8d-393285adfa45",
+    "team": "T6WULA63S",
+    "text": "開いたけどシーンの中身がなくなってた",
+    "ts": "1605578264.003800",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AA82z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "草間くんのUnityでシーン開ける？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D0A84675-6867-4791-A9A5-C3E812EB4BA6",
+    "team": "T6WULA63S",
+    "text": "草間くんのUnityでシーン開ける？",
+    "ts": "1605577920.003300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AyX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分競合が起きてシーンが消えたっぽい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d713d3d6-9fb6-4586-aba0-ff59e0214765",
+    "team": "T6WULA63S",
+    "text": "多分競合が起きてシーンが消えたっぽい",
+    "ts": "1605577829.002800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3kLZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はず",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f144b373-a15b-4987-97a6-936456fac543",
+    "team": "T6WULA63S",
+    "text": "はず",
+    "ts": "1605577767.001700",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pY60",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いや、消してない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4bb5e880-5f36-4fcb-bb8c-331582acd5a7",
+    "team": "T6WULA63S",
+    "text": "いや、消してない",
+    "ts": "1605577729.001500",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yFGl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "241b376d-ded0-42a2-9de5-ec7825dc5eab",
+    "team": "T6WULA63S",
+    "text": "<!channel>",
+    "ts": "1605577475.001000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bSNs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "newUIって名前のシーン消した？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a3982180-68db-4cf9-b8df-31b808e7a27b",
+    "team": "T6WULA63S",
+    "text": "newUIって名前のシーン消した？",
+    "ts": "1605577375.000800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tqOn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "447bf263-5cbd-4010-a937-98c316325a5c",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1605554215.000700",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JdFC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d934c22a-ffe2-4afa-807b-96c8e86641d4",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1605540182.000400",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IoA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "29fb65eb-54fc-4ba4-9618-7140586e790f",
+    "team": "T6WULA63S",
+    "text": "作業開始しました",
+    "ts": "1605230617.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "coS87",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ec9ec76-60dc-4ca7-b0d2-1049b3c98709",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1605208372.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LCG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業を開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "76be00ba-cccb-4103-8ebb-c38d2891b663",
+    "team": "T6WULA63S",
+    "text": "作業を開始します",
+    "ts": "1605197415.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6ozPF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "012AA9DE-5A73-4C73-9A07-A026090F43EF",
+    "team": "T6WULA63S",
+    "text": "終わりました",
+    "ts": "1605149934.000400",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cKwu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "352a110e-a059-4995-abd6-b7aba7c66512",
+    "team": "T6WULA63S",
+    "text": "開始しました",
+    "ts": "1605149188.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F2B",
+        "text": {
+          "text": "*開発者スクラム* submission from <@U010MRUUSF7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "k2WoU",
+        "text": {
+          "text": "*今までにやったこと*\nホワイトボード機能を改造\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "iLdP",
+        "text": {
+          "text": "*これからやること*\nホワイトボードの太さ変更\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "AX/",
+        "text": {
+          "text": "*問題点や課題*\n太さを調整しているば所がわからない\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "1XlW7",
+        "text": {
+          "text": "*疑問点*\n同上\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "omsmg",
+        "text": {
+          "text": "*その他*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "oPbYa",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@U010MRUUSF7> *今までにやったこと* ホワイトボード機能を改造   *これからやること* ホワイトボードの太さ変更   *問題点や課題* 太さを調整しているば所がわからない   *疑問点* 同上   *その他* なし  ",
+    "ts": "1604634098.000100",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ozv",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "p4M0",
+        "text": {
+          "text": "*今までにやったこと*\n音声認識したものを話題ごとのファイルに書き込むようにした\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "w75Z2",
+        "text": {
+          "text": "*これからやること*\n今週はなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "wRu",
+        "text": {
+          "text": "*問題点や課題*\nよくわからないエラーが何個かある\n通信系のエラーだと思う\n全体スクラムで共有する予定\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "9rFv",
+        "text": {
+          "text": "*疑問点*\nエラーの出るタイミングがよくわからないこと\n実行し直すと出来ちゃうこと\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "KWoS5",
+        "text": {
+          "text": "*その他*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Nfh4",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* 音声認識したものを話題ごとのファイルに書き込むようにした   *これからやること* 今週はなし   *問題点や課題* よくわからないエラーが何個かある 通信系のエラーだと思う 全体スクラムで共有する予定   *疑問点* エラーの出るタイミングがよくわからないこと 実行し直すと出来ちゃうこと   *その他* なし  ",
+    "ts": "1604628784.001800",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pxA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2813261c-0ad3-43b5-b088-df746e896fc3",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1604628373.001600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9xL9G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U010MRUUSF7"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UUDCP6WNQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U011D5HFK7H"
+              },
+              {
+                "text": " 音声認識のほうで大量にエラーが出てしまうんでそこのところはあんま気にしないでください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59d985fd-59e9-4bb8-a6c6-73fabe207e2a",
+    "pinned_info": {
+      "channel": "C0164LCNF7Z",
+      "pinned_by": "UP0TP0QH4",
+      "pinned_ts": 1604628382
+    },
+    "pinned_to": [
+      "C0164LCNF7Z"
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U011D5HFK7H"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U010MRUUSF7> <@UUDCP6WNQ> <@U011D5HFK7H> 音声認識のほうで大量にエラーが出てしまうんでそこのところはあんま気にしないでください",
+    "ts": "1604628314.001300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NJ6t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7499E34A-C89B-47E2-BABA-64CE54958C91",
+    "team": "T6WULA63S",
+    "text": "作業開始しました",
+    "ts": "1604625898.000300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O8T2S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e3acf4dd-6bc2-4df3-9841-d1e41cb837e8",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1604546800.000300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OTNV7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "69F629EC-5DD4-479D-88A4-B254C49ABAF7",
+    "team": "T6WULA63S",
+    "text": "作業開始しました",
+    "ts": "1604541259.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Miq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します。（作業開始は16:08）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2a2b8f53-f3ed-4342-a99a-0b1e41bea518",
+    "team": "T6WULA63S",
+    "text": "作業終了します。（作業開始は16:08）",
+    "ts": "1604398069.000800",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JTQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "13cddefd-9c83-4563-a2e9-b624c8ad040a",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1604081366.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xajga",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "644c46ab-2e52-4185-a6f0-3fa441248b9b",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1604068524.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RY2a",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tVe4h",
+        "text": {
+          "text": "*今までにやったこと*\nwatsonの移植\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cQf",
+        "text": {
+          "text": "*これからやること*\n今週はなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "wN9",
+        "text": {
+          "text": "*問題点や課題*\nテキストファイルに書き込みしようと思ったけど出来なかったから来週に回す\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "o5Z5z",
+        "text": {
+          "text": "*疑問点*\n他のオブジェクトについてるスクリプトを取得する方法がよく分かんなかった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "BxpK",
+        "text": {
+          "text": "*その他*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "px=",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* watsonの移植   *これからやること* 今週はなし   *問題点や課題* テキストファイルに書き込みしようと思ったけど出来なかったから来週に回す   *疑問点* 他のオブジェクトについてるスクリプトを取得する方法がよく分かんなかった   *その他* なし  ",
+    "ts": "1604030203.000900",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Dy=HP",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "SKej",
+        "text": {
+          "text": "*今までにやったこと*\nwatsonで音声認識した結果をとりあえずコンソールに表示させるところまでやりました\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "wCmh",
+        "text": {
+          "text": "*これからやること*\n来週音声認識結果をテキストファイルに落とすところをやります。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "bpA",
+        "text": {
+          "text": "*問題点や課題*\nExsampleStreaming.cs(watsonの音声認識の為のスクリプト)の中でコンソールに表示しているText型の変数をvoiceSample.cs内のテキストファイルにテキストを落としているメソッドに突っ込もうとしたけどうまくいかなかった\n↓\nだったらvoiceSample.csで定義していたものを全部ExsampleStreaming.cs内の別クラスにして再定義しちゃおうってことでExampleStreaming.cs内のExsampleStreamingクラスからvoiceSampleクラスのテキストファイルにテキストを落としているメソッドにアクセスしようとしたけどうまくいかなかった\n↓\n結果、Text型の変数をvoiceSampleのメソッドに突っ込むのは無理！ってことで、じゃあTextオブジェクトには落とせてるから別のスクリプトなんか作ってTextオブジェクトの中身を参照することにしようってことになりました\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "u4IGH",
+        "text": {
+          "text": "*疑問点*\nwatson全般が謎に包まれてる\n機械学習班の意見も聞きたい\n\nnamespaceって何\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "g8Sb",
+        "text": {
+          "text": "*その他*\n・voiceSample.csのディレクトリの位置が変わりました\nAssets/Watson/Examples の中にあります\n\n・ゲームオブジェクト\"voice_sample\"を非アクティブ化してます\n\n・起動時に謎のエラーが結構出るけど来週直します。Unityのゲームビューが動かないとかはないです\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "+OJXG",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* watsonで音声認識した結果をとりあえずコンソールに表示させるところまでやりました   *これからやること* 来週音声認識結果をテキストファイルに落とすところをやります。   *問題点や課題* ExsampleStreaming.cs(watsonの音声認識の為のスクリプト)の中でコンソールに表示しているText型の変数をvoiceSample.cs内のテキストファイルにテキストを落としているメソッドに突っ込もうとしたけどうまくいかなかった ↓ だったらvoiceSample.csで定義していたものを全部ExsampleStreaming.cs内の別クラスにして再定義しちゃおうってことでExampleStreaming.cs内のExsampleStreamingクラスからvoiceSampleクラスのテキストファイルにテキストを落としているメソッドにアクセスしようとしたけどうまくいかなかった ↓ 結果、Text型の変数をvoiceSampleのメソッドに突っ込むのは無理！ってことで、じゃあTextオブジェクトには落とせてるから別のスクリプトなんか作ってTextオブジェクトの中身を参照することにしようってことになりました   *疑問点* watson全般が謎に包まれてる 機械学習班の意見も聞きたい  namespaceって何   *その他* ・voiceSample.csのディレクトリの位置が変わりました Assets/Watson/Examples の中にあります  ・ゲームオブジェクト\"voice_sample\"を非アクティブ化してます  ・起動時に謎のエラーが結構出るけど来週直します。Unityのゲームビューが動かないとかはないです  ",
+    "ts": "1604029925.000800",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/1or",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b3ad93b-ef19-4362-9a2e-8edf5e8e5dcd",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1604029082.000700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PPMK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "148afa1b-5157-45dd-88ca-af9eb91eadfd",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1604026172.000400",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "06Y",
+        "text": {
+          "text": "*開発者スクラム* submission from <@U010MRUUSF7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tec",
+        "text": {
+          "text": "*今までにやったこと*\nテキスト入力中にエンターキーで消える問題の解決\n全選択化\nテキストの範囲内に収める\n未選択の初期状態化\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "7FB",
+        "text": {
+          "text": "*これからやること*\n時間があればPhoton\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "aSA",
+        "text": {
+          "text": "*問題点や課題*\nPhotonが同期しない\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CPO",
+        "text": {
+          "text": "*疑問点*\n今はなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "zpCA",
+        "text": {
+          "text": "*その他*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "8hqFb",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@U010MRUUSF7> *今までにやったこと* テキスト入力中にエンターキーで消える問題の解決 全選択化 テキストの範囲内に収める 未選択の初期状態化   *これからやること* 時間があればPhoton   *問題点や課題* Photonが同期しない   *疑問点* 今はなし   *その他* 特になし  ",
+    "ts": "1603436560.002200",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qET",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ca982b10-e972-4fbe-9446-8370e697d450",
+    "edited": {
+      "ts": "1603436594.000000",
+      "user": "UUDCP6WNQ"
+    },
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1603436315.002100",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ftLcH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c35f1172-4bae-4d15-8961-e3af05252144",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1603434256.001800",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zYCpH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e11a190d-1ae5-486a-822d-97524db6e273",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1603426440.001600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hyFyf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "45f69942-e8a4-4aa1-a573-547606e80c32",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1603422877.001200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZWQxt",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Z0i9o",
+        "text": {
+          "text": "*今までにやったこと*\nUIのレイアウトが崩れる問題を直した\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "d7j",
+        "text": {
+          "text": "*これからやること*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "d8VC",
+        "text": {
+          "text": "*問題点や課題*\n余った時間でサクッと音声認識を改善しようとWatson APIを導入してみようと思ったけど何もサクッとできなかった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "UV9H",
+        "text": {
+          "text": "*疑問点*\nいまのところなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "s5v",
+        "text": {
+          "text": "*その他*\n音声認識どうしようかなーって思ってる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "rCh6o",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* UIのレイアウトが崩れる問題を直した   *これからやること* なし   *問題点や課題* 余った時間でサクッと音声認識を改善しようとWatson APIを導入してみようと思ったけど何もサクッとできなかった   *疑問点* いまのところなし   *その他* 音声認識どうしようかなーって思ってる  ",
+    "ts": "1603420816.000700",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jb3A",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Acqb",
+        "text": {
+          "text": "*今までにやったこと*\n・各機能の背面にあったパネルをボタンと同じ大きさにした\n・画面の大きさを変えてもUIが崩れないようにした\n\n余った時間でwatsonで音声認識できるか試した\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tNH",
+        "text": {
+          "text": "*これからやること*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "5nL",
+        "text": {
+          "text": "*問題点や課題*\nwatsonがうまく使えなかった\nめっちゃ時間かけて調べたら出来るのかもしれない\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "oGz1",
+        "text": {
+          "text": "*疑問点*\nwatsonが使えない原因がよく分かんなかった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tUPS",
+        "text": {
+          "text": "*その他*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "6XJE",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* ・各機能の背面にあったパネルをボタンと同じ大きさにした ・画面の大きさを変えてもUIが崩れないようにした  余った時間でwatsonで音声認識できるか試した   *これからやること* 特になし   *問題点や課題* watsonがうまく使えなかった めっちゃ時間かけて調べたら出来るのかもしれない   *疑問点* watsonが使えない原因がよく分かんなかった   *その他* 特になし  ",
+    "ts": "1603420576.000600",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A9Yjf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b52c13b5-cefb-4264-903f-8006636b3c0b",
+    "team": "T6WULA63S",
+    "text": "終わりました",
+    "ts": "1603420211.000500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N6i2d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4b515ee9-6edf-4df1-bf1f-c9402da487d4",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1603415175.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hzA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "newUIの方のシーンを変更しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d8f34839-6aba-4b75-993b-59f56bf63ef7",
+    "team": "T6WULA63S",
+    "text": "newUIの方のシーンを変更しました",
+    "ts": "1603332387.000900",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TuYi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd34dc79-deb7-4113-ac6d-cf846543e0e7",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1603332217.000400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ET7PJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "baae6b11-6746-4cc1-a4d3-ac1947bbee8a",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1603329426.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4Lq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました（作業開始は25時）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e085731e-5c34-4c0d-88a8-cafb5d36ab85",
+    "team": "T6WULA63S",
+    "text": "作業終了しました（作業開始は25時）",
+    "ts": "1602959657.000700",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=/8r3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U010MRUUSF7"
+              },
+              {
+                "text": " アウトプット時というか、プロジェクトを起動したとき（Unityの再生ボタンを押したとき）に作られる喋ったことを\nテキスト化して置いとく為のテキストファイルが正体だった\nそれなんだけど、windowsではファイルパス指定するときに「 \\ 」を使って、UNIX系のOSだと「 / 」を使うらしいんだけど、\n僕たちのプロジェクトでは「 \\ 」を使って書いてるからMacでUnityを起動する度にAssetsと同じ階層に謎のテキストファイルができるっぽい\n多分Windowsでしか音声認識動かせなかったから今まで気づけなかったけど音声認識がMacとかでも動かせるようになったらもしかしたら\n致命的なバグになりかねないかも知れないからいつか直そう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6ff693c1-c4f8-4e2b-8b77-74b9d28d44a6",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "UNM7EU5A7",
+          "U010MRUUSF7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U010MRUUSF7> アウトプット時というか、プロジェクトを起動したとき（Unityの再生ボタンを押したとき）に作られる喋ったことを\nテキスト化して置いとく為のテキストファイルが正体だった\nそれなんだけど、windowsではファイルパス指定するときに「 \\ 」を使って、UNIX系のOSだと「 / 」を使うらしいんだけど、\n僕たちのプロジェクトでは「 \\ 」を使って書いてるからMacでUnityを起動する度にAssetsと同じ階層に謎のテキストファイルができるっぽい\n多分Windowsでしか音声認識動かせなかったから今まで気づけなかったけど音声認識がMacとかでも動かせるようになったらもしかしたら\n致命的なバグになりかねないかも知れないからいつか直そう",
+    "ts": "1602861714.007500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jWbBP",
+        "text": {
+          "text": "*開発者スクラム* submission from <@U010MRUUSF7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "lt3lK",
+        "text": {
+          "text": "*今までにやったこと*\nまだなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "WSCOs",
+        "text": {
+          "text": "*これからやること*\n選択についてとフォトンの続き\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "eK7j4",
+        "text": {
+          "text": "*問題点や課題*\nフォトンではまだオンライン接続できてないこと\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "UbSM7",
+        "text": {
+          "text": "*疑問点*\n栗まくんの言ってるファイルはアウトプット時に出るはずのcsv化ファイルっぽいけど違う？\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "WPp",
+        "text": {
+          "text": "*その他*\nなし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "I6Xp3",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@U010MRUUSF7> *今までにやったこと* まだなし   *これからやること* 選択についてとフォトンの続き   *問題点や課題* フォトンではまだオンライン接続できてないこと   *疑問点* 栗まくんの言ってるファイルはアウトプット時に出るはずのcsv化ファイルっぽいけど違う？   *その他* なし  ",
+    "ts": "1602823404.000500",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7TaQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "ワークフロー作ったのでこれから毎週金曜にお願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f89d0e0a-34d2-4bd1-bb3f-80d4716c6ef9",
+    "team": "T6WULA63S",
+    "text": "<!channel>ワークフロー作ったのでこれから毎週金曜にお願いします！",
+    "ts": "1602820349.001000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mxn",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UNM7EU5A7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ZBjoO",
+        "text": {
+          "text": "*今までにやったこと*\n名前とルームを作って入ることが出来るようにした。\nルーム入室中に、ルーム名と参加中のメンバーを表示するようにした。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "7VT",
+        "text": {
+          "text": "*これからやること*\n余った時間でオブジェクト同期の調査\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "hgYQL",
+        "text": {
+          "text": "*問題点や課題*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "tWA",
+        "text": {
+          "text": "*疑問点*\n特になし\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "PUv",
+        "text": {
+          "text": "*その他*\n意外と早く終わった\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cvG",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UNM7EU5A7> *今までにやったこと* 名前とルームを作って入ることが出来るようにした。 ルーム入室中に、ルーム名と参加中のメンバーを表示するようにした。   *これからやること* 余った時間でオブジェクト同期の調査   *問題点や課題* 特になし   *疑問点* 特になし   *その他* 意外と早く終わった  ",
+    "ts": "1602820293.000100",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01CWJQES6Q",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1602812290.000600",
+    "type": "message",
+    "upload": false,
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AZiEF",
+        "text": {
+          "text": "*開発者スクラム* submission from <@UP0TP0QH4>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "2H/uN",
+        "text": {
+          "text": "*今までにやったこと*\nオンライン化のルーム作成、入室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CDQbF",
+        "text": {
+          "text": "*これからやること*\n来週同期\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "XSLj",
+        "text": {
+          "text": "*問題点や課題*\nOnGUIで作ったUIをちゃんとしたUIにいつかしたい\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CKNF",
+        "text": {
+          "text": "*疑問点*\nAssetsフォルダと同じ階層にある下の画像の謎のテキストファイル何かわかる？なんかこれのせいでプッシュとかプルに影響でてる\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "JYI",
+        "text": {
+          "text": "*その他*\nオンライン用の新しいシーンを作りました\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Vrd",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "*開発者スクラム* submission from <@UP0TP0QH4> *今までにやったこと* オンライン化のルーム作成、入室   *これからやること* 来週同期   *問題点や課題* OnGUIで作ったUIをちゃんとしたUIにいつかしたい   *疑問点* Assetsフォルダと同じ階層にある下の画像の謎のテキストファイル何かわかる？なんかこれのせいでプッシュとかプルに影響でてる   *その他* オンライン用の新しいシーンを作りました  ",
+    "ts": "1602812166.000500",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OHus",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "03b1ada8-11b3-4826-bc0f-a258882b5766",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1602811804.000400",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mEcz3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f0f702f-f27a-4df7-954a-88a1104a2191",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1602811689.000200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eB7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B5AF2352-9DA8-432B-A5BC-B5D4CABDFF9A",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1602732983.001200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dAFV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6ac86c6c-c652-46db-bc5f-bba6ac32bbc1",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1602724451.000300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "StD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNM7EU5A7"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "開発班スクラム",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01CL3RGKAP",
+    "subtype": "bot_message",
+    "text": "<@UNM7EU5A7> added a workflow to this channel: *開発班スクラム*.",
+    "ts": "1602684186.000300",
+    "type": "message",
+    "username": "開発班スクラム"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mr5d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5219bfa9-392d-4cca-81d0-fa552449c517",
+    "team": "T6WULA63S",
+    "text": "作業終了",
+    "ts": "1602479943.000700",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L42P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業を開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a8cac51-b1d4-400d-b0ed-1765746e2518",
+    "team": "T6WULA63S",
+    "text": "作業を開始します",
+    "ts": "1602473823.000400",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VTse",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f63f4e82-652e-4c9b-8937-eaa37a00f027",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1602209592.000800",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tWB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業かいしします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "717e0313-3451-494d-bccc-256fdbe977a1",
+    "team": "T6WULA63S",
+    "text": "作業かいしします",
+    "ts": "1602202376.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "swP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/mlab2020agile/testunity.git"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "905be76f-5a71-4600-ab90-de713e912a5a",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/mlab2020agile/testunity.git>",
+    "ts": "1601963009.000200",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PzK=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "やっぱ今日はなしにして明日一気に説明しよ\nとりあえずトレロに概要が分かるようにコメント残しといてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a787f648-b849-4a51-8c13-511ece1130ec",
+    "team": "T6WULA63S",
+    "text": "やっぱ今日はなしにして明日一気に説明しよ\nとりあえずトレロに概要が分かるようにコメント残しといてください",
+    "ts": "1601871714.003000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PtM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日のアジャイルのとこにいる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "afe3daf1-60a3-49e9-b519-89fe3c50123a",
+    "team": "T6WULA63S",
+    "text": "今日のアジャイルのとこにいる",
+    "ts": "1601870598.001100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "62PHi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "サイトの共有やろー\n",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e1e1a1e-1e6f-4ddc-be87-868b02b37a8f",
+    "edited": {
+      "ts": "1601871138.000000",
+      "user": "UNM7EU5A7"
+    },
+    "team": "T6WULA63S",
+    "text": "サイトの共有やろー\n<!channel>",
+    "ts": "1601870579.000500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q3A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "試しにマスターの方にコミットしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ebd3f15c-a898-406a-a529-60b152e8f571",
+    "team": "T6WULA63S",
+    "text": "試しにマスターの方にコミットしました",
+    "ts": "1601358368.000500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TZArH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8c631c81-519d-4113-a6f1-526bcbd267fb",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1601260704.000500",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S28R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84840408-f885-4cab-83cf-e465571afc60",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1601255560.000300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hS5lo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "931b8a3d-572b-4515-a395-e009fbcb1925",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1601088602.001300",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kSpC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bc4676be-d3a5-45cc-97fe-228276aace15",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1601083038.000800",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "trsk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3c7d878d-9279-4218-8d3a-bc976563f292",
+    "team": "T6WULA63S",
+    "text": "終わりました",
+    "ts": "1601052485.000600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d90",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業してます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22f6eedd-a9bf-4633-a20a-66601f1ba603",
+    "team": "T6WULA63S",
+    "text": "作業してます",
+    "ts": "1601043324.000300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U=27V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48709ccd-2d2b-4294-b30b-5c255e2cf14f",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1600846572.000500",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "787F2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業してます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2d561850-40da-47e0-bdcb-edd496f4d92f",
+    "team": "T6WULA63S",
+    "text": "作業してます",
+    "ts": "1600840075.000200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "opvO1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "61d01b5d-52a0-4fbc-a5b4-faf21a34c938",
+    "team": "T6WULA63S",
+    "text": "作業終了します",
+    "ts": "1600666900.000400",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zEFp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dce5ffb6-1161-4fb7-9976-b6d85d857adb",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1600661491.000200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "86wO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終了しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4eed2f1a-fb59-4857-aa25-d59782079058",
+    "team": "T6WULA63S",
+    "text": "作業終了しました",
+    "ts": "1600572577.003100",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RJjJu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業開始します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "181be014-bd39-47c6-8cfd-221624cbc9e6",
+    "team": "T6WULA63S",
+    "text": "作業開始します",
+    "ts": "1600567240.001900",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "19V=O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dc0c4bc2-ca0e-40c1-bbb0-7d15476ca2a8",
+    "team": "T6WULA63S",
+    "text": "作業終わりました。",
+    "ts": "1600418259.001600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "90OT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業やります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "985c909e-4ca1-496c-bb5a-08e93b27ebb4",
+    "team": "T6WULA63S",
+    "text": "作業やります",
+    "ts": "1600415963.001300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "q5r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終わりました。\nプッシュしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3993e244-0bb6-48ec-88af-9627d3f6ee62",
+    "team": "T6WULA63S",
+    "text": "終わりました。\nプッシュしました。",
+    "ts": "1600408328.000800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RDI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今から作業やります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43c200bc-e68c-49a5-b9dd-eee13e9c52f3",
+    "team": "T6WULA63S",
+    "text": "今から作業やります",
+    "ts": "1600400250.000300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dI0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次やるときはプルをお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "417629f3-c9a6-41a9-a985-cf427a1d1594",
+    "team": "T6WULA63S",
+    "text": "次やるときはプルをお願いします。",
+    "ts": "1600325498.001400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tv0D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "始めるとき言うの忘れてました。\n今作業終わりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "deb74916-c699-445d-86ec-89e862119fe5",
+    "team": "T6WULA63S",
+    "text": "始めるとき言うの忘れてました。\n今作業終わりました。",
+    "ts": "1600325185.000800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3MpOq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、5〜10分くらい遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E8E53621-D440-4C7D-A076-9A1A6C8FF6D8",
+    "team": "T6WULA63S",
+    "text": "すいません、5〜10分くらい遅れます",
+    "ts": "1600133170.000500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UgK9E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっとしたバグを見つけて修正したので次作業する時プルしてから作業してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d78e8089-6a8d-4553-aae7-c75b2e921302",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UNM7EU5A7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ちょっとしたバグを見つけて修正したので次作業する時プルしてから作業してください",
+    "ts": "1596348247.000700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p8W=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、こっちもそうしようかな\n正直終わる目処立ってないし…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B99A84A0-F939-4518-BAE5-52396D4B72C7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UNM7EU5A7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "うーん、こっちもそうしようかな\n正直終わる目処立ってないし…",
+    "ts": "1596102044.006900",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JwxV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど\n僕たちは今日中には無理そうなので問題点に回す予定です、、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bfe9e4f1-6918-4208-b370-ae1c675b85c2",
+    "team": "T6WULA63S",
+    "text": "なるほど\n僕たちは今日中には無理そうなので問題点に回す予定です、、",
+    "ts": "1596101935.006100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7jvn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと話題ごとのログ表示ってところがまだできてない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FDA0BAB4-6348-4CC0-810C-42E24240A2A4",
+    "team": "T6WULA63S",
+    "text": "あと話題ごとのログ表示ってところがまだできてない",
+    "ts": "1596101794.005200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5lfeS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうっすね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1E63083E-3BF8-451C-838D-3E7D28A8B655",
+    "team": "T6WULA63S",
+    "text": "そうっすね",
+    "ts": "1596101723.004700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VqeT6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日まだ作業する感じ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ce313ae5-2caa-4c28-a0da-46901e5e88cb",
+    "team": "T6WULA63S",
+    "text": "今日まだ作業する感じ？",
+    "ts": "1596101684.004500",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G=K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕たちも終わってないよｗ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ac09a77-3686-4eed-b4ac-a857ecc4221c",
+    "team": "T6WULA63S",
+    "text": "僕たちも終わってないよｗ",
+    "ts": "1596101660.003800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cxfdg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "実はまだ終わってないんすよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AEF36B0D-7760-4AC8-B057-D92854552554",
+    "team": "T6WULA63S",
+    "text": "実はまだ終わってないんすよ",
+    "ts": "1596101230.003500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hdu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "栗間たちの今回のサイクルでかかった合計時間教えて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6af7f22f-7d81-45be-83bf-a7b97d9b0b25",
+    "team": "T6WULA63S",
+    "text": "栗間たちの今回のサイクルでかかった合計時間教えて",
+    "ts": "1596101188.003200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wvfwm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e8e16564-5348-4878-98c3-648ac6ff6410",
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1596101089.002000",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lR8A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今から作業やります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3952c506-d9fd-4efc-8a07-fa2d7aa69ba7",
+    "team": "T6WULA63S",
+    "text": "今から作業やります",
+    "ts": "1596094544.001800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D1xC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プッシュしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83eb6958-c666-4acf-a2ae-7fb198a7c009",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UNM7EU5A7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "プッシュしました",
+    "ts": "1596093207.001400",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FAxO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もうそろ終わります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "db3ebe92-52ed-4b08-bc33-42abb8d0c536",
+    "team": "T6WULA63S",
+    "text": "もうそろ終わります",
+    "ts": "1596092876.001100",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w5pDU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだやってる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d9d46ea1-edc5-4407-8dd6-c6031923981b",
+    "team": "T6WULA63S",
+    "text": "まだやってる？",
+    "ts": "1596092548.000800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BiW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業はじめます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "338da154-ab09-4efe-8dfc-37946a7ffd22",
+    "team": "T6WULA63S",
+    "text": "作業はじめます",
+    "ts": "1596083899.000400",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sFYa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作業終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46c00826-f417-497c-ad64-84ebabbeb183",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "作業終わりました",
+    "ts": "1595930108.002300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dzN8H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今から作業します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d6e41b7-2196-4484-987d-e4219da6e1da",
+    "team": "T6WULA63S",
+    "text": "今から作業します",
+    "ts": "1595919677.001900",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9a0a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "終了しました\n話題増やせるようにしました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f59d926-02fe-465c-81b7-21df63335555",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "UNM7EU5A7",
+          "U011D5HFK7H"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "終了しました\n話題増やせるようにしました",
+    "ts": "1595910980.001500",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JBx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "栗間草間 作業開始しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e631d036-ed0a-4d6e-946b-cdd8dd4736fd",
+    "team": "T6WULA63S",
+    "text": "栗間草間 作業開始しました",
+    "ts": "1595910740.001200",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/wya-uzmv-nmr",
+        "id": 1,
+        "original_url": "https://meet.google.com/wya-uzmv-nmr",
+        "service_icon": "http://www.gstatic.com/images/branding/product/1x/meet_16dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://www.gstatic.com/images/branding/product/2x/meet_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/wya-uzmv-nmr"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "2lE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日も13:00からお願いします\nGoogle Meet に参加してください。",
+                "type": "text"
+              },
+              {
+                "text": "https://meet.google.com/wya-uzmv-nmr",
+                "type": "link",
+                "url": "https://meet.google.com/wya-uzmv-nmr"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "11fe8741-9f17-403a-891c-245b4e9365bb",
+    "team": "T6WULA63S",
+    "text": "今日も13:00からお願いします\nGoogle Meet に参加してください。<https://meet.google.com/wya-uzmv-nmr|https://meet.google.com/wya-uzmv-nmr>",
+    "ts": "1595815990.000600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/fjn-tdri-dga",
+        "id": 1,
+        "original_url": "https://meet.google.com/fjn-tdri-dga",
+        "service_icon": "http://www.gstatic.com/images/branding/product/1x/meet_16dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://www.gstatic.com/images/branding/product/2x/meet_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/fjn-tdri-dga"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "JpA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日13:00からお願いします。\n\nGoogle Meet に参加してください。",
+                "type": "text"
+              },
+              {
+                "text": "https://meet.google.com/fjn-tdri-dga",
+                "type": "link",
+                "url": "https://meet.google.com/fjn-tdri-dga"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70dab936-fad2-4686-8fc3-39d29e15cde0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日13:00からお願いします。\n\nGoogle Meet に参加してください。<https://meet.google.com/fjn-tdri-dga|https://meet.google.com/fjn-tdri-dga>",
+    "ts": "1595158833.000600",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "227Iu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "出来れば明日の午後までにお願いしたいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0be1dd46-3427-4c66-a92e-53a7cc10a53f",
+    "team": "T6WULA63S",
+    "text": "出来れば明日の午後までにお願いしたいです",
+    "ts": "1594805940.002100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "r95/D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1v82L22et5va40i9P4wYbv-zca3O1lwgY?usp=sharing"
+              },
+              {
+                "text": "\n草間君たちにお願いなんだけどさ、これ実行してみて音声認識できるか確認してもらっていい？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ccc3ca84-bfb9-441f-91a8-1b0c2b64540f",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/folders/1v82L22et5va40i9P4wYbv-zca3O1lwgY?usp=sharing>\n草間君たちにお願いなんだけどさ、これ実行してみて音声認識できるか確認してもらっていい？",
+    "ts": "1594792634.000900",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1GAg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "草間君授業じゃなかったっけ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5bc38544-3ddc-4488-9717-845713b91e28",
+    "team": "T6WULA63S",
+    "text": "草間君授業じゃなかったっけ？",
+    "ts": "1594005866.005300",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "laRq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いつでもおけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "606383d6-3a0b-4e4a-913f-06d037307930",
+    "team": "T6WULA63S",
+    "text": "いつでもおけ",
+    "ts": "1594004548.004900",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=gTi/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "13時〜でも行けるよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3DF5FDF3-6C96-49A5-BE55-7D256126552A",
+    "team": "T6WULA63S",
+    "text": "13時〜でも行けるよ",
+    "ts": "1593999420.004700",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "No5FT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "16:00から予定作っときます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89797903-a036-4324-8714-e05cf9983dc9",
+    "team": "T6WULA63S",
+    "text": "16:00から予定作っときます",
+    "ts": "1593999338.004100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sYOog",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どんな感じで作ったかお互い確認して、金曜日まで追加で何やるかっての言い合いたいんだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8823535c-c33a-4172-8101-94c155e34bd0",
+    "team": "T6WULA63S",
+    "text": "どんな感じで作ったかお互い確認して、金曜日まで追加で何やるかっての言い合いたいんだけど",
+    "ts": "1593998133.003100",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "inviter": "UNM7EU5A7",
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1593998056.001000",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "inviter": "UNM7EU5A7",
+    "subtype": "channel_join",
+    "text": "<@U010MRUUSF7> has joined the channel",
+    "ts": "1593998056.000800",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "inviter": "UNM7EU5A7",
+    "subtype": "channel_join",
+    "text": "<@UP0TP0QH4> has joined the channel",
+    "ts": "1593998056.000600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "inviter": "UNM7EU5A7",
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1593998055.000400",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UNM7EU5A7> has joined the channel",
+    "ts": "1593998055.000200",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  }
+]

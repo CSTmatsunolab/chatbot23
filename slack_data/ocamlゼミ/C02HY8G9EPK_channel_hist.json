@@ -1,0 +1,1497 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "oHBL=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " すいません、うっかりしていましたが、今日、修論発表会があるので、ocamlゼミはお休みにします。来週、今年度の最終回をしようと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85b6feab-32e5-499a-8d6f-ad86d95aa999",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U01BDLWP7T9",
+          "U02H6LYKVDE",
+          "U02GH21B3H8"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> すいません、うっかりしていましたが、今日、修論発表会があるので、ocamlゼミはお休みにします。来週、今年度の最終回をしようと思います。",
+    "ts": "1645419522.270569",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "e66d29ea-2bb9-4fee-96dd-e60fc38a0f39",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F032L5UG16C",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644217263.171809",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KxlOw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4dee6560-50ca-42ef-97cd-137ef5a10a86",
+    "team": "T6WULA63S",
+    "text": "はい",
+    "ts": "1643607530.963259",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OtEq/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ簡単にやりましょう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6a0c6c6d-ab9e-4b7c-922a-e8e2a342f283",
+    "team": "T6WULA63S",
+    "text": "じゃあ簡単にやりましょう。",
+    "ts": "1643607511.465539",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pA7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません確認遅れました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ce4eb339-b6f0-4c0a-b2a1-06654a037012",
+    "team": "T6WULA63S",
+    "text": "すいません確認遅れました。",
+    "ts": "1643607448.698069",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iZw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応僕です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e627c804-edc6-4c7d-b89f-d4b42df1415b",
+    "team": "T6WULA63S",
+    "text": "一応僕です",
+    "ts": "1643607440.930259",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jW7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "daf6cdba-a8c0-4bec-916a-f7e1cd724ac1",
+    "team": "T6WULA63S",
+    "text": "いや",
+    "ts": "1643607437.579239",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "64Bgg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日、中道君の担当じゃなかったでしたっけ。もしそうなら、今週もお休みですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f4d96ade-0343-44e4-9ba7-c17f68d113fd",
+    "team": "T6WULA63S",
+    "text": "今日、中道君の担当じゃなかったでしたっけ。もしそうなら、今週もお休みですね。",
+    "ts": "1643605082.642959",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZLn6/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、今日のゼミなんですけど、出先にWi-Fi環境がないので休ませていただきます連絡当日になってしまって申し訳ないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9C9F5DE6-D992-4EAE-8B4C-93905EEAB5B8",
+    "team": "T6WULA63S",
+    "text": "すみません、今日のゼミなんですけど、出先にWi-Fi環境がないので休ませていただきます連絡当日になってしまって申し訳ないです。",
+    "ts": "1643602140.655229",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+9B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 今週はOcamlゼミはお休みです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8f1fe95d-c96a-4fde-998a-a826c96ec8ec",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02H6LYKVDE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> 今週はOcamlゼミはお休みです。",
+    "ts": "1643000271.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "82f05",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、忘れてました。\n今承認しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d6518815-f891-4527-91cf-4bc099fb84fd",
+    "team": "T6WULA63S",
+    "text": "すみません、忘れてました。\n今承認しました。",
+    "ts": "1642399610.002400",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HVikx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "山田くんが承認する？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "991f216d-de6f-461d-9b1a-c2c23ec58dd5",
+    "team": "T6WULA63S",
+    "text": "山田くんが承認する？",
+    "ts": "1642399555.001800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xFh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いま、承認待ち状態になってます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8D0CE5E4-B2C3-405F-9CC7-2F1019310D37",
+    "team": "T6WULA63S",
+    "text": "いま、承認待ち状態になってます！",
+    "ts": "1642399538.001400",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fc4jD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 今日のゼミどこかでやっていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5c276dfa-0b09-4f1a-9c1e-36b1f64fb714",
+    "team": "T6WULA63S",
+    "text": "<!channel> 今日のゼミどこかでやっていますか？",
+    "ts": "1642399522.000900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "twhsD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あけましておめでとうございます。そうですね。基本大学が休日のときはゼミはお休みにしているので、明日はこのゼミはお休みにします。カレンダーは明日が休日だったことを忘れていたときにつけていたものかもしれません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "75c78bae-ae75-425e-9947-890b2e643848",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02H6LYKVDE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あけましておめでとうございます。そうですね。基本大学が休日のときはゼミはお休みにしているので、明日はこのゼミはお休みにします。カレンダーは明日が休日だったことを忘れていたときにつけていたものかもしれません。",
+    "ts": "1641706891.006600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+dBzi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それとも全体ゼミで仰られたように火曜スタートで来週からですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6B33D489-FEE4-4E08-9FFF-645DF8E90358",
+    "team": "T6WULA63S",
+    "text": "それとも全体ゼミで仰られたように火曜スタートで来週からですか？",
+    "ts": "1641706721.004800",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6=UU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あけましておめでとうございます。\nカレンダーでは今週ocamlゼミあるってことになってるんですけど、今週からやるんですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89A0DB50-62D2-4806-B541-5155D2869FCD",
+    "edited": {
+      "ts": "1641706668.000000",
+      "user": "U02H6LYKVDE"
+    },
+    "team": "T6WULA63S",
+    "text": "あけましておめでとうございます。\nカレンダーでは今週ocamlゼミあるってことになってるんですけど、今週からやるんですか？",
+    "ts": "1641706652.003600",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cEAz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんおねがいします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3fe99634-44fe-4af6-b7d8-de81b5135ca4",
+    "team": "T6WULA63S",
+    "text": "すいませんおねがいします",
+    "ts": "1636351760.001600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zvf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 先に始めてしまった方が良いですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "428171b4-4795-4ea5-a872-7477d966c7f7",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> 先に始めてしまった方が良いですか？",
+    "ts": "1636351566.001200",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tA7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Pythonの教科書です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "544030cf-3d5d-4d47-a36a-e2521a928f7a",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F02JWFCH70R",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "Pythonの教科書です",
+    "ts": "1634783806.000200",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ihqQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\nプログラミング言語ゼミですが、ちょっと相談して、いきなりOcamlをやるのではなく、Pythonをじっくり輪講して、プログラミング言語の基礎をやろうと思います。教科書は\n入門 Python 3 第2版\n",
+                "type": "text"
+              },
+              {
+                "text": "https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic[…]A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&qid=1634695795&sr=8-1",
+                "type": "link",
+                "url": "https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic/dp/4873119324/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%85%A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&qid=1634695795&sr=8-1"
+              },
+              {
+                "text": "\nをやろうと思います。情報系の学科では、最初にPythonをやる学科も多いです。\nこの教科書の特に最初のところをじっくりと学習すると、他の言語の習得にも役に立つと思います。\n来週また相談します。よろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "52a9e660-1c5e-4c27-83e7-e3723b14667f",
+    "team": "T6WULA63S",
+    "text": "<!channel>\nプログラミング言語ゼミですが、ちょっと相談して、いきなりOcamlをやるのではなく、Pythonをじっくり輪講して、プログラミング言語の基礎をやろうと思います。教科書は\n入門 Python 3 第2版\n<https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic/dp/4873119324/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=%E5%85%A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&amp;qid=1634695795&amp;sr=8-1|https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-%E7%AC%AC2%E7%89%88-Bill-Lubanovic[…]A5%E9%96%80python3+%E7%AC%AC2%E7%89%88&amp;qid=1634695795&amp;sr=8-1>\nをやろうと思います。情報系の学科では、最初にPythonをやる学科も多いです。\nこの教科書の特に最初のところをじっくりと学習すると、他の言語の習得にも役に立つと思います。\n来週また相談します。よろしくお願いいたします。",
+    "ts": "1634706474.013000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2+lfD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GH21B3H8"
+              },
+              {
+                "text": " opamがちゃんと動いてるか確認しましたか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b03cab6-3612-4c19-bfe5-d415c40dffc4",
+    "team": "T6WULA63S",
+    "text": "<@U02GH21B3H8> opamがちゃんと動いてるか確認しましたか？",
+    "ts": "1634558564.010100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4YF8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分はubuntu開いた後\neval $(opam env)\nocaml\nで開ける",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ddd0ccb-f593-463d-b1c5-769bc79ac0ed",
+    "edited": {
+      "ts": "1634546470.000000",
+      "user": "U02H6LYKVDE"
+    },
+    "team": "T6WULA63S",
+    "text": "自分はubuntu開いた後\neval $(opam env)\nocaml\nで開ける",
+    "ts": "1634546204.009000",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Flx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ocamlインストール出来てないんですかねこれって",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0DCE10C3-6F89-432D-ACE8-764AD0C963F7",
+    "team": "T6WULA63S",
+    "text": "ocamlインストール出来てないんですかねこれって",
+    "ts": "1634545934.007800",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "client_msg_id": "4AE5BAC1-13B6-452C-A532-B4FE18A3CD8E",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F02J399JC8K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1634545899.006800",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nJjeV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "インストール出来ました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1c3d90e4-520f-42a2-b73d-7df1163fa72e",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F02J08BGYCV",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U02GH21B3H8"
+        ]
+      }
+    ],
+    "text": "インストール出来ました。",
+    "ts": "1634545324.006300",
+    "type": "message",
+    "upload": false,
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8HB+L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://try.ocamlpro.com/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9c0ec64-4a0d-4652-92e8-9cba152fc46c",
+    "team": "T6WULA63S",
+    "text": "<https://try.ocamlpro.com/>",
+    "ts": "1634539775.006100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yPv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあディレクトリ表示は相変わらずクソなので、設定はいじったほうが見やすいとは思いますけど面倒くさいこと考えずに起動もしてくれるんで使ってみてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4df2beda-95dc-4de8-98e4-7b5dd6170dc7",
+    "team": "T6WULA63S",
+    "text": "まあディレクトリ表示は相変わらずクソなので、設定はいじったほうが見やすいとは思いますけど面倒くさいこと考えずに起動もしてくれるんで使ってみてください",
+    "ts": "1634538622.005900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pJc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "半年くらい前にWindowsTerminalもWSL2がランタイムになったおかげで対応したんでおすすめしときますね\nWSL2環境をいじるなら同窓でできるんで最強です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b96a87eb-90ab-4d4c-92c6-097cc1d4b0ee",
+    "edited": {
+      "ts": "1634538516.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "半年くらい前にWindowsTerminalもWSL2がランタイムになったおかげで対応したんでおすすめしときますね\nWSL2環境をいじるなら同窓でできるんで最強です",
+    "ts": "1634538499.004400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "plu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "sudo apt update  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##インストール前のパッケージアップデート",
+                "type": "text"
+              },
+              {
+                "text": "\nsudo apt install -y bubblewrap build-essential curl git m4 unzip  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##OPAMのインストールに必要なライブラリを導入",
+                "type": "text"
+              },
+              {
+                "text": "\nsudo sh -c \"$(curl -sL ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://raw.githubusercontent.com/ocaml/opam/master/shell/install.sh"
+              },
+              {
+                "text": ")\"  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##スクリプトを叩いてOPAM2のインストールを行う",
+                "type": "text"
+              },
+              {
+                "text": "\nopam init  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##OPAM初期化",
+                "type": "text"
+              },
+              {
+                "text": "\nopam switch list-available ocaml-base-compiler  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##インストールできるOCamlコンパイラのバージョンを確認",
+                "type": "text"
+              },
+              {
+                "text": "\nopam switch create X.XX.X  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##任意のバージョンを指定",
+                "type": "text"
+              },
+              {
+                "text": "\neval $(opam env)  ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "italic": true
+                },
+                "text": "##PATHを設定",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dcf42693-d30e-413a-9684-d4b96f05d79e",
+    "team": "T6WULA63S",
+    "text": "sudo apt update  _##インストール前のパッケージアップデート_\nsudo apt install -y bubblewrap build-essential curl git m4 unzip  _##OPAMのインストールに必要なライブラリを導入_\nsudo sh -c \"$(curl -sL <https://raw.githubusercontent.com/ocaml/opam/master/shell/install.sh>)\"  _##スクリプトを叩いてOPAM2のインストールを行う_\nopam init  _##OPAM初期化_\nopam switch list-available ocaml-base-compiler  _##インストールできるOCamlコンパイラのバージョンを確認_\nopam switch create X.XX.X  _##任意のバージョンを指定_\neval $(opam env)  _##PATHを設定_",
+    "ts": "1634538491.004200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IdZci",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ocamlがWindowsの場合, WSLでのインストールになっているようなのでWSLをインストール中です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bd981111-7857-4503-9ea5-14e7d3058e1a",
+    "team": "T6WULA63S",
+    "text": "ocamlがWindowsの場合, WSLでのインストールになっているようなのでWSLをインストール中です。",
+    "ts": "1634538408.002600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: Windows Terminal Tips - Qiita",
+        "from_url": "https://qiita.com/whim0321/items/6a6b11dea54642bd6724",
+        "id": 1,
+        "image_bytes": 31041,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTg0MCZoPTM4MCZ0eHQ2ND1WMmx1Wkc5M2N5QlVaWEp0YVc1aGJDQlVhWEJ6JnR4dC1jb2xvcj0lMjMzMzMmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTQmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWNlbnRlciUyQ21pZGRsZSZzPWJlMGMxZTFhMGYwZTQ2M2YxNzc1OWJkNTZlNjRiNjM1&mark-align=center%2Cmiddle&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTg0MCZoPTUwMCZ0eHQ2ND1RSGRvYVcwd016SXgmdHh0LWNvbG9yPSUyMzMzMyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT00NSZ0eHQtYWxpZ249cmlnaHQlMkNib3R0b20mcz0xY2E5ZGY0OWViNGU4N2I4OTFkYzEwZTdjOTgzZDdkNg&blend-align=center%2Cmiddle&blend-mode=normal&s=fa01b363e4728b931f2d153654b78354",
+        "image_width": 476,
+        "original_url": "https://qiita.com/whim0321/items/6a6b11dea54642bd6724",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "Windows Terminal Windowsの新しいTerminalアプリケーション。WindowのTab化や様々な設定が可能。デフォルトでコマンドプロンプト、PowerShell、WSL、Azure Cloud Shell...",
+        "title": "Windows Terminal Tips - Qiita",
+        "title_link": "https://qiita.com/whim0321/items/6a6b11dea54642bd6724"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "pWA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/whim0321/items/6a6b11dea54642bd6724"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "add22a1e-2859-48bb-9803-72a709950cfb",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/whim0321/items/6a6b11dea54642bd6724>",
+    "ts": "1634538397.002300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cBnL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あーWSL2入れるんならWindowsTerminalを入れるといいですよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "507cc340-42af-41e5-b00f-420a35d6f85c",
+    "team": "T6WULA63S",
+    "text": "あーWSL2入れるんならWindowsTerminalを入れるといいですよ",
+    "ts": "1634538352.001700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: WSLをインストールする - Qiita",
+        "from_url": "https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86",
+        "id": 1,
+        "image_bytes": 31482,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTg0MCZoPTM4MCZ0eHQ2ND1WMU5NNDRLUzQ0S2s0NE96NDRLNTQ0T0k0NE84NDRPcjQ0R1o0NEtMJnR4dC1jb2xvcj0lMjMzMzMmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTQmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWNlbnRlciUyQ21pZGRsZSZzPWI4MjkzYTM2MDFhMzg1MjM0OGI0ZGIyYzc5NDRkNDU4&mark-align=center%2Cmiddle&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTg0MCZoPTUwMCZ0eHQ2ND1RRzFoZEdGeWFXeHNidyZ0eHQtY29sb3I9JTIzMzMzJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTQ1JnR4dC1hbGlnbj1yaWdodCUyQ2JvdHRvbSZzPTcyNzI1Y2NmNzc5N2ZmODNhNDc5NTIyOTlhNTJmNGZl&blend-align=center%2Cmiddle&blend-mode=normal&s=d06b767b8e0cc950d30beca20c4ed64b",
+        "image_width": 476,
+        "original_url": "https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "WSL (Windows Subsystem for Linux) とは ざっくり言うと、広い意味での仮想化技術を使って、Windows上でLinuxプログラムを動作させ、かつWindowsの世界と様々な形で相互連携できる、とい...",
+        "title": "WSLをインストールする - Qiita",
+        "title_link": "https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "U7pA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46ce2ea5-d8f1-4e82-ab8f-3ca1b1bb123a",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/matarillo/items/61a9ead4bfe2868a0b86>",
+    "ts": "1634538049.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "WSL のインストール",
+        "from_url": "https://docs.microsoft.com/ja-jp/windows/wsl/install",
+        "id": 1,
+        "original_url": "https://docs.microsoft.com/ja-jp/windows/wsl/install",
+        "service_icon": "https://docs.microsoft.com/favicon.ico",
+        "service_name": "docs.microsoft.com",
+        "text": "コマンド wsl --install を使用して Linux 用 Windows サブシステムをインストールします。 Windows コンピューター上で、好みの Linux ディストリビューションによって実行される Bash ターミナルを使用します。Ubuntu、Debian、SUSE、Kali、Fedora、Pengwin、Alpine などを使用できます。",
+        "thumb_height": 400,
+        "thumb_url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+        "thumb_width": 400,
+        "title": "WSL のインストール",
+        "title_link": "https://docs.microsoft.com/ja-jp/windows/wsl/install"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "C6k=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.microsoft.com/ja-jp/windows/wsl/install"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "209ca9a0-dd98-4932-96eb-03e9e88f7528",
+    "team": "T6WULA63S",
+    "text": "<https://docs.microsoft.com/ja-jp/windows/wsl/install>",
+    "ts": "1634537847.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "note（ノート）: 【メモ】OCamlをWSL上にインストールする｜石灰｜note",
+        "from_url": "https://note.com/ishibai/n/n4efae87b529b",
+        "id": 1,
+        "original_url": "https://note.com/ishibai/n/n4efae87b529b",
+        "service_icon": "https://d291vdycu0ht11.cloudfront.net/nuxt/static/metaicon/apple-touch-icon.png",
+        "service_name": "note（ノート）",
+        "text": "はじめに もうだいぶ前の話になりますが、『プログラミングの基礎』という本を買いました。 プログラミングの基礎 ((Computer Science Library)) <http://www.amazon.co.jp|www.amazon.co.jp> 2,530円 (2020年05月31日 19:19時点 詳しくはこちら) Amazon.co.jpで購入する 業務上、自分はRubyやJavaScriptをメインに使っているのですが、関数型言語には殆ど馴染みがなかったので、その勉強のために購入した書籍ですね。 こちらの書籍で利用されている言語はOCaml",
+        "thumb_height": 330,
+        "thumb_url": "https://assets.st-note.com/production/uploads/images/5532183/profile_42c7cb9b967948b418e044be37779089.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+        "thumb_width": 330,
+        "title": "【メモ】OCamlをWSL上にインストールする｜石灰｜note",
+        "title_link": "https://note.com/ishibai/n/n4efae87b529b"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "rsHes",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://note.com/ishibai/n/n4efae87b529b"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "becf4f83-2b8b-4350-b1a5-5491896a0ae7",
+    "team": "T6WULA63S",
+    "text": "<https://note.com/ishibai/n/n4efae87b529b>",
+    "ts": "1634537504.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bSK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/pl/setup.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c60fddcf-0209-4336-8237-81216164a301",
+    "team": "T6WULA63S",
+    "text": "<https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/pl/setup.html>",
+    "ts": "1634537366.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+V8mV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくお願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D78511C2-6001-4168-86E7-742739FC05E5",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U01BDLWP7T9",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よろしくお願いします！",
+    "ts": "1634127315.008200",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bz0ZR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました。ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "622d9669-ca76-41d6-bddf-fe16b61bd45c",
+    "team": "T6WULA63S",
+    "text": "わかりました。ありがとうございます。",
+    "ts": "1634093783.007900",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AFl1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一回目はガイダンスです。なのでその後相談して決められます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "00e02acb-57cd-49a3-9c5f-a3619fd548d9",
+    "team": "T6WULA63S",
+    "text": "一回目はガイダンスです。なのでその後相談して決められます。",
+    "ts": "1634093710.007600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NuZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくお願いします。\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " でもこれって他のゼミ(講義)にも言えるんですけど、一回全部のゼミを実際に受けてみてからどれを最後まで受けるか決める形？にはならない感じですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "658baaeb-6817-4b41-8625-87b2b8e62a85",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U01BDLWP7T9"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よろしくお願いします。\n<@U6YLZUWAK> でもこれって他のゼミ(講義)にも言えるんですけど、一回全部のゼミを実際に受けてみてからどれを最後まで受けるか決める形？にはならない感じですか？",
+    "ts": "1634093638.006900",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/bku-aqia-ihv",
+        "id": 1,
+        "original_url": "https://meet.google.com/bku-aqia-ihv",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/bku-aqia-ihv"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "tYKy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Google meetを使用します。\n\nOcamlゼミ\n10月 11日 (月曜日) · 午後3:00～4:30\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/bku-aqia-ihv"
+              },
+              {
+                "text": "\nダイヤルイン: ‪(US) +1 334-641-0493‬ PIN: ‪157 383 874‬#",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8621d028-0f5d-4311-9f61-ca25de6fa9ad",
+    "team": "T6WULA63S",
+    "text": "Google meetを使用します。\n\nOcamlゼミ\n10月 11日 (月曜日) · 午後3:00～4:30\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: <https://meet.google.com/bku-aqia-ihv>\nダイヤルイン: ‪(US) <tel:+1334-641-0493|+1 334-641-0493>‬ PIN: ‪157 383 874‬#",
+    "ts": "1634092673.003700",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A=wQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GH21B3H8"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02H6LYKVDE"
+              },
+              {
+                "text": " 来週の月曜日からよろしくおねがいします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d0c9a71-f383-42e9-8c93-884350751f44",
+    "team": "T6WULA63S",
+    "text": "<@U02GH21B3H8> <@U02H6LYKVDE> 来週の月曜日からよろしくおねがいします。",
+    "ts": "1634092589.003200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eV6Eg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年生のプログラミング言語ゼミです。来週から毎週月曜の4限に行います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a23f1c6-7ff3-4831-9757-e08227c8c6c7",
+    "team": "T6WULA63S",
+    "text": "3年生のプログラミング言語ゼミです。来週から毎週月曜の4限に行います。",
+    "ts": "1634092510.002700",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "purpose": "3年生プログラミング言語ゼミ（毎週月曜4限）",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 3年生プログラミング言語ゼミ（毎週月曜4限）",
+    "ts": "1634092482.002200",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+4RvW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "３年生プログラミング言語ゼミで使う教科書です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "525cf07c-9d8d-4de6-9efb-338212133a5b",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F02H500LFDM",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "３年生プログラミング言語ゼミで使う教科書です。",
+    "ts": "1634092481.001900",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U01BDLWP7T9",
+    "subtype": "channel_join",
+    "text": "<@U02H6LYKVDE> has joined the channel",
+    "ts": "1634092406.001100",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "inviter": "U01BDLWP7T9",
+    "subtype": "channel_join",
+    "text": "<@U02GH21B3H8> has joined the channel",
+    "ts": "1634092406.000900",
+    "type": "message",
+    "user": "U02GH21B3H8"
+  },
+  {
+    "inviter": "U01BDLWP7T9",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1634092406.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "U01BDLWP7T9",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1634092406.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "purpose": "3年生プログラミング言語ゼミ（毎週月曜3限）",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 3年生プログラミング言語ゼミ（毎週月曜3限）",
+    "ts": "1634092283.000300",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01BDLWP7T9> has joined the channel",
+    "ts": "1634092283.000200",
+    "type": "message",
+    "user": "U01BDLWP7T9"
+  }
+]

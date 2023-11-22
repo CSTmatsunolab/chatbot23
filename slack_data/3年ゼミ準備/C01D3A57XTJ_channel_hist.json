@@ -1,0 +1,1332 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "ym54z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d9320aea-caa1-46b0-a56a-2a11c219dd5f",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1634780278.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nEa4h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "両方、入ったり、退室したりする予定です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1e9d14fb-522b-465a-8c7c-e920d7adf4a2",
+    "team": "T6WULA63S",
+    "text": "両方、入ったり、退室したりする予定です。",
+    "ts": "1634780270.001200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nWHux",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 先生、Unityのチーム、AとBどちらに入ります？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b947c11-1be5-456a-b694-6332b4ac7e76",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> 先生、Unityのチーム、AとBどちらに入ります？",
+    "ts": "1634780238.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kXEg9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Unityゼミ内容\n・6週間で行う予定\n・chapter1-6までを各１週で行う\n・初回は2グループの振り分けとunityのインストールとchapter２−６の担当決め",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "38821d9e-6ba7-45a6-b601-355b3f036f3c",
+    "team": "T6WULA63S",
+    "text": "Unityゼミ内容\n・6週間で行う予定\n・chapter1-6までを各１週で行う\n・初回は2グループの振り分けとunityのインストールとchapter２−６の担当決め",
+    "ts": "1634007938.004400",
+    "type": "message",
+    "user": "U01C0JWMER2"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1634007641.001700",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zo5m9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNKU3S7C2"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UUDCP6WNQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UNYMRF17S"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": "\nPythonのやつ。つかってもいいのよ（）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1HOfE60GQ_wHKeqi6JJTuhFq97Fmd-tDC33st3yXXiJI/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9ad5add7-a0d7-4935-883c-5ad70fd98b96",
+    "team": "T6WULA63S",
+    "text": "<@UNKU3S7C2> <@UUDCP6WNQ> <@UNYMRF17S> <@U01CJ8MK0M6>\nPythonのやつ。つかってもいいのよ（）\n<https://docs.google.com/presentation/d/1HOfE60GQ_wHKeqi6JJTuhFq97Fmd-tDC33st3yXXiJI/edit?usp=sharing>",
+    "ts": "1634007635.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eqEy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1IClGK31XCq5U25k8XwGGNnDrG-Vq0zGq&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2741a0fd-17eb-4478-a1d5-18d484ccdaed",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/open?id=1IClGK31XCq5U25k8XwGGNnDrG-Vq0zGq&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>",
+    "ts": "1634007266.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1634007258.000400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWMER2> has joined the channel",
+    "ts": "1634007258.000200",
+    "type": "message",
+    "user": "U01C0JWMER2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BXo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週\n１以外はブレインストーミング（思いついたことは全部書き出す）\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "期間決め",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "テーマ決め",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "ゲーム決め",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "ゲームの仕様",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "ゲームに必要なオブジェクト決め",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "ゲームの手順決め",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "ordered",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n1チームは3人で1タスクをやっていく",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78b44d2e-5829-440e-a6b9-57ba0581bec8",
+    "edited": {
+      "ts": "1608169982.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "来週\n１以外はブレインストーミング（思いついたことは全部書き出す）\n\n1. 期間決め\n2. テーマ決め\n3. ゲーム決め\n4. ゲームの仕様\n5. ゲームに必要なオブジェクト決め\n6. ゲームの手順決め\n1チームは3人で1タスクをやっていく",
+    "ts": "1608169968.036000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0o6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あれもPDF化してましたっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "906edd4f-b433-409d-88ef-c1c40d2deb3a",
+    "team": "T6WULA63S",
+    "text": "あれもPDF化してましたっけ",
+    "ts": "1607578002.035100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tCW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私が4年の時にやった教科書引っ張り出してきますか・・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e393fe80-563d-4973-adc1-656ab6e75be5",
+    "team": "T6WULA63S",
+    "text": "私が4年の時にやった教科書引っ張り出してきますか・・・",
+    "ts": "1607577985.034800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "r9KjG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんが、もしできたらお願いしたいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89e6a5e4-3671-425d-9371-8fe7759c7141",
+    "team": "T6WULA63S",
+    "text": "すいませんが、もしできたらお願いしたいです。",
+    "ts": "1607577977.034700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "foCo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね。１７，２４でHTML/CSSやったほうがいいですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ea146db3-bc75-403b-889a-e2c3444f25d2",
+    "team": "T6WULA63S",
+    "text": "そうですね。１７，２４でHTML/CSSやったほうがいいですね。",
+    "ts": "1607577942.034000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SwbQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私がやったほうがいいですかね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8d41220e-4fb9-460e-9b9b-1939ee5e974a",
+    "edited": {
+      "ts": "1607577937.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "私がやったほうがいいですかね？",
+    "ts": "1607577934.033600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ePZPr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現状\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1jhcm2lzTr7Dvpxolc3WvJFtv8LSP5x10jOl__Ptw5a4/edit#slide=id.g9ba905c935_0_11"
+              },
+              {
+                "text": "\nの通りなら、M0がHTML/CSSを2週間かけて教えるということになってますけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d724b050-c5b0-44e3-be76-076895205144",
+    "team": "T6WULA63S",
+    "text": "現状\n<https://docs.google.com/presentation/d/1jhcm2lzTr7Dvpxolc3WvJFtv8LSP5x10jOl__Ptw5a4/edit#slide=id.g9ba905c935_0_11>\nの通りなら、M0がHTML/CSSを2週間かけて教えるということになってますけど",
+    "ts": "1607577848.031600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tKnP6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週以降の3年ゼミ（A班B班）をどうするか問題をはなしますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "586ae278-26aa-4261-8353-0af0d48dd6c6",
+    "edited": {
+      "ts": "1607577790.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "来週以降の3年ゼミ（A班B班）をどうするか問題をはなしますか",
+    "ts": "1607577776.030200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wJfx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくお願いいたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0205bef6-89f5-41ca-83b2-4c8db76696dc",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UUDCP6WNQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よろしくお願いいたします",
+    "ts": "1606980919.029500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pvRto",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解しました\nじゃあ機械学習ゼミは来週はgithubアカ作成とSourcetreeのインストールを行います方向で行きます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5ccccc89-86e6-4df2-8a0e-666afb8651c2",
+    "team": "T6WULA63S",
+    "text": "了解しました\nじゃあ機械学習ゼミは来週はgithubアカ作成とSourcetreeのインストールを行います方向で行きます。",
+    "ts": "1606980892.029300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zNW0S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちとしてはそれが一番いいかなと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7fe1ba02-8b8f-425b-a48f-d8cdded276ab",
+    "edited": {
+      "ts": "1606980762.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "こっちとしてはそれが一番いいかなと思います",
+    "ts": "1606980716.027400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Tgff",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "チームはそっちがスクラムマスター1人ずつでこっちが4人ずつに分けてやる感じ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b1795759-d124-4d35-a867-87c5f3ef0750",
+    "team": "T6WULA63S",
+    "text": "チームはそっちがスクラムマスター1人ずつでこっちが4人ずつに分けてやる感じ？",
+    "ts": "1606980677.026900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P7o0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アカウント連携は、Bitbucket無視して、GithubとのOAuth認証すれば問題なく行けるかと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fa748589-e2b5-4ebe-86f5-9f0a5d1abebc",
+    "team": "T6WULA63S",
+    "text": "アカウント連携は、Bitbucket無視して、GithubとのOAuth認証すれば問題なく行けるかと",
+    "ts": "1606980652.026800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "45pOQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちはGitHubとSourcetreeの連携は終わってるので、来週リポジトリの入れ方とかやります\nそれと、開発する内容の決定の仕方の大まかな流れを覚えてもらうつもりですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f920d3b5-663a-4435-87b4-eb5c04cab4cf",
+    "edited": {
+      "ts": "1606980701.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "こっちはGitHubとSourcetreeの連携は終わってるので、来週リポジトリの入れ方とかやります\nそれと、開発する内容の決定の仕方の大まかな流れを覚えてもらうつもりですね",
+    "ts": "1606980595.025500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BoN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいんじゃないんですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3ce4cc81-34d8-4d60-83e4-8e341d38ed76",
+    "team": "T6WULA63S",
+    "text": "いいんじゃないんですか",
+    "ts": "1606980580.025100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dl2hW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっち、アジャイルの開発準備がもう1週ほしいので\nそっちのほうでGithubのアカウント作成＋SourceTreeのインストールについてやっておいてもらえますかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e28355a-bd53-4a3c-9161-0044108ecc26",
+    "team": "T6WULA63S",
+    "text": "こっち、アジャイルの開発準備がもう1週ほしいので\nそっちのほうでGithubのアカウント作成＋SourceTreeのインストールについてやっておいてもらえますかね",
+    "ts": "1606980530.024300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=HQR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、すごいですね。皆さん教科書の内容わかってましたか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4d8fd27-b5ca-415e-a0ef-06a0ef826ed3",
+    "team": "T6WULA63S",
+    "text": "うーん、すごいですね。皆さん教科書の内容わかってましたか。",
+    "ts": "1606980338.022800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MYxty",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 来週が予備日となっていますが、こちらの機械学習ゼミの方は一冊終わりました。\n来週は何かしますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ba330769-e87a-499e-b6f4-3995b7461b4c",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> 来週が予備日となっていますが、こちらの機械学習ゼミの方は一冊終わりました。\n来週は何かしますか？",
+    "ts": "1606980202.022300",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "purpose": "３年ゼミの準備チャンネルです",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ３年ゼミの準備チャンネルです",
+    "ts": "1605574010.021300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "name": "3年ゼミ準備",
+    "old_name": "3年ゼミ準備2020",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"3年ゼミ準備2020\" to \"3年ゼミ準備\"",
+    "ts": "1605574009.021200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "spP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応できたので、違うなと思ったら好きに編集お願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b943e2e5-a326-4c94-920d-ff222d0761bc",
+    "team": "T6WULA63S",
+    "text": "一応できたので、違うなと思ったら好きに編集お願いします",
+    "ts": "1605146346.020100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cKR2d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://docs.google.com/forms/d/1g_BKDDdgJgBjA6FELqvvECwO9lwJWEfdtOn_ErQaiWo/edit?usp=sharing",
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/1g_BKDDdgJgBjA6FELqvvECwO9lwJWEfdtOn_ErQaiWo/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "447cd0fb-620c-4111-bbd6-72df5d1e7fe9",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/forms/d/1g_BKDDdgJgBjA6FELqvvECwO9lwJWEfdtOn_ErQaiWo/edit?usp=sharing|https://docs.google.com/forms/d/1g_BKDDdgJgBjA6FELqvvECwO9lwJWEfdtOn_ErQaiWo/edit?usp=sharing>",
+    "ts": "1605146331.019600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0YIR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ一応フォーム作っときますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b03c1d5c-0ebc-449f-82bd-3953b9c3f172",
+    "team": "T6WULA63S",
+    "text": "じゃあ一応フォーム作っときますね",
+    "ts": "1605144473.019400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8HXn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと感想とか改善点とかgoogle formでアンケートとってもいいかもしれません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "93052398-8fb3-4994-a9fe-f20a45715e0a",
+    "team": "T6WULA63S",
+    "text": "あと感想とか改善点とかgoogle formでアンケートとってもいいかもしれません",
+    "ts": "1605143940.018800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fan",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "20bbbdb2-226c-4456-9d84-2e076714cf1b",
+    "team": "T6WULA63S",
+    "text": "そうですね",
+    "ts": "1605143882.018100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=dTfO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ3年生に入り直してもらう感じですかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9bbeb3f5-65b5-41c2-be5b-73e43fae1ef4",
+    "team": "T6WULA63S",
+    "text": "じゃあ3年生に入り直してもらう感じですかね",
+    "ts": "1605143831.017900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=SN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね。３限の終わりにAとBを入れ替えて相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb7bffd6-06cb-4f0a-bf6f-faea434c05e8",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UP0TP0QH4"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そうですね。３限の終わりにAとBを入れ替えて相談しましょう",
+    "ts": "1605143801.017400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tNA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ああ、そういえば決めないとですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f44cbe1-1247-4f3e-807f-d37f5361655a",
+    "team": "T6WULA63S",
+    "text": "ああ、そういえば決めないとですよね",
+    "ts": "1605143787.017100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "spXf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日3年ゼミのときに次回の担当決めた方がいいですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "687FFDBF-962E-4B63-A907-9F36963136CD",
+    "team": "T6WULA63S",
+    "text": "今日3年ゼミのときに次回の担当決めた方がいいですか？",
+    "ts": "1605142188.015800",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6Lz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "４年生、修士の皆さん、明日からある３年ゼミですが、３年生とよくコミュニケーションをして、どうかよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff7d5b97-d510-43d1-a655-4ef567f02ef1",
+    "team": "T6WULA63S",
+    "text": "４年生、修士の皆さん、明日からある３年ゼミですが、３年生とよくコミュニケーションをして、どうかよろしくお願いいたします。",
+    "ts": "1603283958.011900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=TrY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、言い忘れていたんですけど、明日の4限の選択ゼミは私用で出られないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bf18f732-c88b-4bfc-9996-82f8b29008f9",
+    "is_locked": false,
+    "latest_reply": "1603283106.010700",
+    "reply_count": 1,
+    "reply_users": [
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すみません、言い忘れていたんですけど、明日の4限の選択ゼミは私用で出られないです",
+    "thread_ts": "1603276167.010600",
+    "ts": "1603276167.010600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BBqtE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "選択の方のゼミの日程を変更しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ad8a2b38-dcf7-4cf3-91e5-ba22867b1c43",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "選択の方のゼミの日程を変更しました。",
+    "ts": "1602568115.005700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5TwL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現状の計画案を小池君、杉田君と相談して作りました。火曜日、水曜日で皆さんと相談して決めたいと思います。\nすいませんがよろしくお願いいたします。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1jhcm2lzTr7Dvpxolc3WvJFtv8LSP5x10jOl__Ptw5a4/edit#slide=id.g9ba905c935_0_17"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a492a368-4790-4ff6-bd1e-c1ba1d3b3f1d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F01C9BRGHPC",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "現状の計画案を小池君、杉田君と相談して作りました。火曜日、水曜日で皆さんと相談して決めたいと思います。\nすいませんがよろしくお願いいたします。\n<https://docs.google.com/presentation/d/1jhcm2lzTr7Dvpxolc3WvJFtv8LSP5x10jOl__Ptw5a4/edit#slide=id.g9ba905c935_0_17>",
+    "ts": "1602478269.004300",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F01C9BRGHPC"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "17BC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "に３年ゼミ用にフォルダを作りました。それぞれのゼミで必要そうなのがあったら入れてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7db56a72-754a-42a9-8400-2255a7b9a24d",
+    "team": "T6WULA63S",
+    "text": "に３年ゼミ用にフォルダを作りました。それぞれのゼミで必要そうなのがあったら入れてください",
+    "ts": "1602477794.003500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D7=p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1I8aslgIbuXhy9lWGeUA4NqViW5fXzguY&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "31769781-2a6e-483e-a9ad-f50460699c12",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/open?id=1I8aslgIbuXhy9lWGeUA4NqViW5fXzguY&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>",
+    "ts": "1602477716.002900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jgY0J",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年ゼミの準備のためのチャネルを作りました。すいませんが協力をお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "765e737f-5289-4bc5-a205-9960a138f437",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U97F49L68"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "3年ゼミの準備のためのチャネルを作りました。すいませんが協力をお願いします",
+    "ts": "1602477699.002700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1602477670.002200",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U010MRUUSF7> has joined the channel",
+    "ts": "1602477670.002000",
+    "type": "message",
+    "user": "U010MRUUSF7"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1602477669.001800",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UP0TP0QH4> has joined the channel",
+    "ts": "1602477669.001600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UNM7EU5A7> has joined the channel",
+    "ts": "1602477669.001400",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1602477669.001200",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UNYMRF17S> has joined the channel",
+    "ts": "1602477668.001000",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UQWQC3GPJ> has joined the channel",
+    "ts": "1602477668.000800",
+    "type": "message",
+    "user": "UQWQC3GPJ"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1602477668.000600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1602477668.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1602477567.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

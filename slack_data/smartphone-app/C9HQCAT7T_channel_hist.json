@@ -1,0 +1,841 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555913117.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555913111.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Taud4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "石井くん、スライド至急送ってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "399c7076-0dea-4c19-8394-833328ad61f0",
+    "team": "T6WULA63S",
+    "text": "石井くん、スライド至急送ってください",
+    "ts": "1538181614.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FMi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アプリの追加機能は\n・刺激定時から反応までの時間を計測\n・１問ごとに画面が切り替わる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b95076ca-0422-49e7-a177-5b1ed21a2c74",
+    "team": "T6WULA63S",
+    "text": "アプリの追加機能は\n・刺激定時から反応までの時間を計測\n・１問ごとに画面が切り替わる",
+    "ts": "1532493612.000141",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "afNH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " shared a file: ",
+                "type": "text"
+              },
+              {
+                "text": "降雨量あてゲーム",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U6YLZUWAK/FBVTR2EV7/________________________"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "FBVTR2EV7",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U6YLZUWAK> shared a file: <https://matsulabnu.slack.com/files/U6YLZUWAK/FBVTR2EV7/________________________|降雨量あてゲーム>",
+    "ts": "1532493562.000106",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "日本経済新聞 電子版: 倉敷・真備町 「浸水地図」備え生きず",
+        "from_url": "https://www.nikkei.com/article/DGKKZO32872140R10C18A7CC1000/",
+        "id": 1,
+        "image_bytes": 140967,
+        "image_height": 250,
+        "image_url": "https://www.nikkei.com/content/pic/20180712/96959999889DE1E0EAE5E0E3E6E2E3E3E2E5E0E2E3EA9191E3E2E2E2-DSKKZO3287210011072018CC1000-PB1-2.jpg",
+        "image_width": 320,
+        "original_url": "https://www.nikkei.com/article/DGKKZO32872140R10C18A7CC1000/",
+        "service_icon": "http://assets.nikkei.jp/release/v3.1.31/parts/ds/images/ico/pin_favicon.ico",
+        "service_name": "日本経済新聞 電子版",
+        "text": "　西日本豪雨で４分の１が冠水した岡山県倉敷市真備町地区は想定される浸水区域や避難場所をまとめた「洪水・土砂災害ハザードマップ」を2016年に作製していた。今回浸水した区域と予測した区域はほぼ同じで想定",
+        "title": "倉敷・真備町 「浸水地図」備え生きず",
+        "title_link": "https://www.nikkei.com/article/DGKKZO32872140R10C18A7CC1000/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "8lAIQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.nikkei.com/article/DGKKZO32872140R10C18A7CC1000/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f7f8d561-aebf-48c9-87a3-068426aaf87f",
+    "team": "T6WULA63S",
+    "text": "<https://www.nikkei.com/article/DGKKZO32872140R10C18A7CC1000/>",
+    "ts": "1531368591.000069",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7LE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ご意見を参考にしながら改良していきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58B9272E-43D3-4EA5-BBA0-0B53D884175A",
+    "team": "T6WULA63S",
+    "text": "ご意見を参考にしながら改良していきます",
+    "ts": "1531117025.000184",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I7iAH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野先生\n島崎は遊ぶだけ遊んでコメントし忘れてましたw\n被写体が赤い服の女性の方は，正解の札を持っちゃってるので，ぼかしなどが必要ですね．\nあと，写真の左のラジオボタンを押すのたと思いますが，右の写真の方が近くなっちゃってるので，押し間違いがありそう．\n写真を押すのでも良いみたいなので，いっそボタンはなくても良いかもしれませんね．\n\n学習効果的な事をお考えるとすると，1問やるたびに正解かどうかのフィードバックが来ると良いかも．\n不正解もワンパターンではなく「惜しい，もっと多い！」みたいに，どちら側に不正解（過大評価or過小評価）だったのかがわかると学習が進みそうです．\n\n取り急ぎ，気づいた点でした．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5c73966c-1055-4f17-850f-ecc659622f39",
+    "team": "T6WULA63S",
+    "text": "松野先生\n島崎は遊ぶだけ遊んでコメントし忘れてましたw\n被写体が赤い服の女性の方は，正解の札を持っちゃってるので，ぼかしなどが必要ですね．\nあと，写真の左のラジオボタンを押すのたと思いますが，右の写真の方が近くなっちゃってるので，押し間違いがありそう．\n写真を押すのでも良いみたいなので，いっそボタンはなくても良いかもしれませんね．\n\n学習効果的な事をお考えるとすると，1問やるたびに正解かどうかのフィードバックが来ると良いかも．\n不正解もワンパターンではなく「惜しい，もっと多い！」みたいに，どちら側に不正解（過大評価or過小評価）だったのかがわかると学習が進みそうです．\n\n取り急ぎ，気づいた点でした．",
+    "ts": "1531100781.000028",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HTAFQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次のステップですが、被験者実験に持っていくために何を拡張するか、防災研の人も含めて検討しましょう。まず、Androidで動かせるか試してみてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53bdfa2f-5fd5-4a86-835e-ab9027e36247",
+    "team": "T6WULA63S",
+    "text": "次のステップですが、被験者実験に持っていくために何を拡張するか、防災研の人も含めて検討しましょう。まず、Androidで動かせるか試してみてください",
+    "ts": "1531100676.000117",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MVDxb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと石垣さんが下記から使えるようにしてくれました。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "http://radiation-watch.sakuraweb.com/yang/yutaka/quiz.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fd994065-004c-4d18-a6a3-28d01cc47317",
+    "team": "T6WULA63S",
+    "text": "あと石垣さんが下記から使えるようにしてくれました。\n<http://radiation-watch.sakuraweb.com/yang/yutaka/quiz.html>",
+    "ts": "1531100632.000136",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "44tl1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "石井くん、下記のような防災研の人や石垣さんから反応がありました。\n松野先生\n\nお世話になっております。防災科研の中島です。\n\n雨量あてウエブアプリありがとうございます！\nうまく開けなくて少してこづっておりました。返信が遅れ失礼しました。\nほかのＰＪメンバーにも展開してよいですか？\n\niphoneで見ることができました！\n画像をたくさん使用してくださりありがとうございます。\n偶然かと思いますが、なんと全問正解しました！\nうれしい気持ちのままでいたいので、2回目はしていません；\n正解するとやっぱりうれしいですね。\n\nゲーム要素、私も考えてみます。\n（ゲーム経験はファミコン時代でとまっていますが；）\n\n今後とも引き続きどうぞ宜しくお願いします！\n\n中島\n\n難しいですね！\n４問中二問正解でした。\n気を取り直して二回目をやったらゼロ問正解でした。。。\nどこが不正解なのかがわからないと、かなり難しいですね。\n\nあとこれはゲームというよりは学習教材コンテンツですかね。\n窪田さんがいっていたような「ゲーム要素」って、何か入れられるでしょうか。\n\n放っておくと大変なことになる、ゲームオーバーやゲームクリアの概念など。\n私も、考えてみます。。。。\n\n石垣",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ccf1357a-1e8e-4282-95b8-bd4156611485",
+    "team": "T6WULA63S",
+    "text": "石井くん、下記のような防災研の人や石垣さんから反応がありました。\n松野先生\n\nお世話になっております。防災科研の中島です。\n\n雨量あてウエブアプリありがとうございます！\nうまく開けなくて少してこづっておりました。返信が遅れ失礼しました。\nほかのＰＪメンバーにも展開してよいですか？\n\niphoneで見ることができました！\n画像をたくさん使用してくださりありがとうございます。\n偶然かと思いますが、なんと全問正解しました！\nうれしい気持ちのままでいたいので、2回目はしていません；\n正解するとやっぱりうれしいですね。\n\nゲーム要素、私も考えてみます。\n（ゲーム経験はファミコン時代でとまっていますが；）\n\n今後とも引き続きどうぞ宜しくお願いします！\n\n中島\n\n難しいですね！\n４問中二問正解でした。\n気を取り直して二回目をやったらゼロ問正解でした。。。\nどこが不正解なのかがわからないと、かなり難しいですね。\n\nあとこれはゲームというよりは学習教材コンテンツですかね。\n窪田さんがいっていたような「ゲーム要素」って、何か入れられるでしょうか。\n\n放っておくと大変なことになる、ゲームオーバーやゲームクリアの概念など。\n私も、考えてみます。。。。\n\n石垣",
+    "ts": "1531100613.000120",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ycHdD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週中に今後のことを相談しましょう。お昼休みのどこかで研究室に来てください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eba68d06-2801-47e0-8708-28d16b2cfe2e",
+    "team": "T6WULA63S",
+    "text": "今週中に今後のことを相談しましょう。お昼休みのどこかで研究室に来てください",
+    "ts": "1530624571.000009",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xnV+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ置いてなかったのでグーグルドライブにあげておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5460C971-E7FA-40A0-82DF-BA36A5DC25E3",
+    "team": "T6WULA63S",
+    "text": "まだ置いてなかったのでグーグルドライブにあげておきます",
+    "ts": "1530614084.000181",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IBL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "石井くん、作ったウエブアプリどこに置きましたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37a9bf0a-e019-49aa-8643-5cd587585e22",
+    "team": "T6WULA63S",
+    "text": "石井くん、作ったウエブアプリどこに置きましたか",
+    "ts": "1530565075.000103",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t8eR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしく",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78B83084-D45B-4CA1-A11C-D150294C55B1",
+    "team": "T6WULA63S",
+    "text": "よろしく",
+    "ts": "1529652402.000128",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s4d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6722EEB4-725D-491F-9536-9AB2A60BFDCC",
+    "team": "T6WULA63S",
+    "text": "わかりました",
+    "ts": "1529652140.000044",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7zn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "火曜日きてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ee938327-077a-4a69-b4f1-c2a075ff1984",
+    "team": "T6WULA63S",
+    "text": "火曜日きてください",
+    "ts": "1529558764.000243",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cipbc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "石井くん、そろそろ一ヶ月なので、打ち合わせしましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f5883742-16da-496b-9610-5e1182fed41a",
+    "team": "T6WULA63S",
+    "text": "石井くん、そろそろ一ヶ月なので、打ち合わせしましょう",
+    "ts": "1529558759.000262",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "報道発表資料：スマホで簡単確認！ 身近な河川どれくらい浸水するの？～梅雨や台風に備え、想定最大規模の洪水浸水想定区域が簡単に確認できるようになりました～ - 国土交通省",
+        "from_url": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000089.html",
+        "id": 1,
+        "original_url": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000089.html",
+        "service_name": "mlit.go.jp",
+        "text": "国土交通省のウェブサイトです。政策、報道発表資料、統計情報、各種申請手続きに関する情報などを掲載しています。",
+        "title": "報道発表資料：スマホで簡単確認！ 身近な河川どれくらい浸水するの？～梅雨や台風に備え、想定最大規模の洪水浸水想定区域が簡単に確認できるようになりました～ - 国土交通省",
+        "title_link": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000089.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "G4LNZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000089.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0259abcc-a246-4abf-97b5-39b3f196c13e",
+    "team": "T6WULA63S",
+    "text": "<http://www.mlit.go.jp/report/press/mizukokudo06_hh_000089.html>",
+    "ts": "1528699903.000022",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rQA/u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "気象アプリ情報項目R.pdf",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U6YLZUWAK/FAWHF63ME/______________________________r.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAWHF63ME",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U6YLZUWAK> uploaded a file: <https://matsulabnu.slack.com/files/U6YLZUWAK/FAWHF63ME/______________________________r.pdf|気象アプリ情報項目R.pdf>",
+    "ts": "1527506023.000099",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nMUg8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "気象アプリ情報分類.pdf",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U6YLZUWAK/FAY9WBP9D/______________________________.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAY9WBP9D",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U6YLZUWAK> uploaded a file: <https://matsulabnu.slack.com/files/U6YLZUWAK/FAY9WBP9D/______________________________.pdf|気象アプリ情報分類.pdf>",
+    "ts": "1527506017.000054",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q6q8Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜日に来てくれた防災研の中島さんからの情報です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "金曜日に来てくれた防災研の中島さんからの情報です",
+    "ts": "1527505988.000367",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "防災教育普及協会: 【イベント】防災ゲームDay2018inそなエリア東京｜7月7日(土),江東区 | 一般社団法人防災教育普及協会",
+        "from_url": "http://www.bousai-edu.jp/info/bousai_gameday2018/",
+        "id": 1,
+        "original_url": "http://www.bousai-edu.jp/info/bousai_gameday2018/",
+        "service_name": "防災教育普及協会",
+        "text": "  防災教育に関するゲームや教材を体験してみよう！！ 2016年、2017年に引き続き、東京臨海広域防災公園管理センター、本協会主催で防災体験学習施設「そなエリア東京」を会場に下記のイベントを開催します！さまざまな防災教育に関するゲームや教材を体験することができます。 小さなお子さんや親子連れの方はカードやすごろく形式のゲームで楽しく防災を学ぶことができます。教職員・学校関係者、防災関係団体、行政関係の方など防災教育に関わる方々は、レクチャールームで行われる体験講座で実際にゲームや教材を体験的に学べます。 実際にゲームを体験できるコーナーや展示コーナーが開設されていますので、お気軽にご参加ください。   ◆イベント概要 名　称　：　防災ゲームDay 2018 in そなエリア東京 日　時　：　2018年7月7日(土)　10:00～16:00 会　場　：　東京臨海広域防災公園そなエリア東京（アクセス：ゆりかめも「有明」駅徒歩2分） 　　　　　　アクセスマップ 内　容　：　防災ゲーム、教材、資料の展示及び体験型講座 参加費　：　無料 申　込　：　申し込みは不要です。 　　　　　　各体験プログラムの詳細は５月下旬に公開予定です。 主　催　：　東京臨海広域防災公園管理センター、一般社団法人防災教育普及協会 協　力　：　防災教育チャレンジプラン実行委員会、災害救援ボランティア推進委員会　 後　援　：　東京都教育委員会、江東区（予定）   ◆イベントチラシ（2018年5月28日更新） 防災ゲームDay2018inそなエリア東京出展一覧及びタイムテーブル ◆タイムテーブル及び展示・見学、体験ゲーム（教材）一覧 準備中です。※チラシをご覧ください。     ◆専門家による特別講義＆防災ゲームコンシェルジュ 当日は防災ゲームや教材、プログラムの体験に加えて専門家による特別講義や防災ゲーム、教材、プログラムに関するコンシェルジュカウンターの設置を行います。防災ゲームや教材をより有効に活用するための知識習得から気軽な相談まで対応します。   （１）特別講義　＜１２：４５～１３：１５＞ 『首都直下地震に関する短時間の特別講義です。』 講師　：　一般社団法人防災教育普及協会会長・東京大学地震研究所教授 　　　　　平田 直 ※席に限りがございます。   （２）防災ゲームコンシェルジュ　＜終日＞ 『防災ゲーム、教材、プログラムの指導方法、活用のポイントなど何でもご相談ください。』 コンシェルジュ　：　一般社団法人防災教育普及協会事務局長・防災教育コーディネーター 　　　　　　　　　　宮﨑 賢哉 ※ご相談は先着順に承っておりますが、対応にお時間をいただく場合もございます。 ※当日、展示・紹介していないゲームや教材についてのご相談も承ります。   ◆展示・紹介、体験可能な防災ゲームや教材、プログラム 準備中です。2017年のゲーム（教材）を記載しています。   ・まちのBOSAIマスター、防災すごろく、防災つりぼり（NPO法人高齢者住まいる研究会） ・災害想定ゲーム「KIZUKI」（NPO法人高齢者住まいる研究会） ・ひなんくんれんゲーム（NPO北海道防災教育研究センター赤鼻塾） ・学校向け教材「トランプで学ぶ自助・共助・公助」（防災教育普普及協会） ・学校向け教材「\"不思議な地図\"で避難誘導に協力しよう！」（防災教育普及協会） ・防災学習ツール（東京臨海広域防災公園） ・教科横断型の防災教育キット（神戸学院大学防災・社会貢献ユニット ） ・障がい者の災害対策チェックキット（国立障害者リハビリテーションセンター） ・災害情報＆コミュニケーション演習-DICE(ダイス)-（災害救援ボランティア推進委員会） ・『被災』疑似体験ワークツール-SaTa-Sen(サタセン)-（みえ防災市民会議） ・逃げ地図ワークショップ（子ども安全まちづくりパートナーズ） ・減災まちづくりＭＡＰワークショップ（東京大学工学部 廣井研究室） ・帰宅困難者支援施設運営ゲーム KUG（東京大学工学部 廣井研究室） 　  ・ジュニア向け災害医療教材「災害医療クエスト」（産業技術総合研究所） ・展示「巻き起こそう、気象災害軽減イノベーション！」（防災科学技術研究所） ・ぼうさいクイズビンゴ（危機管理教育研究所） ・紙ぶるるほか「ぶるるくんのじこしょうかい」より（名古屋大学福和研究室） ・防災教育教材「避難行動訓練EVAG（豪雨災害編）」　（国土防災技術株式会社） ・災害対応カードゲーム教材「クロスロード」（チームクロスロード） ・防災すごろくゲーム「GURAGURA TOWN」（NPO法人プラス・アーツ） ・防災カードゲーム「なまずの学校」（NPO法人プラス・アーツ）",
+        "thumb_height": 1024,
+        "thumb_url": "http://www.bousai-edu.jp/info/wp-content/uploads/2018/04/df4be27e872b02bbc1ac455ccb41e322-724x1024.jpg",
+        "thumb_width": 724,
+        "title": "【イベント】防災ゲームDay2018inそなエリア東京｜7月7日(土),江東区 | 一般社団法人防災教育普及協会",
+        "title_link": "http://www.bousai-edu.jp/info/bousai_gameday2018/",
+        "ts": 1522737628
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "75d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.bousai-edu.jp/info/bousai_gameday2018/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<http://www.bousai-edu.jp/info/bousai_gameday2018/>",
+    "ts": "1527505969.000158",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Otap",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B28DDAE5-FC3A-41CC-9944-049591F60AC0",
+    "team": "T6WULA63S",
+    "text": "わかりました",
+    "ts": "1527066246.000583",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LZA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。3時30分ぐらいになると思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D0D473BC-1D66-4A1D-AC48-EE99E709E740",
+    "team": "T6WULA63S",
+    "text": "了解です。3時30分ぐらいになると思います",
+    "ts": "1527059982.000053",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qz31",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "5月25日行けます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CD3C7A35-311E-4942-B9DF-AB39B7A6FB6C",
+    "team": "T6WULA63S",
+    "text": "5月25日行けます",
+    "ts": "1527059206.000170",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uEXyW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "５月２５日か６月１日に石井君の卒業研究に関して、共同研究者の方と打ち合わせするんですが来れる時間を教えてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "５月２５日か６月１日に石井君の卒業研究に関して、共同研究者の方と打ち合わせするんですが来れる時間を教えてください。",
+    "ts": "1526999660.000259",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OZpN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スマホが届いたので設定してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "スマホが届いたので設定してください",
+    "ts": "1526630073.000304",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BXIb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6B970DDD-3C46-4063-BCDC-72AE11C21597",
+    "team": "T6WULA63S",
+    "text": "わかりました",
+    "ts": "1520597036.000300",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i+SAb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "石井くん、卒研に必要な技術はJavaとAndroidです。入門書などを読んで勉強しておいてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "石井くん、卒研に必要な技術はJavaとAndroidです。入門書などを読んで勉強しておいてください",
+    "ts": "1520556322.000265",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7GD94Y9W> has joined the channel",
+    "ts": "1520212407.000142",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7DPLM89J> has joined the channel",
+    "ts": "1520212407.000129",
+    "type": "message",
+    "user": "U7DPLM89J"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1520208303.000085",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

@@ -1,0 +1,1689 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1568965921.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eH/Qf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "真相\n\n太郎君は花子さんがバイトしている花屋さんに日々通っていた。\n花子さんはそんな太郎さんに恋をしていた。\n太郎さんはいつも赤いバラを1輪買っていた。その花言葉は「あなたを愛しています」\n実は太郎さんは花子さん目当てで来店していたが、彼は気が小さく、恋愛など初めてなほどウブであったため気恥ずかしく、花を買って意図を伝えようとしていた。\n花子さんはそんな太郎さんの意図はつゆ知らなかったが、好きな相手のことは知りたくなってしまうのが人間の性分である。\nある日赤いバラってなんて言うのですか？となんだかんだすべての事情を理解している店長に聞いた所、「とりあえず次きたら、よろしくおねがいしますって言っとけ」と言われ、またバラを買いに来た男性に「？よろしくおねがいします？」といった。\n真っ赤になった男性に事情を聞いた女性も大慌て。\nなんだかんだあって二人は付き合うことになったのでした。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9cb28b40-dfe6-4df5-8506-5d79907e7476",
+    "team": "T6WULA63S",
+    "text": "真相\n\n太郎君は花子さんがバイトしている花屋さんに日々通っていた。\n花子さんはそんな太郎さんに恋をしていた。\n太郎さんはいつも赤いバラを1輪買っていた。その花言葉は「あなたを愛しています」\n実は太郎さんは花子さん目当てで来店していたが、彼は気が小さく、恋愛など初めてなほどウブであったため気恥ずかしく、花を買って意図を伝えようとしていた。\n花子さんはそんな太郎さんの意図はつゆ知らなかったが、好きな相手のことは知りたくなってしまうのが人間の性分である。\nある日赤いバラってなんて言うのですか？となんだかんだすべての事情を理解している店長に聞いた所、「とりあえず次きたら、よろしくおねがいしますって言っとけ」と言われ、またバラを買いに来た男性に「？よろしくおねがいします？」といった。\n真っ赤になった男性に事情を聞いた女性も大慌て。\nなんだかんだあって二人は付き合うことになったのでした。",
+    "ts": "1560401238.004900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uzAE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君がバラを一本ずつ買っていたが花子さんは気が付かなかったが花子さんは店長にバラの花言葉を教えてもらって気がついたから付き合うことになった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98d8fecc-2951-4c46-9f9a-2262f68b6a3d",
+    "team": "T6WULA63S",
+    "text": "太郎君がバラを一本ずつ買っていたが花子さんは気が付かなかったが花子さんは店長にバラの花言葉を教えてもらって気がついたから付き合うことになった",
+    "ts": "1560401219.004600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kpsL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "花子さんは店長から花言葉を教えてもらいましたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b9b219af-793b-436e-8c56-4f1e1b90bb22",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yes",
+        "users": [
+          "UD32JHVL7"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "goodq",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "花子さんは店長から花言葉を教えてもらいましたか",
+    "ts": "1560401140.003100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ucov=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "付き合ったのは100回目ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c5da07a-f140-4ac7-9a68-b27b9b99ed6a",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "norel",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "付き合ったのは100回目ですか",
+    "ts": "1560401103.002600",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ci3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "買った花はバラですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "55a69b17-97d1-4532-85d8-d8dc46977e48",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yes",
+        "users": [
+          "UD32JHVL7"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "goodq",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "買った花はバラですか",
+    "ts": "1560401078.002100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KyC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "店長は太郎君ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "afca478e-dee9-4653-94d4-23790e029469",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "no",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "店長は太郎君ですか",
+    "ts": "1560400959.001700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e=zs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "花子さんは花が好きですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ede0d3e4-00b5-4cb3-bf6a-48fa6c0e13a3",
+    "is_locked": false,
+    "latest_reply": "1560400952.001400",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "norel",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "花子さんは花が好きですか？",
+    "thread_ts": "1560400915.001100",
+    "ts": "1560400915.001100",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jOq6v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "男性とは太郎君のことですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7bc87be4-b066-42b7-9df8-1a9677497090",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yes",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "男性とは太郎君のことですか",
+    "ts": "1560400787.000700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U9KDDTMPZ> has joined the channel",
+    "ts": "1560400753.000400",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君は何回も花子さんがバイトをしている花屋さんに花を買っていました。\n店長が花子さんに「とある」ことを男性に言うように促したら、二人は付き合うことなりました。なぜ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a5221f52-95fd-4140-9a58-1d7e64ecc3c9",
+    "team": "T6WULA63S",
+    "text": "太郎君は何回も花子さんがバイトをしている花屋さんに花を買っていました。\n店長が花子さんに「とある」ことを男性に言うように促したら、二人は付き合うことなりました。なぜ？",
+    "ts": "1560400740.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cfd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "〜Fin〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e2a1e479-ef55-470b-8947-a92d4eefdeca",
+    "team": "T6WULA63S",
+    "text": "〜Fin〜",
+    "ts": "1550562271.026400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tfaJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最新の米研ぎ機の性能を知ったお母さんは嬉しそうに\n「なら今日からお米の係は太郎のしごとね。」\nといい、米研ぎ機を太郎くんに預けました。\nそれ以来、毎日太郎君は自分の買ってきた米研ぎ機で米を研ぎ続けましたとさ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e4f0c070-8e0c-48d8-8428-e745fcf14227",
+    "team": "T6WULA63S",
+    "text": "最新の米研ぎ機の性能を知ったお母さんは嬉しそうに\n「なら今日からお米の係は太郎のしごとね。」\nといい、米研ぎ機を太郎くんに預けました。\nそれ以来、毎日太郎君は自分の買ってきた米研ぎ機で米を研ぎ続けましたとさ。",
+    "ts": "1550562214.026200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eKH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは勘違いしていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "23afd9df-b9b6-483c-a72c-260686e7cff2",
+    "team": "T6WULA63S",
+    "text": "お母さんは勘違いしていますか？",
+    "ts": "1550562050.026000",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4f1tl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは働いてますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9a710dc-cb1e-4c55-a666-30b5637ccab8",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yes",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お母さんは働いてますか？",
+    "ts": "1550561709.024800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p7+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いっぱい研いでますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e76f7d0-455b-491c-832a-dc5ef724a93f",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "norel",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "いっぱい研いでますか？",
+    "ts": "1550561603.024400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pK0s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "何人分研いでますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6ebff94e-444c-4023-b32f-56f029abce9a",
+    "team": "T6WULA63S",
+    "text": "何人分研いでますか？",
+    "ts": "1550561586.024000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XDe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "無洗米を使いましたか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "27C123B3-2AEE-4A1F-A538-E09FD2685442",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "norel",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "無洗米を使いましたか？",
+    "ts": "1550561566.023400",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aHcU=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君は何か隠し事をお母さんにしていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "002e8389-8bfc-48ff-86ce-12fab52d8af2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "no",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "太郎君は何か隠し事をお母さんにしていますか？",
+    "ts": "1550561551.022900",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FiI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君は米を研ぐ事でなにかメリットがありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d8f6fd5b-bcd3-48d5-b3d6-b4e83eb8e9f2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "no",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "太郎君は米を研ぐ事でなにかメリットがありますか？",
+    "ts": "1550561487.022000",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o7fI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "yes",
+                "type": "emoji"
+              },
+              {
+                "name": "no",
+                "type": "emoji"
+              },
+              {
+                "name": "norel",
+                "type": "emoji"
+              },
+              {
+                "name": "goodq",
+                "type": "emoji"
+              },
+              {
+                "text": ":",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fb585d8a-40c0-4347-ac75-1391eca98b4d",
+    "team": "T6WULA63S",
+    "text": ":yes::no::norel::goodq::",
+    "ts": "1550561475.021700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QRj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "機能的な問題ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57a20222-8449-45df-a14d-b7e049e4c9fd",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "no",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "機能的な問題ですか",
+    "ts": "1550561470.021500",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gMjl5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お金の問題ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02a44e56-abd7-4c5d-adaa-3699d733b87b",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "no",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お金の問題ですか",
+    "ts": "1550561397.021000",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t3gQk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎くん以外の人から米とぎ機をもらいましたか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C51EB553-BEB9-4547-8E9E-A2330D9F5C36",
+    "is_locked": false,
+    "latest_reply": "1550561343.020400",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "太郎くん以外の人から米とぎ機をもらいましたか？",
+    "thread_ts": "1550561319.020300",
+    "ts": "1550561319.020300",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vQ7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さん米研ぎ器を使いたくないんですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e1665402-55f4-429b-a8a4-1fd2254fea5a",
+    "is_locked": false,
+    "latest_reply": "1550561281.019300",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さん米研ぎ器を使いたくないんですか",
+    "thread_ts": "1550561243.019200",
+    "ts": "1550561243.019200",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FvUlu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは使えないのではなく使わないのですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9ac16655-0ae2-46ff-a610-97573e9fff00",
+    "is_locked": false,
+    "latest_reply": "1550561227.018900",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは使えないのではなく使わないのですか？",
+    "thread_ts": "1550561212.018800",
+    "ts": "1550561212.018800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/WU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "このストーリーに太郎君とお母さん以外に登場人物はいますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B5F4FE8D-F3E4-4ABB-840A-A70086E0977A",
+    "is_locked": false,
+    "latest_reply": "1550561173.018100",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "このストーリーに太郎君とお母さん以外に登場人物はいますか？",
+    "thread_ts": "1550561145.018000",
+    "ts": "1550561145.018000",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/b3o",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君は結婚していますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8583F311-08EA-42E6-8908-30BAC5BC3F73",
+    "is_locked": false,
+    "latest_reply": "1550561136.017600",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "太郎君は結婚していますか？",
+    "thread_ts": "1550561108.016900",
+    "ts": "1550561108.016900",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Cmza",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さん機械得意ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "faf6f24a-806b-48e1-bbed-8d20a983fc0f",
+    "is_locked": false,
+    "latest_reply": "1550561125.017100",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さん機械得意ですか",
+    "thread_ts": "1550561103.016700",
+    "ts": "1550561103.016700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/+EX0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "米とびきりのお金は自分で捻出しましたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "017e8d76-45eb-4f2e-a209-9c72470af9d6",
+    "is_locked": false,
+    "latest_reply": "1550561075.016000",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "米とびきりのお金は自分で捻出しましたか",
+    "thread_ts": "1550561062.015900",
+    "ts": "1550561062.015900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NZs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎くんは叱られましたか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9f43275-1d29-4c9f-9a10-054e0d89e986",
+    "is_locked": false,
+    "latest_reply": "1550561018.015400",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "太郎くんは叱られましたか",
+    "thread_ts": "1550560998.015100",
+    "ts": "1550560998.015100",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jl0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現代の話ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f757e67f-37f8-4d6e-b58f-4992f7095804",
+    "is_locked": false,
+    "latest_reply": "1550561025.015600",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "現代の話ですか",
+    "thread_ts": "1550560984.014700",
+    "ts": "1550560984.014700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WD8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君はお仕事として米を研いでますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EE2DC4FE-A03B-416B-A359-E1099FDC141C",
+    "is_locked": false,
+    "latest_reply": "1550561011.015200",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "太郎君はお仕事として米を研いでますか？",
+    "thread_ts": "1550560984.014600",
+    "ts": "1550560984.014600",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jCqJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは米とぎ機にトラウマがありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F49E05E2-71E7-4751-A203-9CD98472411B",
+    "is_locked": false,
+    "latest_reply": "1550560878.013800",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは米とぎ機にトラウマがありますか？",
+    "thread_ts": "1550560831.013700",
+    "ts": "1550560831.013700",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NQA4q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは機械音痴ですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E488595E-91EE-4C61-B3D9-C8F0E6E4C6DD",
+    "is_locked": false,
+    "latest_reply": "1550560796.013200",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは機械音痴ですか？",
+    "thread_ts": "1550560782.013100",
+    "ts": "1550560782.013100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BDnfn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは金属アレルギーですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80734FB9-70A7-47FA-A601-74508CA3B25B",
+    "is_locked": false,
+    "latest_reply": "1550560674.012400",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは金属アレルギーですか？",
+    "thread_ts": "1550560611.012100",
+    "ts": "1550560611.012100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+vPO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "親孝行ですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01bd1568-5ae2-42be-a7bd-ce4c517709be",
+    "is_locked": false,
+    "latest_reply": "1550560666.012200",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "親孝行ですか？",
+    "thread_ts": "1550560597.011600",
+    "ts": "1550560597.011600",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4h4Yr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "米とぎ器認証セキュリティは万全ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "826e09e6-062b-4cc3-9f97-7d5cf7390493",
+    "is_locked": false,
+    "latest_reply": "1550560599.011700",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "米とぎ器認証セキュリティは万全ですか",
+    "thread_ts": "1550560554.010800",
+    "ts": "1550560554.010800",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hFS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは米をとげない状態にありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33927504-0D18-4CAC-8B0C-BD6949FE9928",
+    "is_locked": false,
+    "latest_reply": "1550560575.011300",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは米をとげない状態にありますか？",
+    "thread_ts": "1550560540.010400",
+    "ts": "1550560540.010400",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3VG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君は米とぎ器を使っていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4e063c15-dfc5-46a7-9e48-4d28a5ffb1e3",
+    "is_locked": false,
+    "latest_reply": "1550560514.009500",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "太郎君は米とぎ器を使っていますか？",
+    "thread_ts": "1550560502.009400",
+    "ts": "1550560502.009400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "obk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは今も米を研いでいますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3FDB43C0-B708-4BAB-BA78-C46AA3F71793",
+    "is_locked": false,
+    "latest_reply": "1550560423.008700",
+    "reply_count": 2,
+    "reply_users": [
+      "UD32JHVL7",
+      "U97F49L68"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは今も米を研いでいますか？",
+    "thread_ts": "1550560382.008100",
+    "ts": "1550560382.008100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LjJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "米とぎ機を使わない直接の理由は米とぎ機にありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A0BFD7AB-FF1D-44F7-9354-200442840EFF",
+    "is_locked": false,
+    "latest_reply": "1550560385.008200",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "米とぎ機を使わない直接の理由は米とぎ機にありますか？",
+    "thread_ts": "1550560317.007400",
+    "ts": "1550560317.007400",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cXpe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今はコメを食べていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "393db1f2-5f16-4533-9278-71140a6b2316",
+    "is_locked": false,
+    "latest_reply": "1550560342.007800",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "今はコメを食べていますか？",
+    "thread_ts": "1550560302.007300",
+    "ts": "1550560302.007300",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GcuOK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは米とぎ機を嫌っていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C7D02F34-D796-4F3C-942A-3A6C4D4F0CF2",
+    "is_locked": false,
+    "latest_reply": "1550560258.006300",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "お母さんは米とぎ機を嫌っていますか？",
+    "thread_ts": "1550560229.006200",
+    "ts": "1550560229.006200",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KH2Rk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "その米とぎ器は不良品ですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "65672f68-b133-43dd-b1d0-8b107c2976a1",
+    "is_locked": false,
+    "latest_reply": "1550560198.005600",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "その米とぎ器は不良品ですか？",
+    "thread_ts": "1550560172.005400",
+    "ts": "1550560172.005400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m2DnK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " はいそうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3b53f1d1-94f0-40fe-a7a6-f943107c3efd",
+    "team": "T6WULA63S",
+    "text": "<@U7D7LFFED> はいそうです",
+    "ts": "1550560121.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NKph0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " 生きてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3748df4e-5dd5-4908-9310-72ec3f48cb30",
+    "team": "T6WULA63S",
+    "text": "<@U7D7LFFED> 生きてます",
+    "ts": "1550560098.003400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rKK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "米とぎ機を貰ったお母さんは太郎君のお母さんですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22FEFB45-AC22-482C-BC31-DC7001903D0C",
+    "team": "T6WULA63S",
+    "text": "米とぎ機を貰ったお母さんは太郎君のお母さんですか？",
+    "ts": "1550560098.003300",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "slrd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7DKV6ACT"
+              },
+              {
+                "text": " はい使えます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e69bdfa4-f4d6-41b5-bb5e-43cb8591f411",
+    "team": "T6WULA63S",
+    "text": "<@U7DKV6ACT> はい使えます",
+    "ts": "1550560086.002500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "//Ix",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お母さんは生きていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "63863DE7-A099-4A17-B045-73040497E207",
+    "team": "T6WULA63S",
+    "text": "お母さんは生きていますか？",
+    "ts": "1550560056.002100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "//N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "電気を使えますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "459bd619-ad43-4eb4-ad13-ed0d8b5daa23",
+    "team": "T6WULA63S",
+    "text": "電気を使えますか？",
+    "ts": "1550560045.001800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BBY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "太郎君のお母さんは、毎晩大変そうに米を研いでいました。\n見かねた太郎君は、お母さんに最新の米研ぎ機なるものを買ってプレゼントしました。\nしかし、太郎君のお母さんはプレゼントされた米研ぎ機を使うことはありませんでした。\nなぜ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e2ee7119-90ad-4362-8404-4ce045394ad1",
+    "team": "T6WULA63S",
+    "text": "太郎君のお母さんは、毎晩大変そうに米を研いでいました。\n見かねた太郎君は、お母さんに最新の米研ぎ機なるものを買ってプレゼントしました。\nしかし、太郎君のお母さんはプレゼントされた米研ぎ機を使うことはありませんでした。\nなぜ？",
+    "ts": "1550560015.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7FE1TCUR> has joined the channel",
+    "ts": "1550559956.001300",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1550559955.001100",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UDNRU1WTC> has joined the channel",
+    "ts": "1550559955.000900",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1550559955.000700",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1550559954.000500",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "purpose": "水平思考ゲームを気楽にやろうという謎の組織なのである",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 水平思考ゲームを気楽にやろうという謎の組織なのである",
+    "ts": "1550559954.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1550559953.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555910456.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555910449.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "data_source": "static",
+            "id": "1",
+            "name": "card-actions",
+            "options": [
+              {
+                "text": "Join",
+                "value": "{\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"join\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Subscribe",
+                "value": "{\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"subscribe\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Set Due Date",
+                "value": "{\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"due\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Move (Top)",
+                "value": "{\"pos\":\"top\",\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"move\",\"idBoard\":\"5a965f08e40d720a43a83759\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Move (Bottom)",
+                "value": "{\"pos\":\"bottom\",\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"move\",\"idBoard\":\"5a965f08e40d720a43a83759\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Labels",
+                "value": "{\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"labels\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Attach Conversation",
+                "value": "{\"idCard\":\"5ab3403ee6bc0bf2a9c66781\",\"action\":\"link\",\"reqBoardMembership\":true}"
+              }
+            ],
+            "text": "Quick Actions",
+            "type": "select"
+          }
+        ],
+        "author_icon": "https://slack-chat.trello.services/img/card-gray-900.png",
+        "author_name": "Card",
+        "callback_id": "callback-idCard:5ab3403ee6bc0bf2a9c66781-ts:1521696830595",
+        "color": "0079BF",
+        "fallback": "ああああああ (<https://trello.com/c/jvGviLlQ>)",
+        "id": 1,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "text": "In list *バックログ* on *<https://trello.com/b/oVz5Nh0v|研究室環境改善カンバン>*\n",
+        "title": "ああああああ",
+        "title_link": "https://trello.com/c/jvGviLlQ"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Jwi62",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " created ",
+                "type": "text"
+              },
+              {
+                "text": "ああああああ",
+                "type": "link",
+                "url": "https://trello.com/c/jvGviLlQ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B9G5RDL2Z",
+    "subtype": "bot_message",
+    "text": "<@U7D6SJCAD> created <https://trello.com/c/jvGviLlQ|ああああああ>",
+    "ts": "1521696830.000145",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "data_source": "static",
+            "id": "1",
+            "name": "card-actions",
+            "options": [
+              {
+                "text": "Join",
+                "value": "{\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"join\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Subscribe",
+                "value": "{\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"subscribe\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Set Due Date",
+                "value": "{\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"due\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Move (Top)",
+                "value": "{\"pos\":\"top\",\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"move\",\"idBoard\":\"5a965f08e40d720a43a83759\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Move (Bottom)",
+                "value": "{\"pos\":\"bottom\",\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"move\",\"idBoard\":\"5a965f08e40d720a43a83759\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Labels",
+                "value": "{\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"labels\",\"reqBoardMembership\":true}"
+              },
+              {
+                "text": "Attach Conversation",
+                "value": "{\"idCard\":\"5a9780c13bdefe0a10856ff1\",\"action\":\"link\",\"reqBoardMembership\":true}"
+              }
+            ],
+            "text": "Quick Actions",
+            "type": "select"
+          }
+        ],
+        "author_icon": "https://slack-chat.trello.services/img/card-gray-900.png",
+        "author_name": "Card",
+        "callback_id": "callback-idCard:5a9780c13bdefe0a10856ff1-ts:1519878337172",
+        "color": "0079BF",
+        "fallback": "あいうえお (<https://trello.com/c/bT8hWjRv>)",
+        "id": 1,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "text": "In list *バックログ* on *<https://trello.com/b/oVz5Nh0v|研究室環境改善カンバン>*\n",
+        "title": "あいうえお",
+        "title_link": "https://trello.com/c/bT8hWjRv"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "IElx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " created ",
+                "type": "text"
+              },
+              {
+                "text": "あいうえお",
+                "type": "link",
+                "url": "https://trello.com/c/bT8hWjRv"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B9G5RDL2Z",
+    "subtype": "bot_message",
+    "text": "<@U7D6SJCAD> created <https://trello.com/c/bT8hWjRv|あいうえお>",
+    "ts": "1519878337.000056",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kz8O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " changed the default list to ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "バックログ",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B9G5RDL2Z",
+    "subtype": "bot_message",
+    "text": "<@U7D6SJCAD> changed the default list to *バックログ*.",
+    "ts": "1519878320.000154",
+    "type": "message"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XXw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "/trello link ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://trello.com/b/oVz5Nh0v/%E7%A0%94%E7%A9%B6%E5%AE%A4%E7%92%B0%E5%A2%83%E6%94%B9%E5%96%84%E3%82%AB%E3%83%B3%E3%83%90%E3%83%B3"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "/trello link <https://trello.com/b/oVz5Nh0v/%E7%A0%94%E7%A9%B6%E5%AE%A4%E7%92%B0%E5%A2%83%E6%94%B9%E5%96%84%E3%82%AB%E3%83%B3%E3%83%90%E3%83%B3>",
+    "ts": "1519878262.000050",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U9GT5ME94> has joined the channel",
+    "ts": "1519878133.000072",
+    "type": "message",
+    "user": "U9GT5ME94"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1519803829.000057",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  }
+]

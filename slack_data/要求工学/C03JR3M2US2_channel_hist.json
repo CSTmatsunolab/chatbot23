@@ -1,0 +1,472 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "wXY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "到着3分ほど遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A26A34FA-570F-48D7-9B6B-38CDEC245F6C",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "到着3分ほど遅れます",
+    "ts": "1658377136.436319",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0=rW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応、今後の予定を記載しておきます。\n来週7/7は休みなので気をつけてください。\n\n7/7（休み）\n\n7/14\n6章　安藤先輩\n7章　鳥谷部\n\n7/21\n4章（後半）安藤先輩\n8章　みんなで教科書を読む",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43b10721-421d-46ef-974a-9f1a74936377",
+    "team": "T6WULA63S",
+    "text": "一応、今後の予定を記載しておきます。\n来週7/7は休みなので気をつけてください。\n\n7/7（休み）\n\n7/14\n6章　安藤先輩\n7章　鳥谷部\n\n7/21\n4章（後半）安藤先輩\n8章　みんなで教科書を読む",
+    "ts": "1656570339.219579",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "client_msg_id": "43b55265-79e8-447d-af5d-cc206d6d3ea1",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F03ML2YS4P8",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1656568691.048309",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d6Xq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(提案)　4章後半と8章を7/21に行う？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e8a35604-d0e4-401e-bc21-d8ac4b9dc845",
+    "team": "T6WULA63S",
+    "text": "(提案)　4章後半と8章を7/21に行う？",
+    "ts": "1656564798.528759",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sxU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "質問は嫌われるぐらいのエグいやつをしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22e4c5e6-bdee-4b3b-87df-0bf38081b544",
+    "team": "T6WULA63S",
+    "text": "質問は嫌われるぐらいのエグいやつをしてください",
+    "ts": "1655793215.650049",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cDnqX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一人質問、一個以上するようにしてください。\n質問に対して満足な回答がなかった場合、来週にその部分の回答を行うようにしてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "16772cb9-0094-410d-993f-afda48b54b59",
+    "team": "T6WULA63S",
+    "text": "一人質問、一個以上するようにしてください。\n質問に対して満足な回答がなかった場合、来週にその部分の回答を行うようにしてください。",
+    "ts": "1655793090.002089",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8=e9Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【6/16　議事録】\n・教科書は輪講を行う人だけでなく、全員が読み込んでおく\n・1,2,8章は軽め、3,4,5,6,7章は重め？\n・週に2回やって夏休み前に終わらせる\n\n6/23\n1,2章　小沢\n3章　　児玉\n\n6/30\n4章　  安藤\n5章　  小沢　　\n\n7/14\n6章　  安藤\n7章　  鳥谷部\n\n7/21\n8章　みんなで教科書を読む",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "99c654d4-cee7-4858-aa19-b518371a8387",
+    "edited": {
+      "ts": "1656567344.000000",
+      "user": "U02GH21BWSE"
+    },
+    "team": "T6WULA63S",
+    "text": "【6/16　議事録】\n・教科書は輪講を行う人だけでなく、全員が読み込んでおく\n・1,2,8章は軽め、3,4,5,6,7章は重め？\n・週に2回やって夏休み前に終わらせる\n\n6/23\n1,2章　小沢\n3章　　児玉\n\n6/30\n4章　  安藤\n5章　  小沢　　\n\n7/14\n6章　  安藤\n7章　  鳥谷部\n\n7/21\n8章　みんなで教科書を読む",
+    "ts": "1655354729.113669",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PU5bn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "到着遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D9C178E6-EA1D-4662-8C74-FCC8305C7EEB",
+    "team": "T6WULA63S",
+    "text": "到着遅れます",
+    "ts": "1655353207.854329",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5rKtD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ使えませんでしたね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3A65A146-20FD-490D-8074-58FACF01A9FD",
+    "team": "T6WULA63S",
+    "text": "まだ使えませんでしたね",
+    "ts": "1655292789.650339",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rkbn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだwifi使えないんですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dd367252-426e-40f8-84fa-e2a8b5394e87",
+    "team": "T6WULA63S",
+    "text": "まだwifi使えないんですね",
+    "ts": "1655290939.690929",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e2y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それと、もしかしたらWi-Fiが使えない可能性があるので、教科書はダウンロードしておく事をお勧め",
+                "type": "text"
+              },
+              {
+                "text": "します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81EC7A16-DE7C-431B-A502-66FC21AB6737",
+    "team": "T6WULA63S",
+    "text": "それと、もしかしたらWi-Fiが使えない可能性があるので、教科書はダウンロードしておく事をお勧めします",
+    "ts": "1655287001.932109",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xVOa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "text": "明日は3限からゼミがあるので、忘れないように出席してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44224A8D-1E20-4C0E-A6F3-FFDC98CC8F25",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> 明日は3限からゼミがあるので、忘れないように出席してください",
+    "ts": "1655286026.891859",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yTS6E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kikakurui.com/x0/X0166-2014-01.html"
+              },
+              {
+                "text": "\n参考情報",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d1cce643-2255-4494-a7b6-d679c3e7157a",
+    "team": "T6WULA63S",
+    "text": "<https://kikakurui.com/x0/X0166-2014-01.html>\n参考情報",
+    "ts": "1655087962.162969",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oSnG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1lYN30gi-Znxr6jJ7AfX5CpUve20SGjiO&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              },
+              {
+                "text": "\nに教科書を置きました。特に要求の変化について書いてある章があるので参考にしてください。",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d71544a0-869a-40b7-930b-da20ceae0c65",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "arigatou",
+        "users": [
+          "U02GE1XMN4V",
+          "U02GH21BWSE",
+          "U02GK7DPF8C",
+          "U011D5HFK7H"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/open?id=1lYN30gi-Znxr6jJ7AfX5CpUve20SGjiO&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>\nに教科書を置きました。特に要求の変化について書いてある章があるので参考にしてください。<!channel>",
+    "ts": "1655080172.389429",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Fa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n毎週木曜日3限から輪行を行います．\n初回は，参考にする教科書の内容を確認し，担当者や担当内容を決めます．\nお手数ですが，松野先生は6/16（木）13:20までに，教科書のPDF化を，googleドライブかこのチャンネルにお願いします．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b55637b6-370d-476f-a91f-891ade47efc1",
+    "team": "T6WULA63S",
+    "text": "<!channel>\n毎週木曜日3限から輪行を行います．\n初回は，参考にする教科書の内容を確認し，担当者や担当内容を決めます．\nお手数ですが，松野先生は6/16（木）13:20までに，教科書のPDF化を，googleドライブかこのチャンネルにお願いします．",
+    "ts": "1654764673.025889",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1654763963.938459",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1654763963.869519",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U02GH21BWSE> has joined the channel",
+    "ts": "1654763963.793999",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1654763963.729289",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1654763816.467389",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  }
+]

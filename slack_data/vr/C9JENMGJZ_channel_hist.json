@@ -1,0 +1,6720 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1617882019.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1583289565.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0xL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません\n\n今日の打ち合わせは無しでお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B57DFDDF-2F0B-422E-BC74-268108E44BCD",
+    "team": "T6WULA63S",
+    "text": "すいません\n\n今日の打ち合わせは無しでお願いします",
+    "ts": "1579232941.000600",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FmW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "咳",
+                "type": "text"
+              },
+              {
+                "text": "が止まらないので、今日はお休みします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0268BCB5-75FD-4B87-AFD7-677BD00321E0",
+    "team": "T6WULA63S",
+    "text": "すみません\n咳が止まらないので、今日はお休みします。",
+    "ts": "1576802082.000700",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zrur",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日　自分は企業集まりがあるので",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "ミーティング参加できないのでよろしくお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C40679B7-571E-4F91-AD45-554E5112A0EA",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U7T0C7XMZ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日　自分は企業集まりがあるので\nミーティング参加できないのでよろしくお願いします",
+    "ts": "1576120514.009400",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qSxi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "VR空間上でのテキストを自由に\nアシストツール\n品詞分解\nアバターの上にテキスト\nVRの有用性",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b597db4c-8eca-4782-9910-b13977e48d64",
+    "team": "T6WULA63S",
+    "text": "VR空間上でのテキストを自由に\nアシストツール\n品詞分解\nアバターの上にテキスト\nVRの有用性",
+    "ts": "1576053183.008600",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RPz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません\n遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7319F7F3-72ED-471A-B3D3-9952343791BF",
+    "team": "T6WULA63S",
+    "text": "すみません\n遅れます",
+    "ts": "1575865334.008200",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bG4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。今病院いるんですけど間に合いそうにないので今日のミーティング休みます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BF133A43-99C7-4FFA-B969-49F590C885C6",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U9KDDTMPZ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すみません。今病院いるんですけど間に合いそうにないので今日のミーティング休みます。",
+    "ts": "1575855984.007600",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "client_msg_id": "2637da99-2838-431d-8b6f-2ddf00060324",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FR0UJ4ABD",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1575611367.006200",
+    "type": "message",
+    "upload": true,
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fB80",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。\n遅れます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "65902B38-AC40-4252-AC5B-75FC64C25F0A",
+    "team": "T6WULA63S",
+    "text": "すみません。\n遅れます。",
+    "ts": "1575605920.006100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H1Hh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、おくれます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1BF8C967-DCB3-4050-A1D2-947AEB439E6C",
+    "team": "T6WULA63S",
+    "text": "すみません、おくれます。",
+    "ts": "1575260721.005700",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DaBr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "電車一本逃して\n遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F580859B-0905-48AF-8B6D-2BF8394DB457",
+    "team": "T6WULA63S",
+    "text": "電車一本逃して\n遅れます",
+    "ts": "1575260401.005400",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=rJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。遅れます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7C69BCC9-19FF-4C2E-BFD3-0B639AAB34B8",
+    "team": "T6WULA63S",
+    "text": "すみません。遅れます。",
+    "ts": "1574655119.004700",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pur",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "同じく、遅れます\nすみません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EC16349A-B75A-4992-B7A6-EF73CFC2DC9B",
+    "team": "T6WULA63S",
+    "text": "同じく、遅れます\nすみません。",
+    "ts": "1574396055.004300",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6FWse",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません\n遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7CFF484E-CFD7-48E6-9433-F884545F8B96",
+    "team": "T6WULA63S",
+    "text": "すいません\n遅れます",
+    "ts": "1574394363.003700",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DIcY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の会議ですが法事で実家に帰るためお休みします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c10c6c3b-8563-4dcc-b287-ab8899060533",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U9KDDTMPZ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の会議ですが法事で実家に帰るためお休みします",
+    "ts": "1573990138.002600",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qak",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日　病院に行くので\nミーティング休みます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "179D5AF3-DCAA-4400-8ADD-FB841076B919",
+    "edited": {
+      "ts": "1573440604.000000",
+      "user": "U9KDDTMPZ"
+    },
+    "team": "T6WULA63S",
+    "text": "今日　病院に行くので\nミーティング休みます",
+    "ts": "1573440594.001400",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j19G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。ちょっと遅れます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6A873053-08AA-4210-B0CB-FC6B60A1A106",
+    "team": "T6WULA63S",
+    "text": "すみません。ちょっと遅れます。",
+    "ts": "1573187178.000400",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unity Asset Store: 3D - Asset Store",
+        "from_url": "https://assetstore.unity.com/3d?category=3d&orderBy=4",
+        "id": 1,
+        "original_url": "https://assetstore.unity.com/3d?category=3d&amp;orderBy=4",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Category",
+        "thumb_height": 152,
+        "thumb_url": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/logo.png",
+        "thumb_width": 152,
+        "title": "3D - Asset Store",
+        "title_link": "https://assetstore.unity.com/3d?category=3d&orderBy=4"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "EOn5b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://assetstore.unity.com/3d?category=3d&orderBy=4",
+                "type": "link",
+                "url": "https://assetstore.unity.com/3d?category=3d&amp;orderBy=4"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "82a3054c-9b85-4c62-a99f-6c0f4471d597",
+    "team": "T6WULA63S",
+    "text": "<https://assetstore.unity.com/3d?category=3d&amp;orderBy=4>",
+    "ts": "1572241907.002100",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "VR Inside - VR/AR/MRの未来を創るビジネス ニュース メディア: 実用面で使えるVRデザインツール「Maquette」をマイクロソフトが新たに公開！",
+        "from_url": "https://vrinside.jp/news/post-147963/",
+        "id": 1,
+        "image_bytes": 56624,
+        "image_height": 250,
+        "image_url": "https://vrinside.jp/wp-content/uploads/maquette-3-1.jpg",
+        "image_width": 313,
+        "original_url": "https://vrinside.jp/news/post-147963/",
+        "service_icon": "https://vrinside.jp/wp-content/uploads/152.png",
+        "service_name": "VR Inside - VR/AR/MRの未来を創るビジネス ニュース メディア",
+        "text": "マイクロソフトより、VRクリエイティブツール「Maquette」が公開されました。MaquetteはVR空間でのデザインやコンセプト設計などの実用面を重視したアプリで、現在クローズドベータ版が公開されています。",
+        "title": "実用面で使えるVRデザインツール「Maquette」をマイクロソフトが新たに公開！",
+        "title_link": "https://vrinside.jp/news/post-147963/",
+        "ts": 1541250000
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "+HhPo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://vrinside.jp/news/post-147963/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "45E62016-50D0-4CA4-96E3-EC98B26112FB",
+    "team": "T6WULA63S",
+    "text": "<https://vrinside.jp/news/post-147963/>",
+    "ts": "1572241319.001800",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/+8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "024D1BA1-F308-4F86-AF9D-AB0D20EB6A89",
+    "team": "T6WULA63S",
+    "text": "ちょっと遅れます",
+    "ts": "1571372797.001600",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "72O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません\n風邪をひいてしまったので、明日の会議はお休みします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F9C1DE68-E616-4150-9DF7-A48057D292DA",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U9KDDTMPZ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すみません\n風邪をひいてしまったので、明日の会議はお休みします。",
+    "ts": "1571316676.001200",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xUWXi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ポスターとおたのでFOSEの日程は予定をあけといてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9e4dc853-29cb-49a7-9298-4b0839b9c754",
+    "team": "T6WULA63S",
+    "text": "ポスターとおたのでFOSEの日程は予定をあけといてください",
+    "ts": "1570782691.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "saS+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "裕 松野 様\n\nこのたびは、FOSE2019 ポスター・デモ発表にご応募頂きありがとうございました。\n\nご応募いただいた発表\n\n 投稿番号: 60\n 題目: 音声情報のVR空間上での可視化による要求獲得のための議事録生成ツールの開発\n\nは、「採択」と決定いたしました。ポスターセッションでのご発表をよろしくお願いいたします。\n\nポスター作成等については、別便にてお知らせいたします。\n\nどうぞよろしくお願いします。\n\n森崎・大平",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83635a8e-1eed-4316-a325-f4339b5442eb",
+    "team": "T6WULA63S",
+    "text": "裕 松野 様\n\nこのたびは、FOSE2019 ポスター・デモ発表にご応募頂きありがとうございました。\n\nご応募いただいた発表\n\n 投稿番号: 60\n 題目: 音声情報のVR空間上での可視化による要求獲得のための議事録生成ツールの開発\n\nは、「採択」と決定いたしました。ポスターセッションでのご発表をよろしくお願いいたします。\n\nポスター作成等については、別便にてお知らせいたします。\n\nどうぞよろしくお願いします。\n\n森崎・大平",
+    "ts": "1570782062.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Ry",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "加地君もこんな感じで作ってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8a2e6ef-93ff-49cf-8e6c-14530129bd75",
+    "team": "T6WULA63S",
+    "text": "加地君もこんな感じで作ってください",
+    "ts": "1570014816.018400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/0d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "FOSEはソフトウエア工学的内容に少し追加しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "77772581-403c-479b-86a3-9e92d83990fa",
+    "team": "T6WULA63S",
+    "text": "FOSEはソフトウエア工学的内容に少し追加しました。",
+    "ts": "1570014797.017900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EShIZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "音声情報のVR空間上での可視化による要求獲得のための議事録生成ツールの開発\n\n要求獲得における利用者などとの打ち合わせは議事録はプロジェクトを進めるにあたって重要である. しかし打ち合わせ時に議事録を見ることはできず, 参加者は話した内容を記憶しながら議論することが多い.そのため, 議論の発散や, 要求の曖昧化が発生すると言われている. 本研究では会話内容を自動テキスト化, ツリー状の議事録を共有するツールを提案する.本発表では現状のプロトタイプを紹介する.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "82019f83-fbf2-482d-9213-c7cf1ce4dcff",
+    "team": "T6WULA63S",
+    "text": "音声情報のVR空間上での可視化による要求獲得のための議事録生成ツールの開発\n\n要求獲得における利用者などとの打ち合わせは議事録はプロジェクトを進めるにあたって重要である. しかし打ち合わせ時に議事録を見ることはできず, 参加者は話した内容を記憶しながら議論することが多い.そのため, 議論の発散や, 要求の曖昧化が発生すると言われている. 本研究では会話内容を自動テキスト化, ツリー状の議事録を共有するツールを提案する.本発表では現状のプロトタイプを紹介する.",
+    "ts": "1570014777.017400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tGVn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "小池先輩\n秋山先輩\n中村先輩\n篠田\n杉田\n塩畑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89f19afe-d4dc-4de9-bb23-bc91a4dd5bfa",
+    "team": "T6WULA63S",
+    "text": "小池先輩\n秋山先輩\n中村先輩\n篠田\n杉田\n塩畑",
+    "ts": "1570000557.017000",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S54W",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "かしこまりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43929449-5BF4-4C62-AA1B-870776FE151D",
+    "team": "T6WULA63S",
+    "text": "かしこまりました。",
+    "ts": "1569931423.016200",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Trc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、残念ながらFOSEのポスター論文は落ちてしまいました。ツール開発で、ソフトウエア工学とうまく関連づけられなかったかもしれません。すいませんでした。カテゴリ３で発表するか、別途別の研究会を探すか相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0f5422e2-23ae-4632-9a5d-496954522b1e",
+    "team": "T6WULA63S",
+    "text": "うーん、残念ながらFOSEのポスター論文は落ちてしまいました。ツール開発で、ソフトウエア工学とうまく関連づけられなかったかもしれません。すいませんでした。カテゴリ３で発表するか、別途別の研究会を探すか相談しましょう",
+    "ts": "1569917235.016000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j4loX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中村君、みなさん、VR機器が、山口先生が持っていて、もらえるかもしれないそうです。村上先生に相談して、山口先生からお借りして試用してみてくれませんか。使えそうならそのままもらって、なにか足りなければ購入しようと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e02cd94c-ee0a-4a7f-b945-f65ce0ca9116",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U7T0C7XMZ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "中村君、みなさん、VR機器が、山口先生が持っていて、もらえるかもしれないそうです。村上先生に相談して、山口先生からお借りして試用してみてくれませんか。使えそうならそのままもらって、なにか足りなければ購入しようと思います。",
+    "ts": "1569851056.014100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IEi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "４日会議",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "09e56f0b-d126-4ba7-bac7-e2a06488b739",
+    "team": "T6WULA63S",
+    "text": "４日会議",
+    "ts": "1569819760.012600",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tZP+U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません明日は内定先の集まりあるので行けそうにないです。自分は30日のみ参加でお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FE370277-DC47-4449-AAF7-8BBBE108B77A",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U9KDDTMPZ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すみません明日は内定先の集まりあるので行けそうにないです。自分は30日のみ参加でお願いします。",
+    "ts": "1569509117.012000",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/aa3h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "前回打ち合わせ通り\n集まりは27日と30日の13 時30からなのでよろしくお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "63982B3F-E579-4E32-95E1-A325F6E71EB6",
+    "team": "T6WULA63S",
+    "text": "前回打ち合わせ通り\n集まりは27日と30日の13 時30からなのでよろしくお願いします",
+    "ts": "1569508615.011000",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gd5l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現状の実行動画です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2031c877-2a3e-421d-ab2c-f62f3887940a",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "FNSJU84AJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U9KDDTMPZ",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "text": "現状の実行動画です",
+    "ts": "1569398011.008200",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: Photonについて大まかに理解するために見たページまとめ - Qiita",
+        "from_url": "https://qiita.com/ikejpcw/items/5f40dad81429e36f0f4f",
+        "id": 1,
+        "original_url": "https://qiita.com/ikejpcw/items/5f40dad81429e36f0f4f",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+        "service_name": "Qiita",
+        "text": "Photonとは -------------------------------------------- マルチプレイ実装の面倒な部分を吸収して SDK(またはAPI)として提供してくれるマルチプレイヤープラットフォーム。 &amp;g...",
+        "thumb_height": 200,
+        "thumb_url": "https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+        "thumb_width": 200,
+        "title": "Photonについて大まかに理解するために見たページまとめ - Qiita",
+        "title_link": "https://qiita.com/ikejpcw/items/5f40dad81429e36f0f4f"
+      },
+      {
+        "fallback": "Qiita: Unity + PhotonRealtime でオンラインゲームを作る - Qiita",
+        "from_url": "https://qiita.com/yakimeron/items/4826dce916cc9821f37b",
+        "id": 2,
+        "original_url": "https://qiita.com/yakimeron/items/4826dce916cc9821f37b",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+        "service_name": "Qiita",
+        "text": "# 概要 Unity のオンラインゲームで使われるクラウドエンジンである PhotonRealtime を使ってみる。 ちょっと使ってみた感じは結構良さそうな印象を受けた。 詳しくは[公式ドキュメント](<https://doc.p>...",
+        "thumb_height": 200,
+        "thumb_url": "https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+        "thumb_width": 200,
+        "title": "Unity + PhotonRealtime でオンラインゲームを作る - Qiita",
+        "title_link": "https://qiita.com/yakimeron/items/4826dce916cc9821f37b"
+      },
+      {
+        "fallback": "Qiita: Unity猫本のサンプルゲームをPhotonでオンライン対戦ゲーム化してみた - Qiita",
+        "from_url": "https://qiita.com/iriya0624/items/898e78158ded1fa09c5e",
+        "id": 3,
+        "original_url": "https://qiita.com/iriya0624/items/898e78158ded1fa09c5e",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+        "service_name": "Qiita",
+        "text": "Photonのマルコポーロチュートリアルが完了したので、取得した知識を用いて読み終わっていた「Unity5の教科書 2D&amp;3Dスマートフォンゲーム入門講座」のサンプルゲームをオンライン対戦ゲームに改造してみた。 # 想定読者...",
+        "thumb_height": 200,
+        "thumb_url": "https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+        "thumb_width": 200,
+        "title": "Unity猫本のサンプルゲームをPhotonでオンライン対戦ゲーム化してみた - Qiita",
+        "title_link": "https://qiita.com/iriya0624/items/898e78158ded1fa09c5e"
+      },
+      {
+        "fallback": "フレンズひらたソフト: Photonを使ったマルチプレイ入門その１",
+        "from_url": "https://friends-hirata-soft.com/photon%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%AC%E3%82%A4%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE%EF%BC%91/",
+        "id": 4,
+        "original_url": "https://friends-hirata-soft.com/photon%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%AC%E3%82%A4%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE%EF%BC%91/",
+        "service_icon": "https://friends-hirata-soft.com/wp-content/themes/sydney/img/favicon.ico",
+        "service_name": "フレンズひらたソフト",
+        "text": "Photonとは？ マルチプレイ実装の面倒な部分を吸収して SDK(またはAPI)として提供してくれるマルチプ […]",
+        "title": "Photonを使ったマルチプレイ入門その１",
+        "title_link": "https://friends-hirata-soft.com/photon%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%AC%E3%82%A4%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE%EF%BC%91/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Qy8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マルチ化の参考にしているサイトのまとめです。\n\nPhotonについて大まかに理解するために見たページまとめ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/ikejpcw/items/5f40dad81429e36f0f4f"
+              },
+              {
+                "text": "\nUnity + PhotonRealtime でオンラインゲームを作る\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/yakimeron/items/4826dce916cc9821f37b"
+              },
+              {
+                "text": "\nUnity猫本のサンプルゲームをPhotonでオンライン対戦ゲーム化してみた\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/iriya0624/items/898e78158ded1fa09c5e"
+              },
+              {
+                "text": "\nPhotonを使ったマルチプレイ入門その１\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://friends-hirata-soft.com/photon%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%AC%E3%82%A4%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE%EF%BC%91/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e5466e83-d2de-4529-b36d-c8d3a9e94e40",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U9KDDTMPZ",
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "マルチ化の参考にしているサイトのまとめです。\n\nPhotonについて大まかに理解するために見たページまとめ<https://qiita.com/ikejpcw/items/5f40dad81429e36f0f4f>\nUnity + PhotonRealtime でオンラインゲームを作る\n<https://qiita.com/yakimeron/items/4826dce916cc9821f37b>\nUnity猫本のサンプルゲームをPhotonでオンライン対戦ゲーム化してみた\n<https://qiita.com/iriya0624/items/898e78158ded1fa09c5e>\nPhotonを使ったマルチプレイ入門その１\n<https://friends-hirata-soft.com/photon%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%AC%E3%82%A4%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE%EF%BC%91/>",
+    "ts": "1568879751.007600",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4P5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。了解です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1fcbbf24-99ec-40e4-b847-9ba465ceb707",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。了解です。",
+    "ts": "1568727043.005400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Sn+r4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "21B1B7FF-DCF1-452F-B8F0-E4E4A24AA5F5",
+    "team": "T6WULA63S",
+    "text": "です。",
+    "ts": "1568727034.005100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vRe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "csys14068@g.nihon-u.ac.jp",
+                "type": "link",
+                "unsafe": true,
+                "url": "mailto:csys14068@g.nihon-u.ac.jp"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E5ADB9D1-A726-45EF-AEAF-96EC7C71CAA2",
+    "team": "T6WULA63S",
+    "text": "<mailto:csys14068@g.nihon-u.ac.jp|csys14068@g.nihon-u.ac.jp>",
+    "ts": "1568727031.004900",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QSH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "cske16047@g.nihon-u.ac.jp",
+                "type": "link",
+                "unsafe": true,
+                "url": "mailto:cske16047@g.nihon-u.ac.jp"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "db91da26-462e-4e96-897b-95d2f189200a",
+    "team": "T6WULA63S",
+    "text": "<mailto:cske16047@g.nihon-u.ac.jp|cske16047@g.nihon-u.ac.jp>",
+    "ts": "1568725267.004700",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FN25GANKC",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U9KDDTMPZ",
+          "UD733MZHV"
+        ]
+      }
+    ],
+    "text": "",
+    "ts": "1568724958.004000",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Jr+f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD733MZHV"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U9KDDTMPZ"
+              },
+              {
+                "text": " 君、中村くんたちの論文です。参考にしてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eff56298-2420-4217-a76d-dbad95fdff12",
+    "team": "T6WULA63S",
+    "text": "<@UD733MZHV> <@U9KDDTMPZ> 君、中村くんたちの論文です。参考にしてください。",
+    "ts": "1568724926.003900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JmE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7T0C7XMZ"
+              },
+              {
+                "text": "　",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD5SHGPPV"
+              },
+              {
+                "text": " 君、論文を投稿するので、２人のメールアドレスを教えて下さい。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0d571145-1068-48cd-885c-551c0c7ec3a8",
+    "team": "T6WULA63S",
+    "text": "<@U7T0C7XMZ>　<@UD5SHGPPV> 君、論文を投稿するので、２人のメールアドレスを教えて下さい。",
+    "ts": "1568724861.003400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6=gC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最新のコードはgithubにあげておいてください。で、それをダウンロードして、Unity環境があれば、個々の環境でVR版でないものが動作するようにしてほしいのですが、できますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d33373ce-0073-4388-b49a-4ac30ec3113e",
+    "team": "T6WULA63S",
+    "text": "最新のコードはgithubにあげておいてください。で、それをダウンロードして、Unity環境があれば、個々の環境でVR版でないものが動作するようにしてほしいのですが、できますか",
+    "ts": "1568710065.002600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Vw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "去年、松野研によく来ていた元吉川研の小野君に、小池くん経由で聞いています。もう卒業しているので、来てくれるか、難しいですが、小野君はVRのデモとか作っていたので詳しいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c96efba1-7f46-45e6-8e5f-eb08b869e54d",
+    "team": "T6WULA63S",
+    "text": "去年、松野研によく来ていた元吉川研の小野君に、小池くん経由で聞いています。もう卒業しているので、来てくれるか、難しいですが、小野君はVRのデモとか作っていたので詳しいと思います。",
+    "ts": "1568531133.001400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ygf1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "火曜日相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3efe6d5-beeb-46a3-b610-add478b2effa",
+    "team": "T6WULA63S",
+    "text": "火曜日相談しましょう",
+    "ts": "1568354148.004600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YGm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、難しいですね。。もうやっているとは思いますがまず今回のVR化とは関係なく、ネットに落ちているVRのコードを使ってVIVEを使ってVRできるか確認したらどうでしょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6d0c86b4-44b9-4f25-a612-54edf4daf623",
+    "team": "T6WULA63S",
+    "text": "うーん、難しいですね。。もうやっているとは思いますがまず今回のVR化とは関係なく、ネットに落ちているVRのコードを使ってVIVEを使ってVRできるか確認したらどうでしょうか。",
+    "ts": "1568353430.004400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YVZp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在、VR班の会議中なのですがVR化に関して専門家の知識が足りず足踏みをしている状況なのでVR化に詳しい人物を紹介してもらいたいです ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "122d044c-1bbd-4c0e-b3e6-bf33e81b0cb5",
+    "team": "T6WULA63S",
+    "text": "現在、VR班の会議中なのですがVR化に関して専門家の知識が足りず足踏みをしている状況なのでVR化に詳しい人物を紹介してもらいたいです <@U6YLZUWAK>",
+    "ts": "1568350570.002900",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "client_msg_id": "e0765730-9779-4644-8388-3aa2e26c2034",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FNATW54N9",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1568349667.001200",
+    "type": "message",
+    "upload": true,
+    "user": "UD5SHGPPV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "クラウド Watch: S&amp;I、議事録支援サービス「AI Conference」の新バージョンをリリース",
+        "from_url": "https://cloud.watch.impress.co.jp/docs/news/1205282.html",
+        "id": 1,
+        "original_url": "https://cloud.watch.impress.co.jp/docs/news/1205282.html",
+        "service_icon": "https://cloud.watch.impress.co.jp/favicon.ico",
+        "service_name": "クラウド Watch",
+        "text": "　エス・アンド・アイ株式会社（以下、S&amp;I）は4日、AIを活用した会議・議事録支援サービス「AI Conference」について、さらに使いやすく改良した新バージョンをリリースした。",
+        "title": "S&amp;I、議事録支援サービス「AI Conference」の新バージョンをリリース",
+        "title_link": "https://cloud.watch.impress.co.jp/docs/news/1205282.html",
+        "ts": 1567579489
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "pgY3i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ記事をしっかり読んでいませんが、もしかしたら競合製品になるかもしれません\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://cloud.watch.impress.co.jp/docs/news/1205282.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "be52510c-afc8-4570-bf8b-b147e0b317f9",
+    "is_locked": false,
+    "latest_reply": "1567591368.001000",
+    "reply_count": 1,
+    "reply_users": [
+      "U7T0C7XMZ"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "まだ記事をしっかり読んでいませんが、もしかしたら競合製品になるかもしれません\n<https://cloud.watch.impress.co.jp/docs/news/1205282.html>",
+    "thread_ts": "1567589838.000800",
+    "ts": "1567589838.000800",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tJkYl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "207019FA-7E3B-4D46-B445-9C27236299A4",
+    "team": "T6WULA63S",
+    "text": "了解です。",
+    "ts": "1563429029.021900",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pfLRQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日 13時30から中間打ち合わせしましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CB45BEFF-7DB6-4B14-8168-9B36539FC41F",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD733MZHV"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日 13時30から中間打ち合わせしましょう",
+    "ts": "1563427211.021700",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "The jonki: Unityでマイクのボリュームをリアルタイムに取得する - The jonki",
+        "from_url": "https://www.jonki.net/entry/20130607/1370622815",
+        "id": 1,
+        "original_url": "https://www.jonki.net/entry/20130607/1370622815",
+        "service_icon": "https://cdn.image.st-hatena.com/image/apple_touch_icon/b8a15943d0d3505a1ca2bd0fd614cd32bee99f5b/version=1/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fblog_custom_icon%2F7391650%2F1542462412801377",
+        "service_name": "The jonki",
+        "text": "2013/11/10 追記 やっぱりちゃんと動いていなさそうです。。 Unityでマイクから毎フレームのボリュームを取得しようとしたところ、こんな関数を発見してUpdateの度に呼んでみるがlengthSec毎にしかボリュームが更新されていなかった。基本録音用に使われるのでfloatではなくintで秒単位にしか取得できない。つまり1秒の粒度でしか音量が更新されない。 static function Start (deviceName : String, loop : boolean, lengthSec : int, frequency : int) : AudioClip そこでさらに調べて…",
+        "thumb_height": 1200,
+        "thumb_url": "https://cdn.image.st-hatena.com/image/scale/02e29c31e3341f71e4af7fd48956a12fe51f8832/backend=imager;enlarge=0;height=1000;version=1;width=1200/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F7391650%2F1546008306951435",
+        "thumb_width": 1200,
+        "title": "Unityでマイクのボリュームをリアルタイムに取得する - The jonki",
+        "title_link": "https://www.jonki.net/entry/20130607/1370622815",
+        "ts": 1370536415
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "aH9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.jonki.net/entry/20130607/1370622815"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff924dd2-0cdc-4dc6-97a8-5bfcb1dbb9e1",
+    "team": "T6WULA63S",
+    "text": "<https://www.jonki.net/entry/20130607/1370622815>",
+    "ts": "1563263913.020900",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: [Unity] DontDestroyOnLoad()を解除する - Qiita",
+        "from_url": "https://qiita.com/ELIXIR/items/72b8684adddabbe594e3",
+        "id": 1,
+        "original_url": "https://qiita.com/ELIXIR/items/72b8684adddabbe594e3",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+        "service_name": "Qiita",
+        "text": "一度 DontDestroyOnLoad() したオブジェクトを再びLoadScene()で削除されるようにするには ``` SceneManager.MoveGameObjectToScene(gameObject, SceneM...",
+        "thumb_height": 200,
+        "thumb_url": "https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+        "thumb_width": 200,
+        "title": "[Unity] DontDestroyOnLoad()を解除する - Qiita",
+        "title_link": "https://qiita.com/ELIXIR/items/72b8684adddabbe594e3"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "HcNE0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/ELIXIR/items/72b8684adddabbe594e3"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b11220e4-9125-4e53-97b4-c7c96cadb5f3",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/ELIXIR/items/72b8684adddabbe594e3>",
+    "ts": "1563263901.020600",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: masochika/vr",
+        "from_url": "https://github.com/masochika/vr",
+        "id": 1,
+        "original_url": "https://github.com/masochika/vr",
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+        "service_name": "GitHub",
+        "text": "Contribute to masochika/vr development by creating an account on GitHub.",
+        "thumb_height": 400,
+        "thumb_url": "https://avatars1.githubusercontent.com/u/49321059?s=400&v=4",
+        "thumb_width": 400,
+        "title": "masochika/vr",
+        "title_link": "https://github.com/masochika/vr"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fKU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/masochika/vr"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "005f235d-89de-4867-9012-76877217b335",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/masochika/vr>",
+    "ts": "1563263676.020300",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+St+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "bravio",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0cbf684d-ccb0-4a1c-9221-2d67df0e60bc",
+    "team": "T6WULA63S",
+    "text": "bravio",
+    "ts": "1563263665.020100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ed57",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "source tree, vrabio",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "95d1c995-e25d-4443-aff5-1f13ce2e94ff",
+    "team": "T6WULA63S",
+    "text": "source tree, vrabio",
+    "ts": "1563263541.019900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "808b4c58-96cd-47a2-85b0-88c9fe2e78be",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FLHF8G8GP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1563263038.019500",
+    "type": "message",
+    "upload": true,
+    "user": "UD733MZHV"
+  },
+  {
+    "client_msg_id": "1c06ae6b-c05a-410a-82ff-a3c3e15ff932",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FLF5V76G4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1563263028.019200",
+    "type": "message",
+    "upload": true,
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "byiyj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "りょうかいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd17891d-3558-4ba9-ab6e-58069eff703e",
+    "team": "T6WULA63S",
+    "text": "りょうかいです",
+    "ts": "1562574045.019000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KlGl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺のGithubのところに塩畑くんのBGM.csとVolume.csが入ってるのでソースコードが入ってるので次回集まった時に合体できると思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d82eff8-6453-4eaf-beff-cfe482dd457a",
+    "team": "T6WULA63S",
+    "text": "俺のGithubのところに塩畑くんのBGM.csとVolume.csが入ってるのでソースコードが入ってるので次回集まった時に合体できると思います",
+    "ts": "1562568304.018800",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DriXO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "BGM再生画面です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6f5a124-f5d9-452b-82e1-028f311be789",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "FKT9B9735",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "BGM再生画面です。",
+    "ts": "1562220694.016900",
+    "type": "message",
+    "upload": true,
+    "user": "UD5SHGPPV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "［INPIT］特許情報プラットフォーム（J-PlatPat） | 独立行政法人　工業所有権情報・研修館",
+        "from_url": "https://www.inpit.go.jp/j-platpat_info/",
+        "id": 1,
+        "original_url": "https://www.inpit.go.jp/j-platpat_info/",
+        "service_name": "inpit.go.jp",
+        "text": "人と情報で知財を支えるＩＮＰＩＴ--「工業所有権情報・研修館」では、特許庁と連携しつつ、特許情報提供、知財情報活用促進、産業財産権相談、知財人材育成などの業務を実施しています。",
+        "title": "［INPIT］特許情報プラットフォーム（J-PlatPat） | 独立行政法人　工業所有権情報・研修館",
+        "title_link": "https://www.inpit.go.jp/j-platpat_info/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "RfX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.inpit.go.jp/j-platpat_info/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3061259-87fc-49fe-b6c8-6e20eb5ba4c6",
+    "pinned_info": {
+      "channel": "C9JENMGJZ",
+      "pinned_by": "U9KDDTMPZ",
+      "pinned_ts": 1562220031
+    },
+    "pinned_to": [
+      "C9JENMGJZ"
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://www.inpit.go.jp/j-platpat_info/>",
+    "ts": "1562220011.016200",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "isqV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "特許について考える",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a8822035-bd80-4700-a222-2847698369b6",
+    "team": "T6WULA63S",
+    "text": "特許について考える",
+    "ts": "1562219955.016000",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "凹みTips: Unity で Windows のウィンドウを個別にキャプチャできるアセットを作成した - 凹みTips",
+        "from_url": "http://tips.hecomi.com/entry/2018/08/26/231618",
+        "id": 1,
+        "image_bytes": 151508,
+        "image_height": 250,
+        "image_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hecomi/20180824/20180824011424.gif",
+        "image_width": 444,
+        "original_url": "http://tips.hecomi.com/entry/2018/08/26/231618",
+        "service_icon": "https://cdn.image.st-hatena.com/image/apple_touch_icon/882118feebec098bb05be711548cf6b20b8a89fa/version=1/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fcustom_blog_icon%2F18085287%2F1514248170540181",
+        "service_name": "凹みTips",
+        "text": "はじめに 本エントリでは先ほど公開した uWindowCapture という Windows において個別のウィンドウをキャプチャできるアセットの解説を行います。本アセットで実現できることは以下のようなものです。 ウィンドウを個別にキャプチャ 背面やデスクトップ画面の範囲外にある部分もキャプチャします デスクトップをキャプチャ uDesktopDuplication よりは低速ですが古い Windows でも動くはず ウィンドウマネージャ ウィンドウの追加・削除や検索 タイトルや位置、大きさなどの情報が取れます デモ 個別画面キャプチャ ウィンドウマネージャ VR 内ウィンドウ自由配置 作った…",
+        "title": "Unity で Windows のウィンドウを個別にキャプチャできるアセットを作成した - 凹みTips",
+        "title_link": "http://tips.hecomi.com/entry/2018/08/26/231618",
+        "ts": 1535292978
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "kmd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://tips.hecomi.com/entry/2018/08/26/231618"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4fa589e5-6bac-4083-9dc8-544c421206ea",
+    "team": "T6WULA63S",
+    "text": "<http://tips.hecomi.com/entry/2018/08/26/231618>",
+    "ts": "1562219812.015600",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "inviter": "U9KDDTMPZ",
+    "subtype": "channel_join",
+    "text": "<@UH3155FA7> has joined the channel",
+    "ts": "1562219580.015400",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IsIAB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "BGM選択画面の動画です。\nよろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4b1f7461-7bb9-4180-b5f2-c64ccecccf4e",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "FL4LQ8K4G",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "BGM選択画面の動画です。\nよろしくお願いします。",
+    "ts": "1562219226.015000",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Btw4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日 中間報告ですが\n内定先の企業の集まりがある人が多いので\n前回 月曜日に話した様に動画にまとめて報告して下さい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B210C7EB-C114-42CF-AA27-374C582FB2FF",
+    "team": "T6WULA63S",
+    "text": "明日 中間報告ですが\n内定先の企業の集まりがある人が多いので\n前回 月曜日に話した様に動画にまとめて報告して下さい",
+    "ts": "1562218675.014900",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=AS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ゴミ箱とスクリーンショットの機能の実装ができて、進んでよかったですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c164ba31-4840-493d-9ea8-d43fba8a22bd",
+    "team": "T6WULA63S",
+    "text": "ゴミ箱とスクリーンショットの機能の実装ができて、進んでよかったですね。",
+    "ts": "1561429346.012600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2dN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "製品としての新規性は、言語の可視化＋要約＋リンク付＋VRを組み合わせた製品がないことを示す必要があります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9f83023a-23d1-4435-921c-3326cbed2bcf",
+    "team": "T6WULA63S",
+    "text": "製品としての新規性は、言語の可視化＋要約＋リンク付＋VRを組み合わせた製品がないことを示す必要があります。",
+    "ts": "1561429288.012000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P9js",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それ以外の機能は、より使いやすくするための機能で、ゴミ箱やパワポ表示がそうですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a01da92b-5d67-4e29-95f4-5d4d33ce215f",
+    "team": "T6WULA63S",
+    "text": "それ以外の機能は、より使いやすくするための機能で、ゴミ箱やパワポ表示がそうですね。",
+    "ts": "1561429009.010500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Vc9o",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これが新規性があるかは、よく既存研究や製品、特許などを調べる必要があります。これは村上先生にやり方を聞いてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bc584721-056f-4c31-8a78-b9bc0d2814ca",
+    "team": "T6WULA63S",
+    "text": "これが新規性があるかは、よく既存研究や製品、特許などを調べる必要があります。これは村上先生にやり方を聞いてください。",
+    "ts": "1561428853.009400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J2w",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "例えばUD Talkというアプリの機能は以下だそうです。\n・音声認識技術を使って会話／スピーチをリアルタイムに文字化します。\n・自動翻訳技術を使って指定の言語にリアルタイムで翻訳をしていきます。\n・音声合成機能で内容を読み上げることができます。\n・日本語のみ音声認識の単語登録ができます。\n・QRコードをカメラで読み取ってアプリ同士を接続して会話のやり取りを行うことができます。\n・手書きでのやりとりができます。\n・キーボードでの入力（本体、Bluetooth）ができます。\n・アドオンを購入することでパソコン上で起動する連携アプリから入力したり様々な機能拡張をすることができます。\n・Apple Pencilに対応\nこれには要約機能や、関連する言葉をリンクする、といった機能はないですね。で、それらをVR空間で表示するというのが、中村君たちが作っているツールの基本機能だと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7745e2c4-555f-4f37-836c-1e3924de3a27",
+    "team": "T6WULA63S",
+    "text": "例えばUD Talkというアプリの機能は以下だそうです。\n・音声認識技術を使って会話／スピーチをリアルタイムに文字化します。\n・自動翻訳技術を使って指定の言語にリアルタイムで翻訳をしていきます。\n・音声合成機能で内容を読み上げることができます。\n・日本語のみ音声認識の単語登録ができます。\n・QRコードをカメラで読み取ってアプリ同士を接続して会話のやり取りを行うことができます。\n・手書きでのやりとりができます。\n・キーボードでの入力（本体、Bluetooth）ができます。\n・アドオンを購入することでパソコン上で起動する連携アプリから入力したり様々な機能拡張をすることができます。\n・Apple Pencilに対応\nこれには要約機能や、関連する言葉をリンクする、といった機能はないですね。で、それらをVR空間で表示するというのが、中村君たちが作っているツールの基本機能だと思います。",
+    "ts": "1561428773.008500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KUkC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ドライブのVRのところに上げておきました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e64b25fb-0c97-4661-81e3-b5cf7180e803",
+    "team": "T6WULA63S",
+    "text": "ドライブのVRのところに上げておきました",
+    "ts": "1561369872.005700",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EJF2f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F985139C-55FC-48E5-AE86-CB1CAB127AAB",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1561358663.005200",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P7evM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "加地君 前回のスライドとワード\nドライブに上げておいて！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7B53E58A-AD44-4338-974A-7110D57F0B25",
+    "team": "T6WULA63S",
+    "text": "加地君 前回のスライドとワード\nドライブに上げておいて！",
+    "ts": "1561354203.004900",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nqYd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日\n議事録 やった事\n\nゴミ箱 スクリーンショットのシステムの実装\n\n\n\n今週は次のサイクルの時のシステム案をそれぞれ考えて来て【技術調査】次の月曜にその内容をまとめる。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90AEB8FA-F7B2-4AD0-BECF-C48115DC588B",
+    "team": "T6WULA63S",
+    "text": "今日\n議事録 やった事\n\nゴミ箱 スクリーンショットのシステムの実装\n\n\n今週は次のサイクルの時のシステム案をそれぞれ考えて来て【技術調査】次の月曜にその内容をまとめる。\n\n\n",
+    "ts": "1561354124.003700",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "npu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません\n寝坊してしまいました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "618FBAC2-0870-4AB2-9FEF-224D59206205",
+    "team": "T6WULA63S",
+    "text": "すみません\n寝坊してしまいました",
+    "ts": "1561352418.000400",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "client_msg_id": "9dd9c7dc-6f49-4126-843d-eab19baad705",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pptx",
+        "id": "FK7KBEYHF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1560150193.000700",
+    "type": "message",
+    "upload": true,
+    "user": "UD733MZHV"
+  },
+  {
+    "client_msg_id": "685de82d-e9a5-433b-9177-df5ae354e423",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FKFPF5XKR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "pinned_info": {
+      "channel": "C9JENMGJZ",
+      "pinned_by": "U9KDDTMPZ",
+      "pinned_ts": 1563262368
+    },
+    "pinned_to": [
+      "C9JENMGJZ"
+    ],
+    "text": "",
+    "ts": "1560142628.000400",
+    "type": "message",
+    "upload": true,
+    "user": "UD733MZHV"
+  },
+  {
+    "client_msg_id": "383295e5-6095-40c5-9c72-7db1f268a5cc",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pptx",
+        "id": "FK7HKM2HX",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1560142402.000100",
+    "type": "message",
+    "upload": true,
+    "user": "UD733MZHV"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UD733MZHV> has joined the channel",
+    "ts": "1554039999.001200",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UD2MQ7NN8> has joined the channel",
+    "ts": "1554039978.001000",
+    "type": "message",
+    "user": "UD2MQ7NN8"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U9KDDTMPZ> has joined the channel",
+    "ts": "1554039978.000800",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UD5SHGPPV> has joined the channel",
+    "ts": "1554039977.000600",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1554039977.000400",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7hL3M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こちらこそありがとうございました\n自分が使ってたMacBookProは研究室の黒いケースの中に入ってます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BDC50593-7E18-4C9A-9A47-12BD28F8FF4F",
+    "team": "T6WULA63S",
+    "text": "こちらこそありがとうございました\n自分が使ってたMacBookProは研究室の黒いケースの中に入ってます",
+    "ts": "1552205679.002800",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qI+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こちらこそ、卒論を見ていただきありがとうございました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "67F950F5-08A2-4AA6-8418-70FFBAE275EC",
+    "team": "T6WULA63S",
+    "text": "こちらこそ、卒論を見ていただきありがとうございました。",
+    "ts": "1552203143.001800",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4EN5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "遅くなってすいませんが、中村君の発表は非常に多くのコメントがもらえて、よかったです。中瀬くん、谷島くん、ありがとうございました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8b1f673-7fe5-4884-9404-1b6c1507eb72",
+    "team": "T6WULA63S",
+    "text": "遅くなってすいませんが、中村君の発表は非常に多くのコメントがもらえて、よかったです。中瀬くん、谷島くん、ありがとうございました。",
+    "ts": "1552202137.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "trQTD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、谷島くん、二人も京都いってもらおうと思いましたが、予算と手続きの手間などあり、また日帰りに近いので、あんまり楽しくないかなと思ったので、京都へは中村君だけ行ってもらうことにしました。すいませんが、中村君の発表の準備を手伝ってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17e38603-f66d-4952-b07e-e1f4dbe482ab",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、谷島くん、二人も京都いってもらおうと思いましたが、予算と手続きの手間などあり、また日帰りに近いので、あんまり楽しくないかなと思ったので、京都へは中村君だけ行ってもらうことにしました。すいませんが、中村君の発表の準備を手伝ってください",
+    "ts": "1551182475.001500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kOQMB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "99b72aeb-717c-4bdb-af4c-f2a8878b8b4f",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1548937837.016500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gvm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ドライブには 要旨 3 提出後 というのをupしてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19877FE3-B90D-4501-A6CB-AACAC293462B",
+    "team": "T6WULA63S",
+    "text": "ドライブには 要旨 3 提出後 というのをupしてます",
+    "ts": "1548934749.016300",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0ycR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "日本語と番号訂正して提出しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D68BA0F7-4DE1-42CF-B565-8711DB3E46C3",
+    "team": "T6WULA63S",
+    "text": "日本語と番号訂正して提出しました",
+    "ts": "1548934716.015700",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XPir",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B137C694-D7E2-4834-9F4F-4050DB6C7022",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1548923612.015200",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gjkS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、すこし変えました。３．１の前に、合計のコード数を書いてください。よく日本語を見て（意味のない言葉を使っていないか、同じことを繰り返し書いていないか）よく確認して、提出してください。提出したら私に連絡してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d6de110a-6fc8-4d24-9302-02d1fc6b1cbb",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、すこし変えました。３．１の前に、合計のコード数を書いてください。よく日本語を見て（意味のない言葉を使っていないか、同じことを繰り返し書いていないか）よく確認して、提出してください。提出したら私に連絡してください",
+    "ts": "1548919329.015000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V/qE=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うーん、もうちょっと直す必要がありますね。ちょっと待っててください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "60591113-554e-4aea-a590-cba63d59c865",
+    "team": "T6WULA63S",
+    "text": "うーん、もうちょっと直す必要がありますね。ちょっと待っててください",
+    "ts": "1548901474.013800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MIy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。あとで見ます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a04cb769-8aa4-4a7d-bd70-c6f9ddf58666",
+    "team": "T6WULA63S",
+    "text": "了解です。あとで見ます",
+    "ts": "1548840733.013300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nng",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "前半修正したものupしました\n要旨 中瀬 2 の方です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FCA8D63A-BB3B-4066-86AA-D4BC03755CBD",
+    "team": "T6WULA63S",
+    "text": "前半修正したものupしました\n要旨 中瀬 2 の方です",
+    "ts": "1548831898.013100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BKm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2D804089-76CD-4B84-89E2-2BA37EF558E4",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1548736695.012400",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AfPD9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2時30分ぐらいに着きます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59E41312-04AD-4508-90ED-B347D4FDF456",
+    "team": "T6WULA63S",
+    "text": "2時30分ぐらいに着きます",
+    "ts": "1548736632.012100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yvHTW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は先生研究室にいらっしゃいますか？できれば明日のうちに相談したいです。\n要旨に関して先日先生が要らないと言っていた部分は消して書いたのですがどのあたりを修正すればいいですか？この前はちゃんとしたものは卒論提出までに考えると言われたのでとりあえず指摘されなかったところを要旨に残したのですが\nバイトに関しては2月で辞めるようにバイト先と調整しています。しかし既にシフトとして入っているところに関しては急に辞めるということはできないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "870D5B33-5B6B-4A4E-B0B0-139A13E0AC45",
+    "team": "T6WULA63S",
+    "text": "明日は先生研究室にいらっしゃいますか？できれば明日のうちに相談したいです。\n要旨に関して先日先生が要らないと言っていた部分は消して書いたのですがどのあたりを修正すればいいですか？この前はちゃんとしたものは卒論提出までに考えると言われたのでとりあえず指摘されなかったところを要旨に残したのですが\nバイトに関しては2月で辞めるようにバイト先と調整しています。しかし既にシフトとして入っているところに関しては急に辞めるということはできないです。",
+    "ts": "1548687272.011600",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2qIM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました。ご指摘ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3EB2300B-A7D2-4F6E-A7B9-50CD01DB61B6",
+    "team": "T6WULA63S",
+    "text": "分かりました。ご指摘ありがとうございます。",
+    "ts": "1548432000.005700",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F3Yg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2本の論文を特に紹介していますが、もう少し縮めて、後ろの考察を増やす必要があります。18本の論文と違いは言えたかもしれませんが、なぜ中村くんたちのツールの価値があるのか、説明したいです。あまり相談できてなくてすいませんが、研究室で相談しましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5c506fca-dca3-482c-8646-18a8b1bae3a6",
+    "team": "T6WULA63S",
+    "text": "2本の論文を特に紹介していますが、もう少し縮めて、後ろの考察を増やす必要があります。18本の論文と違いは言えたかもしれませんが、なぜ中村くんたちのツールの価値があるのか、説明したいです。あまり相談できてなくてすいませんが、研究室で相談しましょう",
+    "ts": "1548431604.005100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wknq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島くん、フォーマットとかはいいので、提出できそうですね。ただ中村くんとか他の先輩とよく相談してください。２の中村くんたちのツールをもう少し詳細に説明してください。開発中のツールの図などもいれてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0e827a4b-2915-4d31-8e73-5d441cd9c90c",
+    "team": "T6WULA63S",
+    "text": "谷島くん、フォーマットとかはいいので、提出できそうですね。ただ中村くんとか他の先輩とよく相談してください。２の中村くんたちのツールをもう少し詳細に説明してください。開発中のツールの図などもいれてください。",
+    "ts": "1548431349.003600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eCw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、私の予定を見て、相談しにきてください。バイトとかはもうしないでください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3905c0d7-59eb-4de5-a729-da492c3ecd92",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、私の予定を見て、相談しにきてください。バイトとかはもうしないでください。",
+    "ts": "1548429066.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yAz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、今出します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E0673E6B-8179-4407-900F-EA5D5ABB9E45",
+    "team": "T6WULA63S",
+    "text": "すいません、今出します",
+    "ts": "1548429044.001600",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/iyN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島くん、要旨は提出しましたか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b1ad83f3-7c3e-487d-be31-1a2a7be222f8",
+    "team": "T6WULA63S",
+    "text": "谷島くん、要旨は提出しましたか。",
+    "ts": "1548429013.000900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FiDut",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、要旨ですが、中村くんにチェックしてもらいましたか？前半がやはり意味不明で、提出できるものではありません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7d128e0-cf1b-4161-b6b5-5ab811eebd66",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、要旨ですが、中村くんにチェックしてもらいましたか？前半がやはり意味不明で、提出できるものではありません。",
+    "ts": "1548429003.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tV9wB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5552e05b-6370-415c-80c3-dfc7d0fb6241",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1545966701.003600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Wt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Wordファイルを提出しました。よろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7e516364-3b87-4e80-8e5e-878d7bc32d76",
+    "team": "T6WULA63S",
+    "text": "Wordファイルを提出しました。よろしくお願いします。",
+    "ts": "1545966684.003400",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OVPn0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島くん、PDFではなく、Wordファイルを提出してください（コメントをいれるため）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2bdd2fb0-c2f9-4724-9726-fe2c0c670326",
+    "team": "T6WULA63S",
+    "text": "谷島くん、PDFではなく、Wordファイルを提出してください（コメントをいれるため）",
+    "ts": "1545963597.002400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9OUbw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、卒論のドラフトを見ましたが、評価実験が謎すぎます。少なくとも私に相談してください。このままでは不合格で、受け取れません。年明けよく相談しましょう。１月２月は卒論に十分時間が取れるようにしてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "614bb441-2a4d-48e6-aa64-f77cca082e86",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、卒論のドラフトを見ましたが、評価実験が謎すぎます。少なくとも私に相談してください。このままでは不合格で、受け取れません。年明けよく相談しましょう。１月２月は卒論に十分時間が取れるようにしてください。",
+    "ts": "1545963518.001900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zllW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "深沼さん来てますよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fd68acc3-ab9f-40e1-bf43-4178f8b989cf",
+    "team": "T6WULA63S",
+    "text": "深沼さん来てますよ",
+    "ts": "1544153556.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5ZR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中村くん、今日のお昼ですが、すいませんが幹事会があるので私は中瀬君はいませんが深沼さんに見てもらってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e49618b-ece6-4d45-8043-96391e2eeb54",
+    "team": "T6WULA63S",
+    "text": "中村くん、今日のお昼ですが、すいませんが幹事会があるので私は中瀬君はいませんが深沼さんに見てもらってください",
+    "ts": "1543531573.000800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gvz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日お昼、みんなでコードを読みましょう。深沼さんも来てくれます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cf65c399-39d6-47cd-9bec-4847efc70c1b",
+    "team": "T6WULA63S",
+    "text": "明日お昼、みんなでコードを読みましょう。深沼さんも来てくれます",
+    "ts": "1542291415.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t4pYy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A303A164-93E2-434F-9475-F369298359C3",
+    "team": "T6WULA63S",
+    "text": "分かりました",
+    "ts": "1542080035.001900",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sf+Sp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島君、すいません駿河台での会議が伸びたので4限以降で打ち合わせをお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "464BBC9A-3C41-42D3-940D-53E7336F546A",
+    "team": "T6WULA63S",
+    "text": "谷島君、すいません駿河台での会議が伸びたので4限以降で打ち合わせをお願いします",
+    "ts": "1542079881.001700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yOC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "火曜日は３人で研究室で相談して進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "75bbce69-fee3-48e4-abab-2087c2500190",
+    "team": "T6WULA63S",
+    "text": "火曜日は３人で研究室で相談して進めてください",
+    "ts": "1541476441.003900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e42",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週の木〜土曜日にかけて祖母の家に行くことになったので来週の金曜日は休みます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "441C2626-0F1D-4653-AB95-7B38B3FD34B3",
+    "team": "T6WULA63S",
+    "text": "来週の木〜土曜日にかけて祖母の家に行くことになったので来週の金曜日は休みます",
+    "ts": "1541476090.003100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UH=It",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "72765E32-9E6F-43DA-9CC4-B5B81EB54A53",
+    "team": "T6WULA63S",
+    "text": "大丈夫です",
+    "ts": "1541475527.001200",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QlXg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、これからの打ち合わせですが、火曜日は、３年ゼミとかぶるので、お昼〜は各自作業して、金曜お昼全員で論文とかの打ち合わせでいいでしょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a7a5f03b-7566-4a7a-bc3f-e619dd4cd36a",
+    "team": "T6WULA63S",
+    "text": "すいません、これからの打ち合わせですが、火曜日は、３年ゼミとかぶるので、お昼〜は各自作業して、金曜お昼全員で論文とかの打ち合わせでいいでしょうか。",
+    "ts": "1541475468.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Go1O3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "進捗は先輩にお見せしたところまでです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9A46AB1E-3B43-435A-8B45-722B8C9C4F81",
+    "team": "T6WULA63S",
+    "text": "進捗は先輩にお見せしたところまでです",
+    "ts": "1540259222.000100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7QB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日急遽バイトの研修入ったので休みます、すみません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EF7803FA-406A-4C03-919A-1724DBF9148E",
+    "team": "T6WULA63S",
+    "text": "今日急遽バイトの研修入ったので休みます、すみません",
+    "ts": "1540259207.000100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NDQ6G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、今日お昼休みに来てくれませんか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4f04343f-9334-4fe6-a717-bf538ed0b528",
+    "team": "T6WULA63S",
+    "text": "すいません、今日お昼休みに来てくれませんか",
+    "ts": "1540258343.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RPPK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スピーカー届きました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "227fa5fb-0440-41f0-8d98-b56ce83fecf5",
+    "team": "T6WULA63S",
+    "text": "スピーカー届きました。",
+    "ts": "1538727182.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jB7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b162184b-eb87-4654-a176-f86355eecfdc",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1538398266.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J9Uz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お昼休みであれば大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B10CAA69-C8A5-4A38-AB25-D25E4247122B",
+    "team": "T6WULA63S",
+    "text": "お昼休みであれば大丈夫です",
+    "ts": "1538398250.000100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7TI0+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分は、大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C49F6147-3010-4BB9-A670-B2014533488E",
+    "team": "T6WULA63S",
+    "text": "自分は、大丈夫です",
+    "ts": "1538396477.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iuNh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "またすいません、明日の打ち合わせですが、２限かお昼休みでいいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f4951c69-e4a2-49f3-be6f-6505a6982ea6",
+    "team": "T6WULA63S",
+    "text": "またすいません、明日の打ち合わせですが、２限かお昼休みでいいですか",
+    "ts": "1538394429.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Xperia Touch（エクスペリア タッチ）G1109 | スマートプロダクト | ソニーモバイル公式サイト",
+        "from_url": "https://www.sonymobile.co.jp/product/smartproducts/g1109/",
+        "id": 1,
+        "original_url": "https://www.sonymobile.co.jp/product/smartproducts/g1109/",
+        "service_icon": "https://www.sonymobile.co.jp/Sonymobile-favicon-57x57.png",
+        "service_name": "sonymobile.co.jp",
+        "text": "ソニーのスマホ Xperia（エクスペリア）のスマートプロダクトを紹介。Xperia Touch（エクスペリア タッチ）「Xperia Touch G1109」の製品情報。",
+        "thumb_height": 630,
+        "thumb_url": "http://www.sonymobile.co.jp/product/smartproducts/g1109/img/sns.png",
+        "thumb_width": 1200,
+        "title": "Xperia Touch（エクスペリア タッチ）G1109 | スマートプロダクト | ソニーモバイル公式サイト",
+        "title_link": "https://www.sonymobile.co.jp/product/smartproducts/g1109/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "k07",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.sonymobile.co.jp/product/smartproducts/g1109/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4919fd91-fb2f-4c5a-8daf-90a61b597c3a",
+    "team": "T6WULA63S",
+    "text": "<https://www.sonymobile.co.jp/product/smartproducts/g1109/>",
+    "ts": "1538099816.000100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cEEE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2b85533c-c2ee-4ad6-a856-84cd961b3ead",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1537797497.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1Uu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "149489FA-BC56-41D9-9E68-F201649B7BD3",
+    "team": "T6WULA63S",
+    "text": "大丈夫です",
+    "ts": "1537797446.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZcJw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日のVRゼミですが、２限かお昼休みでもいいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d05a0b79-fd38-4620-811b-d082b9de125b",
+    "team": "T6WULA63S",
+    "text": "明日のVRゼミですが、２限かお昼休みでもいいですか",
+    "ts": "1537797330.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QSsL4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3356BAD3-B92F-4BBD-A5A4-3A135277177D",
+    "team": "T6WULA63S",
+    "text": "分かりました",
+    "ts": "1537418395.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7ay1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "書いてください。今年中にどこまでやるか明確にしましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "044380db-fbfb-4602-a089-7770917e2b1f",
+    "team": "T6WULA63S",
+    "text": "書いてください。今年中にどこまでやるか明確にしましょう",
+    "ts": "1537411952.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OJtm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中村君、論文の最初の「あらまし」の部分をまず",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "92d3008f-ca5e-4025-a849-f856ae924d3c",
+    "team": "T6WULA63S",
+    "text": "中村君、論文の最初の「あらまし」の部分をまず",
+    "ts": "1537411932.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/iUIF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島君、ありがとうございます。このリストに乗っている論文の内容を、それぞれA4半ページにまとめてください。中村くんたちと作るツールが、どう違うのかも含めて書いてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed3991cd-46bc-4517-9105-f70169676440",
+    "team": "T6WULA63S",
+    "text": "谷島君、ありがとうございます。このリストに乗っている論文の内容を、それぞれA4半ページにまとめてください。中村くんたちと作るツールが、どう違うのかも含めて書いてください。",
+    "ts": "1537411879.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ap6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "論文リストです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FCXEX8ZRD",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "論文リストです",
+    "ts": "1537337982.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sMy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "かしこまりました。\n\n論文のタイトルは今のところVRを用いた音声の可視化によるコミュニケーションの活性化で考えていました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c1a3523-b654-4322-9d05-5595be1e7224",
+    "team": "T6WULA63S",
+    "text": "かしこまりました。\n\n論文のタイトルは今のところVRを用いた音声の可視化によるコミュニケーションの活性化で考えていました。",
+    "ts": "1537331681.000100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8y4Kb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まず、論文のタイトルはなんか案はありますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57565399-b04d-49df-a76d-1e099cc333dd",
+    "team": "T6WULA63S",
+    "text": "まず、論文のタイトルはなんか案はありますか",
+    "ts": "1537331465.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KFU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "このフォーマットを使って、論文を書いていきましょう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e44b4cf3-99d2-4406-9f43-fb38534b23bb",
+    "team": "T6WULA63S",
+    "text": "このフォーマットを使って、論文を書いていきましょう。",
+    "ts": "1537331452.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tfM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中村くん、研究会の論文ですが、上記参考となる森田君が同じ研究会で発表した論文です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "30c6c081-52f9-4806-9edc-3e84426c2c7d",
+    "team": "T6WULA63S",
+    "text": "中村くん、研究会の論文ですが、上記参考となる森田君が同じ研究会で発表した論文です",
+    "ts": "1537331437.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vUABO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.dropbox.com/s/t0ghghefoq1q62g/kbse%E6%A3%AE%E7%94%B0.%E5%B1%B1%EF%A8%91%5B%E4%BF%AE%E6%AD%A3%E7%89%88%5D.docx?dl=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a7ef20a1-7eb3-4ac7-ace8-56ec03c785bf",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FCXNVG886",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://www.dropbox.com/s/t0ghghefoq1q62g/kbse%E6%A3%AE%E7%94%B0.%E5%B1%B1%EF%A8%91%5B%E4%BF%AE%E6%AD%A3%E7%89%88%5D.docx?dl=0>",
+    "ts": "1537331409.000100",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "FCXNVG886"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zkv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、上にある、中村くんが言っていたVoicera?って調べられますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b73cf5a-ff68-44df-8a63-17579cf2e842",
+    "team": "T6WULA63S",
+    "text": "あと、上にある、中村くんが言っていたVoicera?って調べられますか",
+    "ts": "1537327622.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vV7v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "矢島君、これまで調べた論文のリストってありますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7d8421d3-1806-4d09-8455-613cd9385c68",
+    "team": "T6WULA63S",
+    "text": "矢島君、これまで調べた論文のリストってありますか",
+    "ts": "1537327533.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G/I5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。発表終わったら連絡します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fa2a2450-f869-4663-be9d-350bf1a76bb7",
+    "team": "T6WULA63S",
+    "text": "了解です。発表終わったら連絡します",
+    "ts": "1537257108.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GwdR8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\n\n今週の進捗はは先週お話しした通り、unityでテキストなどの表示できるものを作っているところです。\n\nよろしくお願い致します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "82265760-98a8-46d8-869d-00a1520b0860",
+    "team": "T6WULA63S",
+    "text": "お疲れ様です。\n\n今週の進捗はは先週お話しした通り、unityでテキストなどの表示できるものを作っているところです。\n\nよろしくお願い致します。",
+    "ts": "1537248927.000100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zJeM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Voicera",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "343DEBA2-B855-4953-BB0D-0649CF19FC1B",
+    "team": "T6WULA63S",
+    "text": "Voicera ",
+    "ts": "1536731250.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gxq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Coo era",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E59BF21E-34C8-427C-9B81-AF44EC9A2D20",
+    "team": "T6WULA63S",
+    "text": "Coo era",
+    "ts": "1536731241.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+7R3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "15分ほど遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3BC301AF-D3D7-46B1-A2CF-87E6ECD84D95",
+    "team": "T6WULA63S",
+    "text": "15分ほど遅れます",
+    "ts": "1535511722.000100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ewHxN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74CD70BC-9A57-486E-BAFB-2155251B258B",
+    "team": "T6WULA63S",
+    "text": "分かりました。",
+    "ts": "1535372347.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hh0ee",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "12C9207D-6EB1-4544-98E2-73D4CCDC8B42",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1535372241.000100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z/6kv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なら12時頃集合で！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1762c7f7-3f60-4c17-a3dc-4bfd8d0479ea",
+    "team": "T6WULA63S",
+    "text": "なら12時頃集合で！",
+    "ts": "1535372038.000100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JlVw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A3FAFDDF-F29F-412A-BE6D-71815642D46F",
+    "team": "T6WULA63S",
+    "text": "分かりました",
+    "ts": "1535369752.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "C/D1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解なら多分朝ちょい集まるかも！@",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1bcb438e-b385-4c38-873d-a57d0457c12c",
+    "team": "T6WULA63S",
+    "text": "了解なら多分朝ちょい集まるかも！@",
+    "ts": "1535366552.000100",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/J7F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "29日水曜日の卒研中間発表の話し合いについてです。\n中瀬くんは昼までなら大丈夫。\n自分は何時まででも大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D0BA9F85-C1D2-4025-BC32-D5D49C3E803E",
+    "team": "T6WULA63S",
+    "text": "29日水曜日の卒研中間発表の話し合いについてです。\n中瀬くんは昼までなら大丈夫。\n自分は何時まででも大丈夫です。",
+    "ts": "1535358177.000100",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VlNp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中村くん、中瀬くん、谷島くん、今年の研究発表ですが、KBSE研究会（１月２５，２６日、東京）",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.ieice.org/ken/program/index.php?tgid=IEICE-KBSEとインタラクション２０１９（３月）の2件にします。1件は中村くん、もう一件は中瀬くんか谷島くんにやってもらいます。今学期は、正直、一週間に30分ぐらいしか活動していないように見えて、不安なのですが、9月から、それぞれの役割を考えて、研究発表にもっていけるように研究中心でお願いします。"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0e305bf5-b898-4ded-9267-df317f4f0f2e",
+    "team": "T6WULA63S",
+    "text": "中村くん、中瀬くん、谷島くん、今年の研究発表ですが、KBSE研究会（１月２５，２６日、東京）<https://www.ieice.org/ken/program/index.php?tgid=IEICE-KBSEとインタラクション２０１９（３月）の2件にします。1件は中村くん、もう一件は中瀬くんか谷島くんにやってもらいます。今学期は、正直、一週間に30分ぐらいしか活動していないように見えて、不安なのですが、9月から、それぞれの役割を考えて、研究発表にもっていけるように研究中心でお願いします。>",
+    "ts": "1532526024.000061",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XrBR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、熱が出たので休みます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D9015B81-25B6-4498-A3FF-C7FCC0300099",
+    "team": "T6WULA63S",
+    "text": "すいません、熱が出たので休みます。",
+    "ts": "1531887748.000006",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9frFb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7T0C7XMZ"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Asset Store.pdf",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7T0C7XMZ/FBES42WHK/asset_store.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FBES42WHK",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7T0C7XMZ> uploaded a file: <https://matsulabnu.slack.com/files/U7T0C7XMZ/FBES42WHK/asset_store.pdf|Asset Store.pdf>",
+    "ts": "1530073128.000243",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ARb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "かしこまりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c22ea014-0a07-4bcc-9d8b-d3ddda40f6e2",
+    "team": "T6WULA63S",
+    "text": "かしこまりました。",
+    "ts": "1529483686.000070",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jUa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中村くん、来週の水曜日のお昼休みにアセットを購入するので、いてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01506a11-f7d9-47b1-993e-93afad4086e1",
+    "team": "T6WULA63S",
+    "text": "中村くん、来週の水曜日のお昼休みにアセットを購入するので、いてください",
+    "ts": "1529482188.000186",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Oz/h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "着きました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "25672B38-5862-479A-B9FA-3FA82075DB1E",
+    "team": "T6WULA63S",
+    "text": "着きました",
+    "ts": "1529469107.000264",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vZLsF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おけ！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3eae8e92-4671-4f96-8368-164fcdfaf1a9",
+    "team": "T6WULA63S",
+    "text": "おけ！",
+    "ts": "1529468736.000243",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nZx1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です\n今船橋日大前なので5分ほどで着きます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "99D0E022-73D1-4997-99AF-75CC6F44B53B",
+    "team": "T6WULA63S",
+    "text": "了解です\n今船橋日大前なので5分ほどで着きます",
+    "ts": "1529468721.000138",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "r+3k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ着いたら教えてもらっていい？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d5fc148-5f65-4365-b1e2-95893f166e67",
+    "team": "T6WULA63S",
+    "text": "じゃあ着いたら教えてもらっていい？",
+    "ts": "1529468686.000010",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4Rza",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E4871190-5D15-4A6C-B15C-36C9ECF660F2",
+    "team": "T6WULA63S",
+    "text": "すみません遅れます",
+    "ts": "1529468520.000165",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pU5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、6分程遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "72B17F67-F73F-4006-9107-85798E00E8CB",
+    "team": "T6WULA63S",
+    "text": "すいません、6分程遅れます",
+    "ts": "1528258665.000028",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wHP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "かしこまりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87bfc913-c9d3-430e-b0f8-ac5c9c4d3210",
+    "team": "T6WULA63S",
+    "text": "かしこまりました",
+    "ts": "1527061898.000222",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xHCy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マイク届きましたね。はやめに試しておいてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "マイク届きましたね。はやめに試しておいてください",
+    "ts": "1527061108.000446",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2298",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "遅刻ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "遅刻ですね",
+    "ts": "1527050529.000017",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Ac",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分も遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E01A1631-5DCD-47D3-B752-AA26AB31D8A6",
+    "team": "T6WULA63S",
+    "text": "自分も遅れます",
+    "ts": "1527049222.000240",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oDRB5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1527049141.000031",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JV56",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。ちょっと遅れます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb2cd7be-6325-4f34-b185-7db4d570edc0",
+    "team": "T6WULA63S",
+    "text": "すみません。ちょっと遅れます。",
+    "ts": "1527049134.000229",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZwYJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日やらないんですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "今日やらないんですか",
+    "ts": "1527049088.000118",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6lJDU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1216999A-8F98-4D79-810D-9C87063394CF",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1526461128.000264",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SFff",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これをお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "これをお願いします。",
+    "ts": "1526459720.000126",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ソニー SONY コンデンサーマイク モノラル/PCボーカル用 USB接続対応 マイクスタンド付属 ECM-PCV80U",
+        "from_url": "https://www.amazon.co.jp/ソニー-SONY-コンデンサーマイク-マイクスタンド付属-ECM-PCV80U/dp/B005M2HDA6/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1526456032&sr=1-1&keywords=ecm-pcv80u",
+        "id": 1,
+        "image_bytes": 11172,
+        "image_height": 250,
+        "image_url": "https://images-fe.ssl-images-amazon.com/images/I/31kraH9h-jL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(1208%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+        "image_width": 476,
+        "original_url": "https://www.amazon.co.jp/ソニー-SONY-コンデンサーマイク-マイクスタンド付属-ECM-PCV80U/dp/B005M2HDA6/ref=sr_1_1?s=musical-instruments&amp;ie=UTF8&amp;qid=1526456032&amp;sr=1-1&amp;keywords=ecm-pcv80u",
+        "service_icon": "https://www.amazon.co.jp/favicon.ico",
+        "service_name": "amazon.co.jp",
+        "text": "◆PCでの動画投稿(ニコニコ動画/YouTubeなど)の音声収録におすすめPCでの使い勝手が良いエレクトレットコンデンサー方式を採用しており、一般的なダイナミック方式ボーカルマイクより感度が高く、高音質の音声を楽しめます。◆USB Audio Boxを付属・USBによるデジタル伝送で高音質にPCノイズの影響を受けにくく、クリアできれいな音質を実現するUSBによるデジタル伝送。こだわった音を収録したい人におすすめ。・USB Audio Boxの音遅延処理対応PCを介さずにマイクの音を出力可能（オーディオ出力端子）。スピーカーから聞こえてくるマイクの音が遅れずに、違和感なく快適に使えます。◆...",
+        "title": "ソニー SONY コンデンサーマイク モノラル/PCボーカル用 USB接続対応 マイクスタンド付属 ECM-PCV80U",
+        "title_link": "https://www.amazon.co.jp/ソニー-SONY-コンデンサーマイク-マイクスタンド付属-ECM-PCV80U/dp/B005M2HDA6/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1526456032&sr=1-1&keywords=ecm-pcv80u"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "IDVup",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://www.amazon.co.jp/ソニー-SONY-コンデンサーマイク-マイクスタンド付属-ECM-PCV80U/dp/B005M2HDA6/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1526456032&sr=1-1&keywords=ecm-pcv80u",
+                "type": "link",
+                "url": "https://www.amazon.co.jp/ソニー-SONY-コンデンサーマイク-マイクスタンド付属-ECM-PCV80U/dp/B005M2HDA6/ref=sr_1_1?s=musical-instruments&amp;ie=UTF8&amp;qid=1526456032&amp;sr=1-1&amp;keywords=ecm-pcv80u"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/ソニー-SONY-コンデンサーマイク-マイクスタンド付属-ECM-PCV80U/dp/B005M2HDA6/ref=sr_1_1?s=musical-instruments&amp;ie=UTF8&amp;qid=1526456032&amp;sr=1-1&amp;keywords=ecm-pcv80u>",
+    "ts": "1526459709.000201",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "al5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マイクどれがいいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "マイクどれがいいですか",
+    "ts": "1526458859.000593",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KkS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "2018-05-16 14_36_03.flac",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7FE1TCUR/FAQ1BB4E5/2018-05-16_14_36_03.flac"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "FAQ1BB4E5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7FE1TCUR> uploaded a file: <https://matsulabnu.slack.com/files/U7FE1TCUR/FAQ1BB4E5/2018-05-16_14_36_03.flac|2018-05-16 14_36_03.flac>",
+    "ts": "1526449117.000047",
+    "type": "message",
+    "upload": true,
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "18v4O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おけ！ちょっとまって！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "750b7380-8025-4ab9-9193-ab25e28001fc",
+    "team": "T6WULA63S",
+    "text": "おけ！ちょっとまって！",
+    "ts": "1526447985.000106",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oKiYZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "食事終わりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "702CF78F-3AB7-42E6-AAD7-D08E44CC5370",
+    "team": "T6WULA63S",
+    "text": "食事終わりました",
+    "ts": "1526447954.000115",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T7P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1〜222\n223〜444\n445〜last",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19732016-DE26-48CA-8284-08F3D3BFC108",
+    "team": "T6WULA63S",
+    "text": "1〜222\n223〜444\n445〜last",
+    "ts": "1525236265.000205",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qab",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7T0C7XMZ"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "CHI18-Proceedings-contents.htm",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7T0C7XMZ/FAHM8EK3Q/chi18-proceedings-contents.htm"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "html",
+        "id": "FAHM8EK3Q",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7T0C7XMZ> uploaded a file: <https://matsulabnu.slack.com/files/U7T0C7XMZ/FAHM8EK3Q/chi18-proceedings-contents.htm|CHI18-Proceedings-contents.htm>",
+    "ts": "1525236217.000103",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eWKII",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "谷島ありがとう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9CABFE7E-BFDD-452B-9DC5-61296DD2EB2A",
+    "team": "T6WULA63S",
+    "text": "谷島ありがとう",
+    "ts": "1524669151.000040",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "u/xm+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "卒研 谷島 中瀬.pptx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7FE1TCUR/FAC936SKS/______.pptx"
+              },
+              {
+                "text": " and commented: 夜中にすいません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pptx",
+        "id": "FAC936SKS",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "夜中にすいません",
+    "ts": "1524668783.000350",
+    "type": "message",
+    "upload": true,
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "epJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7T0C7XMZ"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "VRを用いた音声の可視化によるコミュニケーションの活性化.docx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7T0C7XMZ/FACN9DU66/vr______________________________________________________________________________.docx"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FACN9DU66",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7T0C7XMZ> uploaded a file: <https://matsulabnu.slack.com/files/U7T0C7XMZ/FACN9DU66/vr______________________________________________________________________________.docx|VRを用いた音声の可視化によるコミュニケーションの活性化.docx>",
+    "ts": "1524644412.000496",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O5m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Slack for iOS Upload",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D7LFFED/FAC0NRNQG/image_uploaded_from_ios.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FAC0NRNQG",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D7LFFED> uploaded a file: <https://matsulabnu.slack.com/files/U7D7LFFED/FAC0NRNQG/image_uploaded_from_ios.jpg|Slack for iOS Upload>",
+    "ts": "1524639590.000035",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "F3452DB4-6735-44DE-BE81-2E7DC7C6FDA6",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Flo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Slack for iOS Upload",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D7LFFED/FADJ1A9T8/image_uploaded_from_ios.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FADJ1A9T8",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D7LFFED> uploaded a file: <https://matsulabnu.slack.com/files/U7D7LFFED/FADJ1A9T8/image_uploaded_from_ios.jpg|Slack for iOS Upload>",
+    "ts": "1524639583.000050",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "A49B99A3-6703-46BE-AFF1-A800060853B7",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GIj3Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Slack for iOS Upload",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D7LFFED/FACJ6HUTD/image_uploaded_from_ios.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FACJ6HUTD",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D7LFFED> uploaded a file: <https://matsulabnu.slack.com/files/U7D7LFFED/FACJ6HUTD/image_uploaded_from_ios.jpg|Slack for iOS Upload>",
+    "ts": "1524639577.000376",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "EACE5DC6-9C18-448F-8AD6-A898DB6485F7",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cfC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Slack for iOS Upload",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D7LFFED/FAC53KFKK/image_uploaded_from_ios.jpg"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FAC53KFKK",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D7LFFED> uploaded a file: <https://matsulabnu.slack.com/files/U7D7LFFED/FAC53KFKK/image_uploaded_from_ios.jpg|Slack for iOS Upload>",
+    "ts": "1524639573.000014",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "450660CC-ADA7-42F1-93AF-FEF44511875C",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "++/D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7T0C7XMZ"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "VRを用いた音声の可視化による議論の活性化.docx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7T0C7XMZ/FAC0M0000/vr_________________________________________________________.docx"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FAC0M0000",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7T0C7XMZ> uploaded a file: <https://matsulabnu.slack.com/files/U7T0C7XMZ/FAC0M0000/vr_________________________________________________________.docx|VRを用いた音声の可視化による議論の活性化.docx>",
+    "ts": "1524639269.000178",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fxX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "研究タイトル「VRを用いた音声の可視化によるコミュニケーションの活性化」.docx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7FE1TCUR/FAC0E7XLY/_____________________vr_________________________________________________________________________________.docx"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FAC0E7XLY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7FE1TCUR> uploaded a file: <https://matsulabnu.slack.com/files/U7FE1TCUR/FAC0E7XLY/_____________________vr_________________________________________________________________________________.docx|研究タイトル「VRを用いた音声の可視化によるコミュニケーションの活性化」.docx>",
+    "ts": "1524638047.000053",
+    "type": "message",
+    "upload": true,
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wswWC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7T0C7XMZ"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "卒研中村.pptx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7T0C7XMZ/FACHC97GB/____________.pptx"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pptx",
+        "id": "FACHC97GB",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7T0C7XMZ> uploaded a file: <https://matsulabnu.slack.com/files/U7T0C7XMZ/FACHC97GB/____________.pptx|卒研中村.pptx>",
+    "ts": "1524633598.000054",
+    "type": "message",
+    "upload": true,
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EG7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.jstage.jst.go.jp/article/tvrsj/21/3/21_401/_pdf/-char/ja"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://www.jstage.jst.go.jp/article/tvrsj/21/3/21_401/_pdf/-char/ja>",
+    "ts": "1524632758.000217",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BybNe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "研究タイトル「VRを用いた音声の可視化によるコミュニケーションの活性化」.docx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7FE1TCUR/FABETK26M/_____________________vr_________________________________________________________________________________.docx"
+              },
+              {
+                "text": " and commented: すいません、前のファイルはスマホで表示すると修正途中のものが表示されてしまうので一応アップロードし直します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FABETK26M",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "すいません、前のファイルはスマホで表示すると修正途中のものが表示されてしまうので一応アップロードし直します",
+    "ts": "1524560731.000113",
+    "type": "message",
+    "upload": true,
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bXYB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac67d91f-41cd-4a93-9804-2b2ab1cc0a7c",
+    "team": "T6WULA63S",
+    "text": "了解！",
+    "ts": "1524558396.000513",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CnbYc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分も大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "08CD7127-7FCA-4334-9590-B37AD7695CF5",
+    "team": "T6WULA63S",
+    "text": "自分も大丈夫です",
+    "ts": "1524558148.000508",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e1Y/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分は大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "自分は大丈夫です。",
+    "ts": "1524558141.000202",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QCdZv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大体はこれでオッケーだと思う！\n細かいところは明日でも大丈夫？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "大体はこれでオッケーだと思う！\n細かいところは明日でも大丈夫？",
+    "ts": "1524558088.000143",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "42l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7FE1TCUR"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "研究タイトル「VRを用いた音声の可視化によるコミュニケーションの活性化」.docx.docx",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7FE1TCUR/FABDW88HF/_____________________vr_________________________________________________________________________________.docx.docx"
+              },
+              {
+                "text": " and commented: 中瀬くんと修正したのですがどうでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "FABDW88HF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "中瀬くんと修正したのですがどうでしょうか？",
+    "ts": "1524557303.000517",
+    "type": "message",
+    "upload": true,
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EG4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62869ABE-2154-4C52-A77E-9D934132E039",
+    "team": "T6WULA63S",
+    "text": "了解しました",
+    "ts": "1524126862.000442",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RqL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "既存研究のとこ谷島と修正します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "59876E83-137B-4751-8A22-E84D4289E9D3",
+    "team": "T6WULA63S",
+    "text": "既存研究のとこ谷島と修正します",
+    "ts": "1524119200.000247",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "En+2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そうですね",
+    "ts": "1524115991.000050",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uuy=5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "既存研究のとこ概要書いてurlは参考文献に持っていった方がいいかも\nあとは研究内容をもうちょっと詳しくかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43ffed23-5a6c-44b5-a635-b0f05ed57fc2",
+    "team": "T6WULA63S",
+    "text": "既存研究のとこ概要書いてurlは参考文献に持っていった方がいいかも\nあとは研究内容をもうちょっと詳しくかな",
+    "ts": "1524115972.000058",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xP3t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まず、この２つの既存研究の内容を詳しくしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "まず、この２つの既存研究の内容を詳しくしてください",
+    "ts": "1524115958.000084",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K6q4Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "既存研究は昨日谷島に調べてもらったのですが、全く同じのものは見つからなかったです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CF9C0E28-8E66-4254-9FEC-86CB714D3359",
+    "team": "T6WULA63S",
+    "text": "既存研究は昨日谷島に調べてもらったのですが、全く同じのものは見つからなかったです",
+    "ts": "1524103722.000144",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cbtm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D7LFFED"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "研究タイトル「VRを用いた音声の可視化によるコミュニケーションの活性化」 (1)-2.pdf",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U7D7LFFED/FAADNG6S3/_____________________vr___________________________________________________________________________________1_-2.pdf.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FAADNG6S3",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D7LFFED> uploaded a file: <https://matsulabnu.slack.com/files/U7D7LFFED/FAADNG6S3/_____________________vr___________________________________________________________________________________1_-2.pdf.pdf|研究タイトル「VRを用いた音声の可視化によるコミュニケーションの活性化」 (1)-2.pdf>",
+    "ts": "1524103686.000228",
+    "type": "message",
+    "upload": true,
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "koq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、谷島くん、要旨を見せてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "中瀬くん、谷島くん、要旨を見せてください",
+    "ts": "1524103069.000130",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4JzPO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました。\n自分も明日、説明会なのでいけないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BA59368C-8D89-41F4-B937-52F0395EC013",
+    "team": "T6WULA63S",
+    "text": "分かりました。\n自分も明日、説明会なのでいけないです。",
+    "ts": "1521638638.000617",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oy4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ただ明日は面接なので学校に行けないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "986A4A06-E17D-4228-81AF-9A2EBF4D2220",
+    "team": "T6WULA63S",
+    "text": "ただ明日は面接なので学校に行けないです",
+    "ts": "1521638291.000376",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zpy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EA596A04-1143-480B-97DD-C197C06E75DA",
+    "team": "T6WULA63S",
+    "text": "わかりました",
+    "ts": "1521638262.000023",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gGs=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬君、谷島君、黒瀬君、菊井くんのデモをできるようにしてください。これは君達の仕事です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "中瀬君、谷島君、黒瀬君、菊井くんのデモをできるようにしてください。これは君達の仕事です。",
+    "ts": "1521634045.000003",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pjc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました\nただ、明日以外だとタイミング良く会えるかわからないので、やり方みたいなのを残しておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9901A441-7A25-4626-B4A0-002442FEF7FB",
+    "team": "T6WULA63S",
+    "text": "わかりました\nただ、明日以外だとタイミング良く会えるかわからないので、やり方みたいなのを残しておきます",
+    "ts": "1521628116.000550",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y5hb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年生は菊井くんのデモができるようにあいいぇください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73CAD4C8-44EF-422E-A615-69C013EFAABF",
+    "team": "T6WULA63S",
+    "text": "3年生は菊井くんのデモができるようにあいいぇください",
+    "ts": "1521627779.000090",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "it+P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、これ3年生に対して書いたものです。ただ今日3年生に聞いたら、菊井くんのデモ出来ないと言っていたのでもう一度教えてあげてくれませんか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ABFAB7BF-F4E8-4B56-9F42-6DC089EC67AE",
+    "team": "T6WULA63S",
+    "text": "あ、これ3年生に対して書いたものです。ただ今日3年生に聞いたら、菊井くんのデモ出来ないと言っていたのでもう一度教えてあげてくれませんか",
+    "ts": "1521627736.000062",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z7JB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、今気づきました\n明日の午前なら寄れるので、その時に色々データ置いていきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F6AC9E71-7491-4A5B-9405-297929E89913",
+    "team": "T6WULA63S",
+    "text": "すいません、今気づきました\n明日の午前なら寄れるので、その時に色々データ置いていきます",
+    "ts": "1521623666.000109",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "W+j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の午前、菊井くんのデモ見せられますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の午前、菊井くんのデモ見せられますか",
+    "ts": "1521527133.000111",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QNF4a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これも面白そうですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B661F171-48C8-4717-9B33-6E8C91C4B21B",
+    "team": "T6WULA63S",
+    "text": "これも面白そうですね",
+    "ts": "1521438799.000104",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/user/FUKIDASYS",
+        "author_name": "FUKIDASYS",
+        "fallback": "YouTube Video: 1分でわかるフキダシステム",
+        "from_url": "https://www.youtube.com/watch?v=iqAGbM0HkxU",
+        "id": 1,
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/iqAGbM0HkxU/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "1分でわかるフキダシステム",
+        "title_link": "https://www.youtube.com/watch?v=iqAGbM0HkxU",
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/iqAGbM0HkxU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+        "video_html_height": 300,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "8aT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くんの案に近い？システムを教えてもらいました。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=iqAGbM0HkxU"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "中瀬くんの案に近い？システムを教えてもらいました。\n<https://www.youtube.com/watch?v=iqAGbM0HkxU>",
+    "ts": "1521438191.000110",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QA4h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U9JDX281J"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Text File.txt",
+                "type": "link",
+                "unsafe": true,
+                "url": "https://matsulabnu.slack.com/files/U9JDX281J/F9QCDRZUN/text_file.txt.txt"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "text",
+        "id": "F9QCDRZUN",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U9JDX281J> uploaded a file: <https://matsulabnu.slack.com/files/U9JDX281J/F9QCDRZUN/text_file.txt.txt|Text File.txt>",
+    "ts": "1521007139.000045",
+    "type": "message",
+    "upload": true,
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tyH3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54B0A04D-C000-45B2-BB55-1ECE21983B3A",
+    "team": "T6WULA63S",
+    "text": "分かりました",
+    "ts": "1520656063.000085",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LVox",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1520652721.000119",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EVbY=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回は来週の水曜(午後)を予定してるので、それまでに軽くunityでvrに触れておいてください\n分からないところは3人で相談しても、ネットで調べても、自分に聞いてもいいので、とにかく1回は触れて置いてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56C4847E-B515-4310-9DD5-A3BEE539F427",
+    "team": "T6WULA63S",
+    "text": "次回は来週の水曜(午後)を予定してるので、それまでに軽くunityでvrに触れておいてください\n分からないところは3人で相談しても、ネットで調べても、自分に聞いてもいいので、とにかく1回は触れて置いてください",
+    "ts": "1520649898.000067",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=51",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今着いた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3A321570-7ACB-4152-B845-6F6CDC67B77B",
+    "team": "T6WULA63S",
+    "text": "今着いた",
+    "ts": "1520569678.000005",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c7O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2人はいつ来る？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "2人はいつ来る？",
+    "ts": "1520569559.000199",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "keZlz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EF456CE8-0B28-4645-989C-A3397A010C6B",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1520333854.000178",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4KHRs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お願いします",
+    "ts": "1520333784.000396",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qZel",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "大丈夫です",
+    "ts": "1520332650.000364",
+    "type": "message",
+    "user": "U7H6XS5BP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Pe+F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5B70B7EC-8255-4AA9-A928-5FB1A4FF961A",
+    "team": "T6WULA63S",
+    "text": "大丈夫です",
+    "ts": "1520332000.000378",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xyqx8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です、9の午後からで大丈夫です？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87F90555-2D66-4EFC-A359-C9D2A7A819E7",
+    "team": "T6WULA63S",
+    "text": "了解です、9の午後からで大丈夫です？",
+    "ts": "1520331550.000466",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y/K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "9行けます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "9行けます",
+    "ts": "1520325869.000115",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Yg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私は、9日なら行けます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EEAEDC19-D6B5-4864-BF3D-283559888DEC",
+    "team": "T6WULA63S",
+    "text": "私は、9日なら行けます",
+    "ts": "1520325816.000302",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8/u20",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今のところ、直近だと8,9のどちらかに研究室行く予定です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DFD07FAE-9DB6-4496-A4A0-8B3C37A4D996",
+    "team": "T6WULA63S",
+    "text": "今のところ、直近だと8,9のどちらかに研究室行く予定です",
+    "ts": "1520325771.000406",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G72",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1520303013.000190",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7BG6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ菊井くんと日程を調整してください。菊井くんがいる間に出来る限り教えてもらってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44137F28-CE91-427F-9BF5-65E6BDEC5D9D",
+    "team": "T6WULA63S",
+    "text": "じゃあ菊井くんと日程を調整してください。菊井くんがいる間に出来る限り教えてもらってください",
+    "ts": "1520302976.000182",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ILtR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見れてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "見れてます",
+    "ts": "1520302721.000189",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/7T0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、見れてますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7FAA5B73-628A-444B-A831-D39503926F7D",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、見れてますか",
+    "ts": "1520302149.000153",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AAo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87711216-7A44-4A1C-8DA4-2DB1C96367EF",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1520302131.000273",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "19I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3/8以降ならいつでも大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C0B08EF4-D064-432C-951A-9941F8D11ACB",
+    "team": "T6WULA63S",
+    "text": "3/8以降ならいつでも大丈夫です",
+    "ts": "1520295345.000297",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sBGw2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よかったです。中瀬くん、谷島くん、黒瀬くん、菊井くんと会える日時をスケジュールして、研究の引き継ぎをしてもらってください。菊井くんは３月はいつごろから時間空いているんでしたっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よかったです。中瀬くん、谷島くん、黒瀬くん、菊井くんと会える日時をスケジュールして、研究の引き継ぎをしてもらってください。菊井くんは３月はいつごろから時間空いているんでしたっけ",
+    "ts": "1520295017.000316",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ftAr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見れてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EB3EC8D3-B5FB-4A8D-ACE1-5D9C429A0C5D",
+    "team": "T6WULA63S",
+    "text": "見れてます",
+    "ts": "1520294114.000196",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2+ocr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "菊井くんこれ見れてますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "菊井くんこれ見れてますか",
+    "ts": "1520283391.000103",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U9JDX281J> has joined the channel",
+    "ts": "1520250616.000297",
+    "type": "message",
+    "user": "U9JDX281J"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7T0C7XMZ> has joined the channel",
+    "ts": "1520216759.000178",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1520212803.000074",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7H6XS5BP> has joined the channel",
+    "ts": "1520212803.000063",
+    "type": "message",
+    "user": "U7H6XS5BP"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7FE1TCUR> has joined the channel",
+    "ts": "1520212803.000057",
+    "type": "message",
+    "user": "U7FE1TCUR"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1520207458.000115",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

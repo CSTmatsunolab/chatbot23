@@ -1,0 +1,4699 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1637815486.000200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U2s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3cf68536-67ef-46ff-9739-1843123f6a52",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "arigatou",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ",
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様です",
+    "ts": "1615441837.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1uU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でした！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "df917411-d32b-4e98-971a-fefb14a79ec1",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "UD32JHVL7",
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "tada",
+        "users": [
+          "UD32JHVL7",
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でした！",
+    "ts": "1615439798.000400",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7qF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "資料は良い感じなんで、あとは時間にさえ収まればいいかなと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f60830e-75a2-4443-9a4b-042792d29ad4",
+    "team": "T6WULA63S",
+    "text": "資料は良い感じなんで、あとは時間にさえ収まればいいかなと思います",
+    "ts": "1615378543.002600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QiAfS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表用のスライドを編集しました。ご確認のほど、よろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "883af7a5-2ae1-4ea4-a96f-ad4cf20e3933",
+    "team": "T6WULA63S",
+    "text": "発表用のスライドを編集しました。ご確認のほど、よろしくお願いします。",
+    "ts": "1615367268.001700",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LvS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それがいいかも！ありがとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f470aca-2fa9-455b-ad87-326cc8ea286c",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "thumbsup_all",
+        "users": [
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "それがいいかも！ありがとうございます！",
+    "ts": "1615302063.018800",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "W9bV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "実演で希望者がいた場合、この正方形の画像に文字を書いてもらうのはどうですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01Q72URTAT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "実演で希望者がいた場合、この正方形の画像に文字を書いてもらうのはどうですか？",
+    "ts": "1615293319.017000",
+    "type": "message",
+    "upload": false,
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8sgg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解、ありがと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c509dae0-1b0b-4594-9530-e28f7015d574",
+    "team": "T6WULA63S",
+    "text": "了解、ありがと",
+    "ts": "1615286547.014500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0IY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "パターン認識のアルゴリズム説明・実演→開発班\n開発をしてみての感想→越前谷+開発班\nそれ以外→越前谷\nという形式なので、合ってます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d228dff-8262-4d40-89c0-578f0901bae8",
+    "team": "T6WULA63S",
+    "text": "パターン認識のアルゴリズム説明・実演→開発班\n開発をしてみての感想→越前谷+開発班\nそれ以外→越前谷\nという形式なので、合ってます！",
+    "ts": "1615285551.014100",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ocd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえば、当日の発表は主軸で越前谷さんが発表して、アルゴリズムの説明とか、実演のときに開発班にバトンタッチする、みたいな形式って認識で合ってる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f0112697-0eef-497d-a063-85b9a7a87d08",
+    "team": "T6WULA63S",
+    "text": "そういえば、当日の発表は主軸で越前谷さんが発表して、アルゴリズムの説明とか、実演のときに開発班にバトンタッチする、みたいな形式って認識で合ってる？",
+    "ts": "1615278207.011100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01QT1J1X60",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1615274383.009500",
+    "type": "message",
+    "upload": false,
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ww=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "褒め言葉\n（わかりにくいとか意味不明とかあれば）修正or追加あれば言ってください～\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "1枚目：\nお手本のようにきれいな字ですね！\n誰が見ても納得する「な」です！\n綺麗すぎて教科書に載せられるレベル！\n100点満点の字です！\nバランスが良いですね！\nなんて完璧な字…\n\n2枚目：\nスタイリッシュな「な」ですね！\n一文字だけでも存在感がありますね！\nロゴとかにしたら映えそう！\n大人びた美しい字ですね！\n思わずため息が出るような字ですね！\n慣れた感じがとてもいいですね！\n\n3枚目：\nちょっと崩した感じがかっこいいですね！\nすらっとしてかっこいい「な」ですね！\n可愛らしい字ですね！\n味のある良い字ですね！\n芸術性を感じます！\nオブジェとかにしたい形ですね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "edited": {
+      "ts": "1615273259.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01QM0T8XL3",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01QM0TAXRR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01QE1DD614",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "褒め言葉\n（わかりにくいとか意味不明とかあれば）修正or追加あれば言ってください～\n```1枚目：\nお手本のようにきれいな字ですね！\n誰が見ても納得する「な」です！\n綺麗すぎて教科書に載せられるレベル！\n100点満点の字です！\nバランスが良いですね！\nなんて完璧な字…\n\n2枚目：\nスタイリッシュな「な」ですね！\n一文字だけでも存在感がありますね！\nロゴとかにしたら映えそう！\n大人びた美しい字ですね！\n思わずため息が出るような字ですね！\n慣れた感じがとてもいいですね！\n\n3枚目：\nちょっと崩した感じがかっこいいですね！\nすらっとしてかっこいい「な」ですね！\n可愛らしい字ですね！\n味のある良い字ですね！\n芸術性を感じます！\nオブジェとかにしたい形ですね！```",
+    "ts": "1615273210.008700",
+    "type": "message",
+    "upload": false,
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/abd-cigf-iqp?authuser=0",
+        "id": 1,
+        "original_url": "https://meet.google.com/abd-cigf-iqp?authuser=0",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/abd-cigf-iqp?authuser=0"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "zOuC3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/abd-cigf-iqp?authuser=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "971455b0-378e-48d0-aa1c-bf330cbc0096",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/abd-cigf-iqp?authuser=0>",
+    "ts": "1615272323.006600",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ALm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d705672-b96f-4b9c-8611-a4534f350890",
+    "team": "T6WULA63S",
+    "text": "お願いします",
+    "ts": "1615272317.006400",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=waVf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "立て直してもいいですか？自分作ります\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " 3回繰り返したけどだめでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a4f7775-c8fa-4ad7-bbc5-534d2e5292bc",
+    "team": "T6WULA63S",
+    "text": "立て直してもいいですか？自分作ります\n<@U01CJ8MK0M6> 3回繰り返したけどだめでした",
+    "ts": "1615272303.006100",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4jju",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " リロードしてもう一回やってだめだったらmeet作り直します！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eb1f456a-6d47-4a25-9df4-deedf1b9c97d",
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> リロードしてもう一回やってだめだったらmeet作り直します！",
+    "ts": "1615272259.005300",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N+byC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " リクエストしています　でずっとぐるぐるしてるところ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e796c035-d963-4216-a7e4-3c94a250c267",
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> リクエストしています　でずっとぐるぐるしてるところ",
+    "ts": "1615272206.004200",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z/WDy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " リクエスト押しても入れない感じ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "da6c4d84-2db0-4578-a6a2-ce502cf63240",
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> リクエスト押しても入れない感じ？",
+    "ts": "1615272160.003500",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+cZH3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": " meet入ろうとしたら参加をリクエストになってしまます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8fbe00bc-0952-438d-af27-798d169e0d5a",
+    "team": "T6WULA63S",
+    "text": "<@U01BUKC708K> meet入ろうとしたら参加をリクエストになってしまます",
+    "ts": "1615272127.003100",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z1X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大河内くん今meetにこれる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "20038fb2-f1bf-49a7-94d7-9454c517be5d",
+    "team": "T6WULA63S",
+    "text": "大河内くん今meetにこれる？",
+    "ts": "1615271945.002200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pkYe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん解散しちゃった、入りなおしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2360ea7f-ebc6-4012-8925-d9b8c464285d",
+    "team": "T6WULA63S",
+    "text": "ごめん解散しちゃった、入りなおしてください",
+    "ts": "1615271609.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "58wC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Pyenv",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a5688ce5-5d24-4938-86c5-bb23fa0bed42",
+    "team": "T6WULA63S",
+    "text": "Pyenv",
+    "ts": "1615267291.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TIQU6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1tpAUiTbkvr161qfpqPmcpoMbi6fCRsjY3ENTaPikZCQ/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73515623-326d-4582-8afc-295600cd8d06",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1tpAUiTbkvr161qfpqPmcpoMbi6fCRsjY3ENTaPikZCQ/edit?usp=sharing>",
+    "ts": "1615266092.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z/p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1枚目\nバランスが良いですね！\n可愛らしい字ですね！\nなんて完璧な字…\n2枚目\nお手本のような字ですね！\n100点満点の字です！\n思わずため息が出るような字ですね！\n3枚目\n味のある良い字ですね！\n芸術性を感じます！\n大人びた美しい字ですね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc886a88-d01b-41a8-821c-1d5ab9c06d45",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "exclamation",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "root": {
+      "blocks": [
+        {
+          "block_id": "Ugl0a",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "褒めるにあたってお手本はこの3つなので、これはこう褒めたい！とかあれば言ってください",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "files": [
+        {
+          "created": 0,
+          "file_access": "file_not_found",
+          "filetype": "png",
+          "id": "F01Q47G5SP4",
+          "timestamp": 0,
+          "user": "U056UC66ZPV"
+        },
+        {
+          "created": 0,
+          "file_access": "file_not_found",
+          "filetype": "png",
+          "id": "F01Q4DG8XR9",
+          "timestamp": 0,
+          "user": "U056UC66ZPV"
+        },
+        {
+          "created": 0,
+          "file_access": "file_not_found",
+          "filetype": "png",
+          "id": "F01PXE1U0KY",
+          "timestamp": 0,
+          "user": "U056UC66ZPV"
+        }
+      ],
+      "is_locked": false,
+      "latest_reply": "1614931347.005300",
+      "reply_count": 2,
+      "reply_users": [
+        "U01CJ8MK0M6",
+        "U01BUKC708K"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "text": "褒めるにあたってお手本はこの3つなので、これはこう褒めたい！とかあれば言ってください",
+      "thread_ts": "1614836337.016900",
+      "ts": "1614836337.016900",
+      "type": "message",
+      "upload": false,
+      "user": "U01CJ8MK0M6"
+    },
+    "subtype": "thread_broadcast",
+    "text": "1枚目\nバランスが良いですね！\n可愛らしい字ですね！\nなんて完璧な字…\n2枚目\nお手本のような字ですね！\n100点満点の字です！\n思わずため息が出るような字ですね！\n3枚目\n味のある良い字ですね！\n芸術性を感じます！\n大人びた美しい字ですね！",
+    "thread_ts": "1614836337.016900",
+    "ts": "1614931347.005300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BUkn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "褒め言葉の例はこちら\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "1枚目：\nお手本のようにきれいな字ですね！\n誰が見ても納得する「な」です！\n綺麗すぎて教科書に載せられるレベル！\n2枚目：\nスタイリッシュな「な」ですね！\n一文字だけでも存在感がありますね！\nロゴとかにしたら映えそう！\n3枚目：\nちょっと崩した感じがかっこいいですね！\nすらっとしてかっこいい「な」ですね！\n慣れた感じがとてもいいですね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "588f4e5e-6d91-4f67-96d6-0a4b65da02e9",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "Ugl0a",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "褒めるにあたってお手本はこの3つなので、これはこう褒めたい！とかあれば言ってください",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "files": [
+        {
+          "created": 0,
+          "file_access": "file_not_found",
+          "filetype": "png",
+          "id": "F01Q47G5SP4",
+          "timestamp": 0,
+          "user": "U056UC66ZPV"
+        },
+        {
+          "created": 0,
+          "file_access": "file_not_found",
+          "filetype": "png",
+          "id": "F01Q4DG8XR9",
+          "timestamp": 0,
+          "user": "U056UC66ZPV"
+        },
+        {
+          "created": 0,
+          "file_access": "file_not_found",
+          "filetype": "png",
+          "id": "F01PXE1U0KY",
+          "timestamp": 0,
+          "user": "U056UC66ZPV"
+        }
+      ],
+      "is_locked": false,
+      "latest_reply": "1614931347.005300",
+      "reply_count": 2,
+      "reply_users": [
+        "U01CJ8MK0M6",
+        "U01BUKC708K"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "text": "褒めるにあたってお手本はこの3つなので、これはこう褒めたい！とかあれば言ってください",
+      "thread_ts": "1614836337.016900",
+      "ts": "1614836337.016900",
+      "type": "message",
+      "upload": false,
+      "user": "U01CJ8MK0M6"
+    },
+    "subtype": "thread_broadcast",
+    "text": "褒め言葉の例はこちら\n```1枚目：\nお手本のようにきれいな字ですね！\n誰が見ても納得する「な」です！\n綺麗すぎて教科書に載せられるレベル！\n2枚目：\nスタイリッシュな「な」ですね！\n一文字だけでも存在感がありますね！\nロゴとかにしたら映えそう！\n3枚目：\nちょっと崩した感じがかっこいいですね！\nすらっとしてかっこいい「な」ですね！\n慣れた感じがとてもいいですね！```",
+    "thread_ts": "1614836337.016900",
+    "ts": "1614924049.005000",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gMJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01Q2N9JD3Q",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01Q6D5HC93",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1614922337.004500",
+    "reply_count": 3,
+    "reply_users": [
+      "U01CJ8MK0M6"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "text": "<@U01C72C0B7T>",
+    "thread_ts": "1614921790.003200",
+    "ts": "1614921790.003200",
+    "type": "message",
+    "upload": false,
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jfmZp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " 14:15 からでも良いですか？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "834AF5AB-F672-4FF0-BBF0-DC5FD5C24ACC",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "man-gesturing-ok",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C0JWLPAQ> <@U01CJ8MK0M6> 14:15 からでも良いですか？？",
+    "ts": "1614920336.001700",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CM+IF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " いまから参加できます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56e752d7-d328-4c28-b4bb-ebecc35ac50e",
+    "team": "T6WULA63S",
+    "text": "<@U01C0JWLPAQ> <@U01C72C0B7T> いまから参加できます！",
+    "ts": "1614920241.000700",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tur+p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": "  ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " ごめんなさい金曜13時30から1時間だけ用事あったのでその後にしてもらえないでしょうか…！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cdbd4a58-1480-470e-956a-73cbb45a3f9e",
+    "edited": {
+      "ts": "1614920253.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T>  <@U01C0JWLPAQ> ごめんなさい金曜13時30から1時間だけ用事あったのでその後にしてもらえないでしょうか…！",
+    "ts": "1614869639.023100",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tbHp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " いちおう金曜13:30からにしようと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "77E38AC7-D348-40D5-8C0B-A77A8DCFDB69",
+    "team": "T6WULA63S",
+    "text": "<@U01C0JWLPAQ> <@U01CJ8MK0M6> いちおう金曜13:30からにしようと思います",
+    "ts": "1614868996.022500",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WFQNo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " 今のところ土曜日以外なら大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57937EB4-59BB-4635-AF8C-A3B4E2B64177",
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01CJ8MK0M6> 今のところ土曜日以外なら大丈夫です",
+    "ts": "1614868429.021400",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zQrWO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 土曜授業あるのでそれ以外なら行けます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "386841e1-5a93-4fd3-a420-58cdea9d4790",
+    "edited": {
+      "ts": "1614920264.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> 土曜授業あるのでそれ以外なら行けます！",
+    "ts": "1614861846.020900",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GFgnt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 次集まる日決めたいと思います。火曜の午後までだったら、金曜と土曜okで月曜日は午前と夕方(17時とか)の時間は大丈夫です。火曜も午前中大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C01D9581-1639-4881-ACF8-97B29890B051",
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> 次集まる日決めたいと思います。火曜の午後までだったら、金曜と土曜okで月曜日は午前と夕方(17時とか)の時間は大丈夫です。火曜も午前中大丈夫です。",
+    "ts": "1614858891.020500",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ugl0a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "褒めるにあたってお手本はこの3つなので、これはこう褒めたい！とかあれば言ってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01Q47G5SP4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01Q4DG8XR9",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01PXE1U0KY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1614931347.005300",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "reply_count": 2,
+    "reply_users": [
+      "U01CJ8MK0M6",
+      "U01BUKC708K"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "text": "褒めるにあたってお手本はこの3つなので、これはこう褒めたい！とかあれば言ってください",
+    "thread_ts": "1614836337.016900",
+    "ts": "1614836337.016900",
+    "type": "message",
+    "upload": false,
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5YpH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1JwuHvdJL2LWHcXodObPv7kZCT0iSsSoKj2BeefG94GU/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ceed95a-573c-4b8d-bcae-b95a7d0a985d",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1JwuHvdJL2LWHcXodObPv7kZCT0iSsSoKj2BeefG94GU/edit?usp=sharing>",
+    "ts": "1614836082.016100",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zd08",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1614737881.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01Q4L50FAQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1614738309.014100",
+    "reply_count": 1,
+    "reply_users": [
+      "U01CJ8MK0M6"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "text": "<@U01C72C0B7T>",
+    "thread_ts": "1614737871.013500",
+    "ts": "1614737871.013500",
+    "type": "message",
+    "upload": false,
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PLWZ5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ３日10:30からお願いします～",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac3fdbbc-8264-41bf-a85e-a6f6cb1a6145",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "じゃあ３日10:30からお願いします～",
+    "ts": "1614686016.011900",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yty",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4347C515-C176-4262-8CD0-128C56C8DB54",
+    "team": "T6WULA63S",
+    "text": "明日は大丈夫です",
+    "ts": "1614683913.011100",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z2pYW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "ryoukai",
+                "type": "emoji"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46dbc0ff-0d70-4ba3-a3f5-f00a3ec2287c",
+    "team": "T6WULA63S",
+    "text": ":ryoukai:",
+    "ts": "1614680061.010800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V6+/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "やりたい事が具体的に決まって3人でも出来そうな難易度なので、自分は入らなくても大丈夫だと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "017FBF0A-7E24-44E3-9131-9BBF06C099F7",
+    "team": "T6WULA63S",
+    "text": "やりたい事が具体的に決まって3人でも出来そうな難易度なので、自分は入らなくても大丈夫だと思います",
+    "ts": "1614674020.010700",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Mq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これはまた俺も入ったほうがいいかな？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a1928929-a2da-412f-8680-289343726074",
+    "team": "T6WULA63S",
+    "text": "これはまた俺も入ったほうがいいかな？",
+    "ts": "1614670666.009100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ULq9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分も3日の日は大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E8495192-12E4-466A-8AF6-7B02B571BA42",
+    "team": "T6WULA63S",
+    "text": "自分も3日の日は大丈夫です",
+    "ts": "1614669772.008800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jaEp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回についてですが木曜日前であれば3日(水)参加可能です 合わなかったら金曜以降にしますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "408dac74-58e4-434f-af3c-46177630d88b",
+    "team": "T6WULA63S",
+    "text": "次回についてですが木曜日前であれば3日(水)参加可能です 合わなかったら金曜以降にしますか",
+    "ts": "1614654247.008200",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4ky",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それと回ごとにプログラム書くの誰がメインでやるのか決めたほうが良かったんだけどふわっとした感じで進めてしまってすみません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bb466d69-5eae-449a-8b61-84c36cfa89b0",
+    "team": "T6WULA63S",
+    "text": "それと回ごとにプログラム書くの誰がメインでやるのか決めたほうが良かったんだけどふわっとした感じで進めてしまってすみません",
+    "ts": "1614654169.007000",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gifBE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "・3つのお手本画像の内どれがインプット画像に近いかパターン認識する（いい記事とかあれば共有する）\nよろしくおねがいします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9e94b37-2d9c-442c-9ea7-5e8dea1bc766",
+    "team": "T6WULA63S",
+    "text": "・3つのお手本画像の内どれがインプット画像に近いかパターン認識する（いい記事とかあれば共有する）\nよろしくおねがいします！",
+    "ts": "1614654114.005900",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fGBAl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ火曜10時30分～とか、大丈夫であればこれで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "381b634b-0653-45ba-bde2-51478bbadbb6",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T",
+          "UD32JHVL7",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "じゃあ火曜10時30分～とか、大丈夫であればこれで",
+    "ts": "1614358498.004100",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4OL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "土曜・月曜以外はいつでも行けます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4985dea3-6e88-40c4-a2ac-d45f28368af1",
+    "team": "T6WULA63S",
+    "text": "土曜・月曜以外はいつでも行けます！",
+    "ts": "1614358435.003400",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ucj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日と明日以外なら大丈夫そうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81097115-0C4E-4D84-A714-2A443CA761AF",
+    "team": "T6WULA63S",
+    "text": "今日と明日以外なら大丈夫そうです",
+    "ts": "1614308722.002600",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A40SS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "日曜以外でしたら今のところ大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CA326A13-B735-4DC3-AC6A-FDD7E890D4CC",
+    "team": "T6WULA63S",
+    "text": "日曜以外でしたら今のところ大丈夫です。",
+    "ts": "1614301528.001800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "szpf5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それ以外なら入れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f33228b1-b824-4d40-b26d-151eede0e0a9",
+    "team": "T6WULA63S",
+    "text": "それ以外なら入れます",
+    "ts": "1614255387.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0RXGc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ああ、私は月曜と研究室の用事があるところ以外は問題ないよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9eefdfa-5478-4669-b35d-ea17598d479c",
+    "team": "T6WULA63S",
+    "text": "ああ、私は月曜と研究室の用事があるところ以外は問題ないよ",
+    "ts": "1614255369.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/mgp-qwni-rrg?authuser=0",
+        "id": 1,
+        "original_url": "https://meet.google.com/mgp-qwni-rrg?authuser=0",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/mgp-qwni-rrg?authuser=0"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "8BcRT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " Meet - mgp-qwni-rrg (",
+                "type": "text"
+              },
+              {
+                "text": "google.com",
+                "type": "link",
+                "url": "http://google.com"
+              },
+              {
+                "text": ")　ここでお願いします\n集まらなかったら水曜にします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a1ac7209-507b-4b79-a563-f012c73c5a0a",
+    "edited": {
+      "ts": "1614067643.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> Meet - mgp-qwni-rrg (<http://google.com|google.com>)　ここでお願いします\n集まらなかったら水曜にします",
+    "ts": "1614067521.001500",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t/gg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 木金大事な発表があるのでできれば火曜がいいですすみません…orz",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "444e0c87-73e4-47c2-a145-33a3d13f30ea",
+    "edited": {
+      "ts": "1614012697.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> 木金大事な発表があるのでできれば火曜がいいですすみません…orz",
+    "ts": "1614012523.000700",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wo=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " どっちかだったら水曜の方が助かります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5769F875-16E0-47ED-BD9A-41F20F4ADA3F",
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> どっちかだったら水曜の方が助かります。",
+    "ts": "1613928670.005700",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KBhc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " それでは火17時～でお願いします　おそすぎるしだめだったら水曜10:30で～",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48da7109-dd05-4675-958a-d374f256a2a4",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> それでは火17時～でお願いします　おそすぎるしだめだったら水曜10:30で～",
+    "ts": "1613915922.004800",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7hck0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " 月水終日OK、火曜10:30〜16:30以外はOKです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C54292A2-DE25-4846-AD04-A180CA143FF8",
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01CJ8MK0M6> 月水終日OK、火曜10:30〜16:30以外はOKです",
+    "ts": "1613891348.003600",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iFsGa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 不可（月2-3、金2-3）それ以外だいたいOK",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "925cabdd-d801-459c-aef0-68855f2bfe17",
+    "edited": {
+      "ts": "1613842472.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> 不可（月2-3、金2-3）それ以外だいたいOK",
+    "ts": "1613842463.002400",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p023j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 次の集まる日時を決めましょう。\n自分は月火水終日大丈夫だと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BD3C6D79-2C0B-4E6F-9BA2-933F8D50D396",
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> 次の集まる日時を決めましょう。\n自分は月火水終日大丈夫だと思います。",
+    "ts": "1613813571.001400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Za=R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1HBUYRhL4F5Y8djvhF38jR-j7Vsok5jo01fQOU_QUJc4/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a2f8ca06-9b37-4f36-973c-8da89a3ed0e0",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1HBUYRhL4F5Y8djvhF38jR-j7Vsok5jo01fQOU_QUJc4/edit?usp=sharing>",
+    "ts": "1613625677.023700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F01NP8JV3A8",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "text": "",
+    "ts": "1613625291.023300",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w0uA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2値化（済、でかい画像だとエラー出る？、参考：",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://algorithm.joho.info/programming/python/opencv-threshold-binary-py/"
+              },
+              {
+                "text": "）\n↓\n画像サイズ変更（まだ）\n↓\n配列（参考：",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://rinsaka.com/python/tegaki-number-02.html"
+              },
+              {
+                "text": "）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "022be4fc-f50e-490d-a97b-cc0830ccff5f",
+    "edited": {
+      "ts": "1613617227.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U01C72C0B7T",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "2値化（済、でかい画像だとエラー出る？、参考：<https://algorithm.joho.info/programming/python/opencv-threshold-binary-py/>）\n↓\n画像サイズ変更（まだ）\n↓\n配列（参考：<https://rinsaka.com/python/tegaki-number-02.html>）",
+    "ts": "1613617171.021400",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xiw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 木曜10:30からでスケジュールに入れておきます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83186C6E-FFF7-474C-B1E5-5A158A0AC370",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> 木曜10:30からでスケジュールに入れておきます！",
+    "ts": "1613447606.019900",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XKReJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " すみません、遅くなりました。本日OK、水曜OK、木曜10:30以降ならOKという感じです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "031CBD5F-BCF7-4EF4-AE6C-1E63B6C69BBA",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01CJ8MK0M6> すみません、遅くなりました。本日OK、水曜OK、木曜10:30以降ならOKという感じです。",
+    "ts": "1613436595.017800",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LNkj7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 遅くなってすみません。月曜16時以降、火曜以降参加できます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7092d871-4390-436e-ad8b-eb094aa5d92a",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U01C0JWLPAQ",
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> 遅くなってすみません。月曜16時以降、火曜以降参加できます。",
+    "ts": "1613326488.016000",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "48KRn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 来週のゼミの日までにもう1回集まりますか？\n自分は土曜ok(前日なので他に空いてる日がなかったら)、日曜不可、月曜ok、火曜と水曜不可(夜でも良ければその時間はok)、木曜午前中okって感じです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B2D4D3CD-1E36-4830-98B4-5846E2C31618",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> 来週のゼミの日までにもう1回集まりますか？\n自分は土曜ok(前日なので他に空いてる日がなかったら)、日曜不可、月曜ok、火曜と水曜不可(夜でも良ければその時間はok)、木曜午前中okって感じです。",
+    "ts": "1613128286.014700",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1612936093.011400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AXp7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "47b40655-ba97-49ca-9ca0-97152dd4c6f3",
+    "team": "T6WULA63S",
+    "text": "なるほど",
+    "ts": "1612935492.011200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p7b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それです！ETL7もダウンロードして2つめのほう実行（1つめはエラー出る）してみたのですが、うまく画像ファイルは作られませんでした…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "92c43af7-148e-4bf4-b9c8-d44d37e71a72",
+    "team": "T6WULA63S",
+    "text": "それです！ETL7もダウンロードして2つめのほう実行（1つめはエラー出る）してみたのですが、うまく画像ファイルは作られませんでした…",
+    "ts": "1612934961.010800",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oUCKR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちのほうがクリティカルかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b7de8a9a-7bc2-4bac-a918-15ee0bae2508",
+    "team": "T6WULA63S",
+    "text": "こっちのほうがクリティカルかな",
+    "ts": "1612934182.009500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: ETL文字データベース (etlcdb)を画像に変換する - Qiita",
+        "from_url": "https://qiita.com/kcrt/items/a7f0582a91d6599d164d",
+        "id": 1,
+        "image_bytes": 49814,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DETL%25E6%2596%2587%25E5%25AD%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%2520%2528etlcdb%2529%25E3%2582%2592%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258B%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3Da1bd69e3295feea8b1032f80977ba102&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540kcrt%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D50e607a8602b4e326442714de6d92c3c&blend-align=center%2Cmiddle&blend-mode=normal&s=40a6c3581912bd9934f3734667a3506f",
+        "image_width": 476,
+        "original_url": "https://qiita.com/kcrt/items/a7f0582a91d6599d164d",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "日本版MNISTとも言えるETL文字データベース <http://etlcdb.db.aist.go.jp/?lang=ja> を、機械学習の学習・モデルの教育などに使用されている方も多いと思います。 ですが、こちらの配布データは...",
+        "title": "ETL文字データベース (etlcdb)を画像に変換する - Qiita",
+        "title_link": "https://qiita.com/kcrt/items/a7f0582a91d6599d164d"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "b20r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/kcrt/items/a7f0582a91d6599d164d"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "819c4003-79a9-4526-8525-7134f6804e77",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/kcrt/items/a7f0582a91d6599d164d>",
+    "ts": "1612934171.009100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: ETL8BとETL7 手書きひらがな・漢字データベースから学習用データを制作して使ってみる - Qiita",
+        "from_url": "https://qiita.com/Cyber_Hacnosuke/items/c121cfd1945a3174bc84",
+        "id": 1,
+        "image_bytes": 76289,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DETL8B%25E3%2581%25A8ETL7%2520%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2581%25B2%25E3%2582%2589%25E3%2581%258C%25E3%2581%25AA%25E3%2583%25BB%25E6%25BC%25A2%25E5%25AD%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E7%25BF%2592%25E7%2594%25A8%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%2597%25E3%2581%25A6%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D78efc5767b2c00440402aa3fe6a4e852&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540Cyber_Hacnosuke%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D4127123cd4a46984a31c8032c847ef47&blend-align=center%2Cmiddle&blend-mode=normal&s=0f1ed7c3c37f1fdacffde3b555f24108",
+        "image_width": 476,
+        "original_url": "https://qiita.com/Cyber_Hacnosuke/items/c121cfd1945a3174bc84",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "1 はじめに 1.1 経緯 このまえまで、以下の記事で手書き数字(MNIST)を扱っていましたが、 <https://qiita.com/Cyber_Hacnosuke/items/9b6f561632a56598bb56> h...",
+        "title": "ETL8BとETL7 手書きひらがな・漢字データベースから学習用データを制作して使ってみる - Qiita",
+        "title_link": "https://qiita.com/Cyber_Hacnosuke/items/c121cfd1945a3174bc84"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "mFF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/Cyber_Hacnosuke/items/c121cfd1945a3174bc84"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "556771a0-3efb-40d7-af92-57989b05a663",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/Cyber_Hacnosuke/items/c121cfd1945a3174bc84>",
+    "ts": "1612934101.008800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GtE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうです！\nこんなでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01MHGA36AZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "そうです！\nこんなでした",
+    "ts": "1612933955.008400",
+    "type": "message",
+    "upload": false,
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IzlZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://etlcdb.db.aist.go.jp/specifications-of-etl4?lang=ja"
+              },
+              {
+                "text": "\nこれ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ddbb44e2-cdbd-4638-b5d2-bb3e1722ca6c",
+    "team": "T6WULA63S",
+    "text": "<http://etlcdb.db.aist.go.jp/specifications-of-etl4?lang=ja>\nこれ？",
+    "ts": "1612933929.008000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HBxY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ElectrotechnicalLabでひらがなのデータあったのですが、ダウンロードしてみるとファイルって形式のファイルになっててどうすればいいのかわからない…という感じです…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4c4c18a-9ccc-40dc-acfa-44d095993bd6",
+    "team": "T6WULA63S",
+    "text": "ElectrotechnicalLabでひらがなのデータあったのですが、ダウンロードしてみるとファイルって形式のファイルになっててどうすればいいのかわからない…という感じです…",
+    "ts": "1612933801.007800",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Sbh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「崩し字」だけど、まあ多分なにかしらの値はでるのではなかろうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6dff5414-7628-4c40-8785-ffaaba936cb7",
+    "team": "T6WULA63S",
+    "text": "「崩し字」だけど、まあ多分なにかしらの値はでるのではなかろうか",
+    "ts": "1612933702.007000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ha1Ie",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応KMNISTっていうのはあるよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d82161e5-2054-475f-930b-e3dd213be344",
+    "team": "T6WULA63S",
+    "text": "一応KMNISTっていうのはあるよ",
+    "ts": "1612933592.006300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w0=GX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ひらがなだけっていうのがなんか見つからないっていうかあるのかわからない…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "61cd2542-d710-4938-a05b-538778a37e00",
+    "team": "T6WULA63S",
+    "text": "ひらがなだけっていうのがなんか見つからないっていうかあるのかわからない…",
+    "ts": "1612933565.006000",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Yz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（ひらがな認識ってやっぱ難しいんだな・・・）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "194c385d-4e45-4be3-ab43-c2981aea1263",
+    "team": "T6WULA63S",
+    "text": "（ひらがな認識ってやっぱ難しいんだな・・・）",
+    "ts": "1612933476.005500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Kludge Factory: TensorFlowでひらがな・漢字文字認識",
+        "from_url": "https://tyfkda.github.io/blog/2016/08/17/tensorflow-cnn.html",
+        "id": 1,
+        "original_url": "https://tyfkda.github.io/blog/2016/08/17/tensorflow-cnn.html",
+        "service_icon": "https://tyfkda.github.io/favicon.ico",
+        "service_name": "Kludge Factory",
+        "text": "TensorFlowを使ってひらがな＋漢字の文字認識を行うプログラムを試してみた。",
+        "title": "TensorFlowでひらがな・漢字文字認識",
+        "title_link": "https://tyfkda.github.io/blog/2016/08/17/tensorflow-cnn.html"
+      },
+      {
+        "fallback": "Qiita: 手書きひらがなの認識で99.78%の精度をディープラーニングで - Qiita",
+        "from_url": "https://qiita.com/yukoba/items/7a687e44395783eb32b1",
+        "id": 2,
+        "image_bytes": 63166,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3D%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2581%25B2%25E3%2582%2589%25E3%2581%258C%25E3%2581%25AA%25E3%2581%25AE%25E8%25AA%258D%25E8%25AD%2598%25E3%2581%25A799.78%2525%25E3%2581%25AE%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2582%2592%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D60d8c7ecb01dd344911a59fb51cce580&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540yukoba%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D9c7bb34e17df1fe303183cf15923cfc6&blend-align=center%2Cmiddle&blend-mode=normal&s=13607cc68b7659a78ba2d65f034b4d76",
+        "image_width": 476,
+        "original_url": "https://qiita.com/yukoba/items/7a687e44395783eb32b1",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "手書きひらがなの認識、教科書通りの畳み込みニューラルネットワーク（ディープラーニング）で、99.78%の精度が出ました。教科書通りである事が（独自性がない事が）逆に読む方・書く方にメリットがありそうなので、Qiitaで記事にします。 ...",
+        "title": "手書きひらがなの認識で99.78%の精度をディープラーニングで - Qiita",
+        "title_link": "https://qiita.com/yukoba/items/7a687e44395783eb32b1"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "m1VgI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://tyfkda.github.io/blog/2016/08/17/tensorflow-cnn.html"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/yukoba/items/7a687e44395783eb32b1"
+              },
+              {
+                "text": "\nひらがなのデータセットを使ったものとかだと、こんな感じの記事がありますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "736c1aaf-c74c-4cd5-989d-d5985c77575a",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://tyfkda.github.io/blog/2016/08/17/tensorflow-cnn.html>\n<https://qiita.com/yukoba/items/7a687e44395783eb32b1>\nひらがなのデータセットを使ったものとかだと、こんな感じの記事がありますね",
+    "ts": "1612932924.004800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ww6rZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "では、今週はとりあえずお休みにしましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "55dd99ba-dd5b-4d34-abd7-64a672aaf328",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "では、今週はとりあえずお休みにしましょう",
+    "ts": "1612932706.004100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3e5=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分も祝日なので休みがいいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0E4C1F59-ED5E-4721-A139-439184F4B1A3",
+    "team": "T6WULA63S",
+    "text": "自分も祝日なので休みがいいと思います。",
+    "ts": "1612932689.003800",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "M9Vc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ前山君がよければ休みにしようか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bf3150ca-24c4-477a-a13d-e3845e588a86",
+    "team": "T6WULA63S",
+    "text": "じゃあ前山君がよければ休みにしようか",
+    "ts": "1612932564.002900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JDmPp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "同じく休みでお願いしたいです。宜しくおねがいします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a7b824f-5c97-40e2-96fe-c1411280dba6",
+    "team": "T6WULA63S",
+    "text": "同じく休みでお願いしたいです。宜しくおねがいします。",
+    "ts": "1612932483.002600",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Kv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "祝日なので私は休みでもいいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C8EF9A32-64AF-4DA0-8551-061B7F7BB547",
+    "team": "T6WULA63S",
+    "text": "祝日なので私は休みでもいいと思います。",
+    "ts": "1612931950.001900",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LJN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえば、すっかり忘れてたんですけど、今週木曜日が祝日なんですよね、どうしようか、休みにする？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cfbbe4a7-fb98-4076-9371-d828b614ee44",
+    "team": "T6WULA63S",
+    "text": "そういえば、すっかり忘れてたんですけど、今週木曜日が祝日なんですよね、どうしようか、休みにする？",
+    "ts": "1612923425.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ImXjX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 明日は13時30分からにスケジュールを入れようと思います。\nこの時間からがいいって言う希望がありましたらお伝えしていただけると助かります。なければ",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              },
+              {
+                "text": "なりで反応していただけたらこのままでいきます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46F78B30-5DF4-4A27-AAD6-549E8D8F1795",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U01C0JWLPAQ",
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> 明日は13時30分からにスケジュールを入れようと思います。\nこの時間からがいいって言う希望がありましたらお伝えしていただけると助かります。なければ:+1:なりで反応していただけたらこのままでいきます。",
+    "ts": "1612864656.004400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ms4r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "requirements.txtが何なのかは自分で調べてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d7641ec-e70e-48ed-a88b-b7065c502e77",
+    "team": "T6WULA63S",
+    "text": "requirements.txtが何なのかは自分で調べてください",
+    "ts": "1612833952.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w+AaW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/CSTmatsunolab/handwriting/commit/f86e3ace1238dbd2d5743b0e74e338f370916e63"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "792e70ca-9888-4fa4-a3bb-50f5f1ddb0d6",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/CSTmatsunolab/handwriting/commit/f86e3ace1238dbd2d5743b0e74e338f370916e63>",
+    "ts": "1612833915.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GNL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 遅くになりますが火曜16時半時からにしようと思います。終わらなかったら水曜にも入れようと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0FF9938C-D25D-440A-97CF-B4BC3F6F83F5",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> <@U01C0JWLPAQ> 遅くになりますが火曜16時半時からにしようと思います。終わらなかったら水曜にも入れようと思います。",
+    "ts": "1612631705.010600",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TXU7W",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": "  月曜は11:30〜13:30以外、火曜は12:30〜14:30以外、水曜と木曜は終日OK、この時間ならいつでも大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89EC7682-A0FF-44F1-8437-FEF33E6BD5C4",
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01CJ8MK0M6>  月曜は11:30〜13:30以外、火曜は12:30〜14:30以外、水曜と木曜は終日OK、この時間ならいつでも大丈夫です",
+    "ts": "1612603230.008000",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+cl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 不可（月）可（火、水、木）です 平日16時から15分ほど席を外すけど何時でもokです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2197621d-f65b-437f-b076-9d13bb0538e8",
+    "edited": {
+      "ts": "1612595297.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> 不可（月）可（火、水、木）です 平日16時から15分ほど席を外すけど何時でもokです",
+    "ts": "1612595183.005300",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dn=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " 月曜、火曜、水曜は終日大丈夫です。お二方の空いてる時間に合わせます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "75FA4D53-A525-44AD-9438-F8F7CE52B7BF",
+    "team": "T6WULA63S",
+    "text": "<@U01C0JWLPAQ> <@U01CJ8MK0M6> 月曜、火曜、水曜は終日大丈夫です。お二方の空いてる時間に合わせます。",
+    "ts": "1612580053.003800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=YvF/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "匠メソッド例\n\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1HBUYRhL4F5Y8djvhF38jR-j7Vsok5jo01fQOU_QUJc4/edit#slide=id.g8c1ec9aa0a_0_0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c6089d8-cac4-4d88-835f-7b2f0198a5e7",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F017K71K9EU",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "匠メソッド例\n\n<https://docs.google.com/presentation/d/1HBUYRhL4F5Y8djvhF38jR-j7Vsok5jo01fQOU_QUJc4/edit#slide=id.g8c1ec9aa0a_0_0>",
+    "ts": "1612419254.001300",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7",
+    "x_files": [
+      "F017K71K9EU"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yw60v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タスクの説明をみんなで書く\nタスクのストーリーポイントをみんなで決定する\nメンバーを決定する\n日にちを書く",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90fcde0c-931c-4146-bd31-89fb3cdb50ce",
+    "team": "T6WULA63S",
+    "text": "タスクの説明をみんなで書く\nタスクのストーリーポイントをみんなで決定する\nメンバーを決定する\n日にちを書く",
+    "ts": "1612417428.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fPhs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " 前回の修正内容で更新していただけると嬉しいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6371b67a-9073-4481-a7bf-00b212c0301c",
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> 前回の修正内容で更新していただけると嬉しいです",
+    "ts": "1612275859.000600",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OXugY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " \n了解です。\n「お題表示」班は3日(水)9時からでカレンダーに予定入れますね(･ω･)φ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9dd471d-e339-41fc-a8b2-935144472509",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> <@U01CJ8MK0M6> \n了解です。\n「お題表示」班は3日(水)9時からでカレンダーに予定入れますね(･ω･)φ",
+    "ts": "1612168124.003300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9t5r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫です〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6B2EBA02-6B71-482A-BDBE-917BBC1FA915",
+    "team": "T6WULA63S",
+    "text": "大丈夫です〜",
+    "ts": "1612113441.000200",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i=V/F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "では、\n「お題表示」班は、\n2月3日(水)午前9時〜\nでどうでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54c7ce19-12c2-40f3-9e0d-39c826759514",
+    "edited": {
+      "ts": "1612096623.000000",
+      "user": "U01BUKC708K"
+    },
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U01CJ8MK0M6",
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "では、\n「お題表示」班は、\n2月3日(水)午前9時〜\nでどうでしょうか？",
+    "ts": "1612096549.003100",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kJs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ2(火)午前or3(水)or4(木)の中で、個人的には3(水)午前だとありがたいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa4314f3-4668-4e45-abec-7ec911f4ce13",
+    "team": "T6WULA63S",
+    "text": "じゃあ2(火)午前or3(水)or4(木)の中で、個人的には3(水)午前だとありがたいです",
+    "ts": "1612087303.000900",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kbZQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一二限の時間でもこちらは大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F97EAC90-D35F-4BE7-9A25-33A62AB3EA69",
+    "team": "T6WULA63S",
+    "text": "一二限の時間でもこちらは大丈夫です",
+    "ts": "1612020387.000500",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DIACt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "31日は午後、2日は午前、3日と4日は終日空けることができます。\n場合によっては、お題班と参照班で時間帯分けるのもありかと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02216402-B2BE-4353-B446-F2D93E4FFFCC",
+    "team": "T6WULA63S",
+    "text": "31日は午後、2日は午前、3日と4日は終日空けることができます。\n場合によっては、お題班と参照班で時間帯分けるのもありかと思います。",
+    "ts": "1612014673.010500",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rJxS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いきなり31日(日)にやるのは厳しいと思うので、2月2日(火)〜4日(木)12時までのどこかでって感じかな(´･ω･`)？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a211965f-b049-4412-baa1-5f633ee6d3e8",
+    "team": "T6WULA63S",
+    "text": "いきなり31日(日)にやるのは厳しいと思うので、2月2日(火)〜4日(木)12時までのどこかでって感じかな(´･ω･`)？",
+    "ts": "1612008542.006800",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dSqLe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b007b1ce-2b73-414f-87aa-9cc9eb4701ee",
+    "team": "T6WULA63S",
+    "text": "なるほど",
+    "ts": "1612008257.002600",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IiD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "遅くなってすみません。1/31(日)は午後から可、2/1(月)は不可、2(火)以降インターン(正確に働く時間が決まるのは1日)のため時間によるという感じです…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d3ea29a-9471-4995-a938-032892b66bf8",
+    "team": "T6WULA63S",
+    "text": "遅くなってすみません。1/31(日)は午後から可、2/1(月)は不可、2(火)以降インターン(正確に働く時間が決まるのは1日)のため時間によるという感じです…",
+    "ts": "1612005625.002400",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S9/XB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分は土曜日か月曜日か火曜日の三限の時間からするのがいいと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5676DDED-6AB0-4094-B854-EEAE82CB884F",
+    "team": "T6WULA63S",
+    "text": "自分は土曜日か月曜日か火曜日の三限の時間からするのがいいと思います。",
+    "ts": "1611902362.004000",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "da9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1月30日・31日・2月2日の3日間は終日空いてます。\n2月3日は13時以降空いてます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56a1e623-7f13-44ba-8856-b36c77f973a8",
+    "team": "T6WULA63S",
+    "text": "1月30日・31日・2月2日の3日間は終日空いてます。\n2月3日は13時以降空いてます。",
+    "ts": "1611898096.002700",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PTP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1HBUYRhL4F5Y8djvhF38jR-j7Vsok5jo01fQOU_QUJc4/edit?usp=sharing"
+              },
+              {
+                "text": "\nこれの7ページ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6564be0-1784-44e6-bdc0-b9c6ff6aeaa0",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1HBUYRhL4F5Y8djvhF38jR-j7Vsok5jo01fQOU_QUJc4/edit?usp=sharing>\nこれの7ページ",
+    "ts": "1611813410.005000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XbmKm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コンソール画面で表示されたエラー文です。\nUsers/ookouchitakashi/Documents/handwriting/HANDWRITING.py\n* Error performing wm_overrideredirect *\nTraceback (most recent call last):\n  File \"/Users/ookouchitakashi/Documents/handwriting/HANDWRITING.py\", line 15, in <module>\n    event, values = window.read() # イベントの読み取り(イベント待ち)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 8007, in read\n    results = self._read(timeout=timeout, timeout_key=timeout_key)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 8073, in _read\n    self._Show()\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 7834, in _Show\n    StartupTK(self)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 13425, in StartupTK\n    _convert_window_to_tk(window)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 13296, in _convert_window_to_tk\n    PackFormIntoFrame(window, master, window)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 12047, in PackFormIntoFrame\n    button_style.configure(style_name, foreground=bc[0], background=bc[1])\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/tkinter/ttk.py\", line 384, in configure\n    result = _val_or_dict(\ns",
+                "type": "text"
+              },
+              {
+                "text": "elf.tk",
+                "type": "link",
+                "url": "http://self.tk"
+              },
+              {
+                "text": "\n, kw, self._name, \"configure\", style)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/tkinter/ttk.py\", line 297, in _val_or_dict\n    res = tk.call(*(args + options))\n_tkinter.TclError: wrong # args: should be \"ttk::style configure style ?-option ?value...??\"",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01LHA5C7HP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "コンソール画面で表示されたエラー文です。\nUsers/ookouchitakashi/Documents/handwriting/HANDWRITING.py\n* Error performing wm_overrideredirect *\nTraceback (most recent call last):\n  File \"/Users/ookouchitakashi/Documents/handwriting/HANDWRITING.py\", line 15, in &lt;module&gt;\n    event, values = window.read() # イベントの読み取り(イベント待ち)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 8007, in read\n    results = self._read(timeout=timeout, timeout_key=timeout_key)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 8073, in _read\n    self._Show()\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 7834, in _Show\n    StartupTK(self)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 13425, in StartupTK\n    _convert_window_to_tk(window)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 13296, in _convert_window_to_tk\n    PackFormIntoFrame(window, master, window)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py\", line 12047, in PackFormIntoFrame\n    button_style.configure(style_name, foreground=bc[0], background=bc[1])\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/tkinter/ttk.py\", line 384, in configure\n    result = _val_or_dict(\ns<http://self.tk|elf.tk>\n, kw, self._name, \"configure\", style)\n  File \"/Users/ookouchitakashi/opt/anaconda3/lib/python3.8/tkinter/ttk.py\", line 297, in _val_or_dict\n    res = tk.call(*(args + options))\n_tkinter.TclError: wrong # args: should be \"ttk::style configure style ?-option ?value...??\"",
+    "ts": "1611806489.004400",
+    "type": "message",
+    "upload": false,
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1Ew",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分のところでも上と同じようにエラーなく表示された",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb430040-aa76-463c-8684-7f6245853a07",
+    "edited": {
+      "ts": "1611797278.000000",
+      "user": "U01C0JWLPAQ"
+    },
+    "team": "T6WULA63S",
+    "text": "自分のところでも上と同じようにエラーなく表示された",
+    "ts": "1611797228.002600",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Afxl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "エラーの内容は？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "910ba618-62b0-416d-9963-9b9830faf377",
+    "team": "T6WULA63S",
+    "text": "エラーの内容は？",
+    "ts": "1611795611.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rr4PP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01C0JWLPAQ"
+              },
+              {
+                "text": " 自分の環境だと普通にエラーなく表示されたｗｗ\n前山さんとこはどう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1611794700.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F01LADAPSH2",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U01C72C0B7T> <@U01C0JWLPAQ> 自分の環境だと普通にエラーなく表示されたｗｗ\n前山さんとこはどう？",
+    "ts": "1611794553.000900",
+    "type": "message",
+    "upload": false,
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uuqd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01C72C0B7T"
+              },
+              {
+                "text": " 見た！ありがとう！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0776b543-4201-4bbe-b5be-5f7b312675d4",
+    "edited": {
+      "ts": "1611764243.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "team": "T6WULA63S",
+    "text": "<@U01C72C0B7T> 見た！ありがとう！",
+    "ts": "1611764031.000300",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sH=N7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "先程gitにmiroに載ってるUIの例を参考に軽く作ってみたものをあげました。まだまだ足りない部分が多いですが、これからUIの基盤を作るのに活用してもらって構いません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5C5200F3-6615-4EEF-AFEE-EEAD8A638AF7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "eyes",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "先程gitにmiroに載ってるUIの例を参考に軽く作ってみたものをあげました。まだまだ足りない部分が多いですが、これからUIの基盤を作るのに活用してもらって構いません。",
+    "ts": "1611658671.002400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lG9Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "PySimpleGUIの使い方について以下のページにて学習していますが、他にもあれば貼っていただけると助かります。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "http://www.k-techlabo.org/www_python/PySimpleGUI.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81518ed6-0ad0-4bdc-a8c7-067f60b66d7c",
+    "team": "T6WULA63S",
+    "text": "PySimpleGUIの使い方について以下のページにて学習していますが、他にもあれば貼っていただけると助かります。\n<http://www.k-techlabo.org/www_python/PySimpleGUI.pdf>",
+    "ts": "1611557274.004600",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "追加で必要な準備",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_quote"
+          },
+          {
+            "elements": [
+              {
+                "text": "・PATHを通す（Windows版）\n",
+                "type": "text"
+              },
+              {
+                "text": "https://tiratom.hatenablog.com/entry/2018/11/25/Python3.7.1%E3%82%A4%E3%83%B3%E3%82%B9%E[…]%AD%E5%AE%9A%E3%81%97%E5%BF%98%E3%82%8C%E3%81%9F%E5%A0%B4",
+                "type": "link",
+                "url": "https://tiratom.hatenablog.com/entry/2018/11/25/Python3.7.1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%99%82%E3%81%ABPATH%E8%A8%AD%E5%AE%9A%E3%82%92%E8%87%AA%E5%8B%95%E8%A8%AD%E5%AE%9A%E3%81%97%E5%BF%98%E3%82%8C%E3%81%9F%E5%A0%B4"
+              },
+              {
+                "text": "\n\n・TkinterでPySimpleGUI\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "pip install pysimplegui",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [
+              {
+                "text": "コマンドを実行したあとで再起動して\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59#pysimplegui"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9e1528bb-b926-49d4-93c0-89542066f82a",
+    "edited": {
+      "ts": "1611468989.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "eyes",
+        "users": [
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "&gt; 追加で必要な準備\n・PATHを通す（Windows版）\n<https://tiratom.hatenablog.com/entry/2018/11/25/Python3.7.1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%99%82%E3%81%ABPATH%E8%A8%AD%E5%AE%9A%E3%82%92%E8%87%AA%E5%8B%95%E8%A8%AD%E5%AE%9A%E3%81%97%E5%BF%98%E3%82%8C%E3%81%9F%E5%A0%B4|https://tiratom.hatenablog.com/entry/2018/11/25/Python3.7.1%E3%82%A4%E3%83%B3%E3%82%B9%E[…]%AD%E5%AE%9A%E3%81%97%E5%BF%98%E3%82%8C%E3%81%9F%E5%A0%B4>\n\n・TkinterでPySimpleGUI\n```pip install pysimplegui```\nコマンドを実行したあとで再起動して\n<https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59#pysimplegui>",
+    "ts": "1611468443.001100",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: Tkinterを使うのであればPySimpleGUIを使ってみたらという話 - Qiita",
+        "from_url": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59",
+        "id": 1,
+        "image_bytes": 64186,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DTkinter%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25AE%25E3%2581%25A7%25E3%2581%2582%25E3%2582%258C%25E3%2581%25B0PySimpleGUI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2589%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E8%25A9%25B1%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3Dc8fe9a88d96cc1f1f62846e38929cee1&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540dario_okazaki%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D1d738bd3698dc4cda12dc355db572953&blend-align=center%2Cmiddle&blend-mode=normal&s=6441043d50274c947d5f00cda2fa2bcc",
+        "image_width": 476,
+        "original_url": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "ページを読んでできるもの Pythonで以下の入力内容のGUIが簡単に作れます 基本的な入力（テキストボックス、チェックボックス） テキストボックスにはデフォルトで入力が、チェックボックスにはチェックが入っています 入力さ...",
+        "title": "Tkinterを使うのであればPySimpleGUIを使ってみたらという話 - Qiita",
+        "title_link": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "DfOYE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a556d196-950f-4173-9bf3-b45a77257359",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59>",
+    "ts": "1611467746.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IzW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "御二方木曜が空いているので木曜1,2にスケジュール変更します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FF7EB3AA-4E6A-45E7-9B55-9AA1CC35681B",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "yoroshiku",
+        "users": [
+          "U01BUKC708K",
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "御二方木曜が空いているので木曜1,2にスケジュール変更します",
+    "ts": "1611376017.000100",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7=mvN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月曜1,2,5,6限\n木曜1,2限\n全て空いてますが火曜にテストがあるので、木曜の方がいいかなと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "517E9FE2-4256-4963-8299-3F163C7F62F2",
+    "team": "T6WULA63S",
+    "text": "月曜1,2,5,6限\n木曜1,2限\n全て空いてますが火曜にテストがあるので、木曜の方がいいかなと思います",
+    "ts": "1611331393.001800",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JF0p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "木1.2可能、月確認します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "15b8ee27-7930-490b-af85-a9ee9f4df0db",
+    "team": "T6WULA63S",
+    "text": "木1.2可能、月確認します",
+    "ts": "1611312407.006200",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6fEt1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめんなさい",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": "水曜は終日 別の用事が入ってたことを忘れてました",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "他に空いてるのは\n月曜1.2限 5.6限\n木曜1.2限\nですがみなさんの空いてるところはありますか？(できれば木曜1.2限か月曜5.6限がいいかな)\n日程が合わなかったら集まる時間は変えずに、チェックリスト事に分担して自分は火曜とか木曜の空き時間に作業しようと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2FB1C03C-1592-4E05-BA33-859BE25BEA42",
+    "team": "T6WULA63S",
+    "text": "ごめんなさい:pray:水曜は終日 別の用事が入ってたことを忘れてました:pray::pray:\n他に空いてるのは\n月曜1.2限 5.6限\n木曜1.2限\nですがみなさんの空いてるところはありますか？(できれば木曜1.2限か月曜5.6限がいいかな)\n日程が合わなかったら集まる時間は変えずに、チェックリスト事に分担して自分は火曜とか木曜の空き時間に作業しようと思います",
+    "ts": "1611305960.005800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oenAs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません来週から気をつけます…！",
+                "type": "text"
+              },
+              {
+                "name": "sob",
+                "type": "emoji",
+                "unicode": "1f62d"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f41d8f1-839f-4f55-bf99-39149dfc65e0",
+    "team": "T6WULA63S",
+    "text": "すみません来週から気をつけます…！:sob:",
+    "ts": "1611302881.003100",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2IQ1C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "27日水曜1:20~  UI作成\n",
+                "type": "text"
+              },
+              {
+                "text": "それまでにtkinterの使い方を学んでおく",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F792AF23-D867-404C-BF2E-6C3A36A4A3CC",
+    "team": "T6WULA63S",
+    "text": "27日水曜1:20~  UI作成\nそれまでにtkinterの使い方を学んでおく",
+    "ts": "1611300813.002600",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WmZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1HOfE60GQ_wHKeqi6JJTuhFq97Fmd-tDC33st3yXXiJI/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "da06b788-a705-43de-a833-497cdedb4b4e",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1HOfE60GQ_wHKeqi6JJTuhFq97Fmd-tDC33st3yXXiJI/edit?usp=sharing>",
+    "ts": "1611298034.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "49MkJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これをクーロンして",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ed6d0b2-a89b-464a-a2e1-ed6235c9af8c",
+    "team": "T6WULA63S",
+    "text": "これをクーロンして",
+    "ts": "1611294481.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z/vn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/CSTmatsunolab/handwriting.git"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0304406c-575f-473f-9cd9-d61c1cf05d0d",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/CSTmatsunolab/handwriting.git>",
+    "ts": "1611294465.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YcKR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90e149a9-f32b-4bc9-9023-91c61e6ae3ef",
+    "team": "T6WULA63S",
+    "text": "ありがとう",
+    "ts": "1611211720.002000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R6FK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません松野研の方に設定してませんでした、、、\n",
+                "type": "text"
+              },
+              {
+                "text": "今直しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8637CCEA-D1EE-4BE0-8BA6-4FA39485ECD7",
+    "team": "T6WULA63S",
+    "text": "すみません松野研の方に設定してませんでした、、、\n今直しました",
+    "ts": "1611206948.001800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RB8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "え、どこ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "294bea5c-6aa0-454f-8893-5b601496fff8",
+    "team": "T6WULA63S",
+    "text": "え、どこ？",
+    "ts": "1611205897.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2xW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "追加しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "307BA0CE-639D-455A-B137-C0560F5770E7",
+    "team": "T6WULA63S",
+    "text": "追加しました",
+    "ts": "1611205109.000400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "name": "越前谷チーム_ソフトウェア開発ゼミ",
+    "old_name": "越前谷チームーソフトウェア開発ゼミ",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"越前谷チームーソフトウェア開発ゼミ\" to \"越前谷チーム_ソフトウェア開発ゼミ\"",
+    "ts": "1611191548.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "name": "越前谷チームーソフトウェア開発ゼミ",
+    "old_name": "機械学習-筆跡",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"機械学習-筆跡\" to \"越前谷チームーソフトウェア開発ゼミ\"",
+    "ts": "1611191516.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QgkQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダー作ってくださいね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8f0127ee-0493-4a4a-8ac4-2a77a204412f",
+    "team": "T6WULA63S",
+    "text": "カレンダー作ってくださいね",
+    "ts": "1611186941.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1610969645.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Y8v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜の三四限でいいと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1E346ECF-7100-481E-A4FC-D31C0CB5AF6A",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "eyes",
+        "users": [
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "金曜の三四限でいいと思います",
+    "ts": "1610817122.000400",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KTXK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月曜は実験後の5限以降\n金曜は3限以降なら空いています",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4E06F669-32C7-4D3A-A7DD-3ED7A82FAD58",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U01C72C0B7T"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "月曜は実験後の5限以降\n金曜は3限以降なら空いています",
+    "ts": "1610762469.001000",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q9uY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜の三、四限ともにオンタイムの理解度確認テストではなく、オンデマンドの総合課題演習のため金曜の三、四限は大丈夫になりました。\n\n月か金にするなら月曜は五、六限で金曜は三、四限になると思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9487D4BA-5AA8-4234-A20C-4C0ECEBC53FF",
+    "team": "T6WULA63S",
+    "text": "金曜の三、四限ともにオンタイムの理解度確認テストではなく、オンデマンドの総合課題演習のため金曜の三、四限は大丈夫になりました。\n\n月か金にするなら月曜は五、六限で金曜は三、四限になると思います。",
+    "ts": "1610701216.003700",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cJND8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "機械学習は触れてませんが頑張ります\nよろしくお願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DB10AE68-459B-4C37-9804-94C8921405C9",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U01BUKC708K",
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "機械学習は触れてませんが頑張ります\nよろしくお願いします！",
+    "ts": "1608809888.000700",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ltI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本日は途中抜けしてすいませんでした",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "次回もしっかりと頑張ります",
+                "type": "text"
+              },
+              {
+                "name": "muscle",
+                "type": "emoji",
+                "unicode": "1f4aa"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "99B816A2-42A1-4699-A5AF-FF494BE1D652",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "+1",
+        "users": [
+          "U01BUKC708K",
+          "U01C0JWLPAQ",
+          "U01CJ8MK0M6"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "本日は途中抜けしてすいませんでした:pray:\n次回もしっかりと頑張ります:muscle:",
+    "ts": "1608794076.002200",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Dm1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくお願いしますm(_ _)m",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8a9ea19-750f-484d-a607-22a37e5b0cdf",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "+1",
+        "users": [
+          "U01C72C0B7T",
+          "U01CJ8MK0M6",
+          "U01C0JWLPAQ"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よろしくお願いしますm(_ _)m",
+    "ts": "1608793019.001300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1608792992.000800",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWLPAQ> has joined the channel",
+    "ts": "1608792983.000600",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1608792970.000400",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1608792926.000200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  }
+]

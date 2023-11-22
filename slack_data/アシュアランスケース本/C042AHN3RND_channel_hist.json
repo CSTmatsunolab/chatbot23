@@ -1,0 +1,128 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "MgVT8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "MLSE",
+                "type": "text"
+              },
+              {
+                "text": " has removed themselves from this channel.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "subtype": "bot_message",
+    "team": "T6WULA63S",
+    "text": "*MLSE* has removed themselves from this channel.",
+    "ts": "1662958883.109929",
+    "type": "message",
+    "user": "USLACKBOT",
+    "username": "slackbot"
+  },
+  {
+    "subtype": "channel_leave",
+    "team": "T6WULA63S",
+    "text": "<@U015L6D733N>さんがチャンネルを退出しました",
+    "ts": "1662958882.464579",
+    "type": "message",
+    "user": "U015L6D733N"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "team": "T6WULA63S",
+    "text": "<@U015L6D733N>さんがチャンネルに参加しました",
+    "ts": "1662958267.163969",
+    "type": "message",
+    "user": "U015L6D733N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Vtf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "MLSE",
+                "type": "text"
+              },
+              {
+                "text": " has joined this channel by invitation from ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "MatsuLab",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "subtype": "bot_message",
+    "team": "T6WULA63S",
+    "text": "*MLSE* has joined this channel by invitation from *MatsuLab*.",
+    "ts": "1662958267.085519",
+    "type": "message",
+    "user": "USLACKBOT",
+    "username": "slackbot"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xz0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんにちは",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ad778b57-bedd-4b7b-9bd1-964a9d9afbbc",
+    "team": "T6WULA63S",
+    "text": "こんにちは",
+    "ts": "1662958226.256169",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1662958121.731379",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

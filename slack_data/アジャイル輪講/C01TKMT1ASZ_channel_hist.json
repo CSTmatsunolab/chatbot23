@@ -1,0 +1,2979 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "jK=fF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "repit 2022の論文集です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ba0c39c-f7a8-4ac5-b815-b77b45b4f9e6",
+    "team": "T6WULA63S",
+    "text": "repit 2022の論文集です。",
+    "ts": "1643760757.924729",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "d3cf340f-dc67-418a-adae-3f17a67915be",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F031XBFU272",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1643760752.621589",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DFJq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見た目の調整がまだなので、直します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3eada8e0-23c5-4e51-a148-a5116a7b9c5d",
+    "team": "T6WULA63S",
+    "text": "見た目の調整がまだなので、直します",
+    "ts": "1642487952.004100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yA2y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 最後のほうにURLを載せました、ほかは大体直っているかと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a9ead2b4-d059-46f4-82e6-230ba1f3398d",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> 最後のほうにURLを載せました、ほかは大体直っているかと思います",
+    "ts": "1642486888.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yz8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "違いも了解しました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b7075270-56e7-43ca-9866-ff3a191ec935",
+    "team": "T6WULA63S",
+    "text": "違いも了解しました",
+    "ts": "1642477750.002500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6cYEl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "縦軸は忘れてました、すみません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a5f082e9-b4ff-48cb-b174-0d02546674c9",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "縦軸は忘れてました、すみません",
+    "ts": "1642477644.001900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e9z5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう一度レビューのすべての項目に対応しているか確認してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5efb9d22-1947-4826-8b21-45c9dd159b53",
+    "team": "T6WULA63S",
+    "text": "もう一度レビューのすべての項目に対応しているか確認してください。",
+    "ts": "1642477426.001500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3zJAZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "以下のレビューには対応していますか。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": "\n- いくつかの図は、何を示しているのか説明がなく、わかりにくい。本文中で説明するとよい。\n - 図の内容が読めないため拡大するなどして対応するとよい。\n - グラフには縦軸が何を示しているのか表示するとよい。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f6d83d7-dc08-4a99-8aac-fa426f17f0c8",
+    "team": "T6WULA63S",
+    "text": "以下のレビューには対応していますか。<@UD32JHVL7>\n- いくつかの図は、何を示しているのか説明がなく、わかりにくい。本文中で説明するとよい。\n - 図の内容が読めないため拡大するなどして対応するとよい。\n - グラフには縦軸が何を示しているのか表示するとよい。",
+    "ts": "1642477398.001100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MNu6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " 今年のプロセスと、昨年度までのプロセスと、従来のアジャイルプロセスとの違いを入れてください。２章の最後とかでいいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9357522b-8f18-4b41-b023-bd459ae6a330",
+    "team": "T6WULA63S",
+    "text": "<@UD32JHVL7> 今年のプロセスと、昨年度までのプロセスと、従来のアジャイルプロセスとの違いを入れてください。２章の最後とかでいいです。",
+    "ts": "1642477368.000800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I4tl+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/127R7gdCUv-pfHChM6X1pZ5cWbOkvYThy?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa4c0f4c-1999-4d94-b8e9-2399a67e9322",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/folders/127R7gdCUv-pfHChM6X1pZ5cWbOkvYThy?usp=sharing>",
+    "ts": "1641962765.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "rePiT: 実践的IT教育研究会 - 第8回 実践的IT教育シンポジウム rePiT2022",
+        "from_url": "https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk",
+        "id": 1,
+        "image_bytes": 5392,
+        "image_height": 96,
+        "image_url": "https://lh4.googleusercontent.com/7aiDzBjtBA7ZY5FyLuntlOx-Tdi8JA8GUB9rCWvh2s3ZGKIYpd23HNkmNOnyzFyIWC0EDg",
+        "image_width": 233,
+        "original_url": "https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&amp;source=gmail-imap&amp;ust=1641445128000000&amp;usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk",
+        "service_icon": "https://lh5.googleusercontent.com/VQAuegjw6zacvqScUGvBSByNiYzozA1RBJloLEDLYmPaaSZLlH2em3BnjoCjWbkKdNRhAYu-8ujx4iKV65z7-u952n8vmIE",
+        "service_name": "sites.google.com",
+        "text": "シンポジウム開催概要 日程：2022年2月5日（土） 開催場所：（オンライン開催）参加費：無料 主催：日本ソフトウェア科学会 実践的IT教育研究会協賛：情報処理学会 ソフトウェア工学研究会（SIGSE） 問い合わせ: repit2022 [at] <http://easychair.org[at]|easychair.org[at]> を@に変えてください． 主要スケジュール 締切:　　　　 2021年 12月 11日(土) 17:00 → 2021年 12月 15日(水) 17:00 (※ 延長しました！)審査結果通知: 2021年 12月 29日(水)印刷原稿締切: 2022年 1月 18日(火)",
+        "title": "rePiT: 実践的IT教育研究会 - 第8回 実践的IT教育シンポジウム rePiT2022",
+        "title_link": "https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk"
+      },
+      {
+        "fallback": "論文募集: 「実践的IT教育」特集 (論文投稿締切：2022年3月31日) | 日本ソフトウェア科学会",
+        "from_url": "https://www.google.com/url?q=https://www.jssst.or.jp/edit_news/detail/id%3D388&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0LgOB6AUBia53zd9VA3GEJ",
+        "id": 2,
+        "original_url": "https://www.google.com/url?q=https://www.jssst.or.jp/edit_news/detail/id%3D388&amp;source=gmail-imap&amp;ust=1641445128000000&amp;usg=AOvVaw0LgOB6AUBia53zd9VA3GEJ",
+        "service_name": "jssst.or.jp",
+        "text": "　　　　論文募集： 「実践的IT教育」特集　　　　　論文投稿締切: 2022年3月31日日本ソフトウェア科学会実践的IT教育",
+        "title": "論文募集: 「実践的IT教育」特集 (論文投稿締切：2022年3月31日) | 日本ソフトウェア科学会",
+        "title_link": "https://www.google.com/url?q=https://www.jssst.or.jp/edit_news/detail/id%3D388&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0LgOB6AUBia53zd9VA3GEJ"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "wl1GT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U011D5HFK7H"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": "\nうーん、repit2022フルペーパーで採択はされてなくて残念ですが、査読結果を見て改善して８ページにして\n提出しましょう。今回の査読結果をできるだけ反映させて、EASE2022に投稿しましょう。\n私もなんとか書きたいです。\n\n-----\n第8回 実践的IT教育シンポジウム rePiT2022\n 論文査読結果のお知らせ \n シンポジウム共同委員長 市川 尚，名倉 正剛 \n\n拝啓　時下ますますご清祥のこととお慶び申し上げます． \n本シンポジウムに論文を御投稿頂きまして誠にありがとうございます． \nご投稿いただきました論文\n大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nは，フルペーパで投稿いただきましたが，プログラム委員会による査読と\n厳正な議論の結果， 大変申し訳ございませんがショートペーパとして\n採録させて頂くことに決定致しました．\n\n採録論文は査読コメントを反映するために最大2ページの延長が認められます． \nショートペーパでは6ページ以内で投稿していただいておりますので，\nつきましては，ショートペーパとして8ページ以内に収まるように， \nカメラレディ原稿を作成下さい．また，査読コメントを下記の通りお知らせ \n致しますので，カメラレディ原稿を作成される際に御参考下さい．\n\nなお，カメラレディ原稿については，次のように作成してください．\n・フォーマットは，投稿時に利用した論文執筆キットを利用してください．\n　次のページからリンクをたどってダウンロードできます．\n　",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk"
+              },
+              {
+                "text": "\n・投稿については，この通知送信後から easychair 上で該当の投稿番号で原稿を\n　更新できるようにいたします．投稿時と同様に，PDF を提出ください．\n\nカメラレディ原稿の締切は，2022年 1月 18日(火) 17:00JST（厳守）です． \n期日に遅れますと予稿集に掲載できない場合がありますのでご注意ください．\n＊＊該当の日時に easychair 上に提出されているファイルで出版します＊＊\n\n※なお，最終原稿の投稿にあたり，著者は学会に対して論文の公開に必要な\n　権利を許諾したものとします(本件は学会著作権規定第 3 条を根拠としています)．\n　学会著作権規定については，次の URL を参照して下さい．\n　",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/url?q=https://www.jssst.or.jp/files/user/kitei/chosakuken-kitei-20200128.pdf&source=gmail-imap&ust=1641445128000000&usg=AOvVaw2K6AB4RGgcFx7xpGk_bRYP"
+              },
+              {
+                "text": "\n\nそれではシンポジウムでの御発表を楽しみにお待ち申し上げます．\n当日のプログラムの公開，および参加登録・発表方法等は，後日シンポジウム\nホームページにてご案内いたします．\n　",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk"
+              },
+              {
+                "text": "\n\n====\nまた，日本ソフトウェア科学会 学会誌「コンピュータソフトウェア」において\n本シンポジウムと連動した「実践的IT教育」特集 (2022年3月31日締切)を企画\nしています．シンポジウムに採択された皆さまのご投稿をぜひお待ちしております．\nその際に本メールに記載させていただいた査読コメントを反映された論文を投稿\n頂けることを期待しております．特集号の告知は次の URL を参照して下さい．\n　",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/url?q=https://www.jssst.or.jp/edit_news/detail/id%3D388&source=gmail-imap&ust=1641445128000000&usg=AOvVaw0LgOB6AUBia53zd9VA3GEJ"
+              },
+              {
+                "text": "\n====\n\n\n=== 以下，査読者からのレビューコメントです．\n\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\n\n\n----------------------- REVIEW 1 ---------------------\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nAUTHORS: 卓斗 杉田, 玲央 安藤, 彩乃 越前谷, シン 榎本 and 裕 松野\n\n----------- Overall evaluation -----------\nSCORE: 1 (weak accept)\n----- TEXT:\n【査読者から見た論文の概要】\n著者らの研究室においてアジャイル型ソフトウェア開発が実施されている。本論文では適用したプロセスの評価、プロダクトの質、要求との乖離が生じる状況についてそれぞれ分析が行われた。\n\n【積極的に評価できる点】\n・評価、改善を繰り返し継続的に行われた調査であること\n・本研究で得られる知見は研究室内の開発に限らず、ソフトウェア開発演習など授業に置いても広く利用できること\n\n【改善を必要とする点】\n・分析する目的や観点が不明瞭な点\n・2020年度と2021年度の違いがまとめられていない\n\n【シンポジウムのカメラレディ原稿に向けてのコメント】\nDXレポートにおいてもアジャイル型ソフトウェア開発が推奨されており、アジャイル型ソフトウェア開発経験を持つ人材育成は急務であると考えます。\nその点からも、本研究のように実学生がアジャイル型ソフトウェア開発を行ったデータは重要であり、分析結果は多くの教育機関に置いて有益となります。\n\n一方、改善を必要とする点で述べた以下の点に置いて不明瞭な箇所があると感じましたので、コメントとして述べさせていただきます。\n\n(1)1章において本研究の目的が明示されておらず、本研究で得られた知見がどのように他教育機関において使用できるかなど、貢献が不明確だと感じました。\nRQに分けた分析を行われていますが、明らかにしたい内容を目的として先に設定した上で、その目的に対する疑問をRQとして設定する流れが一般的だと思います。\nアジャイルプロセスの評価を行ったと論文中に記述されていますが、2021年度に改善が施されたアジャイルプロセスの評価でしょうか。その場合は2020年度との違いを明示するべきで、学生のソフトウェア開発にアジャイルプロセスを適用した結果を調査したいのであれば、2021年の詳細を記述するべきです。\n目的を明示した上で、各RQを調査することで何がわかるのか、その結果はどのような貢献につながるのか述べることで、本研究の貢献が明確になると考えます。\n\n(2)RQ1でQAD分析を参照すると書かれていますが、5章ではGithubへのコミット回数のみが記述されています。\n開発（卒業研究）の途中段階かと思いますが、QAD分析のうちAssignmentやDeliveryは計測可能かと思います。\nまた5章でアンケート調査を行う旨についても触れられていますが、こちらまだ実施されていないようでしたら、評価の章でなくRQの説明で、どのような評価を考えているかまとめて詳述すべきです。\n一方、1章のRQの説明では2020年度と2021年度とのアジャイルプロセスを比較すると述べられていますが、5章ではGitやTrelloの導入は2021年からであると述べられており、Gitのコミット数などの比較は元々困難であったと考えます。\n以上より、RQの説明で書くべき内容と評価の結果で書くべき内容が混合していると感じました。\n(1)のコメントと合わせ、目的に対しどのようなデータが得られどのような分析を行うか、現状得られているデータに対する分析結果、今後行う予定の分析など、それぞれ分けてまとめることで、論文の可読性も向上すると考えます。\n\n(3)(1)でもコメントしましたが、2020年度と2021年度の違いがわかりにくいと感じます。\n論文の複数箇所で2020年度の内容と、それに対する2021年度の取り組みが書かれています。\n例えば、(2)で示したように5章RQ1評価においてGitは2020年度で使用されていないと書かれていますが、3.2章の開発ではGitを用いていると書かれており、この書き方では2020年度から使っているように受け取れます。\n同様に、複数箇所で引き継ぎという言葉も出ますが、引き継がれるものはソースコードなども含まれるのか、それとも開発におけるノウハウなど成果物以外を指すのかが不明確でした。\n2年に渡る取り組みから分かった結果を示されるのであれば、開発に関わる2020年度と2021年度の違いを、章を設けて明示するべきです。\n\n(4)図12において「ユーザごとにアイコンを表示（学生A・学生B）」とありますが、会話には他のユーザも参加されています。また、背景が青の文章の説明もなく、何をどのような基準でまとめたものかがわかりません。\n図中に記述することが困難なら本文やキャプションに記述するなど、図に対する適切な説明を記述して下さい。\n\nまた、5章RQ2、下から9行目に「。。」と句読点が連続した箇所がありますので、カメラレディ提出時に修正をお願いします。\n\n【論文誌に向けてのコメント】\n改善を必要とする点で述べたとおり、目的の明確化を行った上で、必要に応じて2020年度と2021年度の違いを明確にし、調査内容とその結果をそれぞれ分けてまとめてください。\nまた、定量的なデータがグラフのみや本文中への記述のみでまとめられているため、表を用いた数値同士の比較や、統計による有意差なども示されると、より研究の意義や貢献が明確になると考えます。\n\n\n\n----------------------- REVIEW 2 ---------------------\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nAUTHORS: 卓斗 杉田, 玲央 安藤, 彩乃 越前谷, シン 榎本 and 裕 松野\n\n----------- Overall evaluation -----------\nSCORE: -1 (weak reject)\n----- TEXT:\n査読者から見た論文の概要】\n本論文では鼠族研究室で実施しているアジャイルプロセスによるプロダクトの開発状況とこれまでの2年間にわたるアジャイルプロセスの適用について評価しています。\n\n【積極的に評価できる点】\nPBLのソフトウェア開発でアジャイル開発を実施しているケースは多いが、卒業研究でのソフトウェア開発にアジャイル開発プロセスを導⼊する試みは新しく、興味深い取り組みであると考えます。\n\n【改善を必要とする点】\n1. 1章p1の最終文には「アジャイルプロセスは、スクラム[7]をもととしたものを提案している[9]。」とあります。3章 提案するアジャイルプロセスと既存研究[9[との違い、スクラムガイド[7]との違いがわからないので、提案手法としての新規性が不明です。\n例えば、既存研究[9]での課題（5章p7左側の第2パラグラフにかかれている内容）に対して、課題を解決するアプローチ、提案するアジャイルプロセスという流れにして、既存研究との差異を明確にすると、上記の問題点を解決できるのではないでしょうか。\n2. 1章RQの説明では、RQの内容をきちんと説明して下さい。評価方法については、5章にまとめるべきです。\n3. 5章 式(1)〜(６）の変数について、取りうる値の範囲や整数、自然数などを定義すべきです。式(4)(5)のnが未定義です。(4)(5)の説明で「次スプリント」は「JISプリント以降」ではないでしょうか。「次スプリント」ならRの添字はnではなくs+1だと思います。\n4. 5章p9右側「オンライン議事録アプリの開発において〜」「防災アプリの開発において〜」の２つ文章が表3と整合性が取れていません。また、前者は文章がおかしい部分があるので見直して下さい。\n5. 2章の冒頭の文章の根拠が不明です。\n\n【シンポジウムのカメラレディ原稿に向けてのコメント】\n良くするためのコメントです。\n・1章 「アジャイルプロセス」と「アジャイル開発プロセス」\n・1章 「開発と並行して行っているソフトウェアテスト〜」が意味不明の文章です。また、ここで、「網羅的」とは具体的に説明して下さい。\n・2章 「本研究では、情報系大学の研究室で想定可能な状況を評価する」は意味不明です。\n・4章 「本節では」→「本章では」\n・5章 「図に2つのプロダクト開発で行われた〜」→「図9, 図10に2つのプロダクト開発で行われた〜」\n・5章 p9左側　表5→表３\n\n\n\n----------------------- REVIEW 3 ---------------------\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nAUTHORS: 卓斗 杉田, 玲央 安藤, 彩乃 越前谷, シン 榎本 and 裕 松野\n\n----------- Overall evaluation -----------\nSCORE: 0 (borderline paper)\n----- TEXT:\n著者らは、大学研究室で開発するシステムおよびアプリケーションに対して、アジャイル開発を採用しており、アジャイル開発の効果の評価を目標にしている。アジャイル開発の評価のためにさまざまなデータを収集し分析を行っている。RQ1:プロセスの効果はあるか、RQ2:プロダクトは適切に開発されたか、については、プロダクトの開発が終わっていないため評価ができてない。RQ3：要求との乖離はどのような状況で起こり、どのように修正されるかについては、評価しており要求と実装の乖離があったプロダクトバックログの特定ができているが、原因については分析できていない。要求と実装との乖離については、確かに評価するべき内容であると考えられる。RQ1については、同じプロジェクトを同じ条件で別のプロセスで作成!\nして評価する以外に無いと考えるが、今後の評価を期待する。RQ2については、適切な開発をどのように定義するのかによって評価が変わる。何を持って適切な開発であるのかを今後実施するのか明確にするとよい。また、適切な開発によってどのようなメリットがあるのか、明確に説明するとよい。\n\n以下、コメントである。\n\n* 図\n - いくつかの図は、何を示しているのか説明がなく、わかりにくい。本文中で説明するとよい。\n - 図の内容が読めないため拡大するなどして対応するとよい。\n - グラフには縦軸が何を示しているのか表示するとよい。\n* 「本研究では、2020 年度のアジャイルプロセスの実践[9] から得られた知見をもとに、2021 年度に実施している学部4 年生を中心とした2 つのチームによる共通のアジャイルプロセス適用したプロダクト開発を報告する。」\n - 「アジャイルプロセス適用した」->「アジャイルプロセスを適用した」\n* 「開発物の要求との乖離は影響が大きい。」\n - この文章が何を伝えたいのかよくわからないため、分かりやすい表現にするとよい。\n* 「これから、プロダクトの要素を発散と収束を行うことでプロダクトの機能を決定した。」\n - 「これから」が指すものがわかないため、分かりやすい表現にするとよい。\n* P.4 右 「スプリントバックログ」\n - 内容がないため、説明を追加するとよい。\n* 「そのため、RQ3 の評価に使用するデータとして、各バックログアイテムに記された要求に依存するバックログアイテムの変化とスプリントレビューでの議事録用いる。」\n - 「議事録用いる。」->「議事録を用いる。」",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "580c75d3-c192-48d3-91d2-17dfc2909c25",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@UD32JHVL7> <@U01BUKC708K> <@U011D5HFK7H> <@U01BRAMRXD3>\nうーん、repit2022フルペーパーで採択はされてなくて残念ですが、査読結果を見て改善して８ページにして\n提出しましょう。今回の査読結果をできるだけ反映させて、EASE2022に投稿しましょう。\n私もなんとか書きたいです。\n\n-----\n第8回 実践的IT教育シンポジウム rePiT2022\n 論文査読結果のお知らせ \n シンポジウム共同委員長 市川 尚，名倉 正剛 \n\n拝啓　時下ますますご清祥のこととお慶び申し上げます． \n本シンポジウムに論文を御投稿頂きまして誠にありがとうございます． \nご投稿いただきました論文\n大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nは，フルペーパで投稿いただきましたが，プログラム委員会による査読と\n厳正な議論の結果， 大変申し訳ございませんがショートペーパとして\n採録させて頂くことに決定致しました．\n\n採録論文は査読コメントを反映するために最大2ページの延長が認められます． \nショートペーパでは6ページ以内で投稿していただいておりますので，\nつきましては，ショートペーパとして8ページ以内に収まるように， \nカメラレディ原稿を作成下さい．また，査読コメントを下記の通りお知らせ \n致しますので，カメラレディ原稿を作成される際に御参考下さい．\n\nなお，カメラレディ原稿については，次のように作成してください．\n・フォーマットは，投稿時に利用した論文執筆キットを利用してください．\n　次のページからリンクをたどってダウンロードできます．\n　<https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&amp;source=gmail-imap&amp;ust=1641445128000000&amp;usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk>\n・投稿については，この通知送信後から easychair 上で該当の投稿番号で原稿を\n　更新できるようにいたします．投稿時と同様に，PDF を提出ください．\n\nカメラレディ原稿の締切は，2022年 1月 18日(火) 17:00JST（厳守）です． \n期日に遅れますと予稿集に掲載できない場合がありますのでご注意ください．\n＊＊該当の日時に easychair 上に提出されているファイルで出版します＊＊\n\n※なお，最終原稿の投稿にあたり，著者は学会に対して論文の公開に必要な\n　権利を許諾したものとします(本件は学会著作権規定第 3 条を根拠としています)．\n　学会著作権規定については，次の URL を参照して下さい．\n　<https://www.google.com/url?q=https://www.jssst.or.jp/files/user/kitei/chosakuken-kitei-20200128.pdf&amp;source=gmail-imap&amp;ust=1641445128000000&amp;usg=AOvVaw2K6AB4RGgcFx7xpGk_bRYP>\n\nそれではシンポジウムでの御発表を楽しみにお待ち申し上げます．\n当日のプログラムの公開，および参加登録・発表方法等は，後日シンポジウム\nホームページにてご案内いたします．\n　<https://www.google.com/url?q=https://sites.google.com/site/sigrepit/repit2022&amp;source=gmail-imap&amp;ust=1641445128000000&amp;usg=AOvVaw0XcerJwoHmnjZSFbpjDXFk>\n\n====\nまた，日本ソフトウェア科学会 学会誌「コンピュータソフトウェア」において\n本シンポジウムと連動した「実践的IT教育」特集 (2022年3月31日締切)を企画\nしています．シンポジウムに採択された皆さまのご投稿をぜひお待ちしております．\nその際に本メールに記載させていただいた査読コメントを反映された論文を投稿\n頂けることを期待しております．特集号の告知は次の URL を参照して下さい．\n　<https://www.google.com/url?q=https://www.jssst.or.jp/edit_news/detail/id%3D388&amp;source=gmail-imap&amp;ust=1641445128000000&amp;usg=AOvVaw0LgOB6AUBia53zd9VA3GEJ>\n====\n\n\n=== 以下，査読者からのレビューコメントです．\n\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\n\n\n----------------------- REVIEW 1 ---------------------\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nAUTHORS: 卓斗 杉田, 玲央 安藤, 彩乃 越前谷, シン 榎本 and 裕 松野\n\n----------- Overall evaluation -----------\nSCORE: 1 (weak accept)\n----- TEXT:\n【査読者から見た論文の概要】\n著者らの研究室においてアジャイル型ソフトウェア開発が実施されている。本論文では適用したプロセスの評価、プロダクトの質、要求との乖離が生じる状況についてそれぞれ分析が行われた。\n\n【積極的に評価できる点】\n・評価、改善を繰り返し継続的に行われた調査であること\n・本研究で得られる知見は研究室内の開発に限らず、ソフトウェア開発演習など授業に置いても広く利用できること\n\n【改善を必要とする点】\n・分析する目的や観点が不明瞭な点\n・2020年度と2021年度の違いがまとめられていない\n\n【シンポジウムのカメラレディ原稿に向けてのコメント】\nDXレポートにおいてもアジャイル型ソフトウェア開発が推奨されており、アジャイル型ソフトウェア開発経験を持つ人材育成は急務であると考えます。\nその点からも、本研究のように実学生がアジャイル型ソフトウェア開発を行ったデータは重要であり、分析結果は多くの教育機関に置いて有益となります。\n\n一方、改善を必要とする点で述べた以下の点に置いて不明瞭な箇所があると感じましたので、コメントとして述べさせていただきます。\n\n(1)1章において本研究の目的が明示されておらず、本研究で得られた知見がどのように他教育機関において使用できるかなど、貢献が不明確だと感じました。\nRQに分けた分析を行われていますが、明らかにしたい内容を目的として先に設定した上で、その目的に対する疑問をRQとして設定する流れが一般的だと思います。\nアジャイルプロセスの評価を行ったと論文中に記述されていますが、2021年度に改善が施されたアジャイルプロセスの評価でしょうか。その場合は2020年度との違いを明示するべきで、学生のソフトウェア開発にアジャイルプロセスを適用した結果を調査したいのであれば、2021年の詳細を記述するべきです。\n目的を明示した上で、各RQを調査することで何がわかるのか、その結果はどのような貢献につながるのか述べることで、本研究の貢献が明確になると考えます。\n\n(2)RQ1でQAD分析を参照すると書かれていますが、5章ではGithubへのコミット回数のみが記述されています。\n開発（卒業研究）の途中段階かと思いますが、QAD分析のうちAssignmentやDeliveryは計測可能かと思います。\nまた5章でアンケート調査を行う旨についても触れられていますが、こちらまだ実施されていないようでしたら、評価の章でなくRQの説明で、どのような評価を考えているかまとめて詳述すべきです。\n一方、1章のRQの説明では2020年度と2021年度とのアジャイルプロセスを比較すると述べられていますが、5章ではGitやTrelloの導入は2021年からであると述べられており、Gitのコミット数などの比較は元々困難であったと考えます。\n以上より、RQの説明で書くべき内容と評価の結果で書くべき内容が混合していると感じました。\n(1)のコメントと合わせ、目的に対しどのようなデータが得られどのような分析を行うか、現状得られているデータに対する分析結果、今後行う予定の分析など、それぞれ分けてまとめることで、論文の可読性も向上すると考えます。\n\n(3)(1)でもコメントしましたが、2020年度と2021年度の違いがわかりにくいと感じます。\n論文の複数箇所で2020年度の内容と、それに対する2021年度の取り組みが書かれています。\n例えば、(2)で示したように5章RQ1評価においてGitは2020年度で使用されていないと書かれていますが、3.2章の開発ではGitを用いていると書かれており、この書き方では2020年度から使っているように受け取れます。\n同様に、複数箇所で引き継ぎという言葉も出ますが、引き継がれるものはソースコードなども含まれるのか、それとも開発におけるノウハウなど成果物以外を指すのかが不明確でした。\n2年に渡る取り組みから分かった結果を示されるのであれば、開発に関わる2020年度と2021年度の違いを、章を設けて明示するべきです。\n\n(4)図12において「ユーザごとにアイコンを表示（学生A・学生B）」とありますが、会話には他のユーザも参加されています。また、背景が青の文章の説明もなく、何をどのような基準でまとめたものかがわかりません。\n図中に記述することが困難なら本文やキャプションに記述するなど、図に対する適切な説明を記述して下さい。\n\nまた、5章RQ2、下から9行目に「。。」と句読点が連続した箇所がありますので、カメラレディ提出時に修正をお願いします。\n\n【論文誌に向けてのコメント】\n改善を必要とする点で述べたとおり、目的の明確化を行った上で、必要に応じて2020年度と2021年度の違いを明確にし、調査内容とその結果をそれぞれ分けてまとめてください。\nまた、定量的なデータがグラフのみや本文中への記述のみでまとめられているため、表を用いた数値同士の比較や、統計による有意差なども示されると、より研究の意義や貢献が明確になると考えます。\n\n\n\n----------------------- REVIEW 2 ---------------------\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nAUTHORS: 卓斗 杉田, 玲央 安藤, 彩乃 越前谷, シン 榎本 and 裕 松野\n\n----------- Overall evaluation -----------\nSCORE: -1 (weak reject)\n----- TEXT:\n査読者から見た論文の概要】\n本論文では鼠族研究室で実施しているアジャイルプロセスによるプロダクトの開発状況とこれまでの2年間にわたるアジャイルプロセスの適用について評価しています。\n\n【積極的に評価できる点】\nPBLのソフトウェア開発でアジャイル開発を実施しているケースは多いが、卒業研究でのソフトウェア開発にアジャイル開発プロセスを導⼊する試みは新しく、興味深い取り組みであると考えます。\n\n【改善を必要とする点】\n1. 1章p1の最終文には「アジャイルプロセスは、スクラム[7]をもととしたものを提案している[9]。」とあります。3章 提案するアジャイルプロセスと既存研究[9[との違い、スクラムガイド[7]との違いがわからないので、提案手法としての新規性が不明です。\n例えば、既存研究[9]での課題（5章p7左側の第2パラグラフにかかれている内容）に対して、課題を解決するアプローチ、提案するアジャイルプロセスという流れにして、既存研究との差異を明確にすると、上記の問題点を解決できるのではないでしょうか。\n2. 1章RQの説明では、RQの内容をきちんと説明して下さい。評価方法については、5章にまとめるべきです。\n3. 5章 式(1)〜(６）の変数について、取りうる値の範囲や整数、自然数などを定義すべきです。式(4)(5)のnが未定義です。(4)(5)の説明で「次スプリント」は「JISプリント以降」ではないでしょうか。「次スプリント」ならRの添字はnではなくs+1だと思います。\n4. 5章p9右側「オンライン議事録アプリの開発において〜」「防災アプリの開発において〜」の２つ文章が表3と整合性が取れていません。また、前者は文章がおかしい部分があるので見直して下さい。\n5. 2章の冒頭の文章の根拠が不明です。\n\n【シンポジウムのカメラレディ原稿に向けてのコメント】\n良くするためのコメントです。\n・1章 「アジャイルプロセス」と「アジャイル開発プロセス」\n・1章 「開発と並行して行っているソフトウェアテスト〜」が意味不明の文章です。また、ここで、「網羅的」とは具体的に説明して下さい。\n・2章 「本研究では、情報系大学の研究室で想定可能な状況を評価する」は意味不明です。\n・4章 「本節では」→「本章では」\n・5章 「図に2つのプロダクト開発で行われた〜」→「図9, 図10に2つのプロダクト開発で行われた〜」\n・5章 p9左側　表5→表３\n\n\n\n----------------------- REVIEW 3 ---------------------\nSUBMISSION: 9\nTITLE: 大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて\nAUTHORS: 卓斗 杉田, 玲央 安藤, 彩乃 越前谷, シン 榎本 and 裕 松野\n\n----------- Overall evaluation -----------\nSCORE: 0 (borderline paper)\n----- TEXT:\n著者らは、大学研究室で開発するシステムおよびアプリケーションに対して、アジャイル開発を採用しており、アジャイル開発の効果の評価を目標にしている。アジャイル開発の評価のためにさまざまなデータを収集し分析を行っている。RQ1:プロセスの効果はあるか、RQ2:プロダクトは適切に開発されたか、については、プロダクトの開発が終わっていないため評価ができてない。RQ3：要求との乖離はどのような状況で起こり、どのように修正されるかについては、評価しており要求と実装の乖離があったプロダクトバックログの特定ができているが、原因については分析できていない。要求と実装との乖離については、確かに評価するべき内容であると考えられる。RQ1については、同じプロジェクトを同じ条件で別のプロセスで作成!\nして評価する以外に無いと考えるが、今後の評価を期待する。RQ2については、適切な開発をどのように定義するのかによって評価が変わる。何を持って適切な開発であるのかを今後実施するのか明確にするとよい。また、適切な開発によってどのようなメリットがあるのか、明確に説明するとよい。\n\n以下、コメントである。\n\n* 図\n - いくつかの図は、何を示しているのか説明がなく、わかりにくい。本文中で説明するとよい。\n - 図の内容が読めないため拡大するなどして対応するとよい。\n - グラフには縦軸が何を示しているのか表示するとよい。\n* 「本研究では、2020 年度のアジャイルプロセスの実践[9] から得られた知見をもとに、2021 年度に実施している学部4 年生を中心とした2 つのチームによる共通のアジャイルプロセス適用したプロダクト開発を報告する。」\n - 「アジャイルプロセス適用した」-&gt;「アジャイルプロセスを適用した」\n* 「開発物の要求との乖離は影響が大きい。」\n - この文章が何を伝えたいのかよくわからないため、分かりやすい表現にするとよい。\n* 「これから、プロダクトの要素を発散と収束を行うことでプロダクトの機能を決定した。」\n - 「これから」が指すものがわかないため、分かりやすい表現にするとよい。\n* P.4 右 「スプリントバックログ」\n - 内容がないため、説明を追加するとよい。\n* 「そのため、RQ3 の評価に使用するデータとして、各バックログアイテムに記された要求に依存するバックログアイテムの変化とスプリントレビューでの議事録用いる。」\n - 「議事録用いる。」-&gt;「議事録を用いる。」",
+    "ts": "1640844792.033400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "EASE 2022",
+        "from_url": "https://conf.researchr.org/home/ease-2022",
+        "id": 1,
+        "original_url": "https://conf.researchr.org/home/ease-2022",
+        "service_icon": "https://conf.researchr.org/favicon.ico",
+        "service_name": "conf.researchr.org",
+        "text": "Welcome to EASE 2022 The International Conference on Evaluation and Assessment in Software Engineering (EASE) is an internationally leading venue for academics and practitioners to present and discuss their research on evidence-based software engineering, and its implications for software practice. EASE is ranked as A-conference in CORE.  EASE 2022 welcomes high-quality submissions, describing original and unpublished research, as regular papers and emerging results and vision papers. It also looks forward to contributions to the doctoral symposium and workshops. The 25th edition o ...",
+        "title": "EASE 2022",
+        "title_link": "https://conf.researchr.org/home/ease-2022"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "u60cv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://conf.researchr.org/home/ease-2022"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b55c37e-d33c-48b9-b52c-366edabe3832",
+    "team": "T6WULA63S",
+    "text": "<https://conf.researchr.org/home/ease-2022>",
+    "ts": "1639979009.031500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cx38",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "締め切りは一ヶ月",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "142ddf54-3624-4956-aec8-264562fc80e9",
+    "team": "T6WULA63S",
+    "text": "締め切りは一ヶ月",
+    "ts": "1639978908.031300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b+sd6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "英語論文のOverleaf",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b66eed7-438f-4e85-92a4-c2e9216f5b21",
+    "team": "T6WULA63S",
+    "text": "英語論文のOverleaf",
+    "ts": "1639978904.031100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Overleaf, オンラインLaTeXエディター",
+        "from_url": "https://ja.overleaf.com/9965453688sfrkptcryhwt",
+        "id": 1,
+        "original_url": "https://ja.overleaf.com/9965453688sfrkptcryhwt",
+        "service_icon": "https://ja.overleaf.com/apple-touch-icon-precomposed.png",
+        "service_name": "ja.overleaf.com",
+        "text": "簡単に使用できるオンラインLaTeXエディター。インストール不要、リアルタイムコラボレーション、バージョン管理、何百種類のLaTeXテンプレートなど多数の機能。",
+        "thumb_height": 256,
+        "thumb_url": "https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png",
+        "thumb_width": 256,
+        "title": "Overleaf, オンラインLaTeXエディター",
+        "title_link": "https://ja.overleaf.com/9965453688sfrkptcryhwt"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "snK2x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ja.overleaf.com/9965453688sfrkptcryhwt"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "71f17a8b-9379-4429-9bb2-ff1febf88c1a",
+    "team": "T6WULA63S",
+    "text": "<https://ja.overleaf.com/9965453688sfrkptcryhwt>",
+    "ts": "1639978898.030800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=6O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BMM61G7Q"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1DFqKNstIHLYg-VmUk7NteGG7vShJpk7mhGye61nadLU/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ade92a7-9c50-48f7-ad49-7cabc8f69738",
+    "team": "T6WULA63S",
+    "text": "<@U01BMM61G7Q> <https://docs.google.com/spreadsheets/d/1DFqKNstIHLYg-VmUk7NteGG7vShJpk7mhGye61nadLU/edit?usp=sharing>",
+    "ts": "1638941299.030600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FX7KX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1Q7iJnyIPnuExwPWJnSJRRiQ0l3i8AwCu/edit"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8d9e3d4c-9730-4491-a5ea-70f44c2d50dd",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "F02QLUZJ5EC",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://docs.google.com/document/d/1Q7iJnyIPnuExwPWJnSJRRiQ0l3i8AwCu/edit>",
+    "ts": "1638937747.030100",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3",
+    "x_files": [
+      "F02QLUZJ5EC"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JouZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1vhgUb4KE9bB-U-OZp8BnTliGBolN6U0H?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b9fed34b-74eb-487a-8065-3ff3c8d43a01",
+    "team": "T6WULA63S",
+    "text": "<@U01BRAMRXD3> <@U01BUKC708K>\n<https://drive.google.com/drive/folders/1vhgUb4KE9bB-U-OZp8BnTliGBolN6U0H?usp=sharing>",
+    "ts": "1638249602.029900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CBG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "深沼さんの論文、評価の参考に\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/1Hb3U27z-p2drnyOQ6umvQ1UBx5OBAiaj/view?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ebd4a3a-d2dd-4a78-813e-f1810b4cac83",
+    "team": "T6WULA63S",
+    "text": "深沼さんの論文、評価の参考に\n<https://drive.google.com/file/d/1Hb3U27z-p2drnyOQ6umvQ1UBx5OBAiaj/view?usp=sharing>",
+    "ts": "1637733355.026900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hAkXE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/gp/product/B088YY2KDV/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f71a0fe0-5eb0-4e63-9e4d-c1a310e4bf46",
+    "team": "T6WULA63S",
+    "text": "<https://www.amazon.co.jp/gp/product/B088YY2KDV/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&amp;psc=1>",
+    "ts": "1637730043.026100",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "client_msg_id": "0a38f9dd-746a-41c0-9b94-2c4c09df9385",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F02N0NHFWK1",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F02NFBWBBSN",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1637730024.025500",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7"
+  },
+  {
+    "client_msg_id": "cdecdf7d-7541-4487-beb5-580673fc8363",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F02NCDFUTA9",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1637730022.025200",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zzMn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これに対して、追加したいなと持っている要素としては\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "安藤君がまとめてくれている議事録と、タスクとのつながりと分類をする：RQ1",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "榎本君と越前谷さんが作成してくれたスプリントの計画表を清書して載せたい",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Githubのコミット履歴の図を挿入したい（画像はすでにあるので、添付するだけ）",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "被験者実験について触れておきたい",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "（追加あり）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "471cac80-6922-480e-a4da-bf756914a500",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BRAMRXD3"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "これに対して、追加したいなと持っている要素としては\n• 安藤君がまとめてくれている議事録と、タスクとのつながりと分類をする：RQ1\n• 榎本君と越前谷さんが作成してくれたスプリントの計画表を清書して載せたい\n• Githubのコミット履歴の図を挿入したい（画像はすでにあるので、添付するだけ）\n• 被験者実験について触れておきたい\n（追加あり）",
+    "ts": "1637646475.024900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AcEV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これが前回KBSEでもらった質問です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b880cce6-2116-489b-838e-5a54457345d3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "F02P00J7P96",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "これが前回KBSEでもらった質問です",
+    "ts": "1637641748.019600",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Overleaf, Online LaTeX Editor",
+        "from_url": "https://www.overleaf.com/3982389477xtgvhxwnhkdd",
+        "id": 1,
+        "original_url": "https://www.overleaf.com/3982389477xtgvhxwnhkdd",
+        "service_icon": "https://www.overleaf.com/apple-touch-icon-precomposed.png",
+        "service_name": "overleaf.com",
+        "text": "An online LaTeX editor that’s easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.",
+        "thumb_height": 256,
+        "thumb_url": "https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png",
+        "thumb_width": 256,
+        "title": "Overleaf, Online LaTeX Editor",
+        "title_link": "https://www.overleaf.com/3982389477xtgvhxwnhkdd"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "8Wj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": "\nrePitに提出予定の論文Overleaf。\nこれは前に出したものとは、今のところほとんど違いがないです\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.overleaf.com/3982389477xtgvhxwnhkdd"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4d40f0a0-138f-4491-862e-8455d4efcf28",
+    "edited": {
+      "ts": "1637644100.000000",
+      "user": "UD32JHVL7"
+    },
+    "is_locked": false,
+    "latest_reply": "1637819722.029200",
+    "reply_count": 11,
+    "reply_users": [
+      "UD32JHVL7",
+      "U01BUKC708K"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U01BRAMRXD3> <@U01BUKC708K>\nrePitに提出予定の論文Overleaf。\nこれは前に出したものとは、今のところほとんど違いがないです\n<https://www.overleaf.com/3982389477xtgvhxwnhkdd>",
+    "thread_ts": "1637641546.018700",
+    "ts": "1637641546.018700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cUD=d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BMM61G7Q"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U011D5HFK7H"
+              },
+              {
+                "text": "\n12/1の輪講から、本読んでいたところで論文を読んでもらいます。\n担当者が一本論文を紹介してください\nトップバッターは12/1安藤君で、12/8越前谷さん、12/15榎本君、12/22古大工君、12/29杉田\nで行きましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d79be6e7-b8d2-4d84-b654-16288416c719",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01BUKC708K",
+          "U01BRAMRXD3"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U01BRAMRXD3> <@U01BUKC708K> <@U01BMM61G7Q> <@U011D5HFK7H>\n12/1の輪講から、本読んでいたところで論文を読んでもらいます。\n担当者が一本論文を紹介してください\nトップバッターは12/1安藤君で、12/8越前谷さん、12/15榎本君、12/22古大工君、12/29杉田\nで行きましょう",
+    "ts": "1637125778.017400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iSD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もし、自分で論文集めるのが難しいと思ったら、このリストから選んでください\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1OsmkCTKCOnIZkPsSXcivY9ed8paapvv-?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5875874d-0851-482f-b9c2-228a1f2ad45d",
+    "team": "T6WULA63S",
+    "text": "もし、自分で論文集めるのが難しいと思ったら、このリストから選んでください\n<https://drive.google.com/drive/folders/1OsmkCTKCOnIZkPsSXcivY9ed8paapvv-?usp=sharing>",
+    "ts": "1637125316.014700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Hr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここに読んだ論文をまとめたスライドを置いてください\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/127R7gdCUv-pfHChM6X1pZ5cWbOkvYThy?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2679a9e7-8b3b-4704-b3ac-6444bfd66a8a",
+    "edited": {
+      "ts": "1637125257.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "ここに読んだ論文をまとめたスライドを置いてください\n<https://drive.google.com/drive/folders/127R7gdCUv-pfHChM6X1pZ5cWbOkvYThy?usp=sharing>",
+    "ts": "1637125186.013700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=IP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1lmEiwUFwzE2HbDr3aWOWx7-z4ZD8g5HHgbpE4htLUg8/edit#slide=id.g7bd3cd4101_0_287"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6d3ebfe2-cafb-4d55-aabd-a7df1e8f3c31",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1lmEiwUFwzE2HbDr3aWOWx7-z4ZD8g5HHgbpE4htLUg8/edit#slide=id.g7bd3cd4101_0_287>",
+    "ts": "1636521067.012200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DRF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おそらくしてないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2310B03A-00BD-426C-8FF0-7A754622549C",
+    "team": "T6WULA63S",
+    "text": "おそらくしてないです",
+    "ts": "1636428768.012000",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9j3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U011D5HFK7H"
+              },
+              {
+                "text": " 安藤君がとってくれてる議事録ってどこかで共有されていましたっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b00a2d3-8951-4a52-b225-b1992563128c",
+    "team": "T6WULA63S",
+    "text": "<@U011D5HFK7H> 安藤君がとってくれてる議事録ってどこかで共有されていましたっけ",
+    "ts": "1636428348.011500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "rePiT: 実践的IT教育研究会 - 第8回 実践的IT教育シンポジウム rePiT2022",
+        "from_url": "https://sites.google.com/site/sigrepit/repit2022",
+        "id": 1,
+        "image_bytes": 5392,
+        "image_height": 96,
+        "image_url": "https://lh4.googleusercontent.com/oG9u7P3w86tfnacbOV_3LtE0MJAoN9IU5pC2MxODG5AegJ4xDyN9PohqE3PhETSouWPnKA",
+        "image_width": 233,
+        "original_url": "https://sites.google.com/site/sigrepit/repit2022",
+        "service_icon": "https://lh5.googleusercontent.com/Ti0NaHrUF4OOPAhi2Ox36H8mLhvW9tyfainX0DGRrfCAYJOxUhr-VZpmiURJhjizXDXcaYO0vsj3eTjCpG1MJ23sUozqMuQ",
+        "service_name": "sites.google.com",
+        "text": "シンポジウム開催概要 日程：2022年2月5日（土） 開催形態は，後日ご案内します． 主要スケジュール （後日公開します） シンポジウムの目的 実践的IT教育研究会（通称rePiT，レピット）は，実践的IT教育に関連するトピックを広く議論する研究会であり，2014年3月に発足しました．rePiT2022では，クラウドコンピューティング，ビッグデータ，人工知能，セキュリティ，組込みシステム，IoT，ビジネスアプリケーション，オンライン教育などの先端的な分野に関して，PBL(Project Based Learning)",
+        "title": "rePiT: 実践的IT教育研究会 - 第8回 実践的IT教育シンポジウム rePiT2022",
+        "title_link": "https://sites.google.com/site/sigrepit/repit2022"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "yOX0s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://sites.google.com/site/sigrepit/repit2022"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "113dfad5-911b-4ace-b77a-3677f7ac1a04",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://sites.google.com/site/sigrepit/repit2022>",
+    "ts": "1636335102.010800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V3Te7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "↑さっきも指摘されたんですけど、今週休みにしてたのすっかり忘れてましたねｗ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f48a1da9-8870-432d-9981-64c401e698e4",
+    "team": "T6WULA63S",
+    "text": "↑さっきも指摘されたんですけど、今週休みにしてたのすっかり忘れてましたねｗ",
+    "ts": "1635837965.010100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SxO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週のアジャイル輪講も、申し訳ないですが私参加できないので、私抜きで進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87e1c876-67e9-48c1-a9ce-8d5154c76f2e",
+    "team": "T6WULA63S",
+    "text": "今週のアジャイル輪講も、申し訳ないですが私参加できないので、私抜きで進めてください",
+    "ts": "1635828215.009500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/j+F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね、よろしくお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c09da647-6803-427e-977e-83c01a5b769b",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そうですね、よろしくお願いします",
+    "ts": "1635324594.008300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DXKWZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかりました。\nでは、再来週(11月10日)の輪講で第9部を私が担当するということで大丈夫ですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5ccf1a6b-ce43-4511-ae37-3cd8f9a0385d",
+    "team": "T6WULA63S",
+    "text": "わかりました。\nでは、再来週(11月10日)の輪講で第9部を私が担当するということで大丈夫ですか？",
+    "ts": "1635324536.007900",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OSSZT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "輪講お休みにします休日ですし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6c9d0711-3829-4735-ad6a-e21ee56c086e",
+    "team": "T6WULA63S",
+    "text": "輪講お休みにします休日ですし",
+    "ts": "1635324186.005100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pm5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次はそれでお願いします、すみません\nあ、来週は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e66017f2-8fb6-41e3-b5e3-8668804d908d",
+    "team": "T6WULA63S",
+    "text": "次はそれでお願いします、すみません\nあ、来週は",
+    "ts": "1635324155.004300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=5ocQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": "\n来週の輪講(第9部)は、私が担当してもいいですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6db9dc4-2124-4ace-9926-173c5262d54d",
+    "team": "T6WULA63S",
+    "text": "<@UD32JHVL7>\n来週の輪講(第9部)は、私が担当してもいいですか？",
+    "ts": "1635323747.003500",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iHK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これを基準にして、どんな意訳の名前をつけますかね、今週の輪講で話し合いますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac4b9986-de3a-4bd6-a133-35e28bfabb80",
+    "team": "T6WULA63S",
+    "text": "これを基準にして、どんな意訳の名前をつけますかね、今週の輪講で話し合いますか",
+    "ts": "1635213050.001800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "od=N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1MzuWcsYEthL-RmSv4NgdeY1m0DNnPvv_0pJDwkyTpQ8/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "72d943d1-f8b7-44ec-a6a8-72a87f4b08ba",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> <https://docs.google.com/presentation/d/1MzuWcsYEthL-RmSv4NgdeY1m0DNnPvv_0pJDwkyTpQ8/edit?usp=sharing>",
+    "ts": "1635212954.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UFs0Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "書いた論文共有しておきます\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1rt5yjc3ohjEvFBhJhTgV6DIbCJgz-jbN?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4e30e1ff-1341-42f2-968c-e3afdba84e12",
+    "team": "T6WULA63S",
+    "text": "書いた論文共有しておきます\n<https://drive.google.com/drive/folders/1rt5yjc3ohjEvFBhJhTgV6DIbCJgz-jbN?usp=sharing>",
+    "ts": "1634708784.021600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q8M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1gJZFiIJmBDymPgvUEyfQiC_acOtU6g1WX1PyFgc85iI/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "adfc519b-d57b-4d98-b207-608d3984745e",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F02HKU45S0K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://docs.google.com/presentation/d/1gJZFiIJmBDymPgvUEyfQiC_acOtU6g1WX1PyFgc85iI/edit?usp=sharing>",
+    "ts": "1634100787.020800",
+    "type": "message",
+    "upload": false,
+    "user": "U01BRAMRXD3",
+    "x_files": [
+      "F02HKU45S0K"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5yj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "PO要求が、タスクが終わってないことを示すのか、修正なのかを分けることを明言した文書を次までに考えてくる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "df39c9a1-8010-4c82-b587-eb7af8e33c75",
+    "team": "T6WULA63S",
+    "text": "PO要求が、タスクが終わってないことを示すのか、修正なのかを分けることを明言した文書を次までに考えてくる",
+    "ts": "1632894589.020600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "プロジェクト管理ツールで進捗を見える化 | Time Krei: バーンダウンチャートでプロジェクトの進捗状況をマネジメントする",
+        "from_url": "https://timekrei.tenda.co.jp/column/burn_down_chart/",
+        "id": 1,
+        "original_url": "https://timekrei.tenda.co.jp/column/burn_down_chart/",
+        "service_icon": "https://timekrei.tenda.co.jp/wp-content/themes/timekrei/favicon.ico",
+        "service_name": "プロジェクト管理ツールで進捗を見える化 | Time Krei",
+        "text": "プロジェクトの進捗が一目でわかるバーンダウンチャートについて、活用のメリットとその裏に潜む注意点をご紹介しています。",
+        "thumb_height": 624,
+        "thumb_url": "https://timekrei.tenda.co.jp/wp-content/uploads/2019/06/BarnDownChart1-1024x624.png",
+        "thumb_width": 1024,
+        "title": "バーンダウンチャートでプロジェクトの進捗状況をマネジメントする",
+        "title_link": "https://timekrei.tenda.co.jp/column/burn_down_chart/",
+        "ts": 1561014456
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "+TX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://timekrei.tenda.co.jp/column/burn_down_chart/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e163abbb-d3b6-4063-bf30-13a8944de0d8",
+    "team": "T6WULA63S",
+    "text": "<https://timekrei.tenda.co.jp/column/burn_down_chart/>",
+    "ts": "1632891329.019800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iQKy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "収集データについての\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1fNPr-w9NYA1vWP_EvhOXNNkKjeTVQ2t8neKJ6U2CEQ4/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e15c9c1-deaa-451e-866d-56de10d4a2a2",
+    "team": "T6WULA63S",
+    "text": "収集データについての\n<https://docs.google.com/presentation/d/1fNPr-w9NYA1vWP_EvhOXNNkKjeTVQ2t8neKJ6U2CEQ4/edit?usp=sharing>",
+    "ts": "1632891222.019400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "情報学広場：情報処理学会電子図書館",
+        "from_url": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=79946&item_no=1&page_id=13&block_id=8",
+        "id": 1,
+        "original_url": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=79946&amp;item_no=1&amp;page_id=13&amp;block_id=8",
+        "service_name": "ipsj.ixsq.nii.ac.jp",
+        "text": "情報学広場　情報処理学会電子図書館",
+        "title": "情報学広場：情報処理学会電子図書館",
+        "title_link": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=79946&item_no=1&page_id=13&block_id=8"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "HAN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=79946&item_no=1&page_id=13&block_id=8"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ccc6cf44-f4ac-4123-bf07-c5a7c6f16ead",
+    "team": "T6WULA63S",
+    "text": "<https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=79946&amp;item_no=1&amp;page_id=13&amp;block_id=8>",
+    "ts": "1632288101.019000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6gEy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開発者が自発的に設けたチェックリストを埋められたかどうかが、「そのスプリント内で終わったかどうか（「完了したかどうか」）」",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fb23418a-7f72-4f7b-af4d-9e42d0956265",
+    "team": "T6WULA63S",
+    "text": "開発者が自発的に設けたチェックリストを埋められたかどうかが、「そのスプリント内で終わったかどうか（「完了したかどうか」）」",
+    "ts": "1632287341.018500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J=HIB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バックログに、タスクが割り振られた日にちとタスクが終わった（レビュー）された日にちを書く",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a966b97a-b126-4dba-8c0f-ed0e1575da2a",
+    "edited": {
+      "ts": "1632286721.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "バックログに、タスクが割り振られた日にちとタスクが終わった（レビュー）された日にちを書く",
+    "ts": "1632286715.016400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1632286151.015000",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OoI5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここにスレッドで書き出す",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2ac1b7a4-691c-4749-bf89-1edb547d9c4b",
+    "is_locked": false,
+    "latest_reply": "1632287350.018600",
+    "reply_count": 10,
+    "reply_users": [
+      "UD32JHVL7",
+      "U01BRAMRXD3",
+      "U01BUKC708K"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "ここにスレッドで書き出す",
+    "thread_ts": "1632285999.013100",
+    "ts": "1632285999.013100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1qJ7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週から、後半部分は研究のことについて、調べたこと、考えてきたことを共有する時間にしましょう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01b6eafc-2f59-421c-9bd4-8a7d07baac85",
+    "team": "T6WULA63S",
+    "text": "来週から、後半部分は研究のことについて、調べたこと、考えてきたことを共有する時間にしましょう",
+    "ts": "1632285679.012700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v6u3h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "読んだ論文や、読んだ本をどんな形式でもいいんで、まとめておいてください\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/127R7gdCUv-pfHChM6X1pZ5cWbOkvYThy?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6bc0b37f-3b4c-41db-9c57-4b7ef8d7d712",
+    "team": "T6WULA63S",
+    "text": "読んだ論文や、読んだ本をどんな形式でもいいんで、まとめておいてください\n<https://drive.google.com/drive/folders/127R7gdCUv-pfHChM6X1pZ5cWbOkvYThy?usp=sharing>",
+    "ts": "1632285549.011500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "doA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "杉田の呼んだ論文\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1iF0BWmURbVHIj5FAqdasBEIHzywKPCLg?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3be5fe5a-ab08-43a6-810b-b871ed8b1173",
+    "team": "T6WULA63S",
+    "text": "杉田の呼んだ論文\n<https://drive.google.com/drive/folders/1iF0BWmURbVHIj5FAqdasBEIHzywKPCLg?usp=sharing>",
+    "ts": "1632285149.009900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TjVyW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週の第Ⅴ部は杉田、それから先は同じように",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "add0c802-54db-4565-a490-23c10aed1ed0",
+    "team": "T6WULA63S",
+    "text": "来週の第Ⅴ部は杉田、それから先は同じように",
+    "ts": "1632284871.009600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MP/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スクラム実践者がするべき97の事の続きをやる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6b4fb77c-8080-4f52-8725-c0b4cf7b21b3",
+    "edited": {
+      "ts": "1632284632.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "スクラム実践者がするべき97の事の続きをやる",
+    "ts": "1632284611.008800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DdV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "承知しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01C0F3C1-E0D9-476E-9F37-52CDE6B553B9",
+    "team": "T6WULA63S",
+    "text": "承知しました。",
+    "ts": "1631670879.008100",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mVTQ2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、できればSlack上で何やるかの議論もできればいいかなとも",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a1b47c94-e3a2-42c4-9bde-9edc343dc36e",
+    "team": "T6WULA63S",
+    "text": "あと、できればSlack上で何やるかの議論もできればいいかなとも",
+    "ts": "1631663694.007400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CYS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ正直今日は次から何やるか的なことを話して終わりかなとも思ってたので、私の方も来週までに具体案を練ってこようと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5a1756f9-86c0-41d9-b17f-96ed82fb57a3",
+    "team": "T6WULA63S",
+    "text": "まあ正直今日は次から何やるか的なことを話して終わりかなとも思ってたので、私の方も来週までに具体案を練ってこようと思います",
+    "ts": "1631663675.006900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "teqY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " すみません、私に急用が入ってしまったため今週はお休みにしようかと思うのですが、もし何かしらをやる考えがある場合はあつまってやってみても構いません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8dab3b43-e6cf-416c-817d-0d18d46cf036",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01BUKC708K",
+          "U01BMM61G7Q"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> すみません、私に急用が入ってしまったため今週はお休みにしようかと思うのですが、もし何かしらをやる考えがある場合はあつまってやってみても構いません",
+    "ts": "1631663410.005300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n2vW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U011D5HFK7H"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U01BUKC708K"
+              },
+              {
+                "text": "\nKBSE研究会に投稿する論文に共著者として登録しました（もともと通知はしていたとは言え、うっかり事後報告になってしまって申し訳ないです）。\n論文を書くにあたって協力してもらうことがあると思うので、その時はよろしくお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1631519214.000000",
+      "user": "UD32JHVL7"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F02E3MJ940M",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "yoroshiku",
+        "users": [
+          "U011D5HFK7H",
+          "U01BRAMRXD3"
+        ]
+      }
+    ],
+    "text": "<@U011D5HFK7H> <@U01BRAMRXD3> <@U01BUKC708K>\nKBSE研究会に投稿する論文に共著者として登録しました（もともと通知はしていたとは言え、うっかり事後報告になってしまって申し訳ないです）。\n論文を書くにあたって協力してもらうことがあると思うので、その時はよろしくお願いします",
+    "ts": "1631519194.002100",
+    "type": "message",
+    "upload": false,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H7s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スクラムの語録のテスト",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0474d5b4-6d6a-4888-9f08-713d8fbec893",
+    "team": "T6WULA63S",
+    "text": "スクラムの語録のテスト",
+    "ts": "1629781459.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jAf9v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01BRAMRXD3"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/1ONKKSdczEJi8HqDMgxjBW99fT12pQyJV7vCFQeCH-nI/edit"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78c4d826-0ca9-4a6b-91dd-41444ad54151",
+    "team": "T6WULA63S",
+    "text": "<@U01BRAMRXD3> <https://docs.google.com/forms/d/1ONKKSdczEJi8HqDMgxjBW99fT12pQyJV7vCFQeCH-nI/edit>",
+    "ts": "1626413836.005000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DQDD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01CJ8MK0M6"
+              },
+              {
+                "text": " 輪講これますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9e556bb2-21f3-49e7-a5b3-558d1abfb6dd",
+    "team": "T6WULA63S",
+    "text": "<@U01CJ8MK0M6> 輪講これますか？",
+    "ts": "1626322879.004600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c22zb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "# Unity generated\n[Ll]ibrary/\n[Tt]emp/\n[Oo]bj/\n[Bb]uild/\n[Bb]uilds/\n[Ll]ogs/\n\n# Never ignore Asset meta data\n![Aa]ssets/**/*.meta\n\n# Uncomment this line if you wish to ignore the asset store tools plugin\n# [Aa]ssets/AssetStoreTools*\n\n# Visual Studio cache directory\n.vs/\n\n# Gradle cache directory\n.gradle/\n\n# Autogenerated VS/MD/Consulo solution and project files\nExportedObj/\n.consulo/\n*.csproj\n*.unityproj\n*.sln\n*.suo\n*.tmp\n*.user\n*.userprefs\n*.pidb\n*.booproj\n*.svd\n*.pdb\n*.mdb\n*.opendb\n*.VC.db\n\n# Unity3D generated meta files\n*.pidb.meta\n*.pdb.meta\n*.mdb.meta\n\n# Unity3D generated file on crash reports\nsysinfo.txt\n\n# Builds\n*.apk\n*.unitypackage\n\n# Crashlytics generated file\ncrashlytics-build.properties\n\n# OS generated\n.DS_Store\n.DS_Store?\n._*\n.Spotlight-V100\n.Trashes\nIcon?\nehthumbs.db\nThumbs.db",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5aa19e1c-bd31-4039-938e-3c2134ee4d9d",
+    "team": "T6WULA63S",
+    "text": "```# Unity generated\n[Ll]ibrary/\n[Tt]emp/\n[Oo]bj/\n[Bb]uild/\n[Bb]uilds/\n[Ll]ogs/\n\n# Never ignore Asset meta data\n![Aa]ssets/**/*.meta\n\n# Uncomment this line if you wish to ignore the asset store tools plugin\n# [Aa]ssets/AssetStoreTools*\n\n# Visual Studio cache directory\n.vs/\n\n# Gradle cache directory\n.gradle/\n\n# Autogenerated VS/MD/Consulo solution and project files\nExportedObj/\n.consulo/\n*.csproj\n*.unityproj\n*.sln\n*.suo\n*.tmp\n*.user\n*.userprefs\n*.pidb\n*.booproj\n*.svd\n*.pdb\n*.mdb\n*.opendb\n*.VC.db\n\n# Unity3D generated meta files\n*.pidb.meta\n*.pdb.meta\n*.mdb.meta\n\n# Unity3D generated file on crash reports\nsysinfo.txt\n\n# Builds\n*.apk\n*.unitypackage\n\n# Crashlytics generated file\ncrashlytics-build.properties\n\n# OS generated\n.DS_Store\n.DS_Store?\n._*\n.Spotlight-V100\n.Trashes\nIcon?\nehthumbs.db\nThumbs.db```",
+    "ts": "1625722584.004200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "47vv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1PHPxyUN4ZTZOsGciiHIeT44V036qlLRvVYXSmg-274A/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "acab487b-b417-4061-b60b-d69c2dbea485",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/spreadsheets/d/1PHPxyUN4ZTZOsGciiHIeT44V036qlLRvVYXSmg-274A/edit?usp=sharing>",
+    "ts": "1625116954.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Scrum Inc. Japan #TeamworkMakesTheDreamWork ｜ scrum-courses",
+        "from_url": "https://scruminc.jp/training/scrum-courses/?eventtemplate=1-licensed-scrum-master&event=64",
+        "id": 1,
+        "original_url": "https://scruminc.jp/training/scrum-courses/?eventtemplate=1-licensed-scrum-master&amp;event=64",
+        "service_name": "scruminc.jp",
+        "text": "...",
+        "title": "Scrum Inc. Japan #TeamworkMakesTheDreamWork ｜ scrum-courses",
+        "title_link": "https://scruminc.jp/training/scrum-courses/?eventtemplate=1-licensed-scrum-master&event=64"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "hXG2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちなみにスクラムマスターのトレーニングとかはこんなのがある\n22万/人\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://scruminc.jp/training/scrum-courses/?eventtemplate=1-licensed-scrum-master&event=64"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3cfd9510-aa8b-4bf4-ae68-f94e85235616",
+    "team": "T6WULA63S",
+    "text": "ちなみにスクラムマスターのトレーニングとかはこんなのがある\n22万/人\n<https://scruminc.jp/training/scrum-courses/?eventtemplate=1-licensed-scrum-master&amp;event=64>",
+    "ts": "1625113955.003500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U1N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日のやつ\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/12ycVb1YvdQHJaos2lgpdPVzehxqhWS3sHojQcptBmHg/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ddb168bd-d92e-43fa-90bf-d6bc3c000936",
+    "team": "T6WULA63S",
+    "text": "今日のやつ\n<https://docs.google.com/presentation/d/12ycVb1YvdQHJaos2lgpdPVzehxqhWS3sHojQcptBmHg/edit?usp=sharing>",
+    "ts": "1624510166.002600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+hqK6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "第Ⅱ部の12～22から、気になったものをスライドにしてくる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ba566a17-32f4-4982-ac46-72850052e0dd",
+    "team": "T6WULA63S",
+    "text": "第Ⅱ部の12～22から、気になったものをスライドにしてくる",
+    "ts": "1624510138.002300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y0bRq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週は休みデー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "142ee7b0-aa4a-4f76-8d0e-3e23598fb9ba",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BRAMRXD3"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "来週は休みデー",
+    "ts": "1623304425.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=9CTX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次読む本\nスクラム実践者が知るべき97の事",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fe955de3-46d2-409c-b492-690c32666359",
+    "team": "T6WULA63S",
+    "text": "次読む本\nスクラム実践者が知るべき97の事",
+    "ts": "1623302983.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wf=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スクラムを文書化するスライド\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1MzuWcsYEthL-RmSv4NgdeY1m0DNnPvv_0pJDwkyTpQ8/edit?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22a5ec7f-aa2f-4f19-ba13-12a132abe4b3",
+    "team": "T6WULA63S",
+    "text": "スクラムを文書化するスライド\n<https://docs.google.com/presentation/d/1MzuWcsYEthL-RmSv4NgdeY1m0DNnPvv_0pJDwkyTpQ8/edit?usp=sharing>",
+    "ts": "1622695144.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xBe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マニュアルが作れればいいなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed1956b6-78f6-4064-aaf8-eec230d78100",
+    "team": "T6WULA63S",
+    "text": "マニュアルが作れればいいなぁ",
+    "ts": "1621489331.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RMc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "実際にプロジェクトをやると仮定して、スクラムのプロセスをちゃんと組み立てる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6fa3a35-3ef3-49e4-b939-6a6cfb9cc594",
+    "team": "T6WULA63S",
+    "text": "実際にプロジェクトをやると仮定して、スクラムのプロセスをちゃんと組み立てる",
+    "ts": "1621489304.003300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pSNJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "スクラム実践者が知るべき97の事",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "strike": true
+                    },
+                    "text": "TDD（テスト駆動開発）",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "style": {
+                      "strike": true
+                    },
+                    "text": "リファクタリング",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Cleanアジャイル",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "XP（eXtream Programing）",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86cb46d4-c2b5-431e-bcfc-b4a9bbc1a7e7",
+    "edited": {
+      "ts": "1623299160.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "• スクラム実践者が知るべき97の事\n• ~TDD（テスト駆動開発）~\n• ~リファクタリング~\n• Cleanアジャイル\n• XP（eXtream Programing）",
+    "ts": "1621488405.001600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l+z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ドライブのURL",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "277015c9-0ae7-4420-ae52-a29eb02536dd",
+    "team": "T6WULA63S",
+    "text": "ドライブのURL",
+    "ts": "1620879763.003700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "viJxy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1CBVhSSCztMzaYt0HYlKyPh94S7mKR0oC?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ba883f3-6ccd-4b6c-b65b-03e1d1d0cd1d",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/folders/1CBVhSSCztMzaYt0HYlKyPh94S7mKR0oC?usp=sharing>",
+    "ts": "1620879756.003500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/40be5cf201e1b52a05781ef67b8f5aa3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+        "author_id": "U6YLZUWAK",
+        "author_link": "https://matsulabnu.slack.com/team/U6YLZUWAK",
+        "author_name": "Yutaka Matsuno",
+        "author_subname": "Yutaka Matsuno",
+        "channel_id": "C6XL0T6UU",
+        "channel_name": "全体ゼミ",
+        "fallback": "[April 29th, 2021 12:11 AM] yutaka: 短大生の歓迎会ですが、木曜日３限、短大生が空いているそうなのですが、その時間でいいですか。アジャイル輪講とかぶってしまいますが",
+        "footer": "Thread in #全体ゼミ",
+        "from_url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1619680300028300",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "is_thread_root_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1619680300028300",
+        "text": "短大生の歓迎会ですが、木曜日３限、短大生が空いているそうなのですが、その時間でいいですか。アジャイル輪講とかぶってしまいますが",
+        "ts": "1619680300.028300"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "AVtf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/archives/C6XL0T6UU/p1619680300028300"
+              },
+              {
+                "text": "\nまあ、とのことなんで来週のアジャイル輪講はお休みにしようかと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8bf7edc2-e8bc-4bb5-b18c-89a3fd7cc4cd",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U01BRAMRXD3",
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://matsulabnu.slack.com/archives/C6XL0T6UU/p1619680300028300>\nまあ、とのことなんで来週のアジャイル輪講はお休みにしようかと思います",
+    "ts": "1619743688.002800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "F9d",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全体を一つのPDFにしました。\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/1zqJtbLtGj_h6Togv6hQmr_DI_UPualBB/view?usp=sharing"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "adcaf533-111e-4e0b-b6a7-fb197f88cd42",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F020C5CGQGZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "全体を一つのPDFにしました。\n<https://drive.google.com/file/d/1zqJtbLtGj_h6Togv6hQmr_DI_UPualBB/view?usp=sharing>",
+    "ts": "1619413263.001900",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F020C5CGQGZ"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9wr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "というか共有ドライブじゃなかったですね、後で移しておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dfdc4b44-5f10-4b92-9909-efc599edda63",
+    "team": "T6WULA63S",
+    "text": "というか共有ドライブじゃなかったですね、後で移しておきます",
+    "ts": "1619410695.001600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fsO66",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "権限つけました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3b001281-6cc1-4a94-8e4b-91c0c1d03195",
+    "team": "T6WULA63S",
+    "text": "権限つけました",
+    "ts": "1619410657.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5WNlZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私のアカウントだと見れなかったので、リクエストだしておいたのでお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ba799845-8782-4e1b-8db5-874837bcd6d7",
+    "team": "T6WULA63S",
+    "text": "私のアカウントだと見れなかったので、リクエストだしておいたのでお願いします",
+    "ts": "1619410528.001400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fXvPS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、自炊した教科書です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb70852a-28a3-4ba1-88b7-fb6cd080229e",
+    "team": "T6WULA63S",
+    "text": "あ、自炊した教科書です",
+    "ts": "1619410350.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ONN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分これでみれるかと思うけど、見れなかったらいってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae7128b5-0ba5-40d0-8435-7fdb1446f447",
+    "team": "T6WULA63S",
+    "text": "多分これでみれるかと思うけど、見れなかったらいってください",
+    "ts": "1619410182.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9cG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://drive.google.com/folderview?id=1kw97GIY478e95dmG3fToj2JEUGpPvLWn",
+                "type": "link",
+                "url": "https://drive.google.com/folderview?id=1kw97GIY478e95dmG3fToj2JEUGpPvLWn"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84fdb38e-9f65-4b98-918a-ed4de8b859ac",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/folderview?id=1kw97GIY478e95dmG3fToj2JEUGpPvLWn|https://drive.google.com/folderview?id=1kw97GIY478e95dmG3fToj2JEUGpPvLWn>",
+    "ts": "1619410139.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1619066869.000600",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q+M4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、少し遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c62b4772-83ca-4e6f-98a1-d4e847e4857d",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BRAMRXD3"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すみません、少し遅れます",
+    "ts": "1619064073.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1618990955.000200",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mm08=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最初はこれ読んでいこうかなと思っていますが、とりあえず買っても買わなくてもいいです。自炊するつもりなので（買った人は自炊に協力してくれると助かりまする）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.amazon.co.jp/dp/B00DIM6BMI/ref=cm_sw_r_tw_dp_JS4BPMR26AWM4NRGE674"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fb598b8e-47a1-4a4d-b3ea-3babe5b7ac98",
+    "edited": {
+      "ts": "1618467598.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "最初はこれ読んでいこうかなと思っていますが、とりあえず買っても買わなくてもいいです。自炊するつもりなので（買った人は自炊に協力してくれると助かりまする）\n<https://www.amazon.co.jp/dp/B00DIM6BMI/ref=cm_sw_r_tw_dp_JS4BPMR26AWM4NRGE674>",
+    "ts": "1618467528.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jlIT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さっきは申し訳ない、\n毎週、木曜の3限にやりたいと思います。\n基本的には本を読んで資料にまとめて授業する形になるかと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9672ba96-1b6d-4e24-b47b-2af69e901e83",
+    "team": "T6WULA63S",
+    "text": "さっきは申し訳ない、\n毎週、木曜の3限にやりたいと思います。\n基本的には本を読んで資料にまとめて授業する形になるかと思います",
+    "ts": "1618467406.002100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WxzC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アジャイル輪行は来週からスタートしたいと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bde680f2-0aa5-414d-a65b-8881ff273178",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U01BUKC708K"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "アジャイル輪行は来週からスタートしたいと思います",
+    "ts": "1618462255.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01BMM61G7Q> has joined the channel",
+    "ts": "1617883494.001000",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1617883494.000800",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01BRAMRXD3> has joined the channel",
+    "ts": "1617883494.000600",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1617883494.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1617883469.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

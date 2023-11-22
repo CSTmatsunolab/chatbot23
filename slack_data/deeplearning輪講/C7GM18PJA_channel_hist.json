@@ -1,0 +1,645 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555910335.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555910327.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+BO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんか、平山先生の12/5の3限だった補講が12/12に変更になったので前原明日発表になりました、、、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "なんか、平山先生の12/5の3限だった補講が12/12に変更になったので前原明日発表になりました、、、",
+    "ts": "1512346652.000078",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "snsI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日3限輪講やりますby大沼先輩",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日3限輪講やりますby大沼先輩",
+    "ts": "1511751591.000137",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A4h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お昼希望で",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お昼希望で",
+    "ts": "1511707059.000045",
+    "type": "message",
+    "user": "U7JLHH16F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uyuj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "で、どうでしょうかみなさん？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "で、どうでしょうかみなさん？",
+    "ts": "1511704184.000029",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z0B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もしくはどこかのお昼",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "もしくはどこかのお昼",
+    "ts": "1511226570.000190",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jpKv+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "…さすがにあれなんで、\n来週の金曜５限とかでどうでしょう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "…さすがにあれなんで、\n来週の金曜５限とかでどうでしょう。",
+    "ts": "1511226552.000219",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "31Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "再来週の12/5も補講でした！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "再来週の12/5も補講でした！",
+    "ts": "1511225720.000091",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6gF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1511162225.000088",
+    "type": "message",
+    "user": "U7GT0TRQX"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7iYrd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週に延期しましょう…。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "来週に延期しましょう…。",
+    "ts": "1511156460.000150",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uKv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確か4限入ってる人もいたと思いますが...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "確か4限入ってる人もいたと思いますが...",
+    "ts": "1511156138.000103",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hd0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういえば明日は3限が補講ですが輪講やりますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そういえば明日は3限が補講ですが輪講やりますか？",
+    "ts": "1511156126.000153",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7D7WMM5F> has joined the channel",
+    "ts": "1508219049.000069",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SE1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "school",
+                "type": "emoji",
+                "unicode": "1f3eb"
+              },
+              {
+                "text": "担当セクション",
+                "type": "text"
+              },
+              {
+                "name": "school",
+                "type": "emoji",
+                "unicode": "1f3eb"
+              },
+              {
+                "text": "\n2.中瀬＝＞〜3.3\n3.妹背＝＞3.4〜\n4.井出＝＞4.0〜4.2\n5.伊地知＝＞4.3〜4.5?4.6?\n6.前原＝＞〜5.4\n7.石井＝＞5.5〜5.8",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "edited": {
+      "ts": "1508219005.000000",
+      "user": "U7D6SJCAD"
+    },
+    "team": "T6WULA63S",
+    "text": ":school:担当セクション:school:\n2.中瀬＝＞〜3.3\n3.妹背＝＞3.4〜\n4.井出＝＞4.0〜4.2\n5.伊地知＝＞4.3〜4.5?4.6?\n6.前原＝＞〜5.4\n7.石井＝＞5.5〜5.8",
+    "ts": "1508218486.000020",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: oreilly-japan/deep-learning-from-scratch",
+        "from_url": "https://github.com/oreilly-japan/deep-learning-from-scratch",
+        "id": 1,
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+        "service_name": "GitHub",
+        "text": "deep-learning-from-scratch - 『ゼロから作る Deep Learning』のリポジトリ",
+        "thumb_height": 250,
+        "thumb_url": "https://avatars2.githubusercontent.com/u/8306337?s=400&v=4",
+        "thumb_width": 250,
+        "title": "oreilly-japan/deep-learning-from-scratch",
+        "title_link": "https://github.com/oreilly-japan/deep-learning-from-scratch"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "kwrR6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ゼロから作るDeepLearningのコードが詰まったリポジトリです．\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/oreilly-japan/deep-learning-from-scratch"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ゼロから作るDeepLearningのコードが詰まったリポジトリです．\n<https://github.com/oreilly-japan/deep-learning-from-scratch>",
+    "ts": "1508218399.000165",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qD6Hi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://try.jupyter.org/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://try.jupyter.org/>",
+    "ts": "1508215308.000108",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7JLHH16F> has joined the channel",
+    "ts": "1508146053.000010",
+    "type": "message",
+    "user": "U7JLHH16F"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7GD94Y9W> has joined the channel",
+    "ts": "1508122765.000152",
+    "type": "message",
+    "user": "U7GD94Y9W"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+bbXo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大槻先生への質問リマインダー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B7H8UKPPV",
+    "subtype": "bot_message",
+    "text": "大槻先生への質問リマインダー",
+    "ts": "1507822509.000678",
+    "type": "message",
+    "username": "bot"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CIo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "輪講順番\n1.青山\n2.中瀬\n3.妹背\n4.井出\n5.伊地知\n6.前原\n7.石井",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "edited": {
+      "ts": "1507619528.000000",
+      "user": "U7D6SJCAD"
+    },
+    "team": "T6WULA63S",
+    "text": "輪講順番\n1.青山\n2.中瀬\n3.妹背\n4.井出\n5.伊地知\n6.前原\n7.石井",
+    "ts": "1507619517.000035",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7GT0TRQX> has joined the channel",
+    "ts": "1507610797.000056",
+    "type": "message",
+    "user": "U7GT0TRQX"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dUiL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7D6SJCAD"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "Python1回目.pptx",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U7D6SJCAD/F7F9CHPFT/python1______.pptx"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pptx",
+        "id": "F7F9CHPFT",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U7D6SJCAD> uploaded a file: <https://matsulabnu.slack.com/files/U7D6SJCAD/F7F9CHPFT/python1______.pptx|Python1回目.pptx>",
+    "ts": "1507610456.000021",
+    "type": "message",
+    "upload": true,
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K/E53",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/u/1/folders/0B4OARezOknOmTWVCaGc5ZEE2X3M"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/u/1/folders/0B4OARezOknOmTWVCaGc5ZEE2X3M>",
+    "ts": "1507610156.000162",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xEiwV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mlab.ce.cst.nihon-u.ac.jp/dcase/login.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://mlab.ce.cst.nihon-u.ac.jp/dcase/login.html>",
+    "ts": "1507610044.000162",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ot=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "宜しくお願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "宜しくお願いします！",
+    "ts": "1507610036.000053",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "C=lAh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくお願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "よろしくお願いします！",
+    "ts": "1507608781.000136",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1507608763.000062",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7DPNCR0U> has joined the channel",
+    "ts": "1507608763.000051",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "inviter": "U7D6SJCAD",
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1507608763.000042",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1507608742.000132",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  }
+]

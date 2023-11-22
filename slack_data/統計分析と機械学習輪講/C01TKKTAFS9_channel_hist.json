@@ -1,0 +1,1197 @@
+[
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "D2QF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "基本ゼミと修士ゼミは来週から開始されます。書いてないゼミは来週以降になるようです。具体的な日程については、もう少し詳しい情報が必要です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "基本ゼミと修士ゼミは来週から開始されます。書いてないゼミは来週以降になるようです。具体的な日程については、もう少し詳しい情報が必要です。",
+    "ts": "1683012540.646189",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pbUTJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " ゼミはいつありますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6776013-d741-42d6-94d5-40b48944a219",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> ゼミはいつありますか",
+    "ts": "1683012533.578469",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "inviter": "U01CJ8MK0M6",
+    "subtype": "channel_join",
+    "text": "<@U0550LX2NG0> has joined the channel",
+    "ts": "1683012517.332619",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tksf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は今学期最後の統計・機械学習輪講です。４限にしたと思いますがよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc66d923-4bef-4a8b-8be0-9738a92cf157",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日は今学期最後の統計・機械学習輪講です。４限にしたと思いますがよろしくお願いいたします。",
+    "ts": "1677396109.416729",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IFb5C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、遅延したので10分ほど遅れます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7D40A794-3D25-448C-B833-A9ACB566F415",
+    "is_locked": false,
+    "latest_reply": "1676517154.672649",
+    "reply_count": 1,
+    "reply_users": [
+      "U044HJDLCJ2"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すみません、遅延したので10分ほど遅れます。",
+    "thread_ts": "1676504860.753219",
+    "ts": "1676504860.753219",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Nvb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は９時３０分からです",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4f15c44a-b167-412b-941b-2a17ec23fc0a",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日は９時３０分からです<!channel>",
+    "ts": "1676469689.275169",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X9sB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は９時３０分からです",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c85cd83-80b1-4abe-979d-6ad9e38d405e",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日は９時３０分からです<!channel>",
+    "ts": "1675841638.051469",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CfST",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の機械学習ゼミは１章で、米本くんが担当です。よろしくお願いします。",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4cb1183c-f5aa-4f08-a49c-454a3eeb68a0",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDLCJ2",
+          "U044SLE6D3N",
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の機械学習ゼミは１章で、米本くんが担当です。よろしくお願いします。<!channel>",
+    "ts": "1675835470.157969",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AIlV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分担を相談するのは３年ゼミのときです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2cf09159-0781-4379-a81f-dbd2c0784e2d",
+    "team": "T6WULA63S",
+    "text": "分担を相談するのは３年ゼミのときです",
+    "ts": "1675237144.368279",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EzI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "機械学習の教科書です。明日分担を相談しましょう\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=11-OkT-tiaWWiii5lqaMmgR0xp_rGDqH9&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75e2fc3-1197-485f-a05d-37e5d38fce37",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2",
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "機械学習の教科書です。明日分担を相談しましょう\n<https://drive.google.com/open?id=11-OkT-tiaWWiii5lqaMmgR0xp_rGDqH9&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>\n<!channel>",
+    "ts": "1675236419.275089",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "X9j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の統計ゼミはお休みです。あとで機械学習の教科書のPDFを送ります",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b110b16-5010-40d5-b64a-ef1f64b29bb7",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の統計ゼミはお休みです。あとで機械学習の教科書のPDFを送ります<!channel>",
+    "ts": "1675230362.537009",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HbBj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は９時３０分から統計ゼミを再開します",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a03c3c05-338b-4b23-b225-ddfcf78f6e58",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日は９時３０分から統計ゼミを再開します<!channel>",
+    "ts": "1674636321.107849",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rV2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の統計ゼミはお休みです",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5e85abe-ce2c-4ece-a220-ab22c5d4cbaf",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の統計ゼミはお休みです<!channel>",
+    "ts": "1674009839.948229",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IB+W",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6dc7c786-a9c3-4ed1-83c2-f8b3a973aeb9",
+    "team": "T6WULA63S",
+    "text": "<!channel>",
+    "ts": "1673418151.459979",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=SkX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、明日の統計ゼミは、試験の人がいるので、延期します。２限の時間に今後の予定を相談できたらします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1bebec5b-57c2-4e2f-a22f-80b0e533fa98",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "UNYMRF17S",
+          "U044Q4JABPD",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません、明日の統計ゼミは、試験の人がいるので、延期します。２限の時間に今後の予定を相談できたらします。",
+    "ts": "1673418145.232679",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CQpM4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の統計ゼミは９時３０分からです。",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5aa5bbb9-f189-4f90-afad-ecaa1c730fd4",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2",
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の統計ゼミは９時３０分からです。<!channel>",
+    "ts": "1670385716.485749",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3kx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週は学術講演会で休講なので統計ゼミもお休みにします。",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c05d6e97-6e92-469e-87ab-89b0baf32c8d",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U044Q4JABPD"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "来週は学術講演会で休講なので統計ゼミもお休みにします。<!channel>",
+    "ts": "1669515808.985669",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wZlW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "教科書の正誤表",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e1513ba2-93d0-4152-9b8c-2fe73f95a3a3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F04CA9KK2DR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "教科書の正誤表",
+    "ts": "1669256259.959759",
+    "type": "message",
+    "upload": false,
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XHMd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ終わってないです。先週と今週は3限だけunity ゼミになっています",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D9805E03-B9DD-4E6D-9286-DEA9820DA292",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UNYMRF17S"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "まだ終わってないです。先週と今週は3限だけunity ゼミになっています",
+    "ts": "1669174723.251659",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "u01l2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Unityゼミってもう終わったんです？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6617ABD7-5977-45BE-BF5E-1977258B0B60",
+    "team": "T6WULA63S",
+    "text": "Unityゼミってもう終わったんです？",
+    "ts": "1669172061.478389",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nYy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "その予定です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B0309AD8-66F3-4686-A603-3048D4001F18",
+    "team": "T6WULA63S",
+    "text": "その予定です。",
+    "ts": "1669172035.568229",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t6I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の統計分析ゼミも2限からですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9754DEA1-1F21-4A39-809C-471B62745A3B",
+    "team": "T6WULA63S",
+    "text": "明日の統計分析ゼミも2限からですか？",
+    "ts": "1669171790.021049",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "slMEQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U044HJDLCJ2"
+              },
+              {
+                "text": " 今からゼミですが、大丈夫ですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "67b2acde-447e-4d78-b742-30ea6197924e",
+    "team": "T6WULA63S",
+    "text": "<@U044HJDLCJ2> 今からゼミですが、大丈夫ですか",
+    "ts": "1668649213.390649",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MKi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうですね。では２限からにしましょう",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b5caa4a3-346d-4389-9439-3310411babb3",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "UNYMRF17S",
+          "U044Q4JABPD",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そうですね。では２限からにしましょう<!channel>",
+    "ts": "1668479840.839589",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Bwq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2限からにしますか？\n個人的には嬉しいですけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F0C13371-3280-4E81-8306-F638F51CC611",
+    "team": "T6WULA63S",
+    "text": "2限からにしますか？\n個人的には嬉しいですけど",
+    "ts": "1668478772.663639",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Em2X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週は２限にUnityゼミがないので、統計分析ゼミは２限からでもいいですね",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eec99363-c6d5-4189-a923-77346d4e21fc",
+    "team": "T6WULA63S",
+    "text": "今週は２限にUnityゼミがないので、統計分析ゼミは２限からでもいいですね<!channel>",
+    "ts": "1668401552.023279",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UUDCP6WNQ> has joined the channel",
+    "ts": "1667904894.794749",
+    "type": "message",
+    "user": "UUDCP6WNQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lqfo6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "↑コラボラトリに数式を記述する際に参考にしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c992dca6-862a-4339-a01e-2a41d7c16fd9",
+    "team": "T6WULA63S",
+    "text": "↑コラボラトリに数式を記述する際に参考にしてください",
+    "ts": "1666834435.516429",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "4.1 数式を記述する",
+        "from_url": "https://cns-guide.sfc.keio.ac.jp/2001/11/4/1.html",
+        "id": 1,
+        "original_url": "https://cns-guide.sfc.keio.ac.jp/2001/11/4/1.html",
+        "service_name": "cns-guide.sfc.keio.ac.jp",
+        "text": "4.1 数式を記述する",
+        "title": "4.1 数式を記述する",
+        "title_link": "https://cns-guide.sfc.keio.ac.jp/2001/11/4/1.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cEX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "tex\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://cns-guide.sfc.keio.ac.jp/2001/11/4/1.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6ea96c5-5564-422a-977e-edcdba8e2740",
+    "team": "T6WULA63S",
+    "text": "tex\n<https://cns-guide.sfc.keio.ac.jp/2001/11/4/1.html>",
+    "ts": "1666834282.391539",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m5Zi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、電車が遅れて、少し遅れるかもしれませんが先に進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "781e8187-4dea-4ab9-8cce-b88c6e7809c4",
+    "team": "T6WULA63S",
+    "text": "すいません、電車が遅れて、少し遅れるかもしれませんが先に進めてください",
+    "ts": "1666827842.556129",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WqjN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\n統計分析輪講は、木曜の9時30分から開始になります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2E23643F-22F7-426E-A968-8A9FE789C8F1",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDLCJ2",
+          "U044Q4JABPD",
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様です。\n統計分析輪講は、木曜の9時30分から開始になります。",
+    "ts": "1666688000.234959",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "name": "統計分析と機械学習輪講",
+    "old_name": "統計分析輪講",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"統計分析輪講\" to \"統計分析と機械学習輪講\"",
+    "ts": "1666314687.164959",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hy/L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "できあがったやつもここにおいていただけると、他の人も見やすくていいかなと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3bbb2b7b-bc62-490c-944b-c04dc76ac5f2",
+    "team": "T6WULA63S",
+    "text": "できあがったやつもここにおいていただけると、他の人も見やすくていいかなと思います",
+    "ts": "1666226950.876889",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y2by",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1wWDnkSWsPDAncSNEBggD8wofhCbkRrKy"
+              },
+              {
+                "text": "\nここに今日の資料をおいておいたので参考にしてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "29a3bd4c-b374-4b99-98ca-915530c1871c",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/folders/1wWDnkSWsPDAncSNEBggD8wofhCbkRrKy>\nここに今日の資料をおいておいたので参考にしてください。",
+    "ts": "1666226903.915599",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@U044SLE6D3N> has joined the channel",
+    "ts": "1666226827.739599",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@U044HJDLCJ2> has joined the channel",
+    "ts": "1666226827.675429",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@U044Q4JABPD> has joined the channel",
+    "ts": "1666226827.617809",
+    "type": "message",
+    "user": "U044Q4JABPD"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02GH21BWSE> has joined the channel",
+    "ts": "1655301053.197699",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U03BF2S11QW> has joined the channel",
+    "ts": "1655301007.256029",
+    "type": "message",
+    "user": "U03BF2S11QW"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02H6LYKVDE> has joined the channel",
+    "ts": "1655301007.170699",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1655301007.072689",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1655301006.988119",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ojghN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、統計分析輪講はもう少し様子をみてはじめます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "676b13ca-7e47-4483-a6f7-5cc0d124ab8b",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "UNYMRF17S",
+          "U03BF2S11QW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません、統計分析輪講はもう少し様子をみてはじめます",
+    "ts": "1620369603.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1617882468.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@U017H6V4KKJ> has joined the channel",
+    "ts": "1617882468.000800",
+    "type": "message",
+    "user": "U017H6V4KKJ"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1617882467.000600",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "UNYMRF17S",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1617882467.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UNYMRF17S> has joined the channel",
+    "ts": "1617882288.000200",
+    "type": "message",
+    "user": "UNYMRF17S"
+  }
+]

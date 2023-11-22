@@ -1,0 +1,562 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1583289588.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1583289584.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oSD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おお、了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a496daa-6a98-4e12-8704-b456a766d4dc",
+    "team": "T6WULA63S",
+    "text": "おお、了解です",
+    "ts": "1543328355.002500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FEE3H19M5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1543328131.001600",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BYv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\n\n報告と致しまして\n今日の支援額です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff8a452f-6c01-4e1c-a054-f08b425ddf63",
+    "team": "T6WULA63S",
+    "text": "お疲れ様です。\n\n報告と致しまして\n今日の支援額です",
+    "ts": "1543328117.001500",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hr+n",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6C50A242-7E26-4D5E-B8F0-5B7A5AB73BF7",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1543306367.004100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jEjE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応 顔写真は2人で話し合って控えています。\n\nプレイ動画は撮る予定です。\n\n石垣さんに見てくださりありがとうございますとお伝え下さい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BEA2EA0F-5C5A-47DE-BC48-1C0B737D7A94",
+    "team": "T6WULA63S",
+    "text": "一応 顔写真は2人で話し合って控えています。\n\nプレイ動画は撮る予定です。\n\n石垣さんに見てくださりありがとうございますとお伝え下さい",
+    "ts": "1543306289.003900",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WaYE7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プレイ動画は作ってみます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "08BA8A9D-E9E7-4F30-9147-C7B440500FE1",
+    "team": "T6WULA63S",
+    "text": "プレイ動画は作ってみます",
+    "ts": "1543304141.001800",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kwXzl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "顔は研究室的にまずいかと思って伏せてます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F37F9237-D285-4586-93F0-BD17EBA6E87A",
+    "team": "T6WULA63S",
+    "text": "顔は研究室的にまずいかと思って伏せてます",
+    "ts": "1543304075.001100",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pr4u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すごいじゃないですか！\nこれ学生が作ったんですか\n\n動画があるといいですねー\nあと制作チームの顔が見えると良いかなと\n石垣さんのコメントです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "36701F0E-E407-4704-8860-09220E823232",
+    "team": "T6WULA63S",
+    "text": "すごいじゃないですか！\nこれ学生が作ったんですか\n\n動画があるといいですねー\nあと制作チームの顔が見えると良いかなと\n石垣さんのコメントです",
+    "ts": "1543303941.000600",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wy7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4A435C74-E979-4B2A-88BD-BCC572B976D6",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1543234203.003200",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6AAzL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それはよかったです。ページのアドレスがわかったら松野研のメンバーに教えてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "60f274d3-6032-4812-9d9e-ec5197da5708",
+    "team": "T6WULA63S",
+    "text": "それはよかったです。ページのアドレスがわかったら松野研のメンバーに教えてください",
+    "ts": "1543234172.003000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7nk=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ページオープンはもうできるって知らせが来ました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9DFC693C-94E4-4C68-9CBB-FF60ECC986E3",
+    "team": "T6WULA63S",
+    "text": "ページオープンはもうできるって知らせが来ました",
+    "ts": "1543234115.002300",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=Fe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日ウエブページがオープンできるか決まるんですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f2797b7a-9313-44e2-8350-077e3977821b",
+    "team": "T6WULA63S",
+    "text": "明日ウエブページがオープンできるか決まるんですよね",
+    "ts": "1543234083.001700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Yb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "簡単に追加しておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6E1EF6AF-409B-4EEA-8B6C-C48DA4EF15CF",
+    "team": "T6WULA63S",
+    "text": "簡単に追加しておきます",
+    "ts": "1543234049.001300",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KQwk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "中瀬くん、２８日の卒論の中間発表のときに、クラウドファンディングの状況も簡単に説明してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ccda1c27-df2d-451a-a6b7-7247f072d710",
+    "team": "T6WULA63S",
+    "text": "中瀬くん、２８日の卒論の中間発表のときに、クラウドファンディングの状況も簡単に説明してください",
+    "ts": "1543233889.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3RT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "311e8a04-74fe-4ddf-bf1b-bc502fc0683c",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1539173711.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KUU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現在はマクアケ用と平行に11月のオーキャンまでに印刷できる印刷会社を探しています。\n\n問い合わせたところ\n・アドプリント\n・キングプリンターズ\n・フジゲームファクトリー\n以上の三社がオーキャンに間に合う印刷が可能と返信が来ましたので、現在各三社に見積もりを頼んでいるので、また進展があり次第、連絡致します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4b916527-c0a0-42ff-ab2e-3d913d4d48d9",
+    "team": "T6WULA63S",
+    "text": "現在はマクアケ用と平行に11月のオーキャンまでに印刷できる印刷会社を探しています。\n\n問い合わせたところ\n・アドプリント\n・キングプリンターズ\n・フジゲームファクトリー\n以上の三社がオーキャンに間に合う印刷が可能と返信が来ましたので、現在各三社に見積もりを頼んでいるので、また進展があり次第、連絡致します。",
+    "ts": "1539173659.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gtkW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fce81119-2bc8-419d-99f4-dfc999bc4cfb",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。",
+    "ts": "1539173272.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kcx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カードのpngのファイルをあげておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37ec0b50-6605-462d-a565-23820487e906",
+    "team": "T6WULA63S",
+    "text": "カードのpngのファイルをあげておきます",
+    "ts": "1539173080.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "FDCDSNHQE",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1539173012.000100",
+    "type": "message",
+    "upload": true,
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cV4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新しいチャンネルありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3ad7ad8f-4f7d-42f8-ba22-8ee86d2a4c6e",
+    "team": "T6WULA63S",
+    "text": "新しいチャンネルありがとうございます。",
+    "ts": "1539172903.000100",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vIHpG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " クラウドファンディングのチャネルを新しく作りました。メンバーは森田君、中瀬君、私です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2f197a71-d6cd-47df-ae49-e6c16f878148",
+    "team": "T6WULA63S",
+    "text": "<!channel> クラウドファンディングのチャネルを新しく作りました。メンバーは森田君、中瀬君、私です。",
+    "ts": "1539172830.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "purpose": "クラウドファンディング",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: クラウドファンディング",
+    "ts": "1539172769.000500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U9KDDTMPZ> has joined the channel",
+    "ts": "1539172769.000400",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1539172769.000200",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1539172768.000200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

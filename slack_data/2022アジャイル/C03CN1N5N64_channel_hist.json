@@ -1,0 +1,4702 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "mK6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、なんか MOMのGithubで、Google APIへのキーがそのまま書かれているところがあって、危ないので、キーをなにかの変数にしておいて、コメントで、ここを実際のキーで代えてくださいというコメントを載せておいていただけないでしょうか。ここって佐々木さんがやってくれたところでしょうか。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH290Y2X"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cb8244be-06c1-4e1d-a235-7628796e34df",
+    "is_locked": false,
+    "latest_reply": "1679551001.151439",
+    "reply_count": 2,
+    "reply_users": [
+      "U02GH290Y2X",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すいません、なんか MOMのGithubで、Google APIへのキーがそのまま書かれているところがあって、危ないので、キーをなにかの変数にしておいて、コメントで、ここを実際のキーで代えてくださいというコメントを載せておいていただけないでしょうか。ここって佐々木さんがやってくれたところでしょうか。<@U02GH290Y2X>",
+    "thread_ts": "1679547553.224659",
+    "ts": "1679547553.224659",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RPvSC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一年間ありがとうございましたという所なんですが、ストーリーポイント付けてない方はそこだけ付けてください…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8c9d14d6-a0ad-4660-b16d-352b9d39d028",
+    "team": "T6WULA63S",
+    "text": "一年間ありがとうございましたという所なんですが、ストーリーポイント付けてない方はそこだけ付けてください…",
+    "ts": "1677490109.164849",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KZ0x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a9f29e8-3f0f-4eb2-8249-8bdb41d772d6",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U02GH21BWSE",
+          "U02GK7DPF8C",
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ありがとうございました",
+    "ts": "1677483003.988959",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L5dRj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1年間、有難うございました！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3bdde5a-420e-4199-ae8f-4fa05da20d8f",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U02GE1XMN4V",
+          "U02GK7DPF8C",
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "1年間、有難うございました！",
+    "ts": "1677479878.701029",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3W9r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アンケート3\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe5si_XmNB71ZHmkE-5ilYv5xaUb6acE4DeY079G8GVc8MagA/viewform?usp=sf_link"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7e8cf8fc-ded7-412d-b630-67f6ae3ba8f5",
+    "team": "T6WULA63S",
+    "text": "アンケート3\n<https://docs.google.com/forms/d/e/1FAIpQLSe5si_XmNB71ZHmkE-5ilYv5xaUb6acE4DeY079G8GVc8MagA/viewform?usp=sf_link>",
+    "ts": "1676260173.052879",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m81qU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アンケート2\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdZZPh6ag5lXSnEu8bEklnlDBV4W-fKxogbyVh_vXn8iLofNw/viewform?usp=sf_link"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c6a0ea1-25d4-43f5-82a5-194ba2dc709c",
+    "team": "T6WULA63S",
+    "text": "アンケート2\n<https://docs.google.com/forms/d/e/1FAIpQLSdZZPh6ag5lXSnEu8bEklnlDBV4W-fKxogbyVh_vXn8iLofNw/viewform?usp=sf_link>",
+    "ts": "1676260155.054639",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UThwb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アンケート1\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdicdDcSKU0P12gt7oxaFiOWkV2q1Jr81LwfGX1VIiN1dPB6A/viewform?usp=sf_link"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9bd46697-5487-4b32-85e1-fdd38e1e85f8",
+    "team": "T6WULA63S",
+    "text": "アンケート1\n<https://docs.google.com/forms/d/e/1FAIpQLSdicdDcSKU0P12gt7oxaFiOWkV2q1Jr81LwfGX1VIiN1dPB6A/viewform?usp=sf_link>",
+    "ts": "1676260122.622329",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7L3t3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。アンケート自体は1人ずつではなく、全員でその場でやってもらいます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17f44097-bfd2-40e4-92a2-2b2d602e9e38",
+    "team": "T6WULA63S",
+    "text": "すみません。アンケート自体は1人ずつではなく、全員でその場でやってもらいます。",
+    "ts": "1676008417.298539",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vyP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 開発チームの皆様お疲れ様です。\n僕の卒業研究の一環として、開発に関わった人にアンケートを取ろうと考えています。\nアンケートの種類は2種類で、定量的アンケート（Googleフォームにて5段階評価）と定性的アンケート（対面もしくはオンラインでインタビュー）を予定しています。\n\n定量的アンケートですが、項目数が多く（46個）、アンケート結果の品質を保つために、次回のミーティング（2/13 月）後に30分〜1時間程度で実施したいと考えていますが、皆様のご都合はいかがでしょうか？\n\n大丈夫な人は",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              },
+              {
+                "text": "で、予定がある人は返信をください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "870bd58c-3ef5-4bdb-95d4-a7a782efd00d",
+    "edited": {
+      "ts": "1676005423.000000",
+      "user": "U02GE1XMN4V"
+    },
+    "reactions": [
+      {
+        "count": 5,
+        "name": "+1",
+        "users": [
+          "U02GE1XMN4V",
+          "U02GH21BWSE",
+          "U02GH290Y2X",
+          "U02GA9DKAES",
+          "U011D5HFK7H"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> 開発チームの皆様お疲れ様です。\n僕の卒業研究の一環として、開発に関わった人にアンケートを取ろうと考えています。\nアンケートの種類は2種類で、定量的アンケート（Googleフォームにて5段階評価）と定性的アンケート（対面もしくはオンラインでインタビュー）を予定しています。\n\n定量的アンケートですが、項目数が多く（46個）、アンケート結果の品質を保つために、次回のミーティング（2/13 月）後に30分〜1時間程度で実施したいと考えていますが、皆様のご都合はいかがでしょうか？\n\n大丈夫な人は:+1:で、予定がある人は返信をください。",
+    "ts": "1676005311.387909",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HYOg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分の想定していたのは前者ですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5e97179e-47f5-46f1-b1a2-8e144e311c39",
+    "is_locked": false,
+    "latest_reply": "1675745111.232589",
+    "reply_count": 1,
+    "reply_users": [
+      "U02GH290Y2X"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "自分の想定していたのは前者ですね",
+    "thread_ts": "1675734085.535289",
+    "ts": "1675734085.535289",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e32",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": "\nお疲れ様です。\n「会話の一部がPDF化されない」に関しての質問で、\n一枚目の写真を想像していたのですが、もしかして2枚目の写真だったりしますか?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d398e528-f92f-4e94-a922-c134c6d1a55d",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04NBQ3TK5H",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04MXBR1R6K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U02GK7DPF8C> <@U02GA9DKAES>\nお疲れ様です。\n「会話の一部がPDF化されない」に関しての質問で、\n一枚目の写真を想像していたのですが、もしかして2枚目の写真だったりしますか?",
+    "ts": "1675734037.450759",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5d/+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です！有難うございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9dbafb57-ac98-4d23-995b-ba33ce0ae329",
+    "team": "T6WULA63S",
+    "text": "了解です！有難うございます。",
+    "ts": "1675590005.975609",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jV3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。月曜日に行います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "eb5adee7-4141-418e-ac37-5babaaaabcf2",
+    "team": "T6WULA63S",
+    "text": "すみません。月曜日に行います。",
+    "ts": "1675589575.220869",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rrP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": "\nお疲れ様です。次回MOMは結局、月曜と火曜、どっちで行うか教えていただきたいです...！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f6e9d07-881a-49d6-a6ca-7b31a0c66418",
+    "team": "T6WULA63S",
+    "text": "<@U02GE1XMN4V>\nお疲れ様です。次回MOMは結局、月曜と火曜、どっちで行うか教えていただきたいです...！",
+    "ts": "1675589490.528529",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "client_msg_id": "7ebcc824-4c76-4a50-abbb-3851aae88525",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04N2P3F601",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1675328540.845999",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "client_msg_id": "83fa27a3-ad80-4635-b275-76e4fbc3342f",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04N2MDMBA5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1675327942.771859",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "66P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Test",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "840fe672-e00d-49fd-a9ed-4c8f03db99d5",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04LYU7KXNH",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "Test",
+    "ts": "1675048912.378699",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "client_msg_id": "91183034-4eae-40d3-ba59-2756705565b6",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04LMA6TMMM",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1675048414.182129",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RaZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "MOM_dmg",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b7330f46-0d48-440b-9e8e-eec25911a11d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "F04LV87NYH4",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "MOM_dmg",
+    "ts": "1675048310.217089",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SOw9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/CSTmatsunolab/gigiroku2/tree/onsei_branches/Speech%20Minutes%202022"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "23bc67db-7bcf-4093-8b6e-4164911e0697",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/CSTmatsunolab/gigiroku2/tree/onsei_branches/Speech%20Minutes%202022>",
+    "ts": "1675048201.423639",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lZxZR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "MOM(Loading_ver)\nZipなし\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/u/0/folders/1MOxC69UCE4D1segCXtbTEw4t_3f0aZQh"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "559f5343-bbd4-4eb7-b1b7-ffb433b98f8b",
+    "team": "T6WULA63S",
+    "text": "MOM(Loading_ver)\nZipなし\n<https://drive.google.com/drive/u/0/folders/1MOxC69UCE4D1segCXtbTEw4t_3f0aZQh>",
+    "ts": "1675044121.711359",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2=o",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "MOM(Loading_ver)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6555bb1-1be0-4103-be10-e5a84c5ccca8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04M1GLRN3V",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "MOM(Loading_ver)",
+    "ts": "1675043178.637139",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VwqAs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/13F7K10rKQEPWWCU77YEMGgIeEpwdY1buaJWlf8_k5A4/edit?resourcekey#gid=1457421430"
+              },
+              {
+                "text": "\n3年生の被験者実験のアンケート回答",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a036d1fa-378b-448f-afcc-d2a2098394b6",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/spreadsheets/d/13F7K10rKQEPWWCU77YEMGgIeEpwdY1buaJWlf8_k5A4/edit?resourcekey#gid=1457421430>\n3年生の被験者実験のアンケート回答",
+    "ts": "1674450587.855389",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8UAvr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回のMOMですが、2限（10:40）から、僕と鳥谷部くんがテストがあるので、3限に実施したいのですが、皆様大丈夫でしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2f92e424-72df-49c1-8d37-93b97e348cb0",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "+1",
+        "users": [
+          "U02GH290Y2X",
+          "U02GA9DKAES",
+          "U02GH21BWSE"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "bow",
+        "users": [
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "次回のMOMですが、2限（10:40）から、僕と鳥谷部くんがテストがあるので、3限に実施したいのですが、皆様大丈夫でしょうか？",
+    "ts": "1674012633.396559",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ifoH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。なんかネットワークが安定しないので、別の端末で入ります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "008E0F8B-7E3F-4FF9-894E-A70782469CE4",
+    "team": "T6WULA63S",
+    "text": "すみません。なんかネットワークが安定しないので、別の端末で入ります。",
+    "ts": "1673833421.782859",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6YJEF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ咳が出るので、念のためオンラインで参加します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9346D4D8-BE54-4C7A-8254-96371973FE37",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "まだ咳が出るので、念のためオンラインで参加します。",
+    "ts": "1673829507.829509",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "app_id": "A04E6JX41",
+    "blocks": [
+      {
+        "accessory": {
+          "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).PollMessageOverflowMenu()",
+          "options": [
+            {
+              "text": {
+                "emoji": true,
+                "text": "Settings",
+                "type": "plain_text"
+              },
+              "value": "settings"
+            }
+          ],
+          "type": "overflow"
+        },
+        "block_id": "s3Bb",
+        "text": {
+          "text": "*どの背景が良いか*",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "mIwT",
+        "elements": [
+          {
+            "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).VotingButton(0)",
+            "text": {
+              "emoji": true,
+              "text": "1",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "one"
+          },
+          {
+            "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).VotingButton(1)",
+            "text": {
+              "emoji": true,
+              "text": "2",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "two"
+          },
+          {
+            "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).VotingButton(2)",
+            "text": {
+              "emoji": true,
+              "text": "3",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "three"
+          },
+          {
+            "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).VotingButton(3)",
+            "text": {
+              "emoji": true,
+              "text": "4",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "four"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "Q0FCv",
+        "fields": [
+          {
+            "text": "1  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "2  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "Pd2",
+        "fields": [
+          {
+            "text": "3  \n\n`████████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  50% (2)\n\n<@U02GA9DKAES>, <@U02GK7DPF8C>",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "4  \n\n`████████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  50% (2)\n\n<@U02GH21BWSE>, <@U02GH290Y2X>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "S1tq",
+        "elements": [
+          {
+            "text": "*Total Votes*: 4",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "lVmN",
+        "elements": [
+          {
+            "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).AddCommentButton",
+            "text": {
+              "emoji": true,
+              "text": "Add a Comment",
+              "type": "plain_text"
+            },
+            "type": "button"
+          },
+          {
+            "action_id": "PollMessage(9EyavcxG9TQ6P3pr3).ViewAllResponsesButton",
+            "text": {
+              "emoji": true,
+              "text": "View All Responses ",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "Epic",
+        "type": "divider"
+      },
+      {
+        "block_id": "pPxU",
+        "elements": [
+          {
+            "text": "Sender: @鳥谷部 航 (toriyabe) | :unlock: *Responses:* Non-Anonymous | *:clock930: Closes: *<!date^1673930152^{date_short} at {time}|Jan 17, 2023 at 04:35 AM>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "edited": {
+      "ts": "1673325462.000000",
+      "user": "BA40WBXLG"
+    },
+    "subtype": "bot_message",
+    "text": "<@U02GK7DPF8C> has a polly for you!",
+    "ts": "1673325354.023039",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/uej+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1ibPORtdrk1VSp9Ot10ifgYFLHscwG0M_vLbht7rr3wI/edit#slide=id.g1cb6a4d6f81_0_8"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c99ffcbc-008b-4e23-9ec9-dfbfa036f735",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/1ibPORtdrk1VSp9Ot10ifgYFLHscwG0M_vLbht7rr3wI/edit#slide=id.g1cb6a4d6f81_0_8>",
+    "ts": "1673325332.964649",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I87YF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日のゼミですが、申し訳ないのですが僕が風邪を引いてしまったので、代わりは鳥谷部くんお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8E874E30-91CF-4370-BCB6-A6E5FE9C93B6",
+    "is_locked": false,
+    "latest_reply": "1673252758.530019",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C",
+          "U02GH21BWSE"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U02GH21BWSE"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "明日のゼミですが、申し訳ないのですが僕が風邪を引いてしまったので、代わりは鳥谷部くんお願いします。",
+    "thread_ts": "1673229720.327979",
+    "ts": "1673229720.327979",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OTF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あけましておめでとうございます！\n次回MOMは1/10(火)の3限に行います。よろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5505191e-765f-495a-b90b-c12fc9368239",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あけましておめでとうございます！\n次回MOMは1/10(火)の3限に行います。よろしくお願いいたします。",
+    "ts": "1673097473.079139",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "client_msg_id": "2ecc4099-dad9-4d22-ac71-158116415ee3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04EMGTEWPP",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1670810493.226549",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o62aq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "月曜日は参加できず、申し訳ありませんでした。体調はそれなりに良くなりましたので、明日のデイリースクラムから参加します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "77edda5e-b928-4e13-8e73-0975ce9d801d",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "月曜日は参加できず、申し訳ありませんでした。体調はそれなりに良くなりましたので、明日のデイリースクラムから参加します",
+    "ts": "1670317131.741659",
+    "type": "message",
+    "user": "U02GA9DKAES"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fxrfn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、樋口くんがワクチン接種直後でお休みですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0581eb3c-133f-4b87-94fa-f8dc311c175a",
+    "team": "T6WULA63S",
+    "text": "あと、樋口くんがワクチン接種直後でお休みですね",
+    "ts": "1670198406.034679",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l=C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、今日はクリニックに行くので遅れるので、先に進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "20c00da6-786d-4af9-8691-dd088c772f45",
+    "team": "T6WULA63S",
+    "text": "すいません、今日はクリニックに行くので遅れるので、先に進めてください",
+    "ts": "1670198349.216419",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "client_msg_id": "c37a0626-c293-433a-9905-e5d8f7f9f366",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04C77V5GKH",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1669598789.312899",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/@user-dx4qj2ud7t",
+        "author_name": "マツノユタカ",
+        "fallback": "YouTube Video: jamDemo",
+        "from_url": "https://www.youtube.com/watch?v=oTYlHfCflYw",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=oTYlHfCflYw",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/oTYlHfCflYw/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "jamDemo",
+        "title_link": "https://www.youtube.com/watch?v=oTYlHfCflYw",
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/oTYlHfCflYw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"jamDemo\"></iframe>",
+        "video_html_height": 300,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "G5xr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "安藤くんがゲームジャムで作ったゲーム\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=oTYlHfCflYw"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ab43048e-df47-49bc-99cc-c1f502b2c967",
+    "team": "T6WULA63S",
+    "text": "安藤くんがゲームジャムで作ったゲーム\n<https://www.youtube.com/watch?v=oTYlHfCflYw>",
+    "ts": "1669598734.230209",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kpX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大変すいません、今日はクリニックに行くので遅れるので、先に進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e16b7b4f-ed22-44a7-b372-817f323edf87",
+    "team": "T6WULA63S",
+    "text": "大変すいません、今日はクリニックに行くので遅れるので、先に進めてください",
+    "ts": "1667776504.577339",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jQhC1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません少し遅れます。先に進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58C5CF26-4E6A-4BC7-8567-7A833395871F",
+    "team": "T6WULA63S",
+    "text": "すいません少し遅れます。先に進めてください",
+    "ts": "1667180559.492899",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iDf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\n\nMlabDriveに共有していた被験者実験に関する資料（シューティングピンボールゲームの引き継ぎ資料、被験者実験の問題内容等）ですが、3年生からの観覧を避けるために個人のドライブへ移動いたしました。\n\n誤爆が怖いため、必要な方は個人でDM頂ければPDFに変換したものを共有します。\nまた、Googleスライドで読みたい方は共有のリクエストを頂ければ、順次許可します。\nお手数をおかけしますが、よろしくお願いいたします。\nーーーーーーーーーーーーーーーーーーーーーーー\n●引き継ぎ資料_シューティングピンボール\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1bdCa1EpelujzesY4wFUqlvvc1Mihs40W56Eq2vqKUK8/edit#slide=id.p"
+              },
+              {
+                "text": "\n●3年ゼミによる被験者実験の概要と問題の解答\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1PqEb3zlaJbSP-rr0Sv1-otwqeJeJh_RT1RujBOQUqXc/edit#slide=id.p"
+              },
+              {
+                "text": "\n●被験者実験の問題（前半）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1DOzb4vc4sW1Cy_jTYbEsEPUQa45DNbIqBpmaN60V9wU/edit#slide=id.p"
+              },
+              {
+                "text": "\n●被験者実験の問題（後半）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1amvuoKRfoulVgirodFMKXJXFhMqIf5IyqpmYD61Pt5o/edit#slide=id.g161615db961_0_85"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3475257a-fbb6-45d5-be0b-444ac7593eca",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様です。\n\nMlabDriveに共有していた被験者実験に関する資料（シューティングピンボールゲームの引き継ぎ資料、被験者実験の問題内容等）ですが、3年生からの観覧を避けるために個人のドライブへ移動いたしました。\n\n誤爆が怖いため、必要な方は個人でDM頂ければPDFに変換したものを共有します。\nまた、Googleスライドで読みたい方は共有のリクエストを頂ければ、順次許可します。\nお手数をおかけしますが、よろしくお願いいたします。\nーーーーーーーーーーーーーーーーーーーーーーー\n●引き継ぎ資料_シューティングピンボール\n<https://docs.google.com/presentation/d/1bdCa1EpelujzesY4wFUqlvvc1Mihs40W56Eq2vqKUK8/edit#slide=id.p>\n●3年ゼミによる被験者実験の概要と問題の解答\n<https://docs.google.com/presentation/d/1PqEb3zlaJbSP-rr0Sv1-otwqeJeJh_RT1RujBOQUqXc/edit#slide=id.p>\n●被験者実験の問題（前半）\n<https://docs.google.com/presentation/d/1DOzb4vc4sW1Cy_jTYbEsEPUQa45DNbIqBpmaN60V9wU/edit#slide=id.p>\n●被験者実験の問題（後半）\n<https://docs.google.com/presentation/d/1amvuoKRfoulVgirodFMKXJXFhMqIf5IyqpmYD61Pt5o/edit#slide=id.g161615db961_0_85>",
+    "ts": "1666589666.632379",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sf=gZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。10/24（月）に免許の更新にいくとになったので、その日はオンラインでも参加できません。",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "申し訳ないですが僕の代わりに鳥谷部くんにプロダクトオーナーの代わりを任せます。よろしくお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5950031E-2DA2-43B1-AAE6-E3211A8E6A4E",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U02GH21BWSE",
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すみません。10/24（月）に免許の更新にいくとになったので、その日はオンラインでも参加できません。\n申し訳ないですが僕の代わりに鳥谷部くんにプロダクトオーナーの代わりを任せます。よろしくお願いします",
+    "ts": "1666492948.101429",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2Zmc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1z8TsQWtpx-eEH8aqOukf120Lmw5tQNf74Wu-GsRHNA8/edit#slide=id.p1"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3bbd2c04-5baf-411f-a0fe-aa9f0d00b2da",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F03QQAL2GPJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://docs.google.com/presentation/d/1z8TsQWtpx-eEH8aqOukf120Lmw5tQNf74Wu-GsRHNA8/edit#slide=id.p1>",
+    "ts": "1665719379.317889",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F03QQAL2GPJ"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L2a6a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=12--IB1ktrMGppamNqx-tTwAr-3ca_JSR&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8dffe954-2d52-4d8e-9880-b57a66da2572",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "F046VLSJS8Z",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://drive.google.com/open?id=12--IB1ktrMGppamNqx-tTwAr-3ca_JSR&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>",
+    "ts": "1665719263.495009",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F046VLSJS8Z"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wi3R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんちょっと繋がりにくいので先に進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BDFF63D5-DE16-4E6B-879E-E8DFC62776A7",
+    "team": "T6WULA63S",
+    "text": "すいませんちょっと繋がりにくいので先に進めてください",
+    "ts": "1665366495.912719",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "diii",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんだとすると予定通り10時40分からお願いします。佐々木さんが急用で参加できないそうでず",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "805B8C08-AB78-4FAD-BB69-5B74856C6D47",
+    "team": "T6WULA63S",
+    "text": "すいませんだとすると予定通り10時40分からお願いします。佐々木さんが急用で参加できないそうでず",
+    "ts": "1665365277.476399",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IlBh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バイトが14:40~20:00まであります、すみません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80b04a57-fb2f-46a9-9cb7-e92608c71ee7",
+    "team": "T6WULA63S",
+    "text": "バイトが14:40~20:00まであります、すみません",
+    "ts": "1665365131.503179",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OI0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "承知いたしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "acaaddd9-dba4-465e-9f89-6d1047c920c7",
+    "team": "T6WULA63S",
+    "text": "承知いたしました。",
+    "ts": "1665364618.439179",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kQO9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいませんでは2時からお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05D71AAA-234B-4A8E-9DB5-C16CAA141637",
+    "team": "T6WULA63S",
+    "text": "すいませんでは2時からお願いします",
+    "ts": "1665364337.027859",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "u/LY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。用事があるため16時までであれば参加できます。\nよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bef4012e-6339-4998-bc27-4748f13315a3",
+    "team": "T6WULA63S",
+    "text": "すみません。用事があるため16時までであれば参加できます。\nよろしくお願いいたします。",
+    "ts": "1665362795.088879",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SgssS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "僕は問題ないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "456EEEB0-A3BA-408C-B6E7-27363829EC47",
+    "team": "T6WULA63S",
+    "text": "僕は問題ないです。",
+    "ts": "1665356529.052469",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mJARI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "午前中でも、主に聞いていることはできます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5828c3d6-3040-4c72-9f31-786bde723f22",
+    "team": "T6WULA63S",
+    "text": "午前中でも、主に聞いていることはできます",
+    "ts": "1665355988.644089",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HlWC=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、今日のゼミですが、午後の方が都合がよくなったのですが、午後３時ごろに変更できるでしょうか。急ですいません",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8d55c949-6321-4dff-9fab-25b5fad4a433",
+    "team": "T6WULA63S",
+    "text": "すいません、今日のゼミですが、午後の方が都合がよくなったのですが、午後３時ごろに変更できるでしょうか。急ですいません<!channel>",
+    "ts": "1665355756.677689",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VQ1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "10/10(月・祝)は今の所オンラインで稼働予定",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "382f92c6-f4f2-498e-a8f4-d699200faa06",
+    "team": "T6WULA63S",
+    "text": "10/10(月・祝)は今の所オンラインで稼働予定",
+    "ts": "1665116298.739299",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pocb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダーにMOMがなかったので、今から作ります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e81435a8-cce5-448b-a59e-9e4a9726a26d",
+    "team": "T6WULA63S",
+    "text": "カレンダーにMOMがなかったので、今から作ります",
+    "ts": "1664939707.414409",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ear",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。\n11:15分頃にmeetに入ります。よろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac8fabfa-c368-491c-99f3-2025be2e4eb2",
+    "team": "T6WULA63S",
+    "text": "すみません。\n11:15分頃にmeetに入ります。よろしくお願いいたします。",
+    "ts": "1664157380.327719",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: Macにおけるバックスラッシュ（\\）の入力方法 - Qiita",
+        "from_url": "https://qiita.com/miyohide/items/6cb8967282d4b2db0f61",
+        "id": 1,
+        "image_bytes": 44197,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9TWFjJUUzJTgxJUFCJUUzJTgxJThBJUUzJTgxJTkxJUUzJTgyJThCJUUzJTgzJTkwJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgzJUE5JUUzJTgzJTgzJUUzJTgyJUI3JUUzJTgzJUE1JUVGJUJDJTg4JTVDJUVGJUJDJTg5JUUzJTgxJUFFJUU1JTg1JUE1JUU1JThBJTlCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1hNzE5YTcxZDliMjZjMTljYjM4ZTczNWUwNjY1MTQ2Nw&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWl5b2hpZGUmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTU1ZTcxYmM5OTRiODM4ZWQ3ZGE5MmFjY2VkNDI2ZDEw&blend-x=142&blend-y=491&blend-mode=normal&s=2192afd952fb9fb10ae93a24de0ae38f",
+        "image_width": 476,
+        "original_url": "https://qiita.com/miyohide/items/6cb8967282d4b2db0f61",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "はじめに この投稿は、macOSをJISキーボードで使っている時、プログラミングでよく使われるバックスラッシュ（\\）を入力するための方法を記しています。 環境 macOS10.13.6で動作確認を行っています。 Goog...",
+        "title": "Macにおけるバックスラッシュ（\\）の入力方法 - Qiita",
+        "title_link": "https://qiita.com/miyohide/items/6cb8967282d4b2db0f61"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "OtONg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/miyohide/items/6cb8967282d4b2db0f61"
+              },
+              {
+                "text": "\nmacでバックスラッシュを打つやり方",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "313a4a84-1b63-4f64-85cd-e863c08ddd5b",
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/miyohide/items/6cb8967282d4b2db0f61>\nmacでバックスラッシュを打つやり方",
+    "ts": "1663823602.567829",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jGI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 9/21（水）10:15よりデイリースクラムを行うので、忘れずに参加してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c21f5f9b-17ba-4479-8434-b46bac19f45f",
+    "team": "T6WULA63S",
+    "text": "<!channel> 9/21（水）10:15よりデイリースクラムを行うので、忘れずに参加してください",
+    "ts": "1663648846.120959",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Iw6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日のゼミは、激しい雨が予想されるので、基本オンライン参加で大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73C07A6A-321D-4621-89B7-60919CBF3116",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C",
+          "U02GH21BWSE",
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日のゼミは、激しい雨が予想されるので、基本オンライン参加で大丈夫です",
+    "ts": "1663472227.799999",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xAbGV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 9/16 10時15分よりデイリースクラムを行うので、忘れずに参加してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5dcec1ca-9177-4419-a1a4-4224fe5e8f02",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH21BWSE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> 9/16 10時15分よりデイリースクラムを行うので、忘れずに参加してください。",
+    "ts": "1663252502.173349",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MBewi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "10時15分よりデイリースクラムを行うので、忘れずに参加してください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F383CB74-C1E5-49D3-AD46-9C6BF9D61CDC",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "10時15分よりデイリースクラムを行うので、忘れずに参加してください",
+    "ts": "1663115570.769999",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jw8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "前の全体会議の時、自分は参加でも不参加でもどっちでもいいみたいな流れ？だったと思うんすけど、結局参加した方がいいんですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62660461-A272-46FC-B03E-364D26A780DF",
+    "is_locked": false,
+    "latest_reply": "1662813572.733109",
+    "reply_count": 1,
+    "reply_users": [
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "前の全体会議の時、自分は参加でも不参加でもどっちでもいいみたいな流れ？だったと思うんすけど、結局参加した方がいいんですか？",
+    "thread_ts": "1662803572.752139",
+    "ts": "1662803572.752139",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k28vG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 9/12(月) 10:40よりMOMのミーティングを行います。初回ですが、前期と同じように行いたいと思うので、現地が望ましいです。よろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EFC9756D-7E63-4CB3-9B49-F25F310E9A96",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C",
+          "U02GH21BWSE",
+          "U02GH290Y2X"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> 9/12(月) 10:40よりMOMのミーティングを行います。初回ですが、前期と同じように行いたいと思うので、現地が望ましいです。よろしくお願いします。",
+    "ts": "1662785896.978899",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "C5y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GH21BWSE"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH290Y2X"
+              },
+              {
+                "text": "\nエラーの件ですが、何もしていませんがなぜか直ったので、明日以降も運が良ければ実演できそうです。\nできなければ動画を流すようにしてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84a0528d-1a9b-47f0-b6b0-45fc4cb3e500",
+    "is_locked": false,
+    "latest_reply": "1659604329.297229",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK",
+          "U02GH21BWSE",
+          "U02GH290Y2X"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GA9DKAES"
+        ]
+      }
+    ],
+    "reply_count": 2,
+    "reply_users": [
+      "U02GE1XMN4V",
+      "U02GH21BWSE"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U02GH21BWSE> <@U02GA9DKAES> <@U02GH290Y2X>\nエラーの件ですが、何もしていませんがなぜか直ったので、明日以降も運が良ければ実演できそうです。\nできなければ動画を流すようにしてください。",
+    "thread_ts": "1659597465.032099",
+    "ts": "1659597465.032099",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jql",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Recv_Master_Room_CreateResult result=Over capacity to allowed create maximum room.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fcc4dae8-6441-412d-a23d-d73302f607b0",
+    "team": "T6WULA63S",
+    "text": "Recv_Master_Room_CreateResult result=Over capacity to allowed create maximum room.",
+    "ts": "1659594660.198319",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Lw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "DirectoryNotFoundException: Could not find a part of the path “/private/var/folders/_g/4h_9q0l5267fl7twyb4j2rmc0000gn/T/AppTranslocation/E6794104-B1AF-427D-A8AA-09F4B97989A2/d/MOM.app/Contents/MargeCSVLogFiles/MargeCSVLogFile0.csv”.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1a565fcc-0480-4787-b884-0c25de67daf0",
+    "team": "T6WULA63S",
+    "text": "DirectoryNotFoundException: Could not find a part of the path “/private/var/folders/_g/4h_9q0l5267fl7twyb4j2rmc0000gn/T/AppTranslocation/E6794104-B1AF-427D-A8AA-09F4B97989A2/d/MOM.app/Contents/MargeCSVLogFiles/MargeCSVLogFile0.csv”.",
+    "ts": "1659594636.840639",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NdVT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "UnauthorizedAccessException: Access to the path “/private/var/folders/_g/4h_9q0l5267fl7twyb4j2rmc0000gn/T/AppTranslocation/E6794104-B1AF-427D-A8AA-09F4B97989A2/d/MOM.app/Contents/Resources/Data/StreamingAssets/LogDatas/LogData.txt” is denied.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8784f0fb-2171-4c2f-81f8-e94518779b6e",
+    "team": "T6WULA63S",
+    "text": "UnauthorizedAccessException: Access to the path “/private/var/folders/_g/4h_9q0l5267fl7twyb4j2rmc0000gn/T/AppTranslocation/E6794104-B1AF-427D-A8AA-09F4B97989A2/d/MOM.app/Contents/Resources/Data/StreamingAssets/LogDatas/LogData.txt” is denied.",
+    "ts": "1659594611.694949",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2D1GP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Open Log Fileから",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a1240b21-5122-4d8a-8cf8-7177464a079d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F03SCGN2Q12",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "Open Log Fileから",
+    "ts": "1659593095.041389",
+    "type": "message",
+    "upload": false,
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "client_msg_id": "527a9dab-363f-45c4-9c7b-4d49f086a8ba",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "binary",
+        "id": "F03SCGHA77W",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1659592983.694859",
+    "type": "message",
+    "upload": false,
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MBn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "前オーキャンで使用したビルド済みアプリ版のPlayer.log",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "55c73bd1-c67b-4572-ad23-fc6f5590e726",
+    "is_locked": false,
+    "latest_reply": "1659592890.282869",
+    "reply_count": 1,
+    "reply_users": [
+      "U02GK7DPF8C"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "前オーキャンで使用したビルド済みアプリ版のPlayer.log",
+    "thread_ts": "1659592874.066969",
+    "ts": "1659592874.066969",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "M7e",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、\n22ページ目のMoMの動画が古いか存在しない、になっているので更新していただけないでしょうか。\n音声認識の動画は佐々木さん、ホワイトボード機能は鳥谷部君に作っていただけないでしょうか。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH290Y2X"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": "\n急ですいませんが、今月中にできたらお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4f30a150-4f27-4ad2-9996-df6284f178ca",
+    "edited": {
+      "ts": "1658904749.000000",
+      "user": "U6YLZUWAK"
+    },
+    "is_locked": false,
+    "latest_reply": "1659174029.936689",
+    "reply_count": 6,
+    "reply_users": [
+      "U02GH290Y2X",
+      "U6YLZUWAK",
+      "U02GK7DPF8C"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "text": "すいません、\n22ページ目のMoMの動画が古いか存在しない、になっているので更新していただけないでしょうか。\n音声認識の動画は佐々木さん、ホワイトボード機能は鳥谷部君に作っていただけないでしょうか。<@U02GH290Y2X> <@U02GK7DPF8C>\n急ですいませんが、今月中にできたらお願いします。",
+    "thread_ts": "1658904713.176009",
+    "ts": "1658904713.176009",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mx5hl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " すいません、3年生の紹介スライドに\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1z8TsQWtpx-eEH8aqOukf120Lmw5tQNf74Wu-GsRHNA8/edit#slide=id.g13f91b6e349_0_2"
+              },
+              {
+                "text": "\n9ページ目に、皆さんが昨年開発したUnityゲームアプリの動画を載せてほしいんですが、できますか。\nシューティングとピンボールアプリを左右に並べたいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2fe511d6-8591-4a80-a5f0-aeac0f5d0a31",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F03QQAL2GPJ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1658918670.512829",
+    "reply_count": 8,
+    "reply_users": [
+      "U02GE1XMN4V",
+      "U6YLZUWAK",
+      "U02H6LYKVDE"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "text": "<!channel> すいません、3年生の紹介スライドに\n<https://docs.google.com/presentation/d/1z8TsQWtpx-eEH8aqOukf120Lmw5tQNf74Wu-GsRHNA8/edit#slide=id.g13f91b6e349_0_2>\n9ページ目に、皆さんが昨年開発したUnityゲームアプリの動画を載せてほしいんですが、できますか。\nシューティングとピンボールアプリを左右に並べたいです。",
+    "thread_ts": "1658902105.392559",
+    "ts": "1658902105.392559",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F03QQAL2GPJ"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7Qxs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "音声認識の教科書です。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH290Y2X"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=12D9jIE3MAol896CURPCqTSMBjWbm1JnT&authuser=matsuno.yutaka%40nihon-u.ac.jp&usp=drive_fs"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cced1517-a616-4c97-8ee9-5f67a0c23992",
+    "is_locked": false,
+    "latest_reply": "1658820936.952669",
+    "reply_count": 3,
+    "reply_users": [
+      "U02GH290Y2X",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "音声認識の教科書です。<@U02GH290Y2X>\n<https://drive.google.com/open?id=12D9jIE3MAol896CURPCqTSMBjWbm1JnT&amp;authuser=matsuno.yutaka%40nihon-u.ac.jp&amp;usp=drive_fs>",
+    "thread_ts": "1658817268.440449",
+    "ts": "1658817268.440449",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a6wV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、なるへそです(月曜日にもあるって勘違いしてました)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3e4f883d-9981-4947-b686-fd7663da54d6",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あ、なるへそです(月曜日にもあるって勘違いしてました)",
+    "ts": "1658720732.674179",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ksg=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日のミーティング次第だと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "38f2d81f-3c6d-47d1-bce3-defe31fbb594",
+    "team": "T6WULA63S",
+    "text": "明日のミーティング次第だと思います",
+    "ts": "1658720677.574969",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dr3B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今週ってデイリースクラムないんでしたっけ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f712a598-b8fb-4550-9b59-67fbd0b11ba7",
+    "team": "T6WULA63S",
+    "text": "今週ってデイリースクラムないんでしたっけ",
+    "ts": "1658720545.497119",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OM9Ru",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "夏休みをどうするかのアンケートを作りました。来週の火曜日までに答えてください。匿名なので身バレはしないです。\n\n仮に開発を行うとしても、プライベート優先で緩くやると思います。1週間のうち、参加できない日があっても大丈夫です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d02c27a8-cb11-44b7-8887-55ae33768468",
+    "team": "T6WULA63S",
+    "text": "夏休みをどうするかのアンケートを作りました。来週の火曜日までに答えてください。匿名なので身バレはしないです。\n\n仮に開発を行うとしても、プライベート優先で緩くやると思います。1週間のうち、参加できない日があっても大丈夫です。",
+    "ts": "1658383010.811999",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "app_id": "A04E6JX41",
+    "blocks": [
+      {
+        "accessory": {
+          "action_id": "PollMessage(nYP9mJA3CpJeNEexh).PollMessageOverflowMenu()",
+          "options": [
+            {
+              "text": {
+                "emoji": true,
+                "text": "Settings",
+                "type": "plain_text"
+              },
+              "value": "settings"
+            }
+          ],
+          "type": "overflow"
+        },
+        "block_id": "asS",
+        "text": {
+          "text": "*夏休みに関して*\nYou may vote for multiple options",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "a8b9",
+        "elements": [
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).VotingButton(0)",
+            "text": {
+              "emoji": true,
+              "text": "1",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "one"
+          },
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).VotingButton(1)",
+            "text": {
+              "emoji": true,
+              "text": "2",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "two"
+          },
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).VotingButton(2)",
+            "text": {
+              "emoji": true,
+              "text": "3",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "three"
+          },
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).VotingButton(3)",
+            "text": {
+              "emoji": true,
+              "text": "4",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "four"
+          },
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).AddOptionButton",
+            "text": {
+              "emoji": true,
+              "text": "+ Add Option",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "ickX",
+        "fields": [
+          {
+            "text": "*1*: 月(ミーティング)　水（デイリースクラム）　金（デイリースクラム）  \n\n`██████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  25% (2)",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "*2*: 月(ミーティング)　水（デイリースクラム）　金（デイリースクラム） と休みを交互に繰り返す  \n\n`██████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  25% (2)",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "5sU=",
+        "fields": [
+          {
+            "text": "*3*: 開発はせずに休みたい  \n\n`████████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  50% (4)",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "*4*: その他の案  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "grr",
+        "elements": [
+          {
+            "text": "*Total Votes*: 8",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "LrMu",
+        "elements": [
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).AddCommentButton",
+            "text": {
+              "emoji": true,
+              "text": "Add a Comment",
+              "type": "plain_text"
+            },
+            "type": "button"
+          },
+          {
+            "action_id": "PollMessage(nYP9mJA3CpJeNEexh).ViewAllResponsesButton",
+            "text": {
+              "emoji": true,
+              "text": "View All Responses ",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "W09",
+        "type": "divider"
+      },
+      {
+        "block_id": "z7db",
+        "elements": [
+          {
+            "text": "Sender: @児玉英明 (kodama) | :lock: *Responses:* Anonymous | *:clock930: Closes: *<!date^1658987481^{date_short} at {time}|Jul 28, 2022 at 05:51 AM>\n\n:smile: Get insight on your meeting’s effectiveness with our <https://app.polly.ai/templates/?templateId=meeting-feedback&amp;utm_source=slack&amp;utm_medium=app&amp;utm_term=meeting-feedback-template|meeting feedback template>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "edited": {
+      "ts": "1658551415.000000",
+      "user": "BA40WBXLG"
+    },
+    "subtype": "bot_message",
+    "text": "<@U02GE1XMN4V> has a polly for you! Votes in this polly are anonymous :lock:.",
+    "ts": "1658382683.288989",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QQ=S2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "MOM紹介スライドについては、金曜のデイリースクラム後に話し合うと思います\n\n各々の要旨修正、開発状況を考慮したいので",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fcebcaf8-ad66-47d2-9b1a-8913bb82ec15",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "MOM紹介スライドについては、金曜のデイリースクラム後に話し合うと思います\n\n各々の要旨修正、開発状況を考慮したいので",
+    "ts": "1658207624.415649",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JqT/Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、この後に開発する予定の人(上記を除く)は、この文にリアクション(スタンプ)して欲しいです\n\nmasterから引っ張る時に異常があった場合、環境を統一した方がいいので念の為",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4b8c4a80-6d61-4b29-894e-95820f22d541",
+    "team": "T6WULA63S",
+    "text": "あと、この後に開発する予定の人(上記を除く)は、この文にリアクション(スタンプ)して欲しいです\n\nmasterから引っ張る時に異常があった場合、環境を統一した方がいいので念の為",
+    "ts": "1658207442.315339",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/ucu-yrua-cwn",
+        "id": 1,
+        "original_url": "https://meet.google.com/ucu-yrua-cwn",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/ucu-yrua-cwn"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Am+3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02H6LYKVDE"
+              },
+              {
+                "text": "\nmasterから引っ張る作業がしたいので、20分ごろからお願いします\n\n櫨山鳥谷部\n7月 19日 (火曜日) · 午後2:00～4:00\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/ucu-yrua-cwn"
+              },
+              {
+                "text": "\nダイヤルイン: ‪(US) +1 470-285-4277‬ PIN: ‪626 103 743‬#",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05ec225f-ca2f-4613-a0cd-776d456a7ea1",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U02GA9DKAES"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U02GA9DKAES> <@U02H6LYKVDE>\nmasterから引っ張る作業がしたいので、20分ごろからお願いします\n\n櫨山鳥谷部\n7月 19日 (火曜日) · 午後2:00～4:00\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: <https://meet.google.com/ucu-yrua-cwn>\nダイヤルイン: ‪(US) <tel:+1470-285-4277|+1 470-285-4277>‬ PIN: ‪626 103 743‬#",
+    "ts": "1658207359.085259",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iU+N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n今週15日（金）のデイリースクラムは行いません。\nご確認のほど、お願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2a77bbbb-3faa-4d4c-8cfb-9ea98a0e02cb",
+    "team": "T6WULA63S",
+    "text": "<!channel>\n今週15日（金）のデイリースクラムは行いません。\nご確認のほど、お願いいたします。",
+    "ts": "1657608920.137819",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NerXX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02H6LYKVDE"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "text": "ペアプロの記録動画についてなのですが、6/14以外の記録があればそれらもドライブに上げていただけると助かります！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "50622E52-C312-480B-AB9F-DEC1D05FF783",
+    "team": "T6WULA63S",
+    "text": "<@U02H6LYKVDE> <@U02GK7DPF8C> ペアプロの記録動画についてなのですが、6/14以外の記録があればそれらもドライブに上げていただけると助かります！",
+    "ts": "1657608775.126709",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qsh4/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n今週のMOMは、先週の報告と、要旨の作成をしてもらうので、開発はありません。\nなので明日は現地に来る必要はなく、オンラインで参加していただければ結構です。（来たければ来てもいいです）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9c658bd1-2154-43be-9fff-70f72486502d",
+    "edited": {
+      "ts": "1657531488.000000",
+      "user": "U02GE1XMN4V"
+    },
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U02GH21BWSE",
+          "U02GK7DPF8C",
+          "U02GA9DKAES"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel>\n今週のMOMは、先週の報告と、要旨の作成をしてもらうので、開発はありません。\nなので明日は現地に来る必要はなく、オンラインで参加していただければ結構です。（来たければ来てもいいです）",
+    "ts": "1657531468.099289",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bZw2T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "猫に伝えときます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5C246652-952C-4396-B8A8-DB4A0EAB1F67",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "猫に伝えときます",
+    "ts": "1655767181.757479",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4dK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かりました。お大事に",
+                "type": "text"
+              },
+              {
+                "text": "なさってください",
+                "type": "text"
+              },
+              {
+                "text": "。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4EB99DA8-651E-4845-82D2-EC2C0404E908",
+    "team": "T6WULA63S",
+    "text": "分かりました。お大事になさってください。",
+    "ts": "1655767154.143409",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uccp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと病院行くってなると",
+                "type": "text"
+              },
+              {
+                "text": "あんま",
+                "type": "text"
+              },
+              {
+                "text": "り開発の時間取れないかもです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "029A9CE1-4C49-4965-AD1F-8D13C602FF3E",
+    "team": "T6WULA63S",
+    "text": "あと病院行くってなるとあんまり開発の時間取れないかもです。",
+    "ts": "1655765257.915059",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "client_msg_id": "F37A9357-0A29-4356-B034-897A4BC16F97",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "F03L847ENK0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1655765153.689729",
+    "type": "message",
+    "upload": false,
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vfm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "猫なんか呼吸早",
+                "type": "text"
+              },
+              {
+                "text": "言って言うか不規則で",
+                "type": "text"
+              },
+              {
+                "text": "心配なんで、病院に連れてきたいんですけど、オンラインでも大丈夫ですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "683FDAAE-8B38-4FBB-A59C-720FD634B0CB",
+    "edited": {
+      "ts": "1655766051.000000",
+      "user": "U02H6LYKVDE"
+    },
+    "team": "T6WULA63S",
+    "text": "猫なんか呼吸早言って言うか不規則で心配なんで、病院に連れてきたいんですけど、オンラインでも大丈夫ですか？",
+    "ts": "1655765145.603289",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L7H5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、すみません。カレンダーの方に予定追加されてないですね。今追加します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b77bc7e8-c6c6-4d2a-a094-cb132a931798",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U02H6LYKVDE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あ、すみません。カレンダーの方に予定追加されてないですね。今追加します。",
+    "ts": "1655429122.765469",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8nX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜の13時で固定です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8edecd6f-31ec-44b4-a6d4-63d785368d79",
+    "team": "T6WULA63S",
+    "text": "金曜の13時で固定です",
+    "ts": "1655429088.940169",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qW0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デイリースクラムって金曜には",
+                "type": "text"
+              },
+              {
+                "text": "ない",
+                "type": "text"
+              },
+              {
+                "text": "んでしたっけ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "680D0E8F-59B5-4618-8F20-825E3A6F75D4",
+    "team": "T6WULA63S",
+    "text": "デイリースクラムって金曜にはないんでしたっけ？",
+    "ts": "1655393701.941989",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YlF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと参考になるかも\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1KCX5GuGkNckfuGuQvYeCSKnYux5ABiMVxYQAGJSMUWU/edit#slide=id.p11"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1e23c9ed-c59e-4f2f-beeb-2f4f88bf60b8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F03KS64A97C",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "text": "ちょっと参考になるかも\n<https://docs.google.com/presentation/d/1KCX5GuGkNckfuGuQvYeCSKnYux5ABiMVxYQAGJSMUWU/edit#slide=id.p11>",
+    "ts": "1655299680.532049",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "F03KS64A97C"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/4xl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、明日の午前のゼミですが、学生面談が入ったので、皆さんで進めてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5aaa4ef5-bafe-4544-92dd-b127979a7196",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません、明日の午前のゼミですが、学生面談が入ったので、皆さんで進めてください",
+    "ts": "1655084600.505359",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Hello Scrum: 【簡単解説】デイリースクラムの基本ルール・失敗例など",
+        "from_url": "https://do-scrum.com/daily/",
+        "id": 1,
+        "image_bytes": 79522,
+        "image_height": 250,
+        "image_url": "https://do-scrum.com/wp-content/uploads/2021/08/8d909e3fb2f210d8a83e98e9f69690a7-1.jpg",
+        "image_width": 405,
+        "original_url": "https://do-scrum.com/daily/",
+        "service_icon": "https://do-scrum.com/wp-content/uploads/2022/04/cropped-f98fbd02452949c29ab0b0f8d66b3661-180x180.png",
+        "service_name": "Hello Scrum",
+        "text": "スクラム開発における「デイリースクラム」の基本的なやり方を簡単解説！ デイリースクラムとは？基本ルールや失敗例、現場で役立つノウハウを紹介します。",
+        "title": "【簡単解説】デイリースクラムの基本ルール・失敗例など",
+        "title_link": "https://do-scrum.com/daily/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "EG84",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デイリースクラムの説明\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://do-scrum.com/daily/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ef5406c5-b449-4d88-b9fe-fea71fa9d752",
+    "team": "T6WULA63S",
+    "text": "デイリースクラムの説明\n<https://do-scrum.com/daily/>",
+    "ts": "1654834577.852809",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iF5I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "text": "明日は13時よりデイリースクラムがあるので、参加する方は忘れることないようお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DE9C2D32-65F1-47EC-A437-A959788DEB34",
+    "team": "T6WULA63S",
+    "text": "<!channel> 明日は13時よりデイリースクラムがあるので、参加する方は忘れることないようお願いします",
+    "ts": "1654778644.391119",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jiuy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " お聞きしたいのですが，火曜日の3限4限に全体ゼミや防災アプリ以外で用事が入ってる人っていますかね？\n\nある人は",
+                "type": "text"
+              },
+              {
+                "name": "-1",
+                "type": "emoji",
+                "unicode": "1f44e"
+              },
+              {
+                "text": "で，ない人は",
+                "type": "text"
+              },
+              {
+                "name": "+1",
+                "type": "emoji",
+                "unicode": "1f44d"
+              },
+              {
+                "text": "でリアクション取ってください．",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c3eef705-b5b6-4f32-82e9-8a8f6f792ba4",
+    "reactions": [
+      {
+        "count": 7,
+        "name": "+1",
+        "users": [
+          "U02GK7DPF8C",
+          "U02GH290Y2X",
+          "U02GH21BWSE",
+          "U02GE1XMN4V",
+          "U02H6LYKVDE",
+          "U03BF2S11QW",
+          "U02GA9DKAES"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> お聞きしたいのですが，火曜日の3限4限に全体ゼミや防災アプリ以外で用事が入ってる人っていますかね？\n\nある人は:-1:で，ない人は:+1:でリアクション取ってください．",
+    "ts": "1654321191.192599",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T94",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " デイリースクラムがあるのですが，まだ来ていない開発者の方は参加できますでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "16803e7d-d97c-4b89-a2ec-58442acc4b1f",
+    "team": "T6WULA63S",
+    "text": "<!channel> デイリースクラムがあるのですが，まだ来ていない開発者の方は参加できますでしょうか？",
+    "ts": "1654317135.509799",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gcH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうだね。ブランチだったりを作り直して、火曜に決めたことやった感じ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa3d66fd-6317-4bbb-8cd4-bb0f21a97783",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GK7DPF8C"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そうだね。ブランチだったりを作り直して、火曜に決めたことやった感じ",
+    "ts": "1654231528.976859",
+    "type": "message",
+    "user": "U02GA9DKAES"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KbTD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ普通に火曜に決めたことやったって感じ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9545c548-a39b-4b85-b9dd-3906bb66443b",
+    "team": "T6WULA63S",
+    "text": "じゃあ普通に火曜に決めたことやったって感じ？",
+    "ts": "1654231387.588559",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GEq/k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちがやったときは、議事録2をクローンしてからブランチ作ってから始めたよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "47841f0f-a4e8-4cd3-8be5-313f3bbc4f14",
+    "team": "T6WULA63S",
+    "text": "こっちがやったときは、議事録2をクローンしてからブランチ作ってから始めたよ",
+    "ts": "1654231330.211359",
+    "type": "message",
+    "user": "U02GA9DKAES"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WSFr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GH290Y2X"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": "\nmasterを修復みたいな話ってどうなりました？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ea015711-6a47-4d22-991a-8a8cf332e678",
+    "team": "T6WULA63S",
+    "text": "<@U02GH290Y2X> <@U02GA9DKAES>\nmasterを修復みたいな話ってどうなりました？",
+    "ts": "1654230819.117829",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "client_msg_id": "6853f20f-39cc-4ae5-8242-389e17a0ac8d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F03JPD5DCP2",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1654163675.223469",
+    "type": "message",
+    "upload": false,
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EEYZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デイリースクラム\n土曜日13:30",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "26fe6beb-1eea-49aa-9c01-8538daae887f",
+    "team": "T6WULA63S",
+    "text": "デイリースクラム\n土曜日13:30",
+    "ts": "1653966393.256659",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WsP=f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b7ff63c-588d-424d-b497-1f378947eee8",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1653890677.883799",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jJw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日のMOM(",
+                "type": "text"
+              },
+              {
+                "text": "と",
+                "type": "text"
+              },
+              {
+                "text": "防災)のゼミ",
+                "type": "text"
+              },
+              {
+                "text": "、",
+                "type": "text"
+              },
+              {
+                "text": "対面じゃなくてオンラインでの参加で",
+                "type": "text"
+              },
+              {
+                "text": "もいい",
+                "type": "text"
+              },
+              {
+                "text": "です",
+                "type": "text"
+              },
+              {
+                "text": "か？",
+                "type": "text"
+              },
+              {
+                "text": "後ろに予定があって",
+                "type": "text"
+              },
+              {
+                "text": "、",
+                "type": "text"
+              },
+              {
+                "text": "ゼミに行っても間に合うっちゃ間に合うのですが",
+                "type": "text"
+              },
+              {
+                "text": "、",
+                "type": "text"
+              },
+              {
+                "text": "出来れば余裕を持って行きたいのでよろしく",
+                "type": "text"
+              },
+              {
+                "text": "お願いします",
+                "type": "text"
+              },
+              {
+                "text": "。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C134193A-152B-45F2-940B-0E5FCD9659E4",
+    "team": "T6WULA63S",
+    "text": "明日のMOM(と防災)のゼミ、対面じゃなくてオンラインでの参加でもいいですか？後ろに予定があって、ゼミに行っても間に合うっちゃ間に合うのですが、出来れば余裕を持って行きたいのでよろしくお願いします。",
+    "ts": "1653890045.597179",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AIi9V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません到着遅れます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73335ACD-9E1E-47B2-90EC-0AE5533D3415",
+    "team": "T6WULA63S",
+    "text": "すみません到着遅れます",
+    "ts": "1653356285.467089",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EQA88",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n前日の連絡になり申し訳ありませんが，明日は主にスクラムの説明，MOMの現状確認を行います．余裕があれば先週のスプリントレビューを行います．\n\nこれは明日の説明に使う資料です．ざっと読んでおいてくれると助かります．\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1hcmWNSh1h6FKyjKUNWWODP0xsiRfF-ZmQJ4gzECA1zM/edit#slide=id.g129c9746d4f_0_28"
+              },
+              {
+                "text": "\n\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1tDTxYGKlYX9uvoY_N0w7_1j13Sie0OAxFwzg1Kio3EQ/edit#slide=id.g12ce1914b91_0_50"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "06249198-75d7-4e21-ad19-b4bda837ee0d",
+    "edited": {
+      "ts": "1653284214.000000",
+      "user": "U02GE1XMN4V"
+    },
+    "team": "T6WULA63S",
+    "text": "<!channel>\n前日の連絡になり申し訳ありませんが，明日は主にスクラムの説明，MOMの現状確認を行います．余裕があれば先週のスプリントレビューを行います．\n\nこれは明日の説明に使う資料です．ざっと読んでおいてくれると助かります．\n<https://docs.google.com/presentation/d/1hcmWNSh1h6FKyjKUNWWODP0xsiRfF-ZmQJ4gzECA1zM/edit#slide=id.g129c9746d4f_0_28>\n\n<https://docs.google.com/presentation/d/1tDTxYGKlYX9uvoY_N0w7_1j13Sie0OAxFwzg1Kio3EQ/edit#slide=id.g12ce1914b91_0_50>",
+    "ts": "1653284174.344419",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "client_msg_id": "05c31653-616e-4066-8cbe-c086b1f12345",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F03G2RVE1MF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1652756270.948339",
+    "type": "message",
+    "upload": false,
+    "user": "U011D5HFK7H"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "note（ノート）: Trello 基本操作｜cyderts｜note",
+        "from_url": "https://note.com/cyderts/n/n1542ff3a206d",
+        "id": 1,
+        "image_bytes": 68096,
+        "image_height": 250,
+        "image_url": "https://assets.st-note.com/production/uploads/images/52984277/rectangle_large_type_2_af6927288ef868ed999279d8227deadc.png?fit=bounds&quality=85&width=1280",
+        "image_width": 478,
+        "original_url": "https://note.com/cyderts/n/n1542ff3a206d",
+        "service_icon": "https://d291vdycu0ht11.cloudfront.net/nuxt/static/metaicon/apple-touch-icon.png",
+        "service_name": "note（ノート）",
+        "text": "Trelloのアカウント作成～超基本操作の説明です。 Trelloとはポストイット的にカード（付箋のようなもの）を管理できます。 これで \"すべきこと\" や \"してること” をメモできます。 また、他の人と共有することで一緒にタスク管理ができます。 アカウント作成 まずは以下のリンクからアカウント作成します。 メアド入れてTrello専用アカウントを作ることをおすすめします。 <https://trello.com/signup> その後ユーザー名とパスワード（8文字以上）を入れてアカウントを作成できます。 基本画面 trelloにはワークスペース、ボード、リス",
+        "title": "Trello 基本操作｜cyderts｜note",
+        "title_link": "https://note.com/cyderts/n/n1542ff3a206d"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "lj1V",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Trelloプロフィール画像の変更\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://note.com/cyderts/n/n1542ff3a206d"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6432d098-a517-4e44-9ff3-82e4b57e556a",
+    "team": "T6WULA63S",
+    "text": "Trelloプロフィール画像の変更\n<https://note.com/cyderts/n/n1542ff3a206d>",
+    "ts": "1652151258.781869",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "G9g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野研スクラムガイド\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1hcmWNSh1h6FKyjKUNWWODP0xsiRfF-ZmQJ4gzECA1zM/edit#slide=id.g128ea190904_0_0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7d5c7cb3-a3fd-441f-9703-0f716e3f1283",
+    "team": "T6WULA63S",
+    "text": "松野研スクラムガイド\n<https://docs.google.com/presentation/d/1hcmWNSh1h6FKyjKUNWWODP0xsiRfF-ZmQJ4gzECA1zM/edit#slide=id.g128ea190904_0_0>",
+    "ts": "1652147967.320859",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gt4BY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://miro.com/app/board/o9J_lIzGOv8=/?share_link_id=526927625249"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01253aab-5cf6-472d-a912-c5ad19692925",
+    "team": "T6WULA63S",
+    "text": "<https://miro.com/app/board/o9J_lIzGOv8=/?share_link_id=526927625249>",
+    "ts": "1651453728.357919",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "48L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " アンケートの結果、5/2(月) 9:00よりMOMを行います。ご了承ください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B6C4C5D1-618A-4000-9D35-E01F74FFD579",
+    "team": "T6WULA63S",
+    "text": "<!channel> アンケートの結果、5/2(月) 9:00よりMOMを行います。ご了承ください。",
+    "ts": "1651131146.910699",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x+0pX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " Start Pollyより、MOM時間アンケートを行えます。英語ですが、参加できる時間帯をagree、参加できない時間帯をdisagreeとして入力してください。使い方がわからない人、なぜか実行できない人などがいたら遠慮せずに教えてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d393cc0e-b212-479c-ab38-40d56ed187f3",
+    "team": "T6WULA63S",
+    "text": "<!channel> Start Pollyより、MOM時間アンケートを行えます。英語ですが、参加できる時間帯をagree、参加できない時間帯をdisagreeとして入力してください。使い方がわからない人、なぜか実行できない人などがいたら遠慮せずに教えてください。",
+    "ts": "1651048259.659819",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "app_id": "A04E6JX41",
+    "blocks": [
+      {
+        "accessory": {
+          "action_id": "SurveyAppeal(Kd42b4wJebjb9j8mT).SurveyAppealOverflowMenu()",
+          "options": [
+            {
+              "text": {
+                "emoji": true,
+                "text": "Settings",
+                "type": "plain_text"
+              },
+              "value": "settings"
+            },
+            {
+              "text": {
+                "emoji": true,
+                "text": "Snooze",
+                "type": "plain_text"
+              },
+              "value": "snooze"
+            }
+          ],
+          "type": "overflow"
+        },
+        "block_id": "Qgp",
+        "text": {
+          "text": "*1:1 Meeting coordination*\n5/2（月）MOM時間アンケート",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "HIpw",
+        "elements": [
+          {
+            "text": "*From:* <@U02GE1XMN4V>\n*Completed:* 8 people | *Awaiting:* 1 person\nNon-Anonymous | Results on Completion | <!date^1651048022^{date_short}, {time}|Apr 27, 2022, 08:27 AM> - <!date^1651652822^{date_short}, {time}|May 4, 2022, 08:27 AM>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "gBNAA",
+        "elements": [
+          {
+            "action_id": "SurveyAppeal(Kd42b4wJebjb9j8mT).ViewResultsButton()",
+            "text": {
+              "emoji": true,
+              "text": "View Results",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "ugL",
+        "elements": [
+          {
+            "text": "This polly is *closed*",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "edited": {
+      "ts": "1673143988.000000",
+      "user": "BA40WBXLG"
+    },
+    "subtype": "bot_message",
+    "text": "This content can't be displayed.",
+    "ts": "1651048023.209739",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3Ed",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " すみません。先程は日付が一日間違っており、今直しました。申し訳ありませんがもう一度上のメッセージを確認し、各々の予定の有無を確認してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "91ff7ad8-6d76-4745-97cf-6c8df125022b",
+    "team": "T6WULA63S",
+    "text": "<!channel> すみません。先程は日付が一日間違っており、今直しました。申し訳ありませんがもう一度上のメッセージを確認し、各々の予定の有無を確認してください。",
+    "ts": "1651045713.421609",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sGs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "時間帯は変わらず2限を予定しています。急な予定変更のため、リアクションをとってそれぞれ確認したことを発信してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "288829a7-ddca-4d30-a5da-420a46f60f19",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V",
+          "U02GH290Y2X",
+          "U03BF2S11QW",
+          "U02GH21BWSE"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "yoroshiku",
+        "users": [
+          "U6YLZUWAK",
+          "U02GA9DKAES"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "disappointed_relieved",
+        "users": [
+          "U02GK7DPF8C",
+          "U02H6LYKVDE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "時間帯は変わらず2限を予定しています。急な予定変更のため、リアクションをとってそれぞれ確認したことを発信してください。",
+    "ts": "1651041409.255099",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Tkt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週(5/3)は、学校が休日のため、その前日の5/2（月）にMOMを行いたいのですが、用事が入っている人はいますでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a7429515-46cc-4ce0-8652-a22c8f0e39ed",
+    "edited": {
+      "ts": "1651045481.000000",
+      "user": "U02GE1XMN4V"
+    },
+    "is_locked": false,
+    "latest_reply": "1651047124.863249",
+    "reply_count": 6,
+    "reply_users": [
+      "U02H6LYKVDE",
+      "U02GK7DPF8C",
+      "U02GE1XMN4V",
+      "U02GA9DKAES"
+    ],
+    "reply_users_count": 4,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "来週(5/3)は、学校が休日のため、その前日の5/2（月）にMOMを行いたいのですが、用事が入っている人はいますでしょうか？",
+    "thread_ts": "1651041245.355149",
+    "ts": "1651041245.355149",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WPcW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1MOxC69UCE4D1segCXtbTEw4t_3f0aZQh?usp=sharing"
+              },
+              {
+                "text": "\n\n論文発表まとめ用のフォルダを作っておいたので、宿題のスライドが完成した人はここに置いてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac430e0d-51b1-48ae-8b45-b3affe0ee8a0",
+    "team": "T6WULA63S",
+    "text": "<https://drive.google.com/drive/folders/1MOxC69UCE4D1segCXtbTEw4t_3f0aZQh?usp=sharing>\n\n論文発表まとめ用のフォルダを作っておいたので、宿題のスライドが完成した人はここに置いてください。",
+    "ts": "1650683364.410829",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ccj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "MOMのMiro（便利なホワイトボード）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://miro.com/app/board/uXjVO7i3-A0=/?share_link_id=312008962278"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0bbec3cb-1a7f-4644-b328-a9c73d1c2c6b",
+    "pinned_info": {
+      "channel": "C03CN1N5N64",
+      "pinned_by": "U02GH21BWSE",
+      "pinned_ts": 1651453644
+    },
+    "pinned_to": [
+      "C03CN1N5N64"
+    ],
+    "team": "T6WULA63S",
+    "text": "MOMのMiro（便利なホワイトボード）\n<https://miro.com/app/board/uXjVO7i3-A0=/?share_link_id=312008962278>",
+    "ts": "1650335102.791109",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5uytB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://trello.com/c/140Wmb7X/1-%E6%97%A2%E5%AD%98%E8%AB%96%E6%96%87%E8%AA%BF%E6%9F%BB"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "20f7cba5-442c-4582-90fd-bc7eda39821b",
+    "pinned_info": {
+      "channel": "C03CN1N5N64",
+      "pinned_by": "U02GH21BWSE",
+      "pinned_ts": 1651453703
+    },
+    "pinned_to": [
+      "C03CN1N5N64"
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://trello.com/c/140Wmb7X/1-%E6%97%A2%E5%AD%98%E8%AB%96%E6%96%87%E8%AA%BF%E6%9F%BB>",
+    "ts": "1650334471.724989",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4SA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一人10分程度",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4669878-7e7e-436d-b2f2-5d8529e6a319",
+    "team": "T6WULA63S",
+    "text": "一人10分程度",
+    "ts": "1650334369.925079",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rPslg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "＜宿題＞\n来週までにGoogleスライドでまとめる。\nまとめる点は、研究目的、評価方法、結果に重点を置く。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc866bfb-fc16-4c9c-9ed6-12b601150b99",
+    "team": "T6WULA63S",
+    "text": "＜宿題＞\n来週までにGoogleスライドでまとめる。\nまとめる点は、研究目的、評価方法、結果に重点を置く。",
+    "ts": "1650334353.973059",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iii/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "〇(1-3)オンライン授業におけるグループ活動のプロセス管理評価およびグループ活動支援アプリの開発（S）\n亀沢 佑一，國田 樹（琉球大学）\n樋口",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83119b28-b9aa-49c9-b92a-e4ecd42183c2",
+    "team": "T6WULA63S",
+    "text": "〇(1-3)オンライン授業におけるグループ活動のプロセス管理評価およびグループ活動支援アプリの開発（S）\n亀沢 佑一，國田 樹（琉球大学）\n樋口",
+    "ts": "1650334222.924949",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P0N1C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "〇(2-4)トレース表の作成過程を利用した学習者のプログラム理解過程の分析（L）\n尾﨑 弘幸，橋浦 弘明（日本工業大学）\n秋山",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3fab5ba-842d-4bac-9261-5ce6decfacbb",
+    "team": "T6WULA63S",
+    "text": "〇(2-4)トレース表の作成過程を利用した学習者のプログラム理解過程の分析（L）\n尾﨑 弘幸，橋浦 弘明（日本工業大学）\n秋山",
+    "ts": "1650334091.781039",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jwnw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "〇(1-2)遠隔／BYODによる初学者向けプログラミング演習を支援するシステムの開発と運用（L）\n中西 恒夫（福岡大学），久住 憲嗣（芝浦工業大学），藤永 拓矢（福岡大学）\n櫨山",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b240f3ce-f871-4f21-83ba-1bc16e7653ea",
+    "team": "T6WULA63S",
+    "text": "〇(1-2)遠隔／BYODによる初学者向けプログラミング演習を支援するシステムの開発と運用（L）\n中西 恒夫（福岡大学），久住 憲嗣（芝浦工業大学），藤永 拓矢（福岡大学）\n櫨山",
+    "ts": "1650333945.054349",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jL6G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "〇(1-1)ソフトウェア開発PBLで発生したユーザビリティバグ発生原因分析に基づくユーザインタフェース設計プロセス改善の提案（S）\n美濃谷 拓郎，古川 貴一，櫨山 淳雄（東京学芸大学）\n小沢",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9002f156-11e5-431b-850d-9ee5d70e05f2",
+    "team": "T6WULA63S",
+    "text": "〇(1-1)ソフトウェア開発PBLで発生したユーザビリティバグ発生原因分析に基づくユーザインタフェース設計プロセス改善の提案（S）\n美濃谷 拓郎，古川 貴一，櫨山 淳雄（東京学芸大学）\n小沢",
+    "ts": "1650333872.500129",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "rePiT: 実践的IT教育研究会 - プログラム",
+        "from_url": "https://sites.google.com/site/sigrepit/repit2022/program",
+        "id": 1,
+        "image_bytes": 4050,
+        "image_height": 96,
+        "image_url": "https://lh3.googleusercontent.com/40RapcfDOKLusQwDBDmRM4ZbM559_u6A9K9mVSMYkNPrzk_-xyUeOr7NIllou2DDeNJxLA",
+        "image_width": 233,
+        "original_url": "https://sites.google.com/site/sigrepit/repit2022/program",
+        "service_icon": "https://lh3.googleusercontent.com/HaBjKjcHNaO5ZLLVKh1dbvgE7o-Dzkjy0TMz-kDZTaH8xmztwGEcXntJ0YbJZtVxgcNePjA9Ijc0xIw-nU3AIP3F0o8yIvU",
+        "service_name": "sites.google.com",
+        "text": "Proceedingsはこちら．",
+        "title": "rePiT: 実践的IT教育研究会 - プログラム",
+        "title_link": "https://sites.google.com/site/sigrepit/repit2022/program"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "=mt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://sites.google.com/site/sigrepit/repit2022/program"
+              },
+              {
+                "text": "\n\n（内容はこちらから）\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/15FUMVLV1LeHuvxWGJLTXh1zm5qeCKzju/view"
+              },
+              {
+                "text": "\n\n〇(5-1)チームレビューが及ぼす学生の自発的なプログラミング行動への影響についての分析と考察（L）\n堀口 諒人，井垣 宏（大阪工業大学）\n児玉\n\n〇(5-2)アジャイルチームの漸進的な形式知化手法（S）\n川口 一画（筑波大学），小林 恭平（デロイトトーマツコンサルティング），早瀬 康裕（筑波大学），渡辺 知恵美（筑波技術大学）\n佐々木\n\n〇(5-3)大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて（S）\n杉田 卓斗，安藤 玲央，越前谷 彩乃，榎本 シン，松野 裕（日本大学）\n鳥谷部",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e297e33-d927-4fd3-84b7-9396a8a9c483",
+    "edited": {
+      "ts": "1650334426.000000",
+      "user": "U02GE1XMN4V"
+    },
+    "team": "T6WULA63S",
+    "text": "<https://sites.google.com/site/sigrepit/repit2022/program>\n\n（内容はこちらから）\n<https://drive.google.com/file/d/15FUMVLV1LeHuvxWGJLTXh1zm5qeCKzju/view>\n\n〇(5-1)チームレビューが及ぼす学生の自発的なプログラミング行動への影響についての分析と考察（L）\n堀口 諒人，井垣 宏（大阪工業大学）\n児玉\n\n〇(5-2)アジャイルチームの漸進的な形式知化手法（S）\n川口 一画（筑波大学），小林 恭平（デロイトトーマツコンサルティング），早瀬 康裕（筑波大学），渡辺 知恵美（筑波技術大学）\n佐々木\n\n〇(5-3)大学研究室におけるアジャイルプロセスによるプロダクト開発に向けて（S）\n杉田 卓斗，安藤 玲央，越前谷 彩乃，榎本 シン，松野 裕（日本大学）\n鳥谷部",
+    "ts": "1650333837.510589",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "rePiT: 実践的IT教育研究会",
+        "from_url": "https://sites.google.com/site/sigrepit/",
+        "id": 1,
+        "image_bytes": 4050,
+        "image_height": 96,
+        "image_url": "https://lh6.googleusercontent.com/zTTazu0XaEzipWm8l6W5-ZGq2l-S1ywSjLzNI6jV0iGzN99cxwEc3dN9SNmb3Ga5MMoiFg",
+        "image_width": 233,
+        "original_url": "https://sites.google.com/site/sigrepit/",
+        "service_icon": "https://lh3.googleusercontent.com/eu7ZAsTYt895qRfroedQAESU0SCYI8AbmXQtTf8h5O76289IeiIUm-PNzS-ctzevyXAqGp__cjgZI8DKSfDu4TF-YWCKcSw",
+        "service_name": "sites.google.com",
+        "text": "概要 実践的IT教育研究会（通称rePiT，レピット）は，実践的IT教育に関連するトピックを広く議論する研究会であり，2014年3月に発足しました．rePiTでは，クラウド，セキュリティ，組込み，ビジネスアプリなどの先端的な分野に関してPBL (Project Based Learning) 等の実践的な情報教育に関するカリキュラムの設計，取り組みの現状，開発した教材，合宿・PBLの運用計画等，大学内外で共有すべき内容に関する議論を行います．また，教育法ツールやニーズ調査，運用上の工夫等，取り組みの推進を助ける内容も議論し，情報を共有します．",
+        "title": "rePiT: 実践的IT教育研究会",
+        "title_link": "https://sites.google.com/site/sigrepit/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "GzbzE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "rePiT（",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://sites.google.com/site/sigrepit/"
+              },
+              {
+                "text": "）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "34ec431e-f700-4fff-883f-f7a5410f67ee",
+    "team": "T6WULA63S",
+    "text": "rePiT（<https://sites.google.com/site/sigrepit/>）",
+    "ts": "1650333532.656709",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "J-STAGE: コンピュータ ソフトウェア",
+        "from_url": "https://www.jstage.jst.go.jp/browse/jssst/list/-char/ja",
+        "id": 1,
+        "original_url": "https://www.jstage.jst.go.jp/browse/jssst/list/-char/ja",
+        "service_icon": "https://www.jstage.jst.go.jp/favicon.ico",
+        "service_name": "J-STAGE",
+        "text": "日本ソフトウェア科学会が発行. フリーアクセス",
+        "thumb_height": 945,
+        "thumb_url": "https://www.jstage.jst.go.jp/html/images/common/SNS/J-STAGE_logo_sns.png",
+        "thumb_width": 946,
+        "title": "コンピュータ ソフトウェア",
+        "title_link": "https://www.jstage.jst.go.jp/browse/jssst/list/-char/ja"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "7cR0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "日本ソフトウェア化学会（",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.jstage.jst.go.jp/browse/jssst/list/-char/ja"
+              },
+              {
+                "text": "）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "99a93059-dd40-4160-ac87-8cfcd2ca4cb0",
+    "team": "T6WULA63S",
+    "text": "日本ソフトウェア化学会（<https://www.jstage.jst.go.jp/browse/jssst/list/-char/ja>）",
+    "ts": "1650333502.880279",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GA9DKAES> has joined the channel",
+    "ts": "1650333485.476869",
+    "type": "message",
+    "user": "U02GA9DKAES"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1650333475.919809",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U03BF2S11QW> has joined the channel",
+    "ts": "1650333469.332889",
+    "type": "message",
+    "user": "U03BF2S11QW"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1650333464.553179",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GH21BWSE> has joined the channel",
+    "ts": "1650333463.864319",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GH290Y2X> has joined the channel",
+    "ts": "1650333460.546799",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02H6LYKVDE> has joined the channel",
+    "ts": "1650333458.746189",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1650333458.379649",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1650333406.576829",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  }
+]

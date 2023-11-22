@@ -1,0 +1,382 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1642048019.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g5oT6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "test",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01HTH9QSDN",
+    "bot_profile": {
+      "app_id": "A0129PG3JV8",
+      "deleted": true,
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/plugins/app/bot_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/plugins/app/bot_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/plugins/app/service_72.png"
+      },
+      "id": "B01HTH9QSDN",
+      "name": "hoge",
+      "team_id": "T6WULA63S",
+      "updated": 1681107687
+    },
+    "team": "T6WULA63S",
+    "text": "test",
+    "ts": "1608175104.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rK3ge",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "test",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01HTH9QSDN",
+    "bot_profile": {
+      "app_id": "A0129PG3JV8",
+      "deleted": true,
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/plugins/app/bot_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/plugins/app/bot_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/plugins/app/service_72.png"
+      },
+      "id": "B01HTH9QSDN",
+      "name": "hoge",
+      "team_id": "T6WULA63S",
+      "updated": 1681107687
+    },
+    "team": "T6WULA63S",
+    "text": "test",
+    "ts": "1608174874.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "app_conversation_join",
+    "text": "was added to this conversation",
+    "ts": "1574179473.000200",
+    "type": "message",
+    "user": "UQQ51Q56Y"
+  },
+  {
+    "attachments": [
+      {
+        "actions": [
+          {
+            "id": "1",
+            "name": "one",
+            "style": "",
+            "text": "ここ",
+            "type": "button",
+            "value": "0"
+          },
+          {
+            "id": "2",
+            "name": "two",
+            "style": "",
+            "text": "あそこ",
+            "type": "button",
+            "value": "1"
+          }
+        ],
+        "callback_id": "WsN3TBsityyeQZ4Jw",
+        "color": "35A8E0",
+        "fallback": "てすと",
+        "id": 1,
+        "title": "てすと"
+      },
+      {
+        "actions": [
+          {
+            "id": "3",
+            "name": "add_comments",
+            "style": "",
+            "text": "Add a Comment",
+            "type": "button",
+            "value": "PHMqE3nrqipHCDF7s"
+          }
+        ],
+        "callback_id": "WsN3TBsityyeQZ4Jw",
+        "fallback": "てすと",
+        "fields": [
+          {
+            "short": false,
+            "title": "ここ",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 100% (1)\n<@UD32JHVL7>"
+          },
+          {
+            "short": false,
+            "title": "あそこ",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": true,
+            "title": "Total votes",
+            "value": "1"
+          }
+        ],
+        "id": 2,
+        "mrkdwn_in": [
+          "fields"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "76HE2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " has a poll for you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "<@UD32JHVL7> has a poll for you!",
+    "ts": "1570170519.001200",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BLi",
+        "text": {
+          "text": "*どこいくねん*",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "qfbq",
+        "text": {
+          "text": "This poll is closed.",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "blNN",
+        "text": {
+          "text": "*Top 1 Choices of 2*",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "jyN=",
+        "elements": [
+          {
+            "text": "ここ (1 vote)\n\n`█████████████████████████`   |   100% (1)   \n\n⁢",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "V69",
+        "elements": [
+          {
+            "text": "*Total votes ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢*\n1",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "gaI",
+        "elements": [
+          {
+            "action_id": "PollMessage(NoS5anE9aEWZgcbhA).ViewAllResponsesButton",
+            "text": {
+              "emoji": true,
+              "text": "View All Responses",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "w7WZ",
+        "type": "divider"
+      },
+      {
+        "block_id": "vCS",
+        "elements": [
+          {
+            "text": "Owner: @杉田卓斗 (杉田)  |   :clock1: Closed: <!date^1570775239^{date_short_pretty} at {time}|Oct 11, 2019 at 06:27 AM>  |  :lock: Responses are anonymous",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "*This poll is closed.* <@UD32JHVL7> has a poll for you! Votes in this poll are anonymous :lock:.",
+    "ts": "1570170440.000300",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "attachments": [
+      {
+        "callback_id": "FLm99oxeAALP2JhbZ",
+        "color": "35A8E0",
+        "fallback": "ご飯何食べ行く？",
+        "id": 1,
+        "text": "You may vote for multiple options",
+        "title": "ご飯何食べ行く？"
+      },
+      {
+        "callback_id": "FLm99oxeAALP2JhbZ",
+        "fallback": "ご飯何食べ行く？",
+        "fields": [
+          {
+            "short": false,
+            "title": "お肉",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 50% (1)\n<@UD32JHVL7>"
+          },
+          {
+            "short": false,
+            "title": "ラーメン",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": false,
+            "title": "そば",
+            "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 50% (1)\n<@UD32JHVL7>"
+          },
+          {
+            "short": false,
+            "title": "うどん",
+            "value": "`⁢` 0%"
+          },
+          {
+            "short": true,
+            "title": "Total votes",
+            "value": "2"
+          }
+        ],
+        "id": 2,
+        "mrkdwn_in": [
+          "fields"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "7Ae",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "This poll is closed.",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": " has a poll for you!",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2018-10-25/464868992403_48.png"
+    },
+    "subtype": "bot_message",
+    "text": "*This poll is closed.*\n<@UD32JHVL7> has a poll for you!",
+    "ts": "1554111679.000700",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "purpose": "杉田君のいろいろ遊ぶためのチャンネル",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 杉田君のいろいろ遊ぶためのチャンネル",
+    "ts": "1554110591.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1554110590.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

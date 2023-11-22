@@ -1,0 +1,1878 @@
+[
+  {
+    "app_id": "APTHE13E2",
+    "blocks": [
+      {
+        "block_id": "1R=",
+        "text": {
+          "text": "*電話用件* submission from <@U02GE1XMN4V>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "12lt",
+        "text": {
+          "text": "*誰から *\n短期大学部の先生から\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "SvYH",
+        "text": {
+          "text": "*誰に *\n松野先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "9YfkT",
+        "text": {
+          "text": "*用件は *\n明日の10:40頃にかけ直すそうです\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Yl3b",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U02GE1XMN4V> *誰から * 短期大学部の先生から   *誰に * 松野先生   *用件は * 明日の10:40頃にかけ直すそうです  ",
+    "ts": "1653297094.723439",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "app_id": "APTHE13E2",
+    "blocks": [
+      {
+        "block_id": "RA8M5",
+        "text": {
+          "text": "*電話用件* submission from <@U02GE1XMN4V>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "3oZOY",
+        "text": {
+          "text": "*誰から *\n山口先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "rc/xq",
+        "text": {
+          "text": "*誰に *\n松野先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "TErY",
+        "text": {
+          "text": "*用件は *\nかけ直すともメールするともおっしゃっていませんでした。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ERn",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U02GE1XMN4V> *誰から * 山口先生   *誰に * 松野先生   *用件は * かけ直すともメールするともおっしゃっていませんでした。  ",
+    "ts": "1651052910.719419",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i4M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0cbfaad8-828c-4d9d-b658-c96f61961eca",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1636079481.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ENQ",
+        "text": {
+          "text": "*電話用件* submission from <@UNYMRF17S>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "fEi3",
+        "text": {
+          "text": "*誰から*\n教務課 米田さん\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "bpNHo",
+        "text": {
+          "text": "*誰に*\n松野先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "9iy9",
+        "text": {
+          "text": "*用件は*\n来週またかけなおすとのことです。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "N3ko",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UNYMRF17S> *誰から* 教務課 米田さん   *誰に* 松野先生   *用件は* 来週またかけなおすとのことです。  ",
+    "ts": "1636078019.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/wk3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d63aadc0-dc49-4dd5-ab67-9a3a43fe09e6",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1622075138.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Kx+",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Meea",
+        "text": {
+          "text": "*誰から*\nハマヨシさん\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "dcd3E",
+        "text": {
+          "text": "*誰に*\n松野先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "sfR",
+        "text": {
+          "text": "*用件は*\n昨日（5/27）にお電話をいただいたそうで、研究室に電話が来ました。\n電話があったことを伝言してほしいとのことでした。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "HuS",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* ハマヨシさん   *誰に* 松野先生   *用件は* 昨日（5/27）にお電話をいただいたそうで、研究室に電話が来ました。 電話があったことを伝言してほしいとのことでした。  ",
+    "ts": "1622075122.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01UTDJ5XLG> has joined the channel",
+    "ts": "1618294790.000600",
+    "type": "message",
+    "user": "U01UTDJ5XLG"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01UG7USLHF> has joined the channel",
+    "ts": "1618294601.000400",
+    "type": "message",
+    "user": "U01UG7USLHF"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01TWRNR222> has joined the channel",
+    "ts": "1618294571.000200",
+    "type": "message",
+    "user": "U01TWRNR222"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "302ju",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58ebfb50-f837-492b-8ce1-ac040c6b14bb",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。",
+    "ts": "1614140893.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O/+",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cKB5",
+        "text": {
+          "text": "*誰から*\n木原先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Hw+9",
+        "text": {
+          "text": "*誰に*\n松野先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "fxTb1",
+        "text": {
+          "text": "*用件は*\nメールするそうです\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Eer",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* 木原先生   *誰に* 松野先生   *用件は* メールするそうです  ",
+    "ts": "1614140218.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GCe6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プロジェクターってなんですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "88f9d8af-7b3c-4920-8883-2eddbc642579",
+    "is_locked": false,
+    "latest_reply": "1608613497.002200",
+    "reply_count": 6,
+    "reply_users": [
+      "UD32JHVL7",
+      "U6YLZUWAK",
+      "UH3155FA7"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "プロジェクターってなんですか？",
+    "thread_ts": "1608611816.000700",
+    "ts": "1608611816.000700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gEGu",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "0gP",
+        "text": {
+          "text": "*誰から*\nビッグカメラ\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "pErqS",
+        "text": {
+          "text": "*誰に*\n研究室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "3fj",
+        "text": {
+          "text": "*用件は*\nプロジェクターの再送をするが、駐車場がわからない\nとのこと\n\n一応、西門に駐車場があり、最悪の場合正門で聞けばわかるかもと杉田が対応しました\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "YpCP",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* ビッグカメラ   *誰に* 研究室   *用件は* プロジェクターの再送をするが、駐車場がわからない とのこと  一応、西門に駐車場があり、最悪の場合正門で聞けばわかるかもと杉田が対応しました  ",
+    "ts": "1608611773.000400",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UQWQC3GPJ> has joined the channel",
+    "ts": "1588608329.000500",
+    "type": "message",
+    "user": "UQWQC3GPJ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1JKbD",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "WOV",
+        "text": {
+          "text": "*誰から*\n応用情報事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cKCz/",
+        "text": {
+          "text": "*誰に*\n松野先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "gQT5",
+        "text": {
+          "text": "*用件は*\n電話がありました\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "atY",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 応用情報事務室   *誰に* 松野先生   *用件は* 電話がありました  ",
+    "ts": "1585101957.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hpC",
+        "text": {
+          "text": "*電話用件* submission from <@U7DNFTLSW>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "P9F",
+        "text": {
+          "text": "*誰から*\n七尾商会\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "s2Hlb",
+        "text": {
+          "text": "*誰に*\n村上先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "I3yDR",
+        "text": {
+          "text": "*用件は*\n今年度中の伝票（4245円）がある、という内容でした。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "9vL",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U7DNFTLSW> *誰から* 七尾商会   *誰に* 村上先生   *用件は* 今年度中の伝票（4245円）がある、という内容でした。  ",
+    "ts": "1582697902.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iQ6",
+        "text": {
+          "text": "*電話用件* submission from <@UD3BHE2LW>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "=8g",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "5jgp",
+        "text": {
+          "text": "*誰に*\n村上知里\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "4xd",
+        "text": {
+          "text": "*用件は*\n電話があったことを伝えてほしいとのことです。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "UZder",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD3BHE2LW> *誰から* 事務室   *誰に* 村上知里   *用件は* 電話があったことを伝えてほしいとのことです。  ",
+    "ts": "1581315168.000300",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BXw",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "=Ue",
+        "text": {
+          "text": "*誰から*\n東京都立産業技術センター\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "f+fjc",
+        "text": {
+          "text": "*誰に*\n村上知里\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "3XX",
+        "text": {
+          "text": "*用件は*\nまた電話するとのこと\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "OYr",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* 東京都立産業技術センター   *誰に* 村上知里   *用件は* また電話するとのこと  ",
+    "ts": "1580973605.000200",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yw6m",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "6AYw",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "=eg10",
+        "text": {
+          "text": "*誰に*\n村上知里\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "yf/5",
+        "text": {
+          "text": "*用件は*\n戻ったら電話をください\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Ace",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* 事務室   *誰に* 村上知里   *用件は* 戻ったら電話をください  ",
+    "ts": "1579676250.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ta6x+",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "U9foM",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "vUef",
+        "text": {
+          "text": "*誰に*\n村上先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "rbyPs",
+        "text": {
+          "text": "*用件は*\nゼミ室242のカギを借りたいという学生さんが先ほど来た時には、まだ別の研究室が使っているから待ってください。と伝えたらしいのですが、今そのカギが返ってきたので取りに来ても大丈夫ですと伝えてください\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "=Lt",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 事務室   *誰に* 村上先生   *用件は* ゼミ室242のカギを借りたいという学生さんが先ほど来た時には、まだ別の研究室が使っているから待ってください。と伝えたらしいのですが、今そのカギが返ってきたので取りに来ても大丈夫ですと伝えてください  ",
+    "ts": "1579070065.000200",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VZy5R",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Zrv",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "=/THF",
+        "text": {
+          "text": "*誰に*\n村上先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "7lMQ",
+        "text": {
+          "text": "*用件は*\n電話があった事を村上先生に伝えて欲しいとのことでした。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ZWnH5",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 事務室   *誰に* 村上先生   *用件は* 電話があった事を村上先生に伝えて欲しいとのことでした。  ",
+    "ts": "1578970380.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JSR",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "R=A",
+        "text": {
+          "text": "*誰から*\n震災対策技術展　つじさん\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "PlIX",
+        "text": {
+          "text": "*誰に*\n松野裕，村上知里\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Qaz/e",
+        "text": {
+          "text": "*用件は*\n松野先生に，2月にある震災対策技術展に費用はいらないので何か出さないかという話．\nまたかけ直すそうで誰にかければ良いかと聞かれたので，自分か村上にお願いしますと言っておきました．\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "PK/cp",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "is_locked": false,
+    "latest_reply": "1578561251.000700",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* 震災対策技術展　つじさん   *誰に* 松野裕，村上知里   *用件は* 松野先生に，2月にある震災対策技術展に費用はいらないので何か出さないかという話． またかけ直すそうで誰にかければ良いかと聞かれたので，自分か村上にお願いしますと言っておきました．  ",
+    "thread_ts": "1578557487.000600",
+    "ts": "1578557487.000600",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pz/",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "TtHE",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cB13d",
+        "text": {
+          "text": "*誰に*\n村上先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "G4f",
+        "text": {
+          "text": "*用件は*\nまたかけなおすそうです\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "+qQg3",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 事務室   *誰に* 村上先生   *用件は* またかけなおすそうです  ",
+    "ts": "1577426498.000500",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v4=",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "1dF",
+        "text": {
+          "text": "*誰から*\n東京都立産業技術センターのナガタさん\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Swdo",
+        "text": {
+          "text": "*誰に*\n村上先生\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "uDT",
+        "text": {
+          "text": "*用件は*\n３時過ぎにもう一度かけ直すとのことです\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "mjYh",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 東京都立産業技術センターのナガタさん   *誰に* 村上先生   *用件は* ３時過ぎにもう一度かけ直すとのことです  ",
+    "ts": "1577425356.000400",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Oqp",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "oMPvR",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "VBTWr",
+        "text": {
+          "text": "*誰に*\n孔 德鋒，松野 裕\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "SYlq",
+        "text": {
+          "text": "*用件は*\n学校に来ているか聞かれました．松野先生のところにメールを送るそうです．\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "6Ji",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* 事務室   *誰に* 孔 德鋒，松野 裕   *用件は* 学校に来ているか聞かれました．松野先生のところにメールを送るそうです．  ",
+    "ts": "1577255269.000300",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6EPF6",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "w6DsL",
+        "text": {
+          "text": "*誰から*\n管財課\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "i08",
+        "text": {
+          "text": "*誰に*\n松野裕だがまあ村上知里か杉田卓斗\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "vL1u",
+        "text": {
+          "text": "*用件は*\nディスプレイ(杉田君のかな？)が届いたので管財課に松野先生のハンコを持って受け取りに来てくれだそう．\n\n松野先生にはメールしているとのことです．\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Feb",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7",
+          "UH3155FA7"
+        ]
+      }
+    ],
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* 管財課   *誰に* 松野裕だがまあ村上知里か杉田卓斗   *用件は* ディスプレイ(杉田君のかな？)が届いたので管財課に松野先生のハンコを持って受け取りに来てくれだそう．  松野先生にはメールしているとのことです．  ",
+    "ts": "1575869773.000300",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yc3",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "fNNeG",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "TDxyM",
+        "text": {
+          "text": "*誰に*\n村上知里\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "DKt",
+        "text": {
+          "text": "*用件は*\nメールを送ったので見てくださいとのことです\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "q9aza",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 事務室   *誰に* 村上知里   *用件は* メールを送ったので見てくださいとのことです  ",
+    "ts": "1575444915.000200",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=vY0",
+        "text": {
+          "text": "*電話用件* submission from <@UD32JHVL7>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "ccyNU",
+        "text": {
+          "text": "*誰から*\n事務室\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "cS+U",
+        "text": {
+          "text": "*誰に*\n@村上知里\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "LBwK",
+        "text": {
+          "text": "*用件は*\n事務室から電話がありましたと連絡してくださいと、来ました。\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "s=Me",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@UD32JHVL7> *誰から* 事務室   *誰に* @村上知里   *用件は* 事務室から電話がありましたと連絡してくださいと、来ました。  ",
+    "ts": "1575439862.000100",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KWw",
+        "text": {
+          "text": "*電話用件* submission from <@U97F49L68>",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "Squ8A",
+        "text": {
+          "text": "*誰から*\nてすと\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "EssW7",
+        "text": {
+          "text": "*誰に*\nテスト\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "+7y",
+        "text": {
+          "text": "*用件は*\nてすてす\nテステス\n\n",
+          "type": "mrkdwn",
+          "verbatim": false
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "CWCi",
+        "type": "divider"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "*電話用件* submission from <@U97F49L68> *誰から* てすと   *誰に* テスト   *用件は* てすてす テステス  ",
+    "ts": "1571911716.000600",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AFc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U97F49L68"
+              },
+              {
+                "text": " added a workflow to this channel: ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "電話用件",
+                "type": "text"
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BPJTQSRH7",
+    "subtype": "bot_message",
+    "text": "<@U97F49L68> added a workflow to this channel: *電話用件*.",
+    "ts": "1571911689.000400",
+    "type": "message",
+    "username": "電話用件"
+  },
+  {
+    "inviter": "UD3BHE2LW",
+    "subtype": "channel_join",
+    "text": "<@UNM7EU5A7> has joined the channel",
+    "ts": "1570005591.000800",
+    "type": "message",
+    "user": "UNM7EU5A7"
+  },
+  {
+    "inviter": "UD3BHE2LW",
+    "subtype": "channel_join",
+    "text": "<@UP0TP0QH4> has joined the channel",
+    "ts": "1570005554.000600",
+    "type": "message",
+    "user": "UP0TP0QH4"
+  },
+  {
+    "inviter": "UD3BHE2LW",
+    "subtype": "channel_join",
+    "text": "<@UNKU3S7C2> has joined the channel",
+    "ts": "1570005536.000400",
+    "type": "message",
+    "user": "UNKU3S7C2"
+  },
+  {
+    "inviter": "UD3BHE2LW",
+    "subtype": "channel_join",
+    "text": "<@UNYMRF17S> has joined the channel",
+    "ts": "1570005518.000200",
+    "type": "message",
+    "user": "UNYMRF17S"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bpkJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "NSTSのツタニさんという方から\n村上先生",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UH3155FA7"
+              },
+              {
+                "text": " に\n連絡がありました。\nまたかけなおします、とのことです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c588129c-9d83-4010-883c-cf331f92388b",
+    "edited": {
+      "ts": "1564555201.000000",
+      "user": "UD32JHVL7"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UH3155FA7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "NSTSのツタニさんという方から\n村上先生<@UH3155FA7> に\n連絡がありました。\nまたかけなおします、とのことです",
+    "ts": "1564555165.003600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8bF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ワールド、という会社のスミさんという方から\n松野先生",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": "に\n連絡がありました。\n急ぎのようではないようでした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b21c37f-5074-4779-bbc9-9cb1a4ed431f",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ワールド、という会社のスミさんという方から\n松野先生<@U6YLZUWAK>に\n連絡がありました。\n急ぎのようではないようでした",
+    "ts": "1563856008.001400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "14wD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "事務室の井下さんから\n村上先生",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UH3155FA7"
+              },
+              {
+                "text": " に\n連絡がありました。\nメールするとのことです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f5282434-26cc-41dd-a992-6e94da66792d",
+    "team": "T6WULA63S",
+    "text": "事務室の井下さんから\n村上先生<@UH3155FA7> に\n連絡がありました。\nメールするとのことです。",
+    "ts": "1560139189.002700",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I/t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B4F8E2DE-3F2E-4A79-97E3-627F3173E6D8",
+    "team": "T6WULA63S",
+    "text": "了解です。",
+    "ts": "1559714229.001600",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HZF+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いえ特には",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84386fb0-e954-411c-9b13-7ff05b9b295f",
+    "team": "T6WULA63S",
+    "text": "いえ特には",
+    "ts": "1559714213.001400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZhZV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "原さん、何か仰ってましたか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EFAFE13D-C63D-4B33-816A-ED8F2BFE1438",
+    "team": "T6WULA63S",
+    "text": "原さん、何か仰ってましたか？",
+    "ts": "1559714134.001300",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zhAXp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "事務室の原さんから。\n秋山先輩 ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7DNFTLSW"
+              },
+              {
+                "text": "に\n連絡がありました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "607f1b59-0d41-4ce9-8ada-4b853af24e6a",
+    "team": "T6WULA63S",
+    "text": "事務室の原さんから。\n秋山先輩 <@U7DNFTLSW>に\n連絡がありました。",
+    "ts": "1559713474.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Pig",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "910740A7-DB83-435E-910F-C5FAECCB5011",
+    "team": "T6WULA63S",
+    "text": "了解です。",
+    "ts": "1558509973.001600",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A+9t",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "事務室の原さんから、\n秋山先輩 ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U7DNFTLSW"
+              },
+              {
+                "text": " に\n金曜日、奨学金の書類を提出してほしく、金曜日が無理ならば月曜日にとのことです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "706c47e8-2592-4dee-96b4-8eb8bfb4f980",
+    "team": "T6WULA63S",
+    "text": "事務室の原さんから、\n秋山先輩 <@U7DNFTLSW> に\n金曜日、奨学金の書類を提出してほしく、金曜日が無理ならば月曜日にとのことです。",
+    "ts": "1558509945.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "set the channel topic: 研究室で電話を取ったらここに\n「誰から」「誰に」「何を」\nを書いてください",
+    "topic": "研究室で電話を取ったらここに\n「誰から」「誰に」「何を」\nを書いてください",
+    "ts": "1556161312.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ToIh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " 私にお渡しいただいた書類ですよね？\n誠に申し訳ございません、すぐに処理いたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3ff57f1f-e857-49ee-880e-0d365a25ab63",
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK> 私にお渡しいただいた書類ですよね？\n誠に申し訳ございません、すぐに処理いたします",
+    "ts": "1555992749.003600",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kPg9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": "\n管財課の方から\n松野先生に\n昨年度押印を頼んだ書類についてお聞きしたいとお電話いただきました\n学校のメールアドレスに送るとおっしゃっていましたので確認お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "075a4451-39da-4d2e-9aec-1dcd4ab3a387",
+    "edited": {
+      "ts": "1555996300.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<@U6YLZUWAK>\n管財課の方から\n松野先生に\n昨年度押印を頼んだ書類についてお聞きしたいとお電話いただきました\n学校のメールアドレスに送るとおっしゃっていましたので確認お願いします。",
+    "ts": "1555986841.002200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7SBZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後で事務室行きます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7DBA6794-C18F-48A6-B1BE-7E224C45F0D9",
+    "team": "T6WULA63S",
+    "text": "後で事務室行きます！",
+    "ts": "1554261871.007100",
+    "type": "message",
+    "user": "UD2MQ7NN8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xOu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "事務室の岩瀬さんから\n片岡さん ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UD2MQ7NN8"
+              },
+              {
+                "text": " に\nお話があるとのことで、また別の方法で連絡するといっていました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5a6a4a5d-d716-4635-acb0-5679d1be6176",
+    "team": "T6WULA63S",
+    "text": "事務室の岩瀬さんから\n片岡さん <@UD2MQ7NN8> に\nお話があるとのことで、また別の方法で連絡するといっていました",
+    "ts": "1554261802.006400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9xAE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "研究室で電話を取ったらここに\n「誰から」「誰に」「何を」\nを書いてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ad76fafc-2b8c-4f5a-a1ba-d868267a1828",
+    "team": "T6WULA63S",
+    "text": "研究室で電話を取ったらここに\n「誰から」「誰に」「何を」\nを書いてください",
+    "ts": "1554261554.005100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7H6XS5BP> has joined the channel",
+    "ts": "1554261417.003100",
+    "type": "message",
+    "user": "U7H6XS5BP"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UAYCRJ0P8> has joined the channel",
+    "ts": "1554261417.002900",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UDNRU1WTC> has joined the channel",
+    "ts": "1554261417.002700",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UH3155FA7> has joined the channel",
+    "ts": "1554261417.002500",
+    "type": "message",
+    "user": "UH3155FA7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U9KDDTMPZ> has joined the channel",
+    "ts": "1554261417.002300",
+    "type": "message",
+    "user": "U9KDDTMPZ"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD5SHGPPV> has joined the channel",
+    "ts": "1554261417.002100",
+    "type": "message",
+    "user": "UD5SHGPPV"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1554261416.001900",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD2MQ7NN8> has joined the channel",
+    "ts": "1554261416.001700",
+    "type": "message",
+    "user": "UD2MQ7NN8"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7DNFTLSW> has joined the channel",
+    "ts": "1554261416.001500",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD733MZHV> has joined the channel",
+    "ts": "1554261416.001300",
+    "type": "message",
+    "user": "UD733MZHV"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1554261416.001100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U7T0C7XMZ> has joined the channel",
+    "ts": "1554261416.000900",
+    "type": "message",
+    "user": "U7T0C7XMZ"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U9JFKKMRB> has joined the channel",
+    "ts": "1554261416.000700",
+    "type": "message",
+    "user": "U9JFKKMRB"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1554261416.000500",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "purpose": "研究室に電話が来たらここに投稿してください",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 研究室に電話が来たらここに投稿してください",
+    "ts": "1554261415.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1554261414.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

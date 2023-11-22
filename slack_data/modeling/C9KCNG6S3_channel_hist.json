@@ -1,0 +1,1063 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1583289551.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1583289543.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BpAce",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ難しいですね。ベースはYork大のこれまでの論文です。分類すると、d,eが多いのではと思います。つまりゴール分解が、わかっている人でないとなぜその分解なのかわからないものが多いのではと思います。それか26262の要求に沿った分解が多いのかなと思います。ただ26262の要求に沿ってツリー分解しても意味があるのかというのはありますが。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e6eaa95f-9e96-47ec-88a1-7179c19cf18e",
+    "team": "T6WULA63S",
+    "text": "これ難しいですね。ベースはYork大のこれまでの論文です。分類すると、d,eが多いのではと思います。つまりゴール分解が、わかっている人でないとなぜその分解なのかわからないものが多いのではと思います。それか26262の要求に沿った分解が多いのかなと思います。ただ26262の要求に沿ってツリー分解しても意味があるのかというのはありますが。",
+    "ts": "1572266459.010400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KVW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "松野先生\nこれって、10/4の高井先生のメールの中のサンプルの1つ目のものですね。有料で自腹で購入しようかどうしようかと思っていました。ありがとうございます。ちなみに、これは、MISRAガプロトバージョン作成時（2017年中後半頃）に、Jasparの活動の一環で、高井先生、私も、レビュアとして登録されていたものです。ただ、当時、頑張って読み込んでレビューしたものの（全体のストーリ、全体感が）難解であったと印象であり、私のとってもリベンジになります。「当時のレビュアにくらいタダでくれてもいいのに」と高井先生と愚痴っていたところでした。\nさっそく、分類やってみます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "07521465-7707-4828-b171-a76eb5d4a2b5",
+    "team": "T6WULA63S",
+    "text": "松野先生\nこれって、10/4の高井先生のメールの中のサンプルの1つ目のものですね。有料で自腹で購入しようかどうしようかと思っていました。ありがとうございます。ちなみに、これは、MISRAガプロトバージョン作成時（2017年中後半頃）に、Jasparの活動の一環で、高井先生、私も、レビュアとして登録されていたものです。ただ、当時、頑張って読み込んでレビューしたものの（全体のストーリ、全体感が）難解であったと印象であり、私のとってもリベンジになります。「当時のレビュアにくらいタダでくれてもいいのに」と高井先生と愚痴っていたところでした。\nさっそく、分類やってみます。",
+    "ts": "1572266262.008300",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Iw0TZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "という、自動車の安全性に関するGSNパターンがいっぱいのっている資料を購入しました。これらも越山さんのパターンで分類できないでしょうか。すいませんが検討お願いいたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ddb9f932-1622-4e26-83b8-85f071c96a8d",
+    "team": "T6WULA63S",
+    "text": "という、自動車の安全性に関するGSNパターンがいっぱいのっている資料を購入しました。これらも越山さんのパターンで分類できないでしょうか。すいませんが検討お願いいたします",
+    "ts": "1572256799.001700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Vc/8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=1pRO0kVUB-ClE7motQlo57SLP1qtkcTh2"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a95eb2af-450c-4f03-af0b-7461720670a6",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "FPX86JUFR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<https://drive.google.com/open?id=1pRO0kVUB-ClE7motQlo57SLP1qtkcTh2>",
+    "ts": "1572256761.000500",
+    "type": "message",
+    "upload": false,
+    "user": "U6YLZUWAK",
+    "x_files": [
+      "FPX86JUFR"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8bNTM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越山さん、秋山君、松野研の予算で",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "696bd9b6-548d-4bf3-91e5-e92b636fc350",
+    "team": "T6WULA63S",
+    "text": "越山さん、秋山君、松野研の予算で",
+    "ts": "1572256760.000300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EE93",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくおねがいします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9182C0A2-9671-423E-8E3A-1D0F63348CFF",
+    "team": "T6WULA63S",
+    "text": "よろしくおねがいします。",
+    "ts": "1571983093.001200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BGQr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "VBLに到着しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8022F7AF-E741-436D-BDFA-6BFC3D36113E",
+    "team": "T6WULA63S",
+    "text": "VBLに到着しました。",
+    "ts": "1571975768.000700",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z4/rf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "名古屋に着きました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FDB68631-57E3-43EC-8525-1D72B42AAC2E",
+    "team": "T6WULA63S",
+    "text": "名古屋に着きました。",
+    "ts": "1571971852.000300",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gbtv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "到着しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "596B7661-8391-4AA2-9962-AE5A6BA83DE5",
+    "team": "T6WULA63S",
+    "text": "到着しました。",
+    "ts": "1563863940.000200",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/y8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.naist.jp/japanese/kigyo_kenkyu/tokyo_office/index.html"
+              },
+              {
+                "text": "\nの建物の1Fロビーあたりで、高井先生と16:00（の10分位前でしょうか）待ち合わせとなります。\nよろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68E8349F-DC2D-4048-86BE-C4D0948F7411",
+    "team": "T6WULA63S",
+    "text": "<https://www.naist.jp/japanese/kigyo_kenkyu/tokyo_office/index.html>\nの建物の1Fロビーあたりで、高井先生と16:00（の10分位前でしょうか）待ち合わせとなります。\nよろしくお願いします。",
+    "ts": "1563810082.001500",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TkQGh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スーツでなくて大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e6414be5-3c48-4ebf-b2a5-592a20a4d3bd",
+    "is_locked": false,
+    "latest_reply": "1563805109.000300",
+    "reply_count": 1,
+    "reply_users": [
+      "U7DNFTLSW"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "スーツでなくて大丈夫です",
+    "thread_ts": "1563801835.004700",
+    "ts": "1563801835.004700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/n=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "服装はスーツでしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86618F90-C696-4D3E-8D0F-BE243B737939",
+    "team": "T6WULA63S",
+    "text": "服装はスーツでしょうか？",
+    "ts": "1563801622.004400",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pG4x0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "当日、なんかあったら越山さんとslackで連絡をとってください。越山さん、すいませんがよろしくお願いたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a4983f2-5535-4280-9791-7319a8a2c94f",
+    "team": "T6WULA63S",
+    "text": "当日、なんかあったら越山さんとslackで連絡をとってください。越山さん、すいませんがよろしくお願いたします",
+    "ts": "1563795057.003900",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7uf9u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これますか？場所わかります？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "90cb8610-c106-43b2-9445-28d230616c61",
+    "is_locked": false,
+    "latest_reply": "1563794831.003100",
+    "reply_count": 2,
+    "reply_users": [
+      "U7DNFTLSW",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "これますか？場所わかります？",
+    "thread_ts": "1563794452.002500",
+    "ts": "1563794452.002500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ipE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "できればこれまで秋山くんが調べたGSNの調査結果を発表というか説明してほしいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4fdbe624-77d3-4e16-8d7e-03ba36efce12",
+    "team": "T6WULA63S",
+    "text": "できればこれまで秋山くんが調べたGSNの調査結果を発表というか説明してほしいです。",
+    "ts": "1563791199.002200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nkZJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私は何か発表しますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6A17D131-3183-4628-ACD4-065CBA37D75F",
+    "team": "T6WULA63S",
+    "text": "私は何か発表しますか？",
+    "ts": "1563791151.001500",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I3F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7DNFTLSW"
+              },
+              {
+                "text": " 全体ミーティングとかぶってしまったんですが、明日田町で、越山さんと高井さんのミーティングがあります。できたら参加できませんか\n23日（火）16",
+                "type": "text"
+              },
+              {
+                "name": "00-18",
+                "type": "emoji"
+              },
+              {
+                "text": "00奈良先端大の東京オフィス",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9703df50-dde5-4c1b-a94e-6eefe4386178",
+    "team": "T6WULA63S",
+    "text": "<@U7DNFTLSW> 全体ミーティングとかぶってしまったんですが、明日田町で、越山さんと高井さんのミーティングがあります。できたら参加できませんか\n23日（火）16:00-18:00奈良先端大の東京オフィス",
+    "ts": "1563790723.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+rA7f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "畏まりました。\n今週は水曜日と木曜日が都合が悪くなるかもしれません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5F8992A7-59C9-4715-A93D-E64C802EF91B",
+    "edited": {
+      "ts": "1563697625.000000",
+      "user": "U7DNFTLSW"
+    },
+    "team": "T6WULA63S",
+    "text": "畏まりました。\n今週は水曜日と木曜日が都合が悪くなるかもしれません。",
+    "ts": "1563681324.002500",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "U8gK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君へ\nごめんなさい。当日は、自分のPCの不調で、秋山君がアクセスしようとしていること気づいていませんでした。操作方法と、アクセス先はそれで大丈夫のようです。次回お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a2ad3e93-acf6-48b7-b722-16932623935c",
+    "team": "T6WULA63S",
+    "text": "秋山君へ\nごめんなさい。当日は、自分のPCの不調で、秋山君がアクセスしようとしていること気づいていませんでした。操作方法と、アクセス先はそれで大丈夫のようです。次回お願いします。",
+    "ts": "1563680787.001800",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fu81I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越山さん、おはようございます。松野先生からお話は伺っております。\n\n誠に申し上げにくいのですが、\n私の方でskypeの環境が整っていない ＆ 今日の夜は丁度家族との予定が入っており、開始時刻に間に合わない可能性があります。\n\n少なくともskypeの環境を今日中に終わらせられる様頑張ります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E46EEA61-F1EE-4CDB-8D89-C6820B5B6E0C",
+    "is_locked": false,
+    "latest_reply": "1563536560.001000",
+    "reply_count": 2,
+    "reply_users": [
+      "UAYCRJ0P8",
+      "U7DNFTLSW"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "越山さん、おはようございます。松野先生からお話は伺っております。\n\n誠に申し上げにくいのですが、\n私の方でskypeの環境が整っていない ＆ 今日の夜は丁度家族との予定が入っており、開始時刻に間に合わない可能性があります。\n\n少なくともskypeの環境を今日中に終わらせられる様頑張ります。",
+    "thread_ts": "1563497851.003800",
+    "ts": "1563497851.003800",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YoAUJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本日夜、一連のパターンについて松野先生とskype します。\n松野先生から秋山君にも連絡行っていますでしょうか？\n夜20:30からです。参加の必要性も含めて。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3DC33447-A2C1-481E-B03C-C2887E877D6D",
+    "team": "T6WULA63S",
+    "text": "本日夜、一連のパターンについて松野先生とskype します。\n松野先生から秋山君にも連絡行っていますでしょうか？\n夜20:30からです。参加の必要性も含めて。",
+    "ts": "1563493588.005000",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qUiB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "畏まりました。私の方でも探してみます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "35E4824D-E8BE-4E04-92B7-7839ABE05DDC",
+    "team": "T6WULA63S",
+    "text": "畏まりました。私の方でも探してみます。",
+    "ts": "1562585535.001800",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tDVKW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません。確かにその通りでした。私の方でも探しますが、急ぎではなくなりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5b7bae90-80c0-4133-a5da-889a9ad0df6c",
+    "team": "T6WULA63S",
+    "text": "すいません。確かにその通りでした。私の方でも探しますが、急ぎではなくなりました。",
+    "ts": "1562574463.001400",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MdR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "締め切り延長されたので、今日までじゃなくて大丈夫です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7E82E6C5-3AC9-4F19-ADDC-92ABABA0C269",
+    "team": "T6WULA63S",
+    "text": "締め切り延長されたので、今日までじゃなくて大丈夫です",
+    "ts": "1562563624.003700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Us=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君へ\nもし、今日時間があったら、お願いしたいことがあります。\nゴール→サブゴールの関係で、サブゴールで、対象とするオブジェクト数を増やしていることで上位ゴールの十分さを示そうとしているといった、GSN事例（論文、その他、日本、海外問わず）が、あったら教えていただきたいです。これは、以前共有した、パターンマッチングのエクセルの「(c)包括」に該当するのですが、このエクセルで見つかっている６つの 事例は、全てプロパティ(特性)に着目したもので、オブジェクトに着目したものがなかったので、それを探す目的になります。\n\n例：サブゴールの方が、サンプル数を増やしている（走行、飛行距離、時間を長くしている、等）「N増し」とか言ったりもします。\n\nサブゴールの代わりに、ストラテジーに書かれてあってもよいです。\nもし、探せるのなら、今日中でお願いします。\nただ、あくまで、時間がとれそうだったらで大丈夫です。\n越山",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e0c6125d-c86c-4627-ba79-b47fef92fa4b",
+    "team": "T6WULA63S",
+    "text": "秋山君へ\nもし、今日時間があったら、お願いしたいことがあります。\nゴール→サブゴールの関係で、サブゴールで、対象とするオブジェクト数を増やしていることで上位ゴールの十分さを示そうとしているといった、GSN事例（論文、その他、日本、海外問わず）が、あったら教えていただきたいです。これは、以前共有した、パターンマッチングのエクセルの「(c)包括」に該当するのですが、このエクセルで見つかっている６つの 事例は、全てプロパティ(特性)に着目したもので、オブジェクトに着目したものがなかったので、それを探す目的になります。\n\n例：サブゴールの方が、サンプル数を増やしている（走行、飛行距離、時間を長くしている、等）「N増し」とか言ったりもします。\n\nサブゴールの代わりに、ストラテジーに書かれてあってもよいです。\nもし、探せるのなら、今日中でお願いします。\nただ、あくまで、時間がとれそうだったらで大丈夫です。\n越山",
+    "ts": "1562550334.002700",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SU2gc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越山さん、ありがとうございます。秋山くん、こんな感じで質問しながら越山さんのパターンを当てはめていきましょう。結構つっこみどころがあるGSNが多いかもしれません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a522e1cf-35a2-4379-911c-8a03c943daf9",
+    "edited": {
+      "ts": "1561593276.000000",
+      "user": "U6YLZUWAK"
+    },
+    "team": "T6WULA63S",
+    "text": "越山さん、ありがとうございます。秋山くん、こんな感じで質問しながら越山さんのパターンを当てはめていきましょう。結構つっこみどころがあるGSNが多いかもしれません",
+    "ts": "1561593258.000800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "h6L8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "先生、越山さん、ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EC6C5014-2C45-4C31-B1DF-EF18852D232C",
+    "team": "T6WULA63S",
+    "text": "先生、越山さん、ありがとうございます。",
+    "ts": "1561589648.000800",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sDj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秋山君にはまだ紹介できていませんでしたが、まさしく現在KBSEへ向け、補填した考え方（propertyとsubjectとを分けて考える）を当てはめて説明をさせていただいております。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05f289a0-068c-47ad-91e5-bc9fc18bcdb2",
+    "team": "T6WULA63S",
+    "text": "秋山君にはまだ紹介できていませんでしたが、まさしく現在KBSEへ向け、補填した考え方（propertyとsubjectとを分けて考える）を当てはめて説明をさせていただいております。",
+    "ts": "1561562503.004200",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uOR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はい、そのようになると考えます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "11BF3411-98AD-42F9-A4E5-D98D27D35BE2",
+    "team": "T6WULA63S",
+    "text": "はい、そのようになると考えます。",
+    "ts": "1561562074.000900",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "omKx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越山さん、ありがとうございます。網羅性に疑問があるけど、意図としては網羅型での分解である、ということでしょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19f6257f-ae4d-4cc8-942f-f99034c507f3",
+    "team": "T6WULA63S",
+    "text": "越山さん、ありがとうございます。網羅性に疑問があるけど、意図としては網羅型での分解である、ということでしょうか",
+    "ts": "1561560506.007400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1xza",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まずは、トップゴールは、あくまで、\nG1：ヘッドライト制御システムの安全対策は妥当である\nなので、そのさらに上位ゴールに「車そのものが安全である」が存在しているといったことは、想像としては、面白いですね。もし、そうならば、(a)代表＆選択型が該当すると思います。\n\n一方で、本筋として、G1とG2、G3の関係性ですが、着目すべきは、この例は、「制御システム」が何を指しているか、何を以て、「制御システム」を全体を網羅していると考えているかによります。\n本来ならば、G1のコンテキストノード（または、S1に付与するコンテキストノード）として、制御システムの構成を説明すべきであると考えます。\n一方で「制御システム」について「ECU A（送信側）」と「ECU B（受信側）」との2つだけで説明している点は、何か物足りなりなさを感じる（この2つのECUだけで、システムを語るには不足している）かもしれません。なので、「(d)優越比較&選択型」と捉えるのもわからなくはありません。\n\nG1：ヘッドライト制御システムの安全対策は妥当である\nS1：ECU毎に説明する\nG2：ECU A（送信側）の対策は妥当である。\nG3：ECU B（受信側）の対策は妥当でである\n\n私は「○○の対策が妥当である」の○○の部分が、G1から、G2、G2に分割されていると考えていると考えました。（本来は、ECU毎に考えること自体が、システム全体からして、不足している。ECU以外に、システムを構成する部品は多数あるはずですが.....。）\nさらに、ここで着目すべきは、作者は、G2とG2は、G1同じ特徴（property）を主張しているところだと考えます。つまり「対策が妥当である」といった箇所は、G1からG2、G3に継承されています。つまり主張（property）は変えずに、対象（subject）をサブゴールに分割して説明をしようとしているので、作者の意図を組むとするならば、「(f)全網羅型（MECE型）」が当てはまると考えました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a149a5a9-8e21-47ec-8b00-d74a464a1714",
+    "team": "T6WULA63S",
+    "text": "まずは、トップゴールは、あくまで、\nG1：ヘッドライト制御システムの安全対策は妥当である\nなので、そのさらに上位ゴールに「車そのものが安全である」が存在しているといったことは、想像としては、面白いですね。もし、そうならば、(a)代表＆選択型が該当すると思います。\n\n一方で、本筋として、G1とG2、G3の関係性ですが、着目すべきは、この例は、「制御システム」が何を指しているか、何を以て、「制御システム」を全体を網羅していると考えているかによります。\n本来ならば、G1のコンテキストノード（または、S1に付与するコンテキストノード）として、制御システムの構成を説明すべきであると考えます。\n一方で「制御システム」について「ECU A（送信側）」と「ECU B（受信側）」との2つだけで説明している点は、何か物足りなりなさを感じる（この2つのECUだけで、システムを語るには不足している）かもしれません。なので、「(d)優越比較&amp;選択型」と捉えるのもわからなくはありません。\n\nG1：ヘッドライト制御システムの安全対策は妥当である\nS1：ECU毎に説明する\nG2：ECU A（送信側）の対策は妥当である。\nG3：ECU B（受信側）の対策は妥当でである\n\n私は「○○の対策が妥当である」の○○の部分が、G1から、G2、G2に分割されていると考えていると考えました。（本来は、ECU毎に考えること自体が、システム全体からして、不足している。ECU以外に、システムを構成する部品は多数あるはずですが.....。）\nさらに、ここで着目すべきは、作者は、G2とG2は、G1同じ特徴（property）を主張しているところだと考えます。つまり「対策が妥当である」といった箇所は、G1からG2、G3に継承されています。つまり主張（property）は変えずに、対象（subject）をサブゴールに分割して説明をしようとしているので、作者の意図を組むとするならば、「(f)全網羅型（MECE型）」が当てはまると考えました。",
+    "ts": "1561558638.006700",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t27a7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいんじゃないですかね。",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "UAYCRJ0P8"
+              },
+              {
+                "text": ". 越山さん、いかがでしょうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "88eeb45c-39e4-4df7-819a-9931a353f82e",
+    "team": "T6WULA63S",
+    "text": "いいんじゃないですかね。<@UAYCRJ0P8>. 越山さん、いかがでしょうか",
+    "ts": "1561532609.004200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aO/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\n実際に私も既存のGSNを越山さんが提案されたパターン分類に当てはめてみました。\n\n--------------------------------------------\n［参考文献］\n設計の見える化（GSN）入門 - IPA\n（",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.ipa.go.jp/files/000049832.pdf）"
+              },
+              {
+                "text": "\n\n・スライド 8/30\n/GSNパターン候補1：(a)選択&代表型\n最も主張したいゴールを「車そのものが安全である」とすれば、スライド8/30に示してあるトップゴール「ヘッドライト制御システムの安全対策は妥当である」というのは、車のヘッドライトにフォーカスを置いて安全性を主張しているので、主張が弱まっていると推測する。\n他にも、【ヘッドライト制御システムの構成要素がECU意外にも色々ある】とすれば、ECU（エネルギー制御ユニット）だけに着眼するのはある意味主張の弱体化といえる。\n\nもしくは、元よりヘッドライト制御システムの安全性を主張するつもりだった場合、それを幾つかのサブゴールに分割する為のストラテジを決める際に、複数のストラテジ候補を一遍に満足させる必要があるが、今回は代表としてECUを選んだ。満たすべきストラテジを1つに絞り込んだ為主張が弱まっている。\n\n/GSNパターン候補2：(d)優越比較&選択型\nヘッドライト制御システムの安全対策が妥当かどうかを、ECU（エネルギー制御装置）に観点を移してサブゴールをECUのA視点とB視点に分割している。\n\n--------------------------------------------\nこんな感じで大丈夫でしょうか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0d222612-85f5-4c7d-998b-837d968401ca",
+    "team": "T6WULA63S",
+    "text": "お疲れ様です。\n実際に私も既存のGSNを越山さんが提案されたパターン分類に当てはめてみました。\n\n--------------------------------------------\n［参考文献］\n設計の見える化（GSN）入門 - IPA\n（<https://www.ipa.go.jp/files/000049832.pdf）>\n\n・スライド 8/30\n/GSNパターン候補1：(a)選択&amp;代表型\n最も主張したいゴールを「車そのものが安全である」とすれば、スライド8/30に示してあるトップゴール「ヘッドライト制御システムの安全対策は妥当である」というのは、車のヘッドライトにフォーカスを置いて安全性を主張しているので、主張が弱まっていると推測する。\n他にも、【ヘッドライト制御システムの構成要素がECU意外にも色々ある】とすれば、ECU（エネルギー制御ユニット）だけに着眼するのはある意味主張の弱体化といえる。\n\nもしくは、元よりヘッドライト制御システムの安全性を主張するつもりだった場合、それを幾つかのサブゴールに分割する為のストラテジを決める際に、複数のストラテジ候補を一遍に満足させる必要があるが、今回は代表としてECUを選んだ。満たすべきストラテジを1つに絞り込んだ為主張が弱まっている。\n\n/GSNパターン候補2：(d)優越比較&amp;選択型\nヘッドライト制御システムの安全対策が妥当かどうかを、ECU（エネルギー制御装置）に観点を移してサブゴールをECUのA視点とB視点に分割している。\n\n--------------------------------------------\nこんな感じで大丈夫でしょうか？",
+    "ts": "1561528816.003800",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "35g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越山さん、すいませんがよろしくお願いいたします。論文作成で図の作成や、整理など、大変なところがありましたら秋山くんに手伝わさせていてだけましたら幸いです。秋山くんは英語もできます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "69d55cc1-48d9-4b20-a9fe-bbca97a90b1b",
+    "team": "T6WULA63S",
+    "text": "越山さん、すいませんがよろしくお願いいたします。論文作成で図の作成や、整理など、大変なところがありましたら秋山くんに手伝わさせていてだけましたら幸いです。秋山くんは英語もできます！",
+    "ts": "1560886994.001000",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Z=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "は越山さんの分類です。こんな感じで秋山君も分類してみてください。越山さんに質問などあったら、ここで質問してください。越山さん、大変すいませんがよろしくお願いたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fad91a9b-faa7-4275-860f-f35910c0ad84",
+    "team": "T6WULA63S",
+    "text": "は越山さんの分類です。こんな感じで秋山君も分類してみてください。越山さんに質問などあったら、ここで質問してください。越山さん、大変すいませんがよろしくお願いたします。",
+    "ts": "1560418932.001500",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ogtr5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U7DNFTLSW"
+              },
+              {
+                "text": " 君、",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1LVo36QwwhuTEQYUl5j18epv2EFJfTFwJ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1bc5accd-afca-4f05-bff9-d4e495d753b1",
+    "team": "T6WULA63S",
+    "text": "<@U7DNFTLSW> 君、<https://drive.google.com/drive/folders/1LVo36QwwhuTEQYUl5j18epv2EFJfTFwJ>",
+    "ts": "1560418884.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@UAYCRJ0P8> has joined the channel",
+    "ts": "1560418552.000200",
+    "type": "message",
+    "user": "UAYCRJ0P8"
+  },
+  {
+    "name": "modeling",
+    "old_name": "prog-and-analysis",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"prog-and-analysis\" to \"modeling\"",
+    "ts": "1554013875.000100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U9JV8AUSG> has joined the channel",
+    "ts": "1520345765.000196",
+    "type": "message",
+    "user": "U9JV8AUSG"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U9JFKKMRB> has joined the channel",
+    "ts": "1520217973.000156",
+    "type": "message",
+    "user": "U9JFKKMRB"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7DNFTLSW> has joined the channel",
+    "ts": "1520212390.000089",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7GT0TRQX> has joined the channel",
+    "ts": "1520212390.000077",
+    "type": "message",
+    "user": "U7GT0TRQX"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1520207870.000065",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

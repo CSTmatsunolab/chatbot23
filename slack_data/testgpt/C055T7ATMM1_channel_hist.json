@@ -1,0 +1,654 @@
+[
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "OHGYq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "山田くんはプログラミング言語を勉強しています。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "山田くんはプログラミング言語を勉強しています。",
+    "ts": "1683013317.722049",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WiNk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 山田くんは何を勉強していますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05cda04c-b18c-4133-8c60-abd87df4519e",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 山田くんは何を勉強していますか",
+    "ts": "1683013314.137619",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "So40",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません、具体的な質問があればお答えできますが、この情報からは何を言ってほしいのかがわかりません。もう少し具体的な質問をいただけますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "すみません、具体的な質問があればお答えできますが、この情報からは何を言ってほしいのかがわかりません。もう少し具体的な質問をいただけますか？",
+    "ts": "1683013286.547029",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q0Vom",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 全部言ってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a82e630-dff0-4131-a279-334f8b1676ea",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 全部言ってください",
+    "ts": "1683013280.045039",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "yeV5T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "山田くんについての情報があります。ただし、どのような情報をお探しでしょうか？具体的にお聞かせください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "山田くんについての情報があります。ただし、どのような情報をお探しでしょうか？具体的にお聞かせください。",
+    "ts": "1683013266.388309",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lbb8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 山田くんについて知っていることを教えて下さい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c278017-0b7c-46fe-bdf3-1985010c20e8",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 山田くんについて知っていることを教えて下さい",
+    "ts": "1683013261.347339",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "8+A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "申し訳ありませんが、私はベクトルDBからその情報を取得できません。松野研究室の公式ウェブサイトや、研究室に直接問い合わせることをお勧めします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "申し訳ありませんが、私はベクトルDBからその情報を取得できません。松野研究室の公式ウェブサイトや、研究室に直接問い合わせることをお勧めします。",
+    "ts": "1683013235.682179",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ElL6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 松野研究室に在籍している学生の名前をできるだけあげてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a2378285-761d-4ac9-b186-37497f6c81ea",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 松野研究室に在籍している学生の名前をできるだけあげてください",
+    "ts": "1683013228.942109",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "=CU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "情報によると、松野研究室には4年生が8人いるようです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "情報によると、松野研究室には4年生が8人いるようです。",
+    "ts": "1683013201.861749",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JOCr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 松野研究室に4年生は何人いますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e92fa927-8df0-449a-8c03-bd52b384af8e",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 松野研究室に4年生は何人いますか",
+    "ts": "1683013197.685259",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "9fAvJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "知らない。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "知らない。",
+    "ts": "1683013093.643129",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1B=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 4年生は何人いますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86bbe6f0-0610-41c1-ae7a-2ff6f6164dbf",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 4年生は何人いますか",
+    "ts": "1683013091.454889",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ldu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4年生は何人いますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e03d204f-b4de-44b8-9ac7-278897d59dfd",
+    "team": "T6WULA63S",
+    "text": "4年生は何人いますか",
+    "ts": "1683013076.119999",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "rMDd=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "情報からは、具体的な３年生の人数についての情報は得られませんでした。知らないと回答します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "情報からは、具体的な３年生の人数についての情報は得られませんでした。知らないと回答します。",
+    "ts": "1683013063.539209",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vTJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " ３年生は何人いますか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "334e7123-d40b-4b2f-946a-b00f712ef1e7",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> ３年生は何人いますか",
+    "ts": "1683013058.596629",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "2uPg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "情報には先生の名前に関する情報が含まれていません。申し訳ありませんが、私はその答えを知りません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "情報には先生の名前に関する情報が含まれていません。申し訳ありませんが、私はその答えを知りません。",
+    "ts": "1683013039.899819",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dTJ/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 先生の名前は？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9ef7688c-12ec-4187-a181-d38da4a596bb",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 先生の名前は？",
+    "ts": "1683013034.473399",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "app_id": "A054AUH0ZEE",
+    "blocks": [
+      {
+        "block_id": "T6x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "知らない。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B053WE1UHEK",
+    "bot_profile": {
+      "app_id": "A054AUH0ZEE",
+      "deleted": false,
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_36.jpg",
+        "image_48": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_48.jpg",
+        "image_72": "https://avatars.slack-edge.com/2023-05-29/5333607980902_63b89b372b6491ac8fc5_72.jpg"
+      },
+      "id": "B053WE1UHEK",
+      "name": "chatbot23",
+      "team_id": "T6WULA63S",
+      "updated": 1685431051
+    },
+    "team": "T6WULA63S",
+    "text": "知らない。",
+    "ts": "1683013017.900239",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hkxx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0550LX2NG0"
+              },
+              {
+                "text": " 松野研究室のメンバーを教えて下さい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a7e25d94-4bf8-4986-aea7-d6d02a043eca",
+    "team": "T6WULA63S",
+    "text": "<@U0550LX2NG0> 松野研究室のメンバーを教えて下さい",
+    "ts": "1683013015.384499",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U0550LX2NG0> has joined the channel",
+    "ts": "1683012998.429759",
+    "type": "message",
+    "user": "U0550LX2NG0"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1683012975.395119",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

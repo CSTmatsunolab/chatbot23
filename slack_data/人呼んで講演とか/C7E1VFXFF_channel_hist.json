@@ -1,0 +1,344 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1555910590.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1555910507.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1518420118.000054",
+    "type": "message",
+    "user": "U97F49L68"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dI8MQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来週の木曜日のお昼に、横浜国立大学の倉光先生に来てもらうことになりました。研究とか、横国のこととか話して貰う予定です。参加してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "来週の木曜日のお昼に、横浜国立大学の倉光先生に来てもらうことになりました。研究とか、横国のこととか話して貰う予定です。参加してください。",
+    "ts": "1513266085.000537",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bc=9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "承知しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "承知しました。",
+    "ts": "1510026593.000147",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cqP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日は１時２０分から共同研究者である石垣さんにセンシングについて講演してもらいます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "今日は１時２０分から共同研究者である石垣さんにセンシングについて講演してもらいます",
+    "ts": "1510024594.000012",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o7z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大槻くんから土曜日の資料をもらいました。松野研限定でシェアしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "大槻くんから土曜日の資料をもらいました。松野研限定でシェアしてください",
+    "ts": "1508941658.000039",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8a4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6YLZUWAK"
+              },
+              {
+                "text": " uploaded a file: ",
+                "type": "text"
+              },
+              {
+                "text": "20171021発表資料.pdf",
+                "type": "link",
+                "url": "https://matsulabnu.slack.com/files/U6YLZUWAK/F7PSKUJ77/20171021____________.pdf"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F7PSKUJ77",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U6YLZUWAK> uploaded a file: <https://matsulabnu.slack.com/files/U6YLZUWAK/F7PSKUJ77/20171021____________.pdf|20171021発表資料.pdf>",
+    "ts": "1508941637.000253",
+    "type": "message",
+    "upload": true,
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZMHW0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、石垣さんですが、11月9日じゃなくて11月７日火曜日の３限でいいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1507641572.000459",
+    "reply_count": 5,
+    "reply_users": [
+      "U7DKV6ACT",
+      "U7DPNCR0U",
+      "U7D6SJCAD",
+      "U6YLZUWAK"
+    ],
+    "reply_users_count": 4,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "すいません、石垣さんですが、11月9日じゃなくて11月７日火曜日の３限でいいですか",
+    "thread_ts": "1507559812.000147",
+    "ts": "1507559812.000147",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://secure.gravatar.com/avatar/40be5cf201e1b52a05781ef67b8f5aa3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0018-48.png",
+        "author_id": "U6YLZUWAK",
+        "author_link": "https://matsulabnu.slack.com/team/U6YLZUWAK",
+        "author_name": "Yutaka Matsuno",
+        "author_subname": "Yutaka Matsuno",
+        "channel_id": "C7E1VFXFF",
+        "channel_name": "人呼んで講演とか",
+        "color": "D0D0D0",
+        "fallback": "[October 5th, 2017 10:37 PM] yutaka: 今日話した環境センシングの石垣さんですが、１１月９日の木曜の午後に来てもらおうと思いますが、いいですか",
+        "footer": "Thread in #人呼んで講演とか",
+        "from_url": "https://matsulabnu.slack.com/archives/C7E1VFXFF/p1507210629000071?thread_ts=1507210629000071&cid=C7E1VFXFF",
+        "is_msg_unfurl": true,
+        "is_share": true,
+        "is_thread_root_unfurl": true,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "text": "今日話した環境センシングの石垣さんですが、１１月９日の木曜の午後に来てもらおうと思いますが、いいですか",
+        "ts": "1507210629.000071"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "1S8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1507260548.000078",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Kyi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日話した環境センシングの石垣さんですが、１１月９日の木曜の午後に来てもらおうと思いますが、いいですか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1507597558.000088",
+    "reply_count": 3,
+    "reply_users": [
+      "U7DKV6ACT",
+      "U7D6SJCAD",
+      "U7DPNCR0U"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "今日話した環境センシングの石垣さんですが、１１月９日の木曜の午後に来てもらおうと思いますが、いいですか",
+    "thread_ts": "1507210629.000071",
+    "ts": "1507210629.000071",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7D7WMM5F> has joined the channel",
+    "ts": "1507210582.000182",
+    "type": "message",
+    "user": "U7D7WMM5F"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1507210582.000141",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7D7LFFED> has joined the channel",
+    "ts": "1507210582.000111",
+    "type": "message",
+    "user": "U7D7LFFED"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7DPNCR0U> has joined the channel",
+    "ts": "1507210582.000067",
+    "type": "message",
+    "user": "U7DPNCR0U"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7D6SJCAD> has joined the channel",
+    "ts": "1507210582.000022",
+    "type": "message",
+    "user": "U7D6SJCAD"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7DPLM89J> has joined the channel",
+    "ts": "1507210581.000473",
+    "type": "message",
+    "user": "U7DPLM89J"
+  },
+  {
+    "inviter": "U6YLZUWAK",
+    "subtype": "channel_join",
+    "text": "<@U7DNFTLSW> has joined the channel",
+    "ts": "1507210581.000432",
+    "type": "message",
+    "user": "U7DNFTLSW"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1507210580.000540",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  }
+]

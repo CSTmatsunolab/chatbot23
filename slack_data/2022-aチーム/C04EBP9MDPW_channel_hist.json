@@ -1,0 +1,4039 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "pdrO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でしたー！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0E2ACF16-BE19-4DEC-B6EF-FCC46C6F3F6D",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "お疲れ様でした",
+        "users": [
+          "U02GE1XMN4V",
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でしたー！",
+    "ts": "1677497513.520789",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rYf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "お疲れ様でした",
+                "type": "emoji"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E3973F16-0787-47CB-8527-C7CA9E3108B1",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "お疲れ様でした",
+        "users": [
+          "U02GE1XMN4V",
+          "U044HJDHF2A",
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": ":お疲れ様でした: ",
+    "ts": "1677487977.270809",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uUb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でしたありがとうございました！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ECDC94CF-62A4-46BF-B826-1DE38C5AF449",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "お疲れ様でした",
+        "users": [
+          "U02GE1XMN4V",
+          "U0449L54VKR",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でしたありがとうございました！",
+    "ts": "1677484410.926499",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qpNI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でした。ありがとうございました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0A9CCB83-3C21-4FF2-AC42-6DA35EF34A31",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "お疲れ様でした",
+        "users": [
+          "U02GE1XMN4V",
+          "U044HJDHF2A",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でした。ありがとうございました。",
+    "ts": "1677483619.879809",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MuRQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3ヶ月間お疲れ様でした。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1af48534-7960-4e69-8ebc-69e3c8cd8193",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "arigatou",
+        "users": [
+          "U044HJDHF2A",
+          "U0449L54VKR",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "3ヶ月間お疲れ様でした。",
+    "ts": "1677483030.842189",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "axh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/CSTmatsunolab/unityb2.git"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "05626c5f-4b4c-440c-9118-23ac8c806e27",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/CSTmatsunolab/unityb2.git>",
+    "ts": "1677474452.953709",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A=uD0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Reminder: 2/27(月)　発表　3限〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01",
+    "team": "T6WULA63S",
+    "text": "Reminder: 2/27(月)　発表　3限〜",
+    "ts": "1677283223.305469",
+    "type": "message",
+    "user": "USLACKBOT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lLJMp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ゴールは買ってませんが",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DF9BC129-87B9-46F9-B73C-DE512DD28E7B",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "cry",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ゴールは買ってませんが",
+    "ts": "1676943399.492199",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xHejm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "サッカーボールは買ってくださったそうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DECD8E71-CB30-48D2-ACE1-B7E4B8A5DA78",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04Q1SWSN0P",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "confetti_ball",
+        "users": [
+          "U044HJDHF2A",
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "sweat_smile",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "are",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "soccer",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "star-struck",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "text": "サッカーボールは買ってくださったそうです",
+    "ts": "1676943391.655899",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "y7X",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見れますし遊べます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "79105cfd-af6f-40b4-bed6-fec25119c760",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "見れますし遊べます",
+    "ts": "1676890419.602559",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "BloodGame",
+        "from_url": "https://unityroom.com/games/bloodgame",
+        "id": 1,
+        "original_url": "https://unityroom.com/games/bloodgame",
+        "service_icon": "https://unityroom.com/assets/apple-touch-icon-d1b6ae6204fefb7e9413c5b8e4b1591f56fbcacfd66289bdfb9689e5a7857b9b.png",
+        "service_name": "unityroom.com",
+        "text": "血のゲームです",
+        "thumb_height": 487,
+        "thumb_url": "https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/41401/icon_20230220_185847.jpg",
+        "thumb_width": 488,
+        "title": "BloodGame",
+        "title_link": "https://unityroom.com/games/bloodgame"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "0Vj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "投稿してみたんだけど見れます？\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://unityroom.com/games/bloodgame"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "226f35f1-4594-49f5-9e1f-008b13096d45",
+    "team": "T6WULA63S",
+    "text": "投稿してみたんだけど見れます？\n<https://unityroom.com/games/bloodgame>",
+    "ts": "1676887430.285379",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "F04QQAW5ULR",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676870754.736029",
+    "type": "message",
+    "upload": false,
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "client_msg_id": "65ede16d-6437-4412-abd4-945c598ce72d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "F04R1CPT5PS",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676870752.754559",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "subtype": "reminder_add",
+    "text": " set up a reminder “2/27(月)　発表　3限〜” in this channel at 9AM Saturday, February 25th, Japan Standard Time.",
+    "ts": "1676868182.768289",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CY5Yh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2/27(月) Unityゼミ発表　３限〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed8de2b0-a537-4711-9767-048aa1f9a2ea",
+    "team": "T6WULA63S",
+    "text": "2/27(月) Unityゼミ発表　３限〜",
+    "ts": "1676868161.436519",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "client_msg_id": "B91D7913-7C7A-4C29-B3D8-69BE90393C52",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04Q8FM32E5",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676527215.583829",
+    "type": "message",
+    "upload": false,
+    "user": "U044HJDHF2A"
+  },
+  {
+    "client_msg_id": "BD002DFA-B13F-468B-8DEE-90AEF40AEBF1",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mp4",
+        "id": "F04Q8FLAA9X",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04PFAKED0X",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04QKH7468G",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04Q8FL9F7T",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676527204.101609",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "client_msg_id": "46ED98CB-2502-4B3E-A9FC-96B5C2E8FB03",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04QKH31MH6",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04QKH31N1E",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676527142.427219",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "client_msg_id": "0814C0F7-2C03-4E6B-B57F-C55ABD09698E",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04PSSRSUTX",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676526246.236059",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "client_msg_id": "3E36A4F0-079D-4533-AF00-DD3C325056D2",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04PP73Q630",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04PVMFAU0K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676526121.251569",
+    "type": "message",
+    "upload": false,
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "client_msg_id": "853D6D69-54A9-46E8-B7CC-DAD82D956F41",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04PP7398FQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1676526104.601229",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jdy=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "青柳フォント",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1c20fa16-1272-4c16-a307-92e017c5e391",
+    "team": "T6WULA63S",
+    "text": "青柳フォント",
+    "ts": "1676525247.795099",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "M+pGq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://opentype.jp/aoyagikouzanfontt.htm"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a4a59301-964f-42aa-b76a-033ed82326d2",
+    "team": "T6WULA63S",
+    "text": "<https://opentype.jp/aoyagikouzanfontt.htm>",
+    "ts": "1676525242.566989",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8CNs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/19cKLwa-1SxBFQCEUFDe3sI5JMiFOsgYIflXmS_BMkvE/edit#slide=id.g1148f465c9d_0_298"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44f0ffdd-5ae6-40c1-9062-2377d73bcb08",
+    "team": "T6WULA63S",
+    "text": "<https://docs.google.com/presentation/d/19cKLwa-1SxBFQCEUFDe3sI5JMiFOsgYIflXmS_BMkvE/edit#slide=id.g1148f465c9d_0_298>",
+    "ts": "1676516524.665519",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O3Zew",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://unity-shoshinsha.biz/archives/1194"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "28a05afe-30bb-459d-95bf-915d9d9733aa",
+    "team": "T6WULA63S",
+    "text": "<https://unity-shoshinsha.biz/archives/1194>",
+    "ts": "1676512824.703959",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SUPmm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "hpバーの設定できたよ",
+                "type": "text"
+              },
+              {
+                "name": "smiling_imp",
+                "type": "emoji",
+                "unicode": "1f608"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b99dde4f-c41a-4450-85e3-964977f1548a",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "smiling_face_with_3_hearts",
+        "users": [
+          "U0449L54VKR",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "are",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "kissing_heart",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "heart_eyes",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "hpバーの設定できたよ:smiling_imp:",
+    "ts": "1676439983.020719",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0nQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スコア表示できた明日コミットする\n\n\nコミットした",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f552e3a8-4fac-45fd-83d3-8619445879ac",
+    "edited": {
+      "ts": "1676035420.000000",
+      "user": "U044HJDHF2A"
+    },
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U044HJDLCJ2",
+          "U044SLE6D3N"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "are",
+        "users": [
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dog",
+        "users": [
+          "U0449L54VKR"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "スコア表示できた明日コミットする\n\n\nコミットした",
+    "ts": "1675943616.616649",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=M=v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/83758615306?pwd=dUxkUHliUUxVWVpxT3JvM3NieXgyZz09"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ea027de-d67e-421d-8a2c-123147922138",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/83758615306?pwd=dUxkUHliUUxVWVpxT3JvM3NieXgyZz09>",
+    "ts": "1675519397.990169",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Rf6m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "招待リンくれ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "128f03ad-630c-4313-91c9-c7af7ab1d1fa",
+    "team": "T6WULA63S",
+    "text": "招待リンくれ",
+    "ts": "1675519358.003959",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Yhk07",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/85150139708?pwd=SGZLOUJScnN4NHkwV2pHY1NXdEJ0dz09"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "213a2ba7-accd-48f3-a4fe-2e4e442da515",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/85150139708?pwd=SGZLOUJScnN4NHkwV2pHY1NXdEJ0dz09>",
+    "ts": "1675519109.148889",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n2Ofn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ土曜の23日で！\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U0449L54VKR"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044SLE6D3N"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044HJDHF2A"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C2CDCA1B-70E5-4857-ACF5-7856D39E67DA",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "are",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "じゃあ土曜の23日で！\n<@U0449L54VKR> <@U044SLE6D3N> <@U044HJDHF2A> ",
+    "ts": "1675436536.233649",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Elo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうしようか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A9AFD80A-A975-4C5A-A4CE-146E1251C339",
+    "team": "T6WULA63S",
+    "text": "そうしようか",
+    "ts": "1675436520.951949",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zHv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ23時くらいからやる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78fa76bc-6b0a-4c53-b40b-cd32b077be07",
+    "team": "T6WULA63S",
+    "text": "じゃあ23時くらいからやる？",
+    "ts": "1675436008.964699",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/TyfC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫だよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "441A79C7-2DE7-4185-AC3B-AF00DFFB1AD1",
+    "edited": {
+      "ts": "1675435734.000000",
+      "user": "U044SLE6D3N"
+    },
+    "team": "T6WULA63S",
+    "text": "大丈夫だよ",
+    "ts": "1675435719.817689",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Shs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そんなに長引かなければって感じだな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "84d21f52-ab1c-4b16-9139-09deecfdb30e",
+    "team": "T6WULA63S",
+    "text": "そんなに長引かなければって感じだな",
+    "ts": "1675434630.866419",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+wkSg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "土曜は早くてバイトあるから22時は過ぎそう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0a98b37d-f334-4fd5-a595-e82fe25bd12a",
+    "team": "T6WULA63S",
+    "text": "土曜は早くてバイトあるから22時は過ぎそう",
+    "ts": "1675434602.866969",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bWEp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "私夜は遅れるかもだけどできる、他の皆さんはどう\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044SLE6D3N"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044HJDLCJ2"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "915F671A-8523-4621-8F82-477281035D88",
+    "team": "T6WULA63S",
+    "text": "私夜は遅れるかもだけどできる、他の皆さんはどう\n<@U044SLE6D3N> <@U044HJDLCJ2> ",
+    "ts": "1675430909.379049",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dgL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "夜ならおっけい！22時以降になるかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7CCF386D-C93A-4F80-A2E7-57D7FAB4FBA4",
+    "team": "T6WULA63S",
+    "text": "夜ならおっけい！22時以降になるかな",
+    "ts": "1675425489.947759",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fjSe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ土曜は？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "30F898D4-EBEC-4F64-94AF-EC291CEF7CC5",
+    "team": "T6WULA63S",
+    "text": "じゃあ土曜は？",
+    "ts": "1675425382.133469",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JQLbJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺月曜用事あるんだ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6E46D447-96C7-41EF-AFDB-A418700CDF4E",
+    "team": "T6WULA63S",
+    "text": "俺月曜用事あるんだ",
+    "ts": "1675421079.525039",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R85b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺はどっちでも大丈夫",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4BA3E361-287F-41C3-9141-AC0AB064FFA4",
+    "team": "T6WULA63S",
+    "text": "俺はどっちでも大丈夫",
+    "ts": "1675419682.295279",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SbpWi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デイリースクラムの後希望です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2fe92045-b09e-4a43-a85a-d30d04c468b9",
+    "team": "T6WULA63S",
+    "text": "デイリースクラムの後希望です",
+    "ts": "1675419135.190359",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AbRBb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日暇なら開発する？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1F0DDD85-D79E-42B1-A828-947EE7879DD5",
+    "team": "T6WULA63S",
+    "text": "今日暇なら開発する？",
+    "ts": "1675418601.793749",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "プログラミング教室 フタバゼミ: 【Unity C#】5秒経過すればInstantiateを止める",
+        "from_url": "https://futabazemi.net/notes/unity_instantiate",
+        "id": 1,
+        "image_bytes": 151666,
+        "image_height": 250,
+        "image_url": "https://futabazemi.net/wp/wp-content/uploads/2020/05/spheremove6.gif",
+        "image_width": 448,
+        "original_url": "https://futabazemi.net/notes/unity_instantiate",
+        "service_icon": "https://futabazemi.net/wp/wp-content/themes/futabazemi/assets/img/favicon/apple-touch-icon.png",
+        "service_name": "プログラミング教室 フタバゼミ",
+        "text": "時間が経過すればInstantiateを止めるには、どのような仕組みを作ればいいでしょうか？プレハブ（Prefab）を連続して生成していて、ある条件になれば生成を止める仕組みをつくりましょう。ここでは、1秒おきにボールを生成して、5秒経過すれば生成しないようにします。",
+        "title": "【Unity C#】5秒経過すればInstantiateを止める",
+        "title_link": "https://futabazemi.net/notes/unity_instantiate",
+        "ts": 1614123631
+      },
+      {
+        "fallback": "Qiita: 敵自動生成 - Qiita",
+        "from_url": "https://qiita.com/katakatahanahana/private/de02972c67cb4be13ece",
+        "id": 2,
+        "image_bytes": 23252,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU2JTk1JUI1JUU4JTg3JUFBJUU1JThCJTk1JUU3JTk0JTlGJUU2JTg4JTkwJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lZDRkOWFiYjY5ZDkxZGE0YTdhY2NjYjU3MWE3ODkzNg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwa2F0YWthdGFoYW5haGFuYSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZWNmZjkyMTExNjIzM2MxOGM0NDU1MzdmNmI5YTdlNjU&blend-x=142&blend-y=491&blend-mode=normal&s=b1c1b51b45148d73f5473cb404a47ca7",
+        "image_width": 476,
+        "original_url": "https://qiita.com/katakatahanahana/private/de02972c67cb4be13ece",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "敵の湧き方\n時間に比例して敵が増えるようにする\nusing System.Collections;\nusing System.Collections.Generic;\nusing UnityEngine;\n\npublic class...",
+        "title": "敵自動生成 - Qiita",
+        "title_link": "https://qiita.com/katakatahanahana/private/de02972c67cb4be13ece"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "V+P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "敵生成参考になりそうなやつ\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://futabazemi.net/notes/unity_instantiate"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://qiita.com/katakatahanahana/private/de02972c67cb4be13ece"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5bdb885-1fb8-494e-bb5e-403d8ead5a60",
+    "edited": {
+      "ts": "1675414990.000000",
+      "user": "U044HJDHF2A"
+    },
+    "team": "T6WULA63S",
+    "text": "敵生成参考になりそうなやつ\n<https://futabazemi.net/notes/unity_instantiate>\n<https://qiita.com/katakatahanahana/private/de02972c67cb4be13ece>",
+    "ts": "1675414259.948849",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c9N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "0130Unity開発問題点",
+                "type": "text"
+              },
+              {
+                "text": "\n・一回接触すると、その後衝突が起きないで斧がすり抜ける\n・衝突時にゾンビが倒れてくれない（DebugLog表示、Hp＝０）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "69f66f98-186c-46d4-9354-9c431b1abcda",
+    "team": "T6WULA63S",
+    "text": "*0130Unity開発問題点*\n・一回接触すると、その後衝突が起きないで斧がすり抜ける\n・衝突時にゾンビが倒れてくれない（DebugLog表示、Hp＝０）",
+    "ts": "1675046779.358899",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "XRの『知』を共創するメディア XR-Hub: 【Unity】OnTriggerを利用した当たり判定を理解しよう！ | XR-Hub",
+        "from_url": "https://xr-hub.com/archives/7499",
+        "id": 1,
+        "image_bytes": 81884,
+        "image_height": 250,
+        "image_url": "https://xr-hub.com/wp-content/uploads/2018/12/OnTriggerアイキャッチ-500x250.png",
+        "image_width": 500,
+        "original_url": "https://xr-hub.com/archives/7499",
+        "service_icon": "https://xr-hub.com/wp-content/uploads/2018/05/cropped-2018-05-27-0.33.11-1-180x180.png",
+        "service_name": "XRの『知』を共創するメディア XR-Hub",
+        "text": "» 【Unity】OnTriggerを利用した当たり判定を理解しよう！",
+        "title": "【Unity】OnTriggerを利用した当たり判定を理解しよう！ | XR-Hub",
+        "title_link": "https://xr-hub.com/archives/7499",
+        "ts": 1544939127
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "XyT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://xr-hub.com/archives/7499"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "63bf7fea-39f5-4b2d-8cf9-a9977a1a47ff",
+    "team": "T6WULA63S",
+    "text": "<https://xr-hub.com/archives/7499>",
+    "ts": "1675041772.776609",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/mbf-cudi-dua",
+        "id": 1,
+        "original_url": "https://meet.google.com/mbf-cudi-dua",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/mbf-cudi-dua"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "cuw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Unity-A デイリースクラム\n1月 30日 (月曜日) · 午前10:00～10:15\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/mbf-cudi-dua"
+              },
+              {
+                "text": "\nダイヤルイン: ‪(US) +1 301-882-5327‬ PIN: ‪287 842 879‬#",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b81618e6-fd7f-4555-bb4f-3a786a7d28e8",
+    "team": "T6WULA63S",
+    "text": "Unity-A デイリースクラム\n1月 30日 (月曜日) · 午前10:00～10:15\nGoogle Meet の参加に必要な情報\nビデオ通話のリンク: <https://meet.google.com/mbf-cudi-dua>\nダイヤルイン: ‪(US) <tel:+1301-882-5327|+1 301-882-5327>‬ PIN: ‪287 842 879‬#",
+    "ts": "1675005528.745199",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unityでゲームを作ろう！: 【第7回】敵キャラの基本スクリプトの作成＆ダメージ処理の追加",
+        "from_url": "https://unity.moon-bear.com/zombie-slayer-2/basic-enemy-script/",
+        "id": 1,
+        "original_url": "https://unity.moon-bear.com/zombie-slayer-2/basic-enemy-script/",
+        "service_icon": "https://unity.moon-bear.com/wp-content/uploads/2019/05/cropped-icon_kuma-180x180.jpg",
+        "service_name": "Unityでゲームを作ろう！",
+        "text": "前回の作業で敵キャラのアニメーションを制御できるようになったので、次は敵キャラの基本的なC#スクリプトを作り、ついでにダメージ処理も追加しようと思います。敵キャラ（ゾンビ）のゲームオブジェクトの作成では、まずはゾンビのゲームオブジェクトを作",
+        "thumb_height": 253,
+        "thumb_url": "https://unity.moon-bear.com/wp-content/uploads/2019/06/unity-gametsukurou-twitter-card.png",
+        "thumb_width": 506,
+        "title": "【第7回】敵キャラの基本スクリプトの作成＆ダメージ処理の追加",
+        "title_link": "https://unity.moon-bear.com/zombie-slayer-2/basic-enemy-script/",
+        "ts": 1632804914
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "TZY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://unity.moon-bear.com/zombie-slayer-2/basic-enemy-script/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8c05e4c0-8231-435e-87a1-6193c0ec5ab5",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "eyes",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://unity.moon-bear.com/zombie-slayer-2/basic-enemy-script/>",
+    "ts": "1674785726.950889",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mw3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Unityの教科書p400あたりにTagの説明",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d11e2fae-c6b9-4749-99be-2f1807214f95",
+    "team": "T6WULA63S",
+    "text": "Unityの教科書p400あたりにTagの説明",
+    "ts": "1674708736.439589",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p0+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "斧のタグ　ono\n敵の手のタグ enemyarm",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46cbc45c-1fce-47aa-aed3-1a051b7d24c0",
+    "team": "T6WULA63S",
+    "text": "斧のタグ　ono\n敵の手のタグ enemyarm",
+    "ts": "1674708549.180199",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unity Asset Store: Blood splatter decal package | 2D Textures &amp; Materials | Unity Asset Store",
+        "from_url": "https://assetstore.unity.com/packages/2d/textures-materials/blood-splatter-decal-package-7518",
+        "id": 1,
+        "image_bytes": 94537,
+        "image_height": 250,
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/387e4e94-146b-401b-904b-5005599ce172.jpg?v=1",
+        "image_width": 332,
+        "original_url": "https://assetstore.unity.com/packages/2d/textures-materials/blood-splatter-decal-package-7518",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Elevate your workflow with the Blood splatter decal package asset from NorSat Entertainment. Find this &amp; more Textures &amp; Materials on the Unity Asset Store.",
+        "title": "Blood splatter decal package | 2D Textures &amp; Materials | Unity Asset Store",
+        "title_link": "https://assetstore.unity.com/packages/2d/textures-materials/blood-splatter-decal-package-7518"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "tTWr1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://assetstore.unity.com/packages/2d/textures-materials/blood-splatter-decal-package-7518"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "41ced211-60f2-4d76-aeb3-277b8261ca09",
+    "team": "T6WULA63S",
+    "text": "<https://assetstore.unity.com/packages/2d/textures-materials/blood-splatter-decal-package-7518>",
+    "ts": "1674707892.676569",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Your 3D -: 【Unity】タグの使い方【複数のゲームオブジェクト処理に便利】 - Your 3D",
+        "from_url": "https://your-3d.com/unity-gameobject-tag/",
+        "id": 1,
+        "original_url": "https://your-3d.com/unity-gameobject-tag/",
+        "service_icon": "https://your-3d.com/wp-content/themes/cocoon-master/images/site-icon180x180.png",
+        "service_name": "Your 3D -",
+        "text": "Unityのタグについて解説します。タグの使い方、具体的な応用例をまとめたのでこの記事を読めばタグを扱えるようになるはずです。記事後半ではタグの具体的なスクリプトを公開しています。",
+        "thumb_height": 480,
+        "thumb_url": "https://your-3d.com/wp-content/uploads/2020/01/unity-tag-icon.png",
+        "thumb_width": 640,
+        "title": "【Unity】タグの使い方【複数のゲームオブジェクト処理に便利】 - Your 3D",
+        "title_link": "https://your-3d.com/unity-gameobject-tag/",
+        "ts": 1580216293
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "dDSvE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://your-3d.com/unity-gameobject-tag/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b7ee4a94-0f9f-4cf1-a6e3-2484a16a4578",
+    "team": "T6WULA63S",
+    "text": "<https://your-3d.com/unity-gameobject-tag/>",
+    "ts": "1674707388.631619",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "subtype": "reminder_add",
+    "text": " set up a reminder “1/29(日)　デイリースクラム（10：00〜）オンライン　10:00〜” in this channel at 9AM Saturday, January 28th, Japan Standard Time.",
+    "ts": "1674701971.903469",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9uBl2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "木曜日：ミーティング（10：40〜）対面\n月曜日：デイリースクラム（10：00〜）オンライン",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "694ee319-a374-4279-a0df-14e4ccd79f9b",
+    "edited": {
+      "ts": "1674699245.000000",
+      "user": "U02GE1XMN4V"
+    },
+    "team": "T6WULA63S",
+    "text": "木曜日：ミーティング（10：40〜）対面\n月曜日：デイリースクラム（10：00〜）オンライン",
+    "ts": "1674699199.319229",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+r2xD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "当然ですが明日はデイリースクラムはありません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6a4b7fee-a1df-4ff0-a058-8f3678c5aea2",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U0449L54VKR",
+          "U044SLE6D3N",
+          "U044HJDHF2A",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "当然ですが明日はデイリースクラムはありません",
+    "ts": "1674461395.439839",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xqaka",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Unityの発表ですが、2/20（月）か、2/27（月）になりそうです。\nどっちになるかは進捗次第です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d910d256-92f7-42e9-9f5a-cd821fdc4058",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U0449L54VKR",
+          "U044SLE6D3N",
+          "U044HJDHF2A",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "Unityの発表ですが、2/20（月）か、2/27（月）になりそうです。\nどっちになるかは進捗次第です。",
+    "ts": "1674187374.490249",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "client_msg_id": "71d45f6a-cde1-47a6-947a-e57922e8f696",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F04K2NVRK9T",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1673921745.238099",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "client_msg_id": "820ccaea-55c7-41d4-9577-a817f4cd8862",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "text",
+        "id": "F04KJACK32M",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "text",
+        "id": "F04K5HNMV6F",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1673921662.467499",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "C7wij",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/84918267189?pwd=N1lPQXVJWGRQek9YbVFWSThDRi9XUT09"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "758f8c28-689e-4673-8892-4011226d63cc",
+    "team": "T6WULA63S",
+    "text": "<https://nihon-u-ac-jp.zoom.us/j/84918267189?pwd=N1lPQXVJWGRQek9YbVFWSThDRi9XUT09>",
+    "ts": "1673919968.040729",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "q9CyE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Reminder: 1/17(火)　デイリースクラム　11:00〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "B01",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U0449L54VKR",
+          "U02GE1XMN4V",
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "Reminder: 1/17(火)　デイリースクラム　11:00〜",
+    "ts": "1673827213.685749",
+    "type": "message",
+    "user": "USLACKBOT"
+  },
+  {
+    "reactions": [
+      {
+        "count": 1,
+        "name": "dog",
+        "users": [
+          "U0449L54VKR"
+        ]
+      }
+    ],
+    "subtype": "reminder_add",
+    "text": " set up a reminder “1/17(火)　デイリースクラム　11:00〜” in this channel at 9AM tomorrow, Japan Standard Time.",
+    "ts": "1673749902.520809",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jXR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U044HJDLCJ2"
+              },
+              {
+                "text": "\nくる？\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://nihon-u-ac-jp.zoom.us/j/83240272835?pwd=ekRybXVldFM1NmtTQVlHZ2lFczN5dz09"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "596f5c3a-8f4f-4f10-8e7c-f0262078c271",
+    "team": "T6WULA63S",
+    "text": "<@U044HJDLCJ2>\nくる？\n<https://nihon-u-ac-jp.zoom.us/j/83240272835?pwd=ekRybXVldFM1NmtTQVlHZ2lFczN5dz09>",
+    "ts": "1673715264.590519",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4Wd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U044HJDLCJ2"
+              },
+              {
+                "text": "\nMainブランチぶっ壊れたから、BloodTeamAっていうGitHubのリポジトリを新しく作りました。\n設定については貼付してある、動画みてね。分かんなかったら、",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044HJDHF2A"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U044SLE6D3N"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U0449L54VKR"
+              },
+              {
+                "text": " に質問してね。\nていうか、上記の人の中から一人以上選んで一緒に作業してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8d9061a1-0f69-458e-a23b-bb0fc252366f",
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1673716092.000000",
+      "user": "U0449L54VKR"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "F04JHRH5X8X",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "<@U044HJDLCJ2>\nMainブランチぶっ壊れたから、BloodTeamAっていうGitHubのリポジトリを新しく作りました。\n設定については貼付してある、動画みてね。分かんなかったら、<@U044HJDHF2A> <@U044SLE6D3N> <@U0449L54VKR> に質問してね。\nていうか、上記の人の中から一人以上選んで一緒に作業してください。",
+    "ts": "1673715106.007549",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unityでゲームを作ろう！: 【第9回】敵キャラがプレイヤーを攻撃できるようにする",
+        "from_url": "https://unity.moon-bear.com/zombie-slayer-2/enemy-attack/#toc6",
+        "id": 1,
+        "original_url": "https://unity.moon-bear.com/zombie-slayer-2/enemy-attack/#toc6",
+        "service_icon": "https://unity.moon-bear.com/wp-content/uploads/2019/05/cropped-icon_kuma-180x180.jpg",
+        "service_name": "Unityでゲームを作ろう！",
+        "text": "前回の作業で一応敵キャラが目的地に向かって移動するようになりました。しかし今の状態では単純に目的地に向かって動くだけで、プレイヤーと接触しても何も起きないので敵というよりは単なる「的」ですよね。そこでここではゾンビのC#スクリプトを改良して",
+        "thumb_height": 253,
+        "thumb_url": "https://unity.moon-bear.com/wp-content/uploads/2019/06/unity-gametsukurou-twitter-card.png",
+        "thumb_width": 506,
+        "title": "【第9回】敵キャラがプレイヤーを攻撃できるようにする",
+        "title_link": "https://unity.moon-bear.com/zombie-slayer-2/enemy-attack/#toc6",
+        "ts": 1634435845
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Y0Pk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://unity.moon-bear.com/zombie-slayer-2/enemy-attack/#toc6"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0e186813-4265-4318-a4b4-073c87fd7902",
+    "team": "T6WULA63S",
+    "text": "<https://unity.moon-bear.com/zombie-slayer-2/enemy-attack/#toc6>",
+    "ts": "1673715092.674329",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "XRの『知』を共創するメディア XR-Hub: 【Unity】FPSで弾を発射し、あたり判定を検知する方法 | XR-Hub",
+        "from_url": "https://xr-hub.com/archives/7782",
+        "id": 1,
+        "image_bytes": 43092,
+        "image_height": 250,
+        "image_url": "https://xr-hub.com/wp-content/uploads/2018/12/アイキャッチ-500x250.png",
+        "image_width": 500,
+        "original_url": "https://xr-hub.com/archives/7782",
+        "service_icon": "https://xr-hub.com/wp-content/uploads/2018/05/cropped-2018-05-27-0.33.11-1-180x180.png",
+        "service_name": "XRの『知』を共創するメディア XR-Hub",
+        "text": "» 【Unity】FPSで弾を発射し、あたり判定を検知する方法",
+        "title": "【Unity】FPSで弾を発射し、あたり判定を検知する方法 | XR-Hub",
+        "title_link": "https://xr-hub.com/archives/7782",
+        "ts": 1545473030
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Oil+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://xr-hub.com/archives/7782",
+                "type": "link",
+                "url": "https://xr-hub.com/archives/7782"
+              },
+              {
+                "text": "\nこれ参考に作ってみたいね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B33F60B6-5821-4582-8E4D-1130C9097862",
+    "team": "T6WULA63S",
+    "text": "<https://xr-hub.com/archives/7782|https://xr-hub.com/archives/7782>\nこれ参考に作ってみたいね",
+    "ts": "1673706049.145849",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unity Asset Store: Axe | 3D Weapons | Unity Asset Store",
+        "from_url": "https://assetstore.unity.com/packages/3d/props/weapons/axe-45935",
+        "id": 1,
+        "image_bytes": 32872,
+        "image_height": 250,
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bcca91e6-8ca7-43ea-a87e-bb86fcfa47a5.jpg?v=1",
+        "image_width": 332,
+        "original_url": "https://assetstore.unity.com/packages/3d/props/weapons/axe-45935",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Elevate your workflow with the Axe asset from Fairy shop. Find this &amp; other Weapons options on the Unity Asset Store.",
+        "title": "Axe | 3D Weapons | Unity Asset Store",
+        "title_link": "https://assetstore.unity.com/packages/3d/props/weapons/axe-45935"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "0T+Qi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\nお疲れ様です。先程片岡さん、羽山君と相談した結果「",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://assetstore.unity.com/packages/3d/props/weapons/axe-45935"
+              },
+              {
+                "text": "」に決定いたしましたので、どうぞよろしくお願い致します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4f649ef1-b612-4ad5-8a57-d7b68ce0f2ad",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "are",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dog",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "fish",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel>\nお疲れ様です。先程片岡さん、羽山君と相談した結果「<https://assetstore.unity.com/packages/3d/props/weapons/axe-45935>」に決定いたしましたので、どうぞよろしくお願い致します。",
+    "ts": "1673705685.492459",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dvAvW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " \nお疲れ様です。先日のスクラムで攻撃の際使用するアセットを募集するとアナウンスさせて頂いたので、こちらのチャットに返信をするという形でアセットを送って頂けると幸いでございます。期日としては、短くて申し訳ないのですが、1/14(土)の21:00までとさせてください。米本、夏生チームの開発にも関わる事かと存じますので、送り忘れのないようにお願い致します。よろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9DBE3081-1702-448D-B39B-05127818EE14",
+    "edited": {
+      "ts": "1673600206.000000",
+      "user": "U0449L54VKR"
+    },
+    "is_locked": false,
+    "latest_reply": "1673615001.883109",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "reply_count": 9,
+    "reply_users": [
+      "U044HJDHF2A",
+      "U0449L54VKR",
+      "U044SLE6D3N",
+      "U044HJDLCJ2"
+    ],
+    "reply_users_count": 4,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<!channel> \nお疲れ様です。先日のスクラムで攻撃の際使用するアセットを募集するとアナウンスさせて頂いたので、こちらのチャットに返信をするという形でアセットを送って頂けると幸いでございます。期日としては、短くて申し訳ないのですが、1/14(土)の21:00までとさせてください。米本、夏生チームの開発にも関わる事かと存じますので、送り忘れのないようにお願い致します。よろしくお願いします。",
+    "thread_ts": "1673599971.232819",
+    "ts": "1673599971.232819",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "プルデザイン: Gitのコンフリクトとブランチについて理解【Gitバージョン管理システム】-STEP8｜プルデザイン",
+        "from_url": "https://design-pull.com/github-desktop/8629/",
+        "id": 1,
+        "image_bytes": 131790,
+        "image_height": 250,
+        "image_url": "https://design-pull.com/wp-content/uploads/2022/04/local-repository8.jpg",
+        "image_width": 444,
+        "original_url": "https://design-pull.com/github-desktop/8629/",
+        "service_icon": "https://design-pull.com/wp-content/themes/jin-child/../jin-child/img/favicon/apple-touch-icon.png",
+        "service_name": "プルデザイン",
+        "text": "複数人が共同作業する際に起こるデータの衝突conflict（コンフリクト)と分担作業をするためのbranch（ブランチ)について解説します。",
+        "title": "Gitのコンフリクトとブランチについて理解【Gitバージョン管理システム】-STEP8｜プルデザイン",
+        "title_link": "https://design-pull.com/github-desktop/8629/"
+      },
+      {
+        "fallback": "プルデザイン: Gitでコンフリクトを解決する方法【Gitバージョン管理システム】-STEP9｜プルデザイン",
+        "from_url": "https://design-pull.com/github-desktop/8900/",
+        "id": 2,
+        "image_bytes": 51255,
+        "image_height": 250,
+        "image_url": "https://design-pull.com/wp-content/uploads/2022/06/local-repository9.jpg",
+        "image_width": 444,
+        "original_url": "https://design-pull.com/github-desktop/8900/",
+        "service_icon": "https://design-pull.com/wp-content/themes/jin-child/../jin-child/img/favicon/apple-touch-icon.png",
+        "service_name": "プルデザイン",
+        "text": "GitHub Desktopでコミット→プッシュした際に、Resolve conflicts before Merge（マージする前に競合を解決する）と表示され、index.htmlとどのファイルがコンフリクトを起こしているのか分かります。\nコンフリクトを解決するにはコードのどこがコンフリクトを起こしているか確認するため、Open in Visual Studio CodeをクリックしてVSCodeを開きます。",
+        "title": "Gitでコンフリクトを解決する方法【Gitバージョン管理システム】-STEP9｜プルデザイン",
+        "title_link": "https://design-pull.com/github-desktop/8900/"
+      },
+      {
+        "fallback": "ultra code - 開発ブログ: 【Git】Visual Studio Code で競合を解決しよう - ultra code",
+        "from_url": "https://futureys.tokyo/lets-resolve-conflict-on-git-by-vs-code/",
+        "id": 3,
+        "image_bytes": 141382,
+        "image_height": 250,
+        "image_url": "https://futureys.tokyo/app/uploads/2020/07/img-vscode-git-merge-conflict-window-expression.png",
+        "image_width": 462,
+        "original_url": "https://futureys.tokyo/lets-resolve-conflict-on-git-by-vs-code/",
+        "service_icon": "https://futureys.tokyo/app/uploads/2020/06/cropped-favicon-7-180x180.png",
+        "service_name": "ultra code - 開発ブログ",
+        "text": "Git でブランチをマージしたとき、競合が発生することがあります。この記事では競合をどのように解決するかを順を",
+        "title": "【Git】Visual Studio Code で競合を解決しよう - ultra code",
+        "title_link": "https://futureys.tokyo/lets-resolve-conflict-on-git-by-vs-code/",
+        "ts": 1594035063
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "OmyYT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "参考になるかも\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://design-pull.com/github-desktop/8629/"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://design-pull.com/github-desktop/8900/"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://futureys.tokyo/lets-resolve-conflict-on-git-by-vs-code/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e076862d-0074-470d-93a7-44d0d657b555",
+    "edited": {
+      "ts": "1673698675.000000",
+      "user": "U044HJDHF2A"
+    },
+    "reactions": [
+      {
+        "count": 1,
+        "name": "dog",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "参考になるかも\n<https://design-pull.com/github-desktop/8629/>\n<https://design-pull.com/github-desktop/8900/>\n<https://futureys.tokyo/lets-resolve-conflict-on-git-by-vs-code/>",
+    "ts": "1673593769.660659",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WKWd9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "newnewmainにミジュマルの情報は反映されているけど\nゼニガメ２の情報が反映されてなかった。\nので、ミジュマルにゼニガメ２の情報を反映させてもいいかな？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "64014a02-3f2c-4a32-bf65-af5b7ed9d862",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "newnewmainにミジュマルの情報は反映されているけど\nゼニガメ２の情報が反映されてなかった。\nので、ミジュマルにゼニガメ２の情報を反映させてもいいかな？",
+    "ts": "1673509558.924519",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Kg9l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "↑オンラインにて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2abd6e3d-cc98-4169-b1ce-ccfdaae212e8",
+    "team": "T6WULA63S",
+    "text": "↑オンラインにて",
+    "ts": "1673504190.373609",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GV8K2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1/17(火)　デイリースクラム　11:00〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "93e9ca6d-2059-4ad2-9904-e3dbe3a87873",
+    "pinned_info": {
+      "channel": "C04EBP9MDPW",
+      "pinned_by": "U044HJDHF2A",
+      "pinned_ts": 1673718373
+    },
+    "pinned_to": [
+      "C04EBP9MDPW"
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "1/17(火)　デイリースクラム　11:00〜",
+    "ts": "1673504057.870449",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unity Asset Store: Shoot´em up Enemy Spikeball | 3D Space | Unity Asset Store",
+        "from_url": "https://assetstore.unity.com/packages/3d/vehicles/space/shoot-em-up-enemy-spikeball-116938",
+        "id": 1,
+        "image_bytes": 1316749,
+        "image_height": 250,
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9ba394a4-eaab-4d81-aabb-6bce2f2f4db7.png?v=1",
+        "image_width": 476,
+        "original_url": "https://assetstore.unity.com/packages/3d/vehicles/space/shoot-em-up-enemy-spikeball-116938",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Elevate your workflow with the Shoot´em up Enemy Spikeball asset from VIS Games. Find this &amp; other Space options on the Unity Asset Store.",
+        "title": "Shoot´em up Enemy Spikeball | 3D Space | Unity Asset Store",
+        "title_link": "https://assetstore.unity.com/packages/3d/vehicles/space/shoot-em-up-enemy-spikeball-116938"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "iFnee",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://assetstore.unity.com/packages/3d/vehicles/space/shoot-em-up-enemy-spikeball-116938"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17d3f730-c071-48bd-bd63-704c2430ee2f",
+    "team": "T6WULA63S",
+    "text": "<https://assetstore.unity.com/packages/3d/vehicles/space/shoot-em-up-enemy-spikeball-116938>",
+    "ts": "1673503445.509879",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "client_msg_id": "1ae76c07-a14a-4fec-8b21-3f6cd2be0cd6",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04JCN2RRJS",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1673503058.014409",
+    "type": "message",
+    "upload": false,
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "client_msg_id": "e5a53906-d701-42ba-830f-0a6538dd1227",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04JKAB29QS",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1673503035.994059",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "プログラミング教室 フタバゼミ: 【Unity C#】特定エリアに近づくと追いかけてくる - プログラミング教室 フタバゼミ",
+        "from_url": "https://futabazemi.net/unity/collider_stay_chase",
+        "id": 1,
+        "image_bytes": 172349,
+        "image_height": 250,
+        "image_url": "https://futabazemi.net/wp/wp-content/uploads/2021/07/collider_stay_chase50.gif",
+        "image_width": 448,
+        "original_url": "https://futabazemi.net/unity/collider_stay_chase",
+        "service_icon": "https://futabazemi.net/wp/wp-content/themes/futabazemi/assets/img/favicon/apple-touch-icon.png",
+        "service_name": "プログラミング教室 フタバゼミ",
+        "text": "ある範囲内に近づくと、敵キャラが追いかけてくる仕組みをつくってみましょう。Cube（プレーヤー）を動かして近づけば、Sphere（敵）の色が変わり、プレーヤーを追いかけます。範囲外に出てしまえば、敵の動きが止まります。",
+        "title": "【Unity C#】特定エリアに近づくと追いかけてくる - プログラミング教室 フタバゼミ",
+        "title_link": "https://futabazemi.net/unity/collider_stay_chase",
+        "ts": 1626445377
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "/rf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://futabazemi.net/unity/collider_stay_chase"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0b1e2f14-afa5-49d9-9ebc-5777d2f3cf19",
+    "team": "T6WULA63S",
+    "text": "<https://futabazemi.net/unity/collider_stay_chase>",
+    "ts": "1673498226.277629",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bh24K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちなみに自分はアジャイルa/bチーム以外の予定がないので、4限や5限に借り出されることも、そちらの予定が大丈夫なら一応可能です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1764d97a-c5ea-40a3-9145-e6b7bed6c6ce",
+    "team": "T6WULA63S",
+    "text": "ちなみに自分はアジャイルa/bチーム以外の予定がないので、4限や5限に借り出されることも、そちらの予定が大丈夫なら一応可能です",
+    "ts": "1673455463.608629",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pB49h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全員時間が厳しいみたいなので、2限をなしにして、3限をレビュー/プランニングにしても構わないでしょうか（木曜分の開発を任せる形になる）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a2d5ae90-ff0c-4a86-8e62-142a03f7e209",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "全員時間が厳しいみたいなので、2限をなしにして、3限をレビュー/プランニングにしても構わないでしょうか（木曜分の開発を任せる形になる）",
+    "ts": "1673451925.938709",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o3Mu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\n連絡：児玉くんが風邪を引いているため、明日は自分(鳥谷部)ひとりになってしまいます。2チームを同時に担当することは厳しいため、bチームと時間をずらしたいのですが、どの時間が空いていますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5243b95b-76d9-41dc-bf69-9c7715a999c7",
+    "team": "T6WULA63S",
+    "text": "<!channel>\n連絡：児玉くんが風邪を引いているため、明日は自分(鳥谷部)ひとりになってしまいます。2チームを同時に担当することは厳しいため、bチームと時間をずらしたいのですが、どの時間が空いていますか？",
+    "ts": "1673416101.247389",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "app_id": "A04E6JX41",
+    "blocks": [
+      {
+        "accessory": {
+          "action_id": "PollMessage(m88ySALHD3FWddFNL).PollMessageOverflowMenu()",
+          "options": [
+            {
+              "text": {
+                "emoji": true,
+                "text": "Settings",
+                "type": "plain_text"
+              },
+              "value": "settings"
+            }
+          ],
+          "type": "overflow"
+        },
+        "block_id": "q8DT",
+        "text": {
+          "text": "*どの時間が空いているか*\nYou may vote for multiple options",
+          "type": "mrkdwn",
+          "verbatim": true
+        },
+        "type": "section"
+      },
+      {
+        "block_id": "HeWw",
+        "elements": [
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).VotingButton(0)",
+            "text": {
+              "emoji": true,
+              "text": "1",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "one"
+          },
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).VotingButton(1)",
+            "text": {
+              "emoji": true,
+              "text": "2 (本来はレビュー/プランニング時間)",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "two"
+          },
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).VotingButton(2)",
+            "text": {
+              "emoji": true,
+              "text": "3 (本来は開発の時間)",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "three"
+          },
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).VotingButton(3)",
+            "text": {
+              "emoji": true,
+              "text": "4",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "four"
+          },
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).VotingButton(4)",
+            "text": {
+              "emoji": true,
+              "text": "5",
+              "type": "plain_text"
+            },
+            "type": "button",
+            "value": "five"
+          },
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).AddOptionButton",
+            "text": {
+              "emoji": true,
+              "text": "+ Add Option",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "ak04V",
+        "fields": [
+          {
+            "text": "1  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "2 (本来はレビュー/プランニング時間)  \n\n`█████████████████████████`  |  100% (4)\n\n<@U044HJDHF2A>, <@U0449L54VKR>, <@U044HJDLCJ2> + 1 more",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "RS9Rf",
+        "fields": [
+          {
+            "text": "3 (本来は開発の時間)  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          },
+          {
+            "text": "4  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "x=KT",
+        "fields": [
+          {
+            "text": "5  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "section"
+      },
+      {
+        "block_id": "7bzM",
+        "elements": [
+          {
+            "text": "*Total Votes*: 4",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      },
+      {
+        "block_id": "fog",
+        "elements": [
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).AddCommentButton",
+            "text": {
+              "emoji": true,
+              "text": "Add a Comment",
+              "type": "plain_text"
+            },
+            "type": "button"
+          },
+          {
+            "action_id": "PollMessage(m88ySALHD3FWddFNL).ViewAllResponsesButton",
+            "text": {
+              "emoji": true,
+              "text": "View All Responses ",
+              "type": "plain_text"
+            },
+            "type": "button"
+          }
+        ],
+        "type": "actions"
+      },
+      {
+        "block_id": "BI2PM",
+        "type": "divider"
+      },
+      {
+        "block_id": "8mj6",
+        "elements": [
+          {
+            "text": "Sender: @鳥谷部 航 (toriyabe) | :unlock: *Responses:* Non-Anonymous | *:clock930: Closes: *<!date^1674020867^{date_short} at {time}|Jan 18, 2023 at 05:47 AM>",
+            "type": "mrkdwn",
+            "verbatim": true
+          }
+        ],
+        "type": "context"
+      }
+    ],
+    "bot_id": "BA40WBXLG",
+    "edited": {
+      "ts": "1673434596.000000",
+      "user": "BA40WBXLG"
+    },
+    "subtype": "bot_message",
+    "text": "<@U02GK7DPF8C> has a polly for you!",
+    "ts": "1673416068.562139",
+    "type": "message",
+    "username": "Polly"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "28JA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "皆さんだけでやってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "389B5FCD-DC2D-4DB8-A361-0F530FE96483",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDHF2A",
+          "U044HJDLCJ2",
+          "U044SLE6D3N",
+          "U0449L54VKR"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "皆さんだけでやってください",
+    "ts": "1673230256.908259",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pyWmu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "参加してくださいと言ったのものの僕が風邪を引いてしまったので",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1DDF45A3-8B8A-4E0B-BA6E-35E3C97BAFA7",
+    "team": "T6WULA63S",
+    "text": "参加してくださいと言ったのものの僕が風邪を引いてしまったので",
+    "ts": "1673230247.779509",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6l2RF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1/10（火）10:00からデイリースクラムを実施します。忘れずに参加してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c0d5ca8a-be2c-498f-aa92-3c0e7ad025fc",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U044HJDLCJ2",
+          "U0449L54VKR"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "1/10（火）10:00からデイリースクラムを実施します。忘れずに参加してください。",
+    "ts": "1673226001.379209",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unity Asset Store: Low-Poly Simple Nature Pack | 3D Landscapes | Unity Asset Store",
+        "from_url": "https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153",
+        "id": 1,
+        "image_bytes": 123092,
+        "image_height": 250,
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7d8e42d4-7ae8-45eb-a67b-ba19d1032de3.jpg?v=1",
+        "image_width": 476,
+        "original_url": "https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Elevate your workflow with the Low-Poly Simple Nature Pack asset from JustCreate. Find this &amp; other Landscapes options on the Unity Asset Store.",
+        "title": "Low-Poly Simple Nature Pack | 3D Landscapes | Unity Asset Store",
+        "title_link": "https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153"
+      },
+      {
+        "fallback": "Unity Asset Store: Stylized Snow Forest | 3D Landscapes | Unity Asset Store",
+        "from_url": "https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-snow-forest-230653",
+        "id": 2,
+        "image_bytes": 146688,
+        "image_height": 250,
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b15e6b3a-98d9-4298-98d5-a529d23fa16a.jpg?v=1",
+        "image_width": 476,
+        "original_url": "https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-snow-forest-230653",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Elevate your workflow with the Stylized Snow Forest asset from Frag112. Find this &amp; other Landscapes options on the Unity Asset Store.",
+        "title": "Stylized Snow Forest | 3D Landscapes | Unity Asset Store",
+        "title_link": "https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-snow-forest-230653"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "SuAp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": "\nお疲れ様です。ただいま片岡さんと話し合って使用するアセットの方を決定いたしました。メインで使用するアセットは「",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Low-Poly Simple Nature Pack",
+                "type": "link",
+                "url": "https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153"
+              },
+              {
+                "text": "」で、あとは部分的に「",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "Stylized Snow Forest",
+                "type": "link",
+                "url": "https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-snow-forest-230653"
+              },
+              {
+                "text": "」を使用していこうと思います。参考までに配置したアセットの画像を貼付致しますのでご確認の程をよろしくお願い致します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9d905303-5101-4545-b3a0-0080748e8bdd",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04GQAH9WKF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "are",
+        "users": [
+          "U044HJDHF2A",
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "arigatou",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "text": "<!channel>\nお疲れ様です。ただいま片岡さんと話し合って使用するアセットの方を決定いたしました。メインで使用するアセットは「*<https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153|Low-Poly Simple Nature Pack>*」で、あとは部分的に「*<https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-snow-forest-230653|Stylized Snow Forest>*」を使用していこうと思います。参考までに配置したアセットの画像を貼付致しますのでご確認の程をよろしくお願い致します。",
+    "ts": "1672196105.930929",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8cBP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "勉強すればSは難しくても、s以外は普通に取れると思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37707163-715b-4ec8-b77f-5cbd4ef982b4",
+    "team": "T6WULA63S",
+    "text": "勉強すればSは難しくても、s以外は普通に取れると思います。",
+    "ts": "1671884718.291059",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a5kq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "過去問を探したんですが、システム工学とマネジメント工学しか見つかりませんでした。すみません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b2b94f68-9c3f-4230-b6ba-e38d81f33045",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F04GXQDBRR7",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "pdf",
+        "id": "F04GG7BG0AZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "docx",
+        "id": "F04H90J3H32",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 3,
+        "name": "arigatou",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "text": "過去問を探したんですが、システム工学とマネジメント工学しか見つかりませんでした。すみません。",
+    "ts": "1671884666.857939",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w67kz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " お疲れ様です。片岡さんと自分でMAP制作を担当しているのですが、Gitがおかしいので一旦どの素材を使用するか決めようと思っております。つきましては、一人一つ以上希望するMAPのアセットをURLで結構なので送って欲しいです。希望が揃い次第片岡さんと話し合って、何のアセット使用するかまた共有するのでご確認頂けると幸いです。一旦期限としては、12/25とさせてください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7EF1F5CC-CB98-41BF-A062-27A1F0D5B15E",
+    "edited": {
+      "ts": "1671715838.000000",
+      "user": "U0449L54VKR"
+    },
+    "is_locked": false,
+    "latest_reply": "1671866419.867349",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "are",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U044HJDHF2A",
+      "U044HJDLCJ2",
+      "U044SLE6D3N"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<!channel> お疲れ様です。片岡さんと自分でMAP制作を担当しているのですが、Gitがおかしいので一旦どの素材を使用するか決めようと思っております。つきましては、一人一つ以上希望するMAPのアセットをURLで結構なので送って欲しいです。希望が揃い次第片岡さんと話し合って、何のアセット使用するかまた共有するのでご確認頂けると幸いです。一旦期限としては、12/25とさせてください。",
+    "thread_ts": "1671715677.269989",
+    "ts": "1671715677.269989",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lvK/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " mainのmergeに失敗したので、DefaultBranchを新しくmainからnewnewmainに作り直しました。(zenigameをDefaultBranchにして名前をnewnewnameに変えた)私と雨宮くんはzenigame2というブランチを新しく作ったのでそっちで作業します。時間が経てばきちんと反映されるはずなのでお願いします。米本くんと羽山くんは今まで通りmijumaruで作業お願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7635dfe9-e562-47fc-86bf-9c12f5229d85",
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1671716056.000000",
+      "user": "U044HJDHF2A"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04H1J9UJ00",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U044SLE6D3N",
+          "U044HJDLCJ2",
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "new_moon_with_face",
+        "users": [
+          "U0449L54VKR"
+        ]
+      }
+    ],
+    "text": "<!channel> mainのmergeに失敗したので、DefaultBranchを新しくmainからnewnewmainに作り直しました。(zenigameをDefaultBranchにして名前をnewnewnameに変えた)私と雨宮くんはzenigame2というブランチを新しく作ったのでそっちで作業します。時間が経てばきちんと反映されるはずなのでお願いします。米本くんと羽山くんは今まで通りmijumaruで作業お願いします。",
+    "ts": "1671715657.642069",
+    "type": "message",
+    "upload": false,
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d6j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "代数概論Ⅱ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7fdb67c1-dffd-4222-9dc8-6981dda90057",
+    "team": "T6WULA63S",
+    "text": "代数概論Ⅱ",
+    "ts": "1671683252.337589",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "client_msg_id": "EC3B1B9C-CF98-4456-9B81-8C4B3A4F943A",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04G3BG51FY",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1671683218.837849",
+    "type": "message",
+    "upload": false,
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/=Vi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "データベース",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b504a90e-6800-4483-aeaf-595d4d187d74",
+    "team": "T6WULA63S",
+    "text": "データベース",
+    "ts": "1671683206.162869",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F04GC52P7QC",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1671676076.913389",
+    "type": "message",
+    "upload": false,
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Visual Studio Code – コード エディター | Microsoft Azure",
+        "from_url": "https://azure.microsoft.com/ja-jp/products/visual-studio-code/",
+        "id": 1,
+        "original_url": "https://azure.microsoft.com/ja-jp/products/visual-studio-code/",
+        "service_icon": "http://azurecomcdn.azureedge.net/cvt-a4ecde86aabae9cd731fae384583332d888bfb761fb55cdf5a1f4871bb36a43d/images/icon/apple-touch/57x57.png",
+        "service_name": "Microsoft Azure",
+        "text": "ほぼすべての言語に対応し、任意の OS で動作する強力なコード エディター、Visual Studio Code を使用して、Azure で編集、デバッグ、デプロイを行います。",
+        "thumb_height": 250,
+        "thumb_url": "https://azurecomcdn.azureedge.net/cvt-a4ecde86aabae9cd731fae384583332d888bfb761fb55cdf5a1f4871bb36a43d/images/shared/social/azure-icon-250x250.png",
+        "thumb_width": 250,
+        "title": "Visual Studio Code – コード エディター | Microsoft Azure",
+        "title_link": "https://azure.microsoft.com/ja-jp/products/visual-studio-code/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "ArZv6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://azure.microsoft.com/ja-jp/products/visual-studio-code/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a656a2a1-a41b-40e5-b6f2-9f0bdf3a6ab0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "dotted_line_face",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://azure.microsoft.com/ja-jp/products/visual-studio-code/>",
+    "ts": "1671500206.918959",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Qiita: UnityとVisual Studioの連携方法(組み込みライブラリの参照) - Qiita",
+        "from_url": "https://qiita.com/engr_murao/items/b7bbb0eaa48f1c66fc2b",
+        "id": 1,
+        "image_bytes": 54875,
+        "image_height": 250,
+        "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9VW5pdHklRTMlODElQThWaXN1YWwlMjBTdHVkaW8lRTMlODElQUUlRTklODAlQTMlRTYlOTAlQkElRTYlOTYlQjklRTYlQjMlOTUlMjglRTclQjUlODQlRTMlODElQkYlRTglQkUlQkMlRTMlODElQkYlRTMlODMlQTklRTMlODIlQTQlRTMlODMlOTYlRTMlODMlQTklRTMlODMlQUElRTMlODElQUUlRTUlOEYlODIlRTclODUlQTclMjkmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTFmODI3MjMzNmU0NGZhZDNmNWMyMzkxNTRjNjRmYzY4&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZW5ncl9tdXJhbyZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MTEwM2ZjOTUwNmVjMzU2OTg1ZTY3OGI5OTUzN2M5MGU&blend-x=142&blend-y=491&blend-mode=normal&s=d7208688a111d4f6a97e855c082bfe89",
+        "image_width": 476,
+        "original_url": "https://qiita.com/engr_murao/items/b7bbb0eaa48f1c66fc2b",
+        "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+        "service_name": "Qiita",
+        "text": "はじめに\n\nこの記事は、Visual Studioを使ってUnityのC#スクリプトを実装し始めた初心者の方を対象としたものです。\n本記事で登場するVisual StudioとUnityのバージョンは以下の通りとなります。\n\nV...",
+        "title": "UnityとVisual Studioの連携方法(組み込みライブラリの参照) - Qiita",
+        "title_link": "https://qiita.com/engr_murao/items/b7bbb0eaa48f1c66fc2b"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "zal",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://qiita.com/engr_murao/items/b7bbb0eaa48f1c66fc2b"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b34b739-ba15-4f1a-9dca-4e8c82388d31",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "japanese_ogre",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U044SLE6D3N"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<https://qiita.com/engr_murao/items/b7bbb0eaa48f1c66fc2b>",
+    "ts": "1671500148.120529",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1671412054.669839",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ytzR1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 火曜日の10時00分からデイリースクラムを実施します。忘れずに参加してください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8AFBBA7C-CAAA-416D-AD1F-006423DC31E6",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U0449L54VKR",
+          "U044HJDLCJ2"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<!channel> 火曜日の10時00分からデイリースクラムを実施します。忘れずに参加してください。",
+    "ts": "1671408000.217449",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Befg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デイリースクラム　12/20 10時- ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DBC431B7-B171-4C59-86FD-78282AF139A9",
+    "team": "T6WULA63S",
+    "text": "デイリースクラム　12/20 10時- ",
+    "ts": "1671086670.584879",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1XM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "4.choose a branch to merge into  〜　で自分のブランチを選ぶ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2df2119c-c1bf-4e13-9861-2c25cd450dc2",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04F4MAPC6S",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "4.choose a branch to merge into  〜　で自分のブランチを選ぶ",
+    "ts": "1671083792.111299",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Oz8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3.ブランチをmainブランチにかえる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33489887-1ff1-4971-80f6-406cf087ca05",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04G10GTGJC",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "3.ブランチをmainブランチにかえる",
+    "ts": "1671083686.817739",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DoJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2.publishする。（画像はFetchだが、publishになる）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3f70842a-74dc-4837-bb37-16d34795b7ef",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04FPU207DF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "2.publishする。（画像はFetchだが、publishになる）",
+    "ts": "1671083638.632949",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uzl=A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マージ、反映の仕方\n1.自分のブランチの作業をコミットする",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "64b372e4-f431-4a28-a2dc-c49d7f5d3109",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F04EWNP8VN3",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "マージ、反映の仕方\n1.自分のブランチの作業をコミットする",
+    "ts": "1671083589.363269",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SfI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F823CC1D-BA19-4175-AC99-715C53493B32",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。",
+    "ts": "1670734946.881039",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5IXb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": " ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F4F3CF04-E424-4A51-BC63-099B823062A8",
+    "team": "T6WULA63S",
+    "text": "<@U02GE1XMN4V> ありがとうございます。",
+    "ts": "1670723255.574749",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BkRO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": " ありがとうございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "88F62FDE-3E3D-469E-A741-81A6DD2D69A7",
+    "team": "T6WULA63S",
+    "text": "<@U02GE1XMN4V> ありがとうございます！",
+    "ts": "1670683332.255579",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j3fZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": " ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E3878032-E174-49FF-A1AF-9B1ED64850EE",
+    "team": "T6WULA63S",
+    "text": "<@U02GE1XMN4V> ありがとうございます",
+    "ts": "1670678771.004009",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gDs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "コピペとばれないように適当に参考にしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2902569e-0271-44f0-a57f-a65054562dde",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "arigatou",
+        "users": [
+          "U02GE1XMN4V",
+          "U044HJDHF2A",
+          "U044SLE6D3N",
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V",
+          "U044SLE6D3N"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "お疲れ様でした",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "are",
+        "users": [
+          "U044HJDHF2A",
+          "U044SLE6D3N"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "squirrel",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dog",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "new_moon_with_face",
+        "users": [
+          "U0449L54VKR"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ricenuma",
+        "users": [
+          "U044HJDHF2A"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "コピペとばれないように適当に参考にしてください",
+    "ts": "1670678373.619039",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KDl9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "DとB実験の考察はどっか間違えてたと思います",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5987942b-1133-4b84-8656-b8de195ea519",
+    "team": "T6WULA63S",
+    "text": "DとB実験の考察はどっか間違えてたと思います",
+    "ts": "1670678356.120449",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "client_msg_id": "7bba3a5e-bf7b-41e8-9196-39cb85b27b51",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "zip",
+        "id": "F04EK3LTD29",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1670678311.456209",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U044HJDHF2A> has joined the channel",
+    "ts": "1670466514.964769",
+    "type": "message",
+    "user": "U044HJDHF2A"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U0449L54VKR> has joined the channel",
+    "ts": "1670466506.462909",
+    "type": "message",
+    "user": "U0449L54VKR"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U044HJDLCJ2> has joined the channel",
+    "ts": "1670466487.462969",
+    "type": "message",
+    "user": "U044HJDLCJ2"
+  },
+  {
+    "inviter": "U02GE1XMN4V",
+    "subtype": "channel_join",
+    "text": "<@U044SLE6D3N> has joined the channel",
+    "ts": "1670466476.067109",
+    "type": "message",
+    "user": "U044SLE6D3N"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1670466311.653189",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  }
+]

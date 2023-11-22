@@ -1,0 +1,255 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1610969707.006000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cOEo8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "欲を言えば入れて欲しかったな",
+                "type": "text"
+              },
+              {
+                "name": "ricenuma",
+                "type": "emoji"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "248b4368-b7d4-41ff-8d05-fe8e70285aa8",
+    "team": "T6WULA63S",
+    "text": "欲を言えば入れて欲しかったな:ricenuma:",
+    "ts": "1610969697.005800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UAjFL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お願いします！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "526115dc-3fed-433b-bf19-0529719db581",
+    "team": "T6WULA63S",
+    "text": "お願いします！",
+    "ts": "1610969630.005100",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "unC=0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "超初期だったんですがつくってました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8e1c0ba7-ba8c-4283-9249-41b97f8fa500",
+    "team": "T6WULA63S",
+    "text": "超初期だったんですがつくってました",
+    "ts": "1610969628.004800",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BsHg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "情弱かましたわ、履歴もあるだろうしこっち消しとくね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98cefca8-1988-4040-ae8e-22e80937ec7c",
+    "team": "T6WULA63S",
+    "text": "情弱かましたわ、履歴もあるだろうしこっち消しとくね",
+    "ts": "1610969619.004600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+YmD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あれ、そんなチャンネルがあったのか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "491960a6-af73-49f8-9bf9-9167c2fe98fc",
+    "team": "T6WULA63S",
+    "text": "あれ、そんなチャンネルがあったのか",
+    "ts": "1610969587.003200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j/f=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越前谷チームと機械学習-筆跡のチャンネルで重複してますね…\n結論として金曜3,4限になりました！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "40898aac-29a9-4ef3-bc67-91e6de803aa0",
+    "edited": {
+      "ts": "1610969600.000000",
+      "user": "U01CJ8MK0M6"
+    },
+    "team": "T6WULA63S",
+    "text": "越前谷チームと機械学習-筆跡のチャンネルで重複してますね…\n結論として金曜3,4限になりました！",
+    "ts": "1610969531.002800",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lhOKG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開発班の集まる日って決まりましたか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "576cd70b-b861-4f39-90bb-a3b9611d9446",
+    "team": "T6WULA63S",
+    "text": "開発班の集まる日って決まりましたか？",
+    "ts": "1610948841.001800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "set the channel topic: Miro：<https://miro.com/app/board/o9J_ldrEvAc=/>\nTrello：\n<https://trello.com/b/3R0CwQua/%E8%B6%8A%E5%89%8D%E8%B0%B7%E3%83%81%E3%83%BC%E3%83%A0>",
+    "topic": "Miro：<https://miro.com/app/board/o9J_ldrEvAc=/>\nTrello：\n<https://trello.com/b/3R0CwQua/%E8%B6%8A%E5%89%8D%E8%B0%B7%E3%83%81%E3%83%BC%E3%83%A0>",
+    "ts": "1610944595.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "set the channel topic: <https://miro.com/app/board/o9J_ldrEvAc=/>\n<https://trello.com/b/3R0CwQua/%E8%B6%8A%E5%89%8D%E8%B0%B7%E3%83%81%E3%83%BC%E3%83%A0>",
+    "topic": "<https://miro.com/app/board/o9J_ldrEvAc=/>\n<https://trello.com/b/3R0CwQua/%E8%B6%8A%E5%89%8D%E8%B0%B7%E3%83%81%E3%83%BC%E3%83%A0>",
+    "ts": "1610944573.001200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1610944518.001100",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01C0JWLPAQ> has joined the channel",
+    "ts": "1610944517.000900",
+    "type": "message",
+    "user": "U01C0JWLPAQ"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01CJ8MK0M6> has joined the channel",
+    "ts": "1610944517.000700",
+    "type": "message",
+    "user": "U01CJ8MK0M6"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1610944517.000500",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "purpose": "ソフトウェア工学輪講の越前谷チーム",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ソフトウェア工学輪講の越前谷チーム",
+    "ts": "1610944392.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1610944392.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

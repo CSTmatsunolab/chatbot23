@@ -1,0 +1,465 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1550975898.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o2v",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ToDo:\nToDoリストにどれだけ難しかったかをメモ欄に記載する",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c05ef21d-2c37-45a6-a02f-dff051319f4f",
+    "team": "T6WULA63S",
+    "text": "ToDo:\nToDoリストにどれだけ難しかったかをメモ欄に記載する",
+    "ts": "1547531905.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mIYvY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうね、とりあえず三つに分けるか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f6e0c35-dcb1-4e7a-a7a0-9b8dabd33e64",
+    "edited": {
+      "ts": "1547524020.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "そうね、とりあえず三つに分けるか",
+    "ts": "1547524004.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "djm2q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ToDoリストには「ウィンドウを設置する」ってあるけど、具体的に決めたほうがいいと思う。\nキャラステータス表示用ウィンドウとか、行動決定ウィンドウとか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "83b677d4-64c7-4850-a6e1-1293d32608f0",
+    "team": "T6WULA63S",
+    "text": "ToDoリストには「ウィンドウを設置する」ってあるけど、具体的に決めたほうがいいと思う。\nキャラステータス表示用ウィンドウとか、行動決定ウィンドウとか。",
+    "ts": "1547516525.000200",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1g+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " ToDoリストを更新した",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a23aad7-a398-4839-ab3e-06a1d7abebaa",
+    "edited": {
+      "ts": "1547483547.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<!channel> ToDoリストを更新した",
+    "ts": "1547483509.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MOe3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今現在取り組もうと思ってる事(ロジック的な話):\nタイルにクリック可能不可能の属性を持たせてTrueの時のみOnclickメソッドを発火できるようにする\n\nプレイヤーがクリックされる\n↓\nタイルすべてをクリック可にする\n↓\nタイルをクリック\n↓\nプレイヤーを移動#実装済み\n↓\nすべてのタイルをクリック不可にする\n\n※クリック可能不可能はOnclickの中の一番大枠にIF文を入れて解決?",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "065afd2c-88fc-4a25-9948-4ae5b80d6462",
+    "team": "T6WULA63S",
+    "text": "今現在取り組もうと思ってる事(ロジック的な話):\nタイルにクリック可能不可能の属性を持たせてTrueの時のみOnclickメソッドを発火できるようにする\n\nプレイヤーがクリックされる\n↓\nタイルすべてをクリック可にする\n↓\nタイルをクリック\n↓\nプレイヤーを移動#実装済み\n↓\nすべてのタイルをクリック不可にする\n\n※クリック可能不可能はOnclickの中の一番大枠にIF文を入れて解決?",
+    "ts": "1547026675.003100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "A/Aq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17290918-bfe2-411f-b5b4-ed19796f15b2",
+    "team": "T6WULA63S",
+    "text": "了解",
+    "ts": "1547015363.002900",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cCnzE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあなしで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3d8f7761-71d6-4b1c-a9dd-42143c450415",
+    "team": "T6WULA63S",
+    "text": "じゃあなしで",
+    "ts": "1547014296.002600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GVkuu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明後日は1限にオプトエレクトロニクスの補講が入ってるから行けないと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "67bccbdf-c369-4b85-a966-3fe0f5da95ac",
+    "team": "T6WULA63S",
+    "text": "明後日は1限にオプトエレクトロニクスの補講が入ってるから行けないと思う",
+    "ts": "1547011752.002400",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mom",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明後日朝集まりましょうか\n今までと同じところでいいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6b01b06c-07fd-4449-8bac-454da6024789",
+    "team": "T6WULA63S",
+    "text": "明後日朝集まりましょうか\n今までと同じところでいいよ",
+    "ts": "1547011636.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TeKH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "杉田の個人フォルダにあるToDoリストを各自更新する",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e99ad784-a24d-4c24-8bba-04874c3aece3",
+    "team": "T6WULA63S",
+    "text": "杉田の個人フォルダにあるToDoリストを各自更新する",
+    "ts": "1545289477.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VP3A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "クローンできた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "febec34b-4177-4803-96a3-2ab481a347c2",
+    "team": "T6WULA63S",
+    "text": "クローンできた",
+    "ts": "1544953431.001100",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FJqF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "理由としては、Minimapは便利だけれどゼミの教訓が全く生かされてないし、新しいものに手を出すのは、「一応動く」まで行ってからでいいと思うから",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4267d4f3-874e-4015-8cad-c398193bf4dc",
+    "team": "T6WULA63S",
+    "text": "理由としては、Minimapは便利だけれどゼミの教訓が全く生かされてないし、新しいものに手を出すのは、「一応動く」まで行ってからでいいと思うから",
+    "ts": "1544758744.001500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LXe9+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ミニマップじゃなく、普通にオブジェクトを生成する方針で作ってみる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87456ef9-9a3b-4d48-bddb-8bb16a23a621",
+    "team": "T6WULA63S",
+    "text": "ミニマップじゃなく、普通にオブジェクトを生成する方針で作ってみる",
+    "ts": "1544758534.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9uv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/SugitaTakuto/UnityZemi.git"
+              },
+              {
+                "text": "\nこれが別のPCでもクローンできるか試す",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5d689e56-c4ea-428a-a3a0-f014c56f10ed",
+    "edited": {
+      "ts": "1544503017.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<https://github.com/SugitaTakuto/UnityZemi.git>\nこれが別のPCでもクローンできるか試す",
+    "ts": "1544499584.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/channel/UCv-WX0bNkgFNxGjzqHluHMg",
+        "author_name": "賀好昭仁",
+        "fallback": "YouTube Video: Unityで作ろう！ゲームアルゴリズム10 1",
+        "from_url": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk",
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/FMhS3yHXjEk/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "Unityで作ろう！ゲームアルゴリズム10 1",
+        "title_link": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk",
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/FMhS3yHXjEk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "video_html_height": 300,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Cx7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2018/12/07\n",
+                "type": "text"
+              },
+              {
+                "text": "https://www.youtube.com/watch?time_continue=25&v=FMhS3yHXjEk",
+                "type": "link",
+                "url": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk"
+              },
+              {
+                "text": "\nタイル\n　コストの概念\n　光る\n　クリック可能不可\n　グラフィックの表示\n\nキャラクターを配置\n　キャラクターをクリックすると移動できる範囲のタイルを光らせる\n　　光った範囲のタイルをクリックするとそこに移動する\n\n課題\nゴール\nターン数",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f3b3490b-9388-4633-a233-773dd540922c",
+    "team": "T6WULA63S",
+    "text": "2018/12/07\n<https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk>\nタイル\n　コストの概念\n　光る\n　クリック可能不可\n　グラフィックの表示\n\nキャラクターを配置\n　キャラクターをクリックすると移動できる範囲のタイルを光らせる\n　　光った範囲のタイルをクリックするとそこに移動する\n\n課題\nゴール\nターン数",
+    "ts": "1544145139.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1544145090.000700",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UDNRU1WTC> has joined the channel",
+    "ts": "1544145090.000500",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "purpose": "ToDoリスト",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: ToDoリスト",
+    "ts": "1544145090.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1544145089.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]

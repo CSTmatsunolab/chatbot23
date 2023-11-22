@@ -1,0 +1,2910 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "s9m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でした。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c72ab8c-12fc-4e7a-a89e-a0ed435d064d",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "お疲れ様でした",
+        "users": [
+          "U01BMM61G7Q",
+          "U02GH21BWSE",
+          "U6YLZUWAK",
+          "U01BUKC708K"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でした。",
+    "ts": "1645706609.414399",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YaSQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でした\n3ヶ月間ありがとうございました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DB0B41CA-382D-49DA-89DD-FB2F9F63CBFC",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "お疲れ様でした",
+        "users": [
+          "U01BUKC708K",
+          "U01BMM61G7Q",
+          "U02GH21BWSE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でした\n3ヶ月間ありがとうございました",
+    "ts": "1645684558.808899",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lWxn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れさまでした...！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68ab6b3a-c561-438b-bfac-c9c4e1b83c96",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "お疲れ様でした",
+        "users": [
+          "U01BUKC708K",
+          "U01BMM61G7Q",
+          "U02GH21BWSE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れさまでした...！",
+    "ts": "1645684557.175209",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y0+3p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様でした〜！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa2eb077-5857-4029-934b-7418b0780e7f",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "お疲れ様でした",
+        "users": [
+          "U01BUKC708K",
+          "U01BMM61G7Q",
+          "U02GH21BWSE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様でした〜！",
+    "ts": "1645684483.500949",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m9IJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんな感じの動画を使用します",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d6cd4b25-cdd7-4fbc-acd0-00b9c495632f",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "mov",
+        "id": "F033YVB3HNF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1645446296.616669",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "arigatou",
+        "users": [
+          "U02GH21BWSE",
+          "U02GVKN3CJV"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U02GH290Y2X"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "text": "こんな感じの動画を使用します",
+    "thread_ts": "1645442808.786969",
+    "ts": "1645442808.786969",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3OYRX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あみだくじが見えにくくすみません。\n\nささきさん　：1-5\nたきやまくん：6-9\nおざわ　　　：10-12\nこだまくん　：13-15",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b94c79cc-d02d-4d3d-b099-0ec5cc32e822",
+    "team": "T6WULA63S",
+    "text": "あみだくじが見えにくくすみません。\n\nささきさん　：1-5\nたきやまくん：6-9\nおざわ　　　：10-12\nこだまくん　：13-15",
+    "ts": "1645434147.272319",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qBAN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表スライド：\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/19cKLwa-1SxBFQCEUFDe3sI5JMiFOsgYIflXmS_BMkvE/edit#slide=id.g1148f465c9d_0_344"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8e9a830-b114-46ff-b6dd-e59661989df3",
+    "team": "T6WULA63S",
+    "text": "発表スライド：\n<https://docs.google.com/presentation/d/19cKLwa-1SxBFQCEUFDe3sI5JMiFOsgYIflXmS_BMkvE/edit#slide=id.g1148f465c9d_0_344>",
+    "ts": "1645429416.002309",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "++5tc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表のあみだくじ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a928f585-27db-4c35-aaea-42088fcd03ec",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F033HARKXB9",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "発表のあみだくじ",
+    "ts": "1645429355.387099",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sMO1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "防災アプリ　テストケース\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1GnA_wxGBK6Fh9KUombMi88jkSPcac0pxt4MYv_n7csw/edit?pli=1#gid=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2aeaa078-0140-4f34-9a1a-e0e44d37cedc",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gsheet",
+        "id": "F02UZ4GNYGZ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "防災アプリ　テストケース\n<https://docs.google.com/spreadsheets/d/1GnA_wxGBK6Fh9KUombMi88jkSPcac0pxt4MYv_n7csw/edit?pli=1#gid=0>",
+    "ts": "1645066313.321759",
+    "type": "message",
+    "upload": false,
+    "user": "U01BMM61G7Q",
+    "x_files": [
+      "F02UZ4GNYGZ"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WxHFb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "テスト輪講\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1dXIimzgeOBW70Nf66P2qiUm1sgfidf12wc-gE9Qi4Sw/edit#slide=id.p"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57558783-c8ff-483c-8e66-5761ff920126",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "gpres",
+        "id": "F033UKHCTK3",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "テスト輪講\n<https://docs.google.com/presentation/d/1dXIimzgeOBW70Nf66P2qiUm1sgfidf12wc-gE9Qi4Sw/edit#slide=id.p>",
+    "ts": "1645066044.516839",
+    "type": "message",
+    "upload": false,
+    "user": "U01BMM61G7Q",
+    "x_files": [
+      "F033UKHCTK3"
+    ]
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f8w",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "去年の発表スライド(参考)\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://docs.google.com/presentation/d/1JwuHvdJL2LWHcXodObPv7kZCT0iSsSoKj2BeefG94GU/edit?usp=sharing"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://docs.google.com/presentation/d/1wcD-iqLAb2mrrOFIvF31VEoF1jBezMTA5n_rDdRDS_c/edit?usp=sharing"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "257abfc1-963b-44e5-b42f-8a1860980269",
+    "team": "T6WULA63S",
+    "text": "去年の発表スライド(参考)\n• <https://docs.google.com/presentation/d/1JwuHvdJL2LWHcXodObPv7kZCT0iSsSoKj2BeefG94GU/edit?usp=sharing>\n• <https://docs.google.com/presentation/d/1wcD-iqLAb2mrrOFIvF31VEoF1jBezMTA5n_rDdRDS_c/edit?usp=sharing>",
+    "ts": "1645064523.312779",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CE55C",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表準備\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "発表スライド作成",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "Mac版でビルド",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n発表形式\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "発表時間は10分",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "メンバーで分担",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b5271a43-ac29-483c-bccb-97617eca8cac",
+    "edited": {
+      "ts": "1645065449.000000",
+      "user": "U01BUKC708K"
+    },
+    "team": "T6WULA63S",
+    "text": "発表準備\n• 発表スライド作成\n• Mac版でビルド\n発表形式\n• 発表時間は10分\n• メンバーで分担\n",
+    "ts": "1645063802.305079",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "64X2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "多分上の説明で全部分かると思いますが、もし分からなければ呼んでください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3948C491-9231-462D-AB0A-BF986DFA2842",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "多分上の説明で全部分かると思いますが、もし分からなければ呼んでください",
+    "ts": "1644669950.760019",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "codelikeなブログ: Unity 2Dで当たり判定をする方法！",
+        "from_url": "https://codelikes.com/unity-2d-collider/",
+        "id": 1,
+        "image_bytes": 192056,
+        "image_height": 250,
+        "image_url": "https://codelikes.com/wp-content/uploads/2021/10/unity-2d-collider.jpg",
+        "image_width": 398,
+        "original_url": "https://codelikes.com/unity-2d-collider/",
+        "service_icon": "https://codelikes.com/wp-content/uploads/2019/06/cropped-blog_codelike_logo-3-180x180.png",
+        "service_name": "codelikeなブログ",
+        "text": "こんにちは、yasuakiです。普段はWebシステム開発系の記事を書いています。Unityでゲームを作成したということもあり、Unity 2Dについても少しずつ記事を書いていきたいと思います。今回はUnity 2Dで当たり判定をする方法を解",
+        "title": "Unity 2Dで当たり判定をする方法！",
+        "title_link": "https://codelikes.com/unity-2d-collider/",
+        "ts": 1633338006
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "qtF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2/12 児玉・小沢\n\n【花（イメージはマリカの加速する床）】\n・花が白いと背景と区別がつきにくいため、ピンクの花に差し替えた。\n・花の当たり判定を追加（すり抜ける）\n・花に触れると加速する機能を追加\n【毒キノコ】\n・ボールが毒キノコに当たるとボールの速度が超up\n・うさぎが毒キノコに当たるとうさぎの速度がダウン\n\n参考文献：\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://codelikes.com/unity-2d-collider/"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://ekulabo.com/tutorial-time-scale"
+              },
+              {
+                "text": "\n\n【残りの機能・気づいたこと】\n・ボールがりんごに当たると体力が回復\n・花と毒キノコの当たり判定が分かりづらい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c330c84-a040-4a36-9d03-e7d155992a59",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "2/12 児玉・小沢\n\n【花（イメージはマリカの加速する床）】\n・花が白いと背景と区別がつきにくいため、ピンクの花に差し替えた。\n・花の当たり判定を追加（すり抜ける）\n・花に触れると加速する機能を追加\n【毒キノコ】\n・ボールが毒キノコに当たるとボールの速度が超up\n・うさぎが毒キノコに当たるとうさぎの速度がダウン\n\n参考文献：\n<https://codelikes.com/unity-2d-collider/>\n<https://ekulabo.com/tutorial-time-scale>\n\n【残りの機能・気づいたこと】\n・ボールがりんごに当たると体力が回復\n・花と毒キノコの当たり判定が分かりづらい",
+    "ts": "1644669498.302689",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unishar-ユニシャー: 【Unity】指定した時間が経過したときに処理を行う2つの方法【Invoke・Time.deltaTime】 | Unishar-ユニシャー",
+        "from_url": "https://miyagame.net/time-progress/",
+        "id": 1,
+        "original_url": "https://miyagame.net/time-progress/",
+        "service_icon": "https://miyagame.net/wp-content/uploads/2020/05/cropped-unishara-cover-180x180.png",
+        "service_name": "Unishar-ユニシャー",
+        "text": "【Unity】「5秒後にオブジェクトを破壊する」「3秒後にオブジェクトを生成するなどの処理」をUnityで行う。ここでは「Invoke」と「Time.deltaTime」を使って、指定した時間が経過したときに処理を行うスクリプト例をお伝えする。",
+        "thumb_height": 630,
+        "thumb_url": "https://miyagame.net/wp-content/uploads/2019/04/time-progress-unity-min.jpg",
+        "thumb_width": 1200,
+        "title": "【Unity】指定した時間が経過したときに処理を行う2つの方法【Invoke・Time.deltaTime】 | Unishar-ユニシャー",
+        "title_link": "https://miyagame.net/time-progress/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "WHN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://miyagame.net/time-progress/"
+              },
+              {
+                "text": "\nInvokeという関数？を利用することで、時間管理を行った",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68857e87-e5a3-4b7f-bfbf-f5a5e7088781",
+    "team": "T6WULA63S",
+    "text": "<https://miyagame.net/time-progress/>\nInvokeという関数？を利用することで、時間管理を行った",
+    "ts": "1644666629.860299",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "エクスプラボ: 【第27回】timeScaleを使ってボールを加速させるUnityチュートリアル",
+        "from_url": "https://ekulabo.com/tutorial-time-scale",
+        "id": 1,
+        "image_bytes": 200532,
+        "image_height": 250,
+        "image_url": "https://ekulabo.com/wp-content/uploads/2018/05/fast_forward.jpg",
+        "image_width": 445,
+        "original_url": "https://ekulabo.com/tutorial-time-scale",
+        "service_icon": "https://ekulabo.com/wp-content/uploads/2018/04/cropped-ekulabo_icon_e-180x180.png",
+        "service_name": "エクスプラボ",
+        "text": "単純な斜方投射を拡張し、ゴルフのようなゲームを作るチュートリアルです。Rigidbodyがスリープの状態になることを検知して、次のボールが打てるようにしていましたが、物理演算がスリープに入るまでちょっと時間がかかるんですよね。なので早送りボタンを実装しました。",
+        "title": "【第27回】timeScaleを使ってボールを加速させるUnityチュートリアル",
+        "title_link": "https://ekulabo.com/tutorial-time-scale"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "x/vkg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ekulabo.com/tutorial-time-scale"
+              },
+              {
+                "text": "\nゲーム内時間を早くすることで、加速を実現",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4fa85abf-e9eb-4657-9267-a679747014c7",
+    "team": "T6WULA63S",
+    "text": "<https://ekulabo.com/tutorial-time-scale>\nゲーム内時間を早くすることで、加速を実現",
+    "ts": "1644666577.874449",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "codelikeなブログ: Unity 2Dで当たり判定をする方法！",
+        "from_url": "https://codelikes.com/unity-2d-collider/",
+        "id": 1,
+        "image_bytes": 192056,
+        "image_height": 250,
+        "image_url": "https://codelikes.com/wp-content/uploads/2021/10/unity-2d-collider.jpg",
+        "image_width": 398,
+        "original_url": "https://codelikes.com/unity-2d-collider/",
+        "service_icon": "https://codelikes.com/wp-content/uploads/2019/06/cropped-blog_codelike_logo-3-180x180.png",
+        "service_name": "codelikeなブログ",
+        "text": "こんにちは、yasuakiです。普段はWebシステム開発系の記事を書いています。Unityでゲームを作成したということもあり、Unity 2Dについても少しずつ記事を書いていきたいと思います。今回はUnity 2Dで当たり判定をする方法を解",
+        "title": "Unity 2Dで当たり判定をする方法！",
+        "title_link": "https://codelikes.com/unity-2d-collider/",
+        "ts": 1633338006
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fQxD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://codelikes.com/unity-2d-collider/"
+              },
+              {
+                "text": "\nここを参考に花と当たり判定を追加",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "27e42cbc-966e-4135-851f-c4d746ecbf67",
+    "team": "T6WULA63S",
+    "text": "<https://codelikes.com/unity-2d-collider/>\nここを参考に花と当たり判定を追加",
+    "ts": "1644665059.791579",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7mGy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "白のお花だと背景と一緒で見えにくいかなと思ったので、ピンクのお花描きました！\nそれと、使用するかわからないけれど\n体力ゲージの見やすさを考えて\nうさぎのアイコンも描いてみました‍。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c2e88684-23e1-4f19-9500-5b76e3eab335",
+    "team": "T6WULA63S",
+    "text": "白のお花だと背景と一緒で見えにくいかなと思ったので、ピンクのお花描きました！\nそれと、使用するかわからないけれど\n体力ゲージの見やすさを考えて\nうさぎのアイコンも描いてみました‍。",
+    "ts": "1644663705.267259",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "client_msg_id": "bc769fcd-c47d-4d5a-923d-7f5031f4911c",
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F032U49MFNF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      },
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F032U3UNYH0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644663674.982369",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d3Mm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "風車の背景イラスト追加してプッシュしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c369849-b4c8-4710-afdb-8aea2a5028a3",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ryoukai",
+        "users": [
+          "U02GH21BWSE",
+          "U02GH290Y2X",
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "風車の背景イラスト追加してプッシュしました。",
+    "ts": "1644630500.231769",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "client_msg_id": "55cee6e6-d47b-4bb2-9ed3-31d8d22bc8ab",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F0327TFTAS3",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644559027.339569",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3=I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "りんご(透過)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BB2BD31D-352F-4B61-9FA6-751F9BD4CBA0",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F0327SBPLLF",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "りんご(透過)",
+    "ts": "1644557886.012529",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6XfL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "透過版です！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "96287FD1-AFD0-49E0-9E89-B02A53C9962B",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F032KGJF84D",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "透過版です！",
+    "ts": "1644556787.984389",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/7a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "毒キノコ透過しました！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "46B9744A-30BD-48B9-8AA9-43EB35AF6642",
+    "display_as_bot": false,
+    "edited": {
+      "ts": "1644556546.000000",
+      "user": "U02GH21BWSE"
+    },
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F033C633JUQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "毒キノコ透過しました！",
+    "ts": "1644556481.667009",
+    "type": "message",
+    "upload": false,
+    "user": "U02GH21BWSE"
+  },
+  {
+    "client_msg_id": "0A0A0687-B6C5-489E-B8A9-64E54BCCD985",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F032ND9GFD0",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644556317.169589",
+    "type": "message",
+    "upload": false,
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "client_msg_id": "d3173766-12e9-414d-90ed-d60bbabd69b5",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F032QNB3VPE",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644556199.949589",
+    "type": "message",
+    "upload": false,
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "client_msg_id": "D439DBCC-6EE5-431B-95FF-02A4C38222D8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F032FNM2KKQ",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644555704.012679",
+    "type": "message",
+    "upload": false,
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "client_msg_id": "e24493a1-8f51-4242-bef4-13f0546ce8b9",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "F032QLE5612",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1644554323.215529",
+    "type": "message",
+    "upload": false,
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/raq-hsjh-siw",
+        "id": 1,
+        "original_url": "https://meet.google.com/raq-hsjh-siw",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/raq-hsjh-siw"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "yy+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年：UnityゼミAグループ\nビデオ通話のリンク: ",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/raq-hsjh-siw"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bed4e074-96c4-48fe-bdf3-94d217088661",
+    "team": "T6WULA63S",
+    "text": "3年：UnityゼミAグループ\nビデオ通話のリンク: <https://meet.google.com/raq-hsjh-siw>",
+    "ts": "1644543790.099959",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Evf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なってますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "069dec8e-75a0-4d70-a5ef-9a5dfaf15ed2",
+    "is_locked": false,
+    "latest_reply": "1644543761.859049",
+    "reply_count": 2,
+    "reply_users": [
+      "U02GH290Y2X",
+      "U02GE1XMN4V"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "なってますね",
+    "thread_ts": "1644543691.197219",
+    "ts": "1644543691.197219",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+F6Ph",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "meetアドレスB班と同じになっていませんか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BE1BE087-89D0-4EDD-8098-149DBB196A2C",
+    "team": "T6WULA63S",
+    "text": "meetアドレスB班と同じになっていませんか？",
+    "ts": "1644543640.928779",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bYv=R",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "体力がゼロになったときに、音が鳴るようにはしましたが、その他はできていません。\nどうも別のスクリプトから値の取得がうまくできないです。また勉強してきます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c9740b7-b3bf-4e8b-a752-abe9f4954df8",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "体力がゼロになったときに、音が鳴るようにはしましたが、その他はできていません。\nどうも別のスクリプトから値の取得がうまくできないです。また勉強してきます。",
+    "ts": "1644310591.234529",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KxQK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "助かります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3E736FB3-B3B2-4DD9-A4BC-BD4AA1C6EFD7",
+    "team": "T6WULA63S",
+    "text": "助かります",
+    "ts": "1644143723.209789",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fmP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "有難うございます！",
+                "type": "text"
+              },
+              {
+                "name": "man-bowing",
+                "type": "emoji",
+                "unicode": "1f647-200d-2642-fe0f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "17c5a038-86fe-440b-878d-fbc149fa2dee",
+    "team": "T6WULA63S",
+    "text": "有難うございます！:man-bowing:",
+    "ts": "1644142525.255759",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DeqKr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ウサギの点滅と効果音(適当)の追加できました。\nまた、ウサギとボールが当たった時の体力ゲージに関しては上のURLの通りの表示はできました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f5dc2fa3-322e-40ba-9b70-a6486dfad9c4",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "pray",
+        "users": [
+          "U02GH21BWSE"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ウサギの点滅と効果音(適当)の追加できました。\nまた、ウサギとボールが当たった時の体力ゲージに関しては上のURLの通りの表示はできました。",
+    "ts": "1644122801.285019",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FKp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "報告が遅れて申し訳ないのですが、体力ゲージは、上のURLを参考に作ろうとしましたが、うまく描写されませんでした。\nあまり進捗がないため、また来週の月曜あたりに児玉小沢ペアは集まって開発を進める予定です。また、githubにマージはしていません。\nよろしくお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "24ed2b7d-113c-47df-ba70-635fbc8e6378",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "報告が遅れて申し訳ないのですが、体力ゲージは、上のURLを参考に作ろうとしましたが、うまく描写されませんでした。\nあまり進捗がないため、また来週の月曜あたりに児玉小沢ペアは集まって開発を進める予定です。また、githubにマージはしていません。\nよろしくお願いします。",
+    "ts": "1643982482.301809",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kCO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://unity-shoshinsha.biz/archives/1194"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "586ac143-f12a-4686-8a28-288d05c30272",
+    "team": "T6WULA63S",
+    "text": "<https://unity-shoshinsha.biz/archives/1194>",
+    "ts": "1643886238.861929",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "転職を繰り返したサラリーマンの多趣味ブログ: 【Unity】ダメージをくらったら、Spriteを点滅させて無敵時間を作る方法 - 転職を繰り返したサラリーマンの多趣味ブログ",
+        "from_url": "https://uuc1h.hatenablog.jp/entry/2020/02/21/204333",
+        "id": 1,
+        "image_bytes": 75694,
+        "image_height": 250,
+        "image_url": "https://ogimage.blog.st-hatena.com/10328749687203208543/26006613517292725/1582285413",
+        "image_width": 476,
+        "original_url": "https://uuc1h.hatenablog.jp/entry/2020/02/21/204333",
+        "service_icon": "https://uuc1h.hatenablog.jp/icon/touch",
+        "service_name": "転職を繰り返したサラリーマンの多趣味ブログ",
+        "text": "横スクロールアクションや、シューティングゲームでよくあるあれです。 まずSpriteを点滅させる方法は、SpriteRendererコンポーネントのアルファ値を変化させてやれば、実装できる。そのときのソースコードがこれ。 public SpriteRenderer sp; // ダメージ判定フラグ private bool isDamage{get; set;} void Update() { // ダメージを受けている場合、点滅させる if(isDamage) { float level = Mathf.Abs(Mathf.Sin(Time.time * 10)); sp.color = n…",
+        "title": "【Unity】ダメージをくらったら、Spriteを点滅させて無敵時間を作る方法 - 転職を繰り返したサラリーマンの多趣味ブログ",
+        "title_link": "https://uuc1h.hatenablog.jp/entry/2020/02/21/204333",
+        "ts": 1582285413
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "1sx8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://uuc1h.hatenablog.jp/entry/2020/02/21/204333"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6b8bb4f1-f90e-4356-9f12-86fcd5f0c82b",
+    "team": "T6WULA63S",
+    "text": "<https://uuc1h.hatenablog.jp/entry/2020/02/21/204333>",
+    "ts": "1643854650.733709",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QJ+ee",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "助かります",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b2cd3767-386a-4763-9cd4-79240a74e937",
+    "team": "T6WULA63S",
+    "text": "助かります",
+    "ts": "1643624248.248239",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OXuu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "有難うございます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4be4ae22-d36b-497c-9139-509573d080de",
+    "team": "T6WULA63S",
+    "text": "有難うございます！",
+    "ts": "1643614536.890349",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FeODe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "githubいまいちまだわかっていないのでとりあえず、sasaki-takiyamaのブランチにプッシュしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c08984cc-e659-4654-8cd9-7efbfcd09263",
+    "team": "T6WULA63S",
+    "text": "githubいまいちまだわかっていないのでとりあえず、sasaki-takiyamaのブランチにプッシュしました。",
+    "ts": "1643612031.036059",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kUG6P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分もunity見てみたんですけど、フリッパーの動き解決しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "405f29df-b8fd-419c-9387-743c12f03115",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "man-bowing",
+        "users": [
+          "U02GH21BWSE"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "自分もunity見てみたんですけど、フリッパーの動き解決しました。",
+    "ts": "1643611004.999229",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=X7N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "フリッパーの動きをキーボードで制御しようとしましたがうまくいきませんでした。\nなぜうまくいかなかったかは、Trelloの方に記述しました。また進展があったら報告します。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "06567a1e-e320-43bd-bbfe-18bd9183e5b9",
+    "team": "T6WULA63S",
+    "text": "フリッパーの動きをキーボードで制御しようとしましたがうまくいきませんでした。\nなぜうまくいかなかったかは、Trelloの方に記述しました。また進展があったら報告します。",
+    "ts": "1643608888.304329",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tBH+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うさぎと壁、障害物の当たり判定追加できました。障害物の色も自動で壁の色と同じにできるようになりました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "93626856-29E5-45E7-B28A-F8EACB450ED5",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GH21BWSE"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "お疲れ様でした",
+        "users": [
+          "U02GE1XMN4V",
+          "U02GH21BWSE"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "うさぎと壁、障害物の当たり判定追加できました。障害物の色も自動で壁の色と同じにできるようになりました。",
+    "ts": "1643514178.297309",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pqr4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f63a4aa8-a562-4753-a8c9-486a1168ba6f",
+    "team": "T6WULA63S",
+    "text": "了解です",
+    "ts": "1643337059.734039",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "DpWl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "先週と同じ日曜日の午前中にやる予定！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "aa630fea-5e52-4ecc-8aa1-fb513235bed4",
+    "team": "T6WULA63S",
+    "text": "先週と同じ日曜日の午前中にやる予定！",
+    "ts": "1643335391.736229",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e3u",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GVKN3CJV"
+              },
+              {
+                "text": " 今週の開発は、そちらのチームはいつやりますか？\nこっちは一応月曜日の13時を予定しています",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "95758E09-EF66-49EC-A0FB-DAF5EEB937C2",
+    "team": "T6WULA63S",
+    "text": "<@U02GVKN3CJV> 今週の開発は、そちらのチームはいつやりますか？\nこっちは一応月曜日の13時を予定しています",
+    "ts": "1643335236.783069",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a6Ac4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\nTrelloのチェックリストは、画像のような感じ(作業の工程を書く)で作っていただけるとありがたいです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80c6b1f0-c764-4010-9630-fdf4d11fb482",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "F02VD4G2X3R",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "text": "お疲れ様です。\nTrelloのチェックリストは、画像のような感じ(作業の工程を書く)で作っていただけるとありがたいです。",
+    "ts": "1643255625.016400",
+    "type": "message",
+    "upload": false,
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "x8vCN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GVKN3CJV"
+              },
+              {
+                "text": " 先程のウサギの当たり判定ってマージしました？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F6B895A8-AB80-43BD-A84B-764D4B3BD06F",
+    "is_locked": false,
+    "latest_reply": "1643273476.017800",
+    "reply_count": 4,
+    "reply_users": [
+      "U02GVKN3CJV",
+      "U02GE1XMN4V"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "<@U02GVKN3CJV> 先程のウサギの当たり判定ってマージしました？",
+    "thread_ts": "1643255233.014600",
+    "ts": "1643255233.014600",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SIzop",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "# Unity generated\n[Ll]ibrary/\n[Tt]emp/\n[Oo]bj/\n[Bb]uild/\n[Bb]uilds/\n[Ll]ogs/\n\n# Never ignore Asset meta data\n![Aa]ssets/**/*.meta\n\n# Uncomment this line if you wish to ignore the asset store tools plugin\n# [Aa]ssets/AssetStoreTools*\n\n# Visual Studio cache directory\n.vs/\n\n# Gradle cache directory\n.gradle/\n\n# Autogenerated VS/MD/Consulo solution and project files\nExportedObj/\n.consulo/\n*.csproj\n*.unityproj\n*.sln\n*.suo\n*.tmp\n*.user\n*.userprefs\n*.pidb\n*.booproj\n*.svd\n*.pdb\n*.mdb\n*.opendb\n*.VC.db\n\n# Unity3D generated meta files\n*.pidb.meta\n*.pdb.meta\n*.mdb.meta\n\n# Unity3D generated file on crash reports\nsysinfo.txt\n\n# Builds\n*.apk\n*.unitypackage\n\n# Crashlytics generated file\ncrashlytics-build.properties\n\n# OS generated\n.DS_Store\n.DS_Store?\n._*\n.Spotlight-V100\n.Trashes\nIcon?\nehthumbs.db\nThumbs.db",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_preformatted"
+          },
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ad42ebfb-a8da-44a6-b482-3b8f9b4e139b",
+    "team": "T6WULA63S",
+    "text": "```# Unity generated\n[Ll]ibrary/\n[Tt]emp/\n[Oo]bj/\n[Bb]uild/\n[Bb]uilds/\n[Ll]ogs/\n\n# Never ignore Asset meta data\n![Aa]ssets/**/*.meta\n\n# Uncomment this line if you wish to ignore the asset store tools plugin\n# [Aa]ssets/AssetStoreTools*\n\n# Visual Studio cache directory\n.vs/\n\n# Gradle cache directory\n.gradle/\n\n# Autogenerated VS/MD/Consulo solution and project files\nExportedObj/\n.consulo/\n*.csproj\n*.unityproj\n*.sln\n*.suo\n*.tmp\n*.user\n*.userprefs\n*.pidb\n*.booproj\n*.svd\n*.pdb\n*.mdb\n*.opendb\n*.VC.db\n\n# Unity3D generated meta files\n*.pidb.meta\n*.pdb.meta\n*.mdb.meta\n\n# Unity3D generated file on crash reports\nsysinfo.txt\n\n# Builds\n*.apk\n*.unitypackage\n\n# Crashlytics generated file\ncrashlytics-build.properties\n\n# OS generated\n.DS_Store\n.DS_Store?\n._*\n.Spotlight-V100\n.Trashes\nIcon?\nehthumbs.db\nThumbs.db```\n",
+    "ts": "1643250200.013500",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "o6ED9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自機を追加し、動かせるようにしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f1fc451a-ffd4-4e1f-b3f9-d64e4b887cff",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U02GVKN3CJV",
+          "U02GH290Y2X"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "自機を追加し、動かせるようにしました。",
+    "ts": "1642992142.013100",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "teratail[テラテイル]: キーを押したらずっと動いてほしい",
+        "from_url": "https://teratail.com/questions/215046",
+        "id": 1,
+        "original_url": "https://teratail.com/questions/215046",
+        "service_icon": "https://teratail.com/favicon.ico",
+        "service_name": "teratail[テラテイル]",
+        "text": "### 前提・実現したいこと キーを押したらずっとうごいてほしいです ### 発生している問題・エラーメッセージ 一瞬しかうごかない ``` エラーメッセージ ``` ### 該当の",
+        "title": "キーを押したらずっと動いてほしい",
+        "title_link": "https://teratail.com/questions/215046"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "DprOt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://teratail.com/questions/215046"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6432c8bd-4930-4fb2-8b3a-8bc3c37a0f69",
+    "team": "T6WULA63S",
+    "text": "<https://teratail.com/questions/215046>",
+    "ts": "1642989854.012700",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "おもちゃラボ: 【Unity入門】60分で作るシューティングゲーム　第１回 - おもちゃラボ",
+        "from_url": "https://nn-hokuson.hatenablog.com/entry/2016/07/04/213231",
+        "id": 1,
+        "image_bytes": 2135484,
+        "image_height": 250,
+        "image_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/nn_hokuson/20160702/20160702231742.gif",
+        "image_width": 141,
+        "original_url": "https://nn-hokuson.hatenablog.com/entry/2016/07/04/213231",
+        "service_icon": "https://nn-hokuson.hatenablog.com/icon/touch",
+        "service_name": "おもちゃラボ",
+        "text": "Unityをインストールしてみたけれども「どうやってゲームを作っていけばよいか分からない！」という方は多いと思います。 かくいう私もUnityを触り始めたときは、何をどうしていいのかさっぱり分かりませんでした。そこで、簡単なシューティングゲームを作りながらUnityの使い方を紹介できればと思います〜。 記事は第１回〜第６回まであり、次のような流れになっています。第１回 ロケットを動かそう 第２回 弾を発射しよう 第３回 隕石を落下させよう 第４回 当たり判定をしよう 第５回 ゲームオーバを判定しよう 第６回 お化粧をしよう１記事をは１０分程度で出来るようにしているので、全部で60分（ちょっとき…",
+        "title": "【Unity入門】60分で作るシューティングゲーム　第１回 - おもちゃラボ",
+        "title_link": "https://nn-hokuson.hatenablog.com/entry/2016/07/04/213231",
+        "ts": 1467635551
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "C+BO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://nn-hokuson.hatenablog.com/entry/2016/07/04/213231"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fd46e287-a826-4336-82a5-63c4c896b539",
+    "team": "T6WULA63S",
+    "text": "<https://nn-hokuson.hatenablog.com/entry/2016/07/04/213231>",
+    "ts": "1642988915.012400",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kn/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。\nお疲れ様でした。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E3E55B68-2475-4EEE-AF8E-36F25F53DCCA",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。\nお疲れ様でした。",
+    "ts": "1642922707.012200",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GQt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "githubにプッシュしました。trelloも更新済です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ea4fc5a6-d808-4d1f-9e56-3698b6d7f3ef",
+    "team": "T6WULA63S",
+    "text": "githubにプッシュしました。trelloも更新済です。",
+    "ts": "1642905699.011800",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SAT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開発バージョンを統一するために、unityのバージョンを2020.3.26f1にしてください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c1b9097a-b4be-421c-9427-39c6f6c0af80",
+    "team": "T6WULA63S",
+    "text": "開発バージョンを統一するために、unityのバージョンを2020.3.26f1にしてください",
+    "ts": "1642649291.010900",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OSDxj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "だいぶ反応が遅れてすみません。そのやり方でゲーム開けました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6ec18874-cd2a-4cd7-b8b0-7e071edd0462",
+    "team": "T6WULA63S",
+    "text": "だいぶ反応が遅れてすみません。そのやり方でゲーム開けました。",
+    "ts": "1642610911.009500",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SwrXJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "git更新して頂いて、\nフォルダshooting-pinball-game/pinball_assets_ver/Assets/Scenes/SampleScene.unityでゲーム開けるかもです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f594a8c2-b0a4-4f12-9fd7-cc34b1bb34a6",
+    "team": "T6WULA63S",
+    "text": "git更新して頂いて、\nフォルダshooting-pinball-game/pinball_assets_ver/Assets/Scenes/SampleScene.unityでゲーム開けるかもです。",
+    "ts": "1642237944.008700",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Unity Asset Store: Simple Pinball | Packs | Unity Asset Store",
+        "from_url": "https://assetstore.unity.com/packages/templates/packs/simple-pinball-80053",
+        "id": 1,
+        "image_bytes": 388551,
+        "image_height": 250,
+        "image_url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/43a23c3c-15bb-4e63-b1f2-f11820c365ba.png?v=1",
+        "image_width": 476,
+        "original_url": "https://assetstore.unity.com/packages/templates/packs/simple-pinball-80053",
+        "service_icon": "https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/images/favicons/apple-touch-icon.png?v=1",
+        "service_name": "Unity Asset Store",
+        "text": "Use Simple Pinball from SgLib Games to elevate your next project. Find this &amp; more Packs and templates on the Unity Asset Store.",
+        "title": "Simple Pinball | Packs | Unity Asset Store",
+        "title_link": "https://assetstore.unity.com/packages/templates/packs/simple-pinball-80053"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "==Y=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://assetstore.unity.com/packages/templates/packs/simple-pinball-80053"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "813b2d95-7255-417d-af3a-6b2743496ce7",
+    "team": "T6WULA63S",
+    "text": "<https://assetstore.unity.com/packages/templates/packs/simple-pinball-80053>",
+    "ts": "1642211176.006500",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i2pmC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6B3017B1-22DC-45A4-82DD-9E757BA4C1EC",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。",
+    "ts": "1642208646.006300",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "l0HZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確認できました！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fbcdf892-de8e-4ea2-8316-9ca4090aab0b",
+    "team": "T6WULA63S",
+    "text": "確認できました！",
+    "ts": "1642208622.006100",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J81L",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "確認できますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C95CF80E-ACE4-4B18-81D9-FBBB342519E5",
+    "team": "T6WULA63S",
+    "text": "確認できますか？",
+    "ts": "1642208557.005700",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Vy/A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今直しますね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0291B783-CBF8-4CEB-A867-6A5966800EB2",
+    "team": "T6WULA63S",
+    "text": "今直しますね。",
+    "ts": "1642208500.005400",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "z6J",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今確認したところ、松野研カレンダーにしてませんでした。申し訳ないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5DDF5771-9AE9-451B-948A-3BC86622D908",
+    "team": "T6WULA63S",
+    "text": "今確認したところ、松野研カレンダーにしてませんでした。申し訳ないです。",
+    "ts": "1642208495.005200",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YcMg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": "予定のところを松野研カレンダーにしてありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d404bfad-685d-448b-9da6-aeaf2676ba9b",
+    "team": "T6WULA63S",
+    "text": "<@U02GE1XMN4V>予定のところを松野研カレンダーにしてありますか？",
+    "ts": "1642208395.004100",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8hr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分のとこには表示されてないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "13a8577a-1e94-4d1b-bc1d-b4d40aaa0940",
+    "team": "T6WULA63S",
+    "text": "自分のとこには表示されてないです",
+    "ts": "1642208266.002500",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FWb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダーに追加したと思ったんですが、反映されてませんか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3A0AD268-13DC-444C-85A9-E59B56C4068B",
+    "team": "T6WULA63S",
+    "text": "カレンダーに追加したと思ったんですが、反映されてませんか？",
+    "ts": "1642208136.001700",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tjj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EF54B853-CE7D-4191-9D56-0C6CD008B231",
+    "team": "T6WULA63S",
+    "text": "そうです",
+    "ts": "1642208118.001000",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FlFY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3年生でmeet集まるの今日の10時半ごろからでいいんですよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d51dea66-0e1c-4d84-94cf-44be655f1cc2",
+    "team": "T6WULA63S",
+    "text": "3年生でmeet集まるの今日の10時半ごろからでいいんですよね",
+    "ts": "1642205976.000800",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jMEv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GVKN3CJV"
+              },
+              {
+                "text": " \nお疲れ様です。\n今日、ゼミで行ったことの情報共有です。\n行ったこととしては、主に以下の3点です。\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "ゲームのルール決め",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "ゲームに必要なものの書き出し",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "ゲームに必要なものや作業をタスクとしてTrelloに書き出し",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "offset": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\n次回やることとしては、2点です。\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "より具体的なタスク作成、整理",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "開発準備",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "offset": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "\nMiroに今日行った、ゲームのルール等書いてあります。\nご不明な点がございましたら、いつでもご質問ください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4f60d2d8-5467-4a94-85fa-5fe291625911",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "ryoukai",
+        "users": [
+          "U02GVKN3CJV",
+          "U02GE1XMN4V"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@U02GVKN3CJV> \nお疲れ様です。\n今日、ゼミで行ったことの情報共有です。\n行ったこととしては、主に以下の3点です。\n• ゲームのルール決め\n• ゲームに必要なものの書き出し\n• ゲームに必要なものや作業をタスクとしてTrelloに書き出し\n次回やることとしては、2点です。\n• より具体的なタスク作成、整理\n• 開発準備\nMiroに今日行った、ゲームのルール等書いてあります。\nご不明な点がございましたら、いつでもご質問ください。",
+    "ts": "1640231414.029200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GMbfA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとで情報を共有できるようにしておいてください。すいませんがよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58772506-49eb-41ea-b98e-e00818ada4c0",
+    "team": "T6WULA63S",
+    "text": "あとで情報を共有できるようにしておいてください。すいませんがよろしくお願いいたします。",
+    "ts": "1640218669.020200",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JHF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうか午前に開催になったんですね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6dd6e8cc-b8a8-4aa2-aff2-633e4aa9fba5",
+    "team": "T6WULA63S",
+    "text": "そうか午前に開催になったんですね。",
+    "ts": "1640218119.019800",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nsyz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日TOEIC IPあるのでUnityゼミ参加できません",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "64863324-38D6-4710-9113-A0D8244364B3",
+    "team": "T6WULA63S",
+    "text": "今日TOEIC IPあるのでUnityゼミ参加できません",
+    "ts": "1640218059.019500",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1639019045.018900",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "https://miro.com/: Sign up | Miro | Online Whiteboard for Visual Collaboration",
+        "from_url": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=223478362166",
+        "id": 1,
+        "image_bytes": 5801,
+        "image_height": 250,
+        "image_url": "https://miro.com/static/images/share/miro.png?00002",
+        "image_width": 476,
+        "original_url": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=223478362166",
+        "service_icon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.457.production",
+        "service_name": "https://miro.com/",
+        "text": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world",
+        "title": "Sign up | Miro | Online Whiteboard for Visual Collaboration",
+        "title_link": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=223478362166"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "fYTB",
+        "elements": [
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Trello",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "text": "https://trello.com/invite/b/dt6CZ9wg/8e399039d474c4a151df445b9391170b/a%E3%82%B0%E[…]%AB%E3%83%BC%E3%83%973%E5%B9%B4%E7%94%9Funity%E3%82%BC%E3%83%9F",
+                "type": "link",
+                "url": "https://trello.com/invite/b/dt6CZ9wg/8e399039d474c4a151df445b9391170b/a%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%973%E5%B9%B4%E7%94%9Funity%E3%82%BC%E3%83%9F"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "Miro",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=223478362166"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "595f3c94-499f-4d7d-b093-a8e877825bcd",
+    "pinned_info": {
+      "channel": "C02P9T27P3L",
+      "pinned_by": "U01BUKC708K",
+      "pinned_ts": 1639018527
+    },
+    "pinned_to": [
+      "C02P9T27P3L"
+    ],
+    "team": "T6WULA63S",
+    "text": "• Trello\n<https://trello.com/invite/b/dt6CZ9wg/8e399039d474c4a151df445b9391170b/a%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%973%E5%B9%B4%E7%94%9Funity%E3%82%BC%E3%83%9F|https://trello.com/invite/b/dt6CZ9wg/8e399039d474c4a151df445b9391170b/a%E3%82%B0%E[…]%AB%E3%83%BC%E3%83%973%E5%B9%B4%E7%94%9Funity%E3%82%BC%E3%83%9F>\n• Miro\n<https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=223478362166>",
+    "ts": "1639018518.018200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s/Qw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Trello招待リンク\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://trello.com/invite/cstmastunolab/e40051ddd91de7f292bf330a0a8c1a82"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70be3544-6e72-459b-9af2-a34b8f9f0291",
+    "team": "T6WULA63S",
+    "text": "Trello招待リンク\n<https://trello.com/invite/cstmastunolab/e40051ddd91de7f292bf330a0a8c1a82>",
+    "ts": "1639018356.017300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01BMM61G7Q> has joined the channel",
+    "ts": "1639015661.017000",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "https://miro.com/: Sign up | Miro | Online Whiteboard for Visual Collaboration",
+        "from_url": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=559732808790",
+        "id": 1,
+        "image_bytes": 5801,
+        "image_height": 250,
+        "image_url": "https://miro.com/static/images/share/miro.png?00002",
+        "image_width": 476,
+        "original_url": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=559732808790",
+        "service_icon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.457.production",
+        "service_name": "https://miro.com/",
+        "text": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world",
+        "title": "Sign up | Miro | Online Whiteboard for Visual Collaboration",
+        "title_link": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=559732808790"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "wlpR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "miroのボード\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=559732808790"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "047f78a6-ecf7-47b8-9fa1-ca9e514d6ff3",
+    "team": "T6WULA63S",
+    "text": "miroのボード\n<https://miro.com/app/board/uXjVOcGkD-w=/?invite_link_id=559732808790>",
+    "ts": "1639014443.016600",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "https://miro.com/: The Visual Collaboration Platform for Every Team | Miro",
+        "from_url": "https://miro.com/index/",
+        "id": 1,
+        "image_bytes": 5801,
+        "image_height": 250,
+        "image_url": "https://static-website.miro.com/static/images/share/miro.png?version=develop.457.production&00002",
+        "image_width": 476,
+        "original_url": "https://miro.com/index/",
+        "service_icon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.457.production",
+        "service_name": "https://miro.com/",
+        "text": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 25M+ users from around the world.",
+        "title": "The Visual Collaboration Platform for Every Team | Miro",
+        "title_link": "https://miro.com/index/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "y6we",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "miro登録\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://miro.com/index/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "737d8464-8bf7-4f2c-a82c-0b4c50930fc5",
+    "team": "T6WULA63S",
+    "text": "miro登録\n<https://miro.com/index/>",
+    "ts": "1639014262.016000",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i6/G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そこまでゼミで勉強したものに沿ってなくても大丈夫です。\nただUnityで開発をするので、Unityでできる範囲内のものでお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9550e9de-876b-4540-b7ca-075696c98084",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GVKN3CJV"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "そこまでゼミで勉強したものに沿ってなくても大丈夫です。\nただUnityで開発をするので、Unityでできる範囲内のものでお願いします。",
+    "ts": "1638455274.015200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jsWC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "開発したいものって、ゼミで勉強した内容に沿ったものじゃないといけないですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F01BBE3E-1A7B-43F9-818D-E0BBB4660373",
+    "team": "T6WULA63S",
+    "text": "開発したいものって、ゼミで勉強した内容に沿ったものじゃないといけないですか？",
+    "ts": "1638455010.012700",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KY8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お疲れ様です。\nAグループの開発に参加させていただくことになりました、4年の越前谷彩乃です。\nよろしくお願いします。\n\n早速ですが、来週から開発が始まります。\nそこで開発の準備として、来週のゼミ(9日(木))までに作りたいものを考えておいていただけると助かります。\nざっくりとしたイメージでも大丈夫です。\nよろしくお願いいたします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "45be6454-50e4-4a7a-ab11-079a7eff7dd4",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U6YLZUWAK",
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "お疲れ様です。\nAグループの開発に参加させていただくことになりました、4年の越前谷彩乃です。\nよろしくお願いします。\n\n早速ですが、来週から開発が始まります。\nそこで開発の準備として、来週のゼミ(9日(木))までに作りたいものを考えておいていただけると助かります。\nざっくりとしたイメージでも大丈夫です。\nよろしくお願いいたします。",
+    "ts": "1638445959.011000",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U02GVKN3CJV> has joined the channel",
+    "ts": "1638445375.001200",
+    "type": "message",
+    "user": "U02GVKN3CJV"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1638445330.001000",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U02GH290Y2X> has joined the channel",
+    "ts": "1638445330.000800",
+    "type": "message",
+    "user": "U02GH290Y2X"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U02GH21BWSE> has joined the channel",
+    "ts": "1638445330.000600",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1638445330.000400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1638445221.000200",
+    "type": "message",
+    "user": "U01BUKC708K"
+  }
+]

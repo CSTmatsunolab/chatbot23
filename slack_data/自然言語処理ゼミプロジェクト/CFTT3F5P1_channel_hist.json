@@ -1,0 +1,171 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1568964946.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Sol2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず出力を出せたので、これから入出力を簡単にできるようにするのとデータセットをもっと複雑にしていきたいですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6d3dfad8-0433-417c-be8e-3f253a193884",
+    "edited": {
+      "ts": "1551193321.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "とりあえず出力を出せたので、これから入出力を簡単にできるようにするのとデータセットをもっと複雑にしていきたいですね",
+    "ts": "1551193311.002200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "png",
+        "id": "FGH2R3XFV",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "text": "",
+    "ts": "1551193218.000500",
+    "type": "message",
+    "upload": true,
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Oz3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日10時半集合で",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57d03761-2577-4712-aea7-35b81381cbe5",
+    "team": "T6WULA63S",
+    "text": "明日10時半集合で",
+    "ts": "1550647035.000500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xQg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめんね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7a744dfe-3a92-4c6e-9c99-2be0a494837d",
+    "team": "T6WULA63S",
+    "text": "ごめんね！",
+    "ts": "1548822729.002800",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J8tlF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日は自然言語処理の集まりがある予定だったはずですが、井出、小池は予定ができてしまったので、今週はお休みして来週2月7日に打ち合わせをしましょう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a9277d2-7cff-4a48-8bdb-722f35f58d8a",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日は自然言語処理の集まりがある予定だったはずですが、井出、小池は予定ができてしまったので、今週はお休みして来週2月7日に打ち合わせをしましょう。",
+    "ts": "1548822715.002500",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1548822379.000800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1548822379.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "U97F49L68",
+    "subtype": "channel_join",
+    "text": "<@U7DKV6ACT> has joined the channel",
+    "ts": "1548822379.000400",
+    "type": "message",
+    "user": "U7DKV6ACT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U97F49L68> has joined the channel",
+    "ts": "1548822378.000200",
+    "type": "message",
+    "user": "U97F49L68"
+  }
+]

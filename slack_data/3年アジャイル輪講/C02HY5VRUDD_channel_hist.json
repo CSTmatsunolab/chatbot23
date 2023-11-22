@@ -1,0 +1,885 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "Ap1M0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日アジャイル輪行実施するのでそのつもりでお願いします。 ",
+                "type": "text"
+              },
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44cd9175-f19b-4dde-ba44-75d4e7e25125",
+    "team": "T6WULA63S",
+    "text": "今日アジャイル輪行実施するのでそのつもりでお願いします。 <!channel>",
+    "ts": "1643247616.002800",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IkOx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "次回のアジャイル輪行を、来週行うのが4年生の体裁上難しいので、27日以降の実施でも良いですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B8E29118-4E83-494D-9422-01D149A15919",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "次回のアジャイル輪行を、来週行うのが4年生の体裁上難しいので、27日以降の実施でも良いですか？",
+    "ts": "1641969124.001900",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U011D5HFK7H> has joined the channel",
+    "ts": "1639019088.000200",
+    "type": "message",
+    "user": "U011D5HFK7H"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4rbg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すいません、では３年アジャイルゼミの次回は２５日にお願いします。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dcc09571-b3e8-4810-aabf-88432fec0160",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "ryoukai",
+        "users": [
+          "U01BRAMRXD3",
+          "U02GK7DPF8C",
+          "U02H6LYKVDE",
+          "U02GE1XMN4V"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "すいません、では３年アジャイルゼミの次回は２５日にお願いします。",
+    "ts": "1636558741.003700",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NG+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "承知いたしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0B997A8E-1AF1-4873-9655-78093A59E508",
+    "team": "T6WULA63S",
+    "text": "承知いたしました。",
+    "ts": "1636538204.003200",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RcGn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "承知いたしました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70a141b6-0a52-4cfa-9c5a-a865327d26aa",
+    "team": "T6WULA63S",
+    "text": "承知いたしました。",
+    "ts": "1636532663.002300",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "owB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "自分個人は特に問題ないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "57f197d3-4118-400d-bb46-d7a14df9d27e",
+    "team": "T6WULA63S",
+    "text": "自分個人は特に問題ないです。",
+    "ts": "1636529418.001900",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yjC6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " すいません、次回の３年アジャイルゼミですが、今週の全体ゼミが別件でできないので、来週、全体ゼミをやって、その次の週に３年アジャイルゼミをするように変更はできないでしょうか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "35055c63-7864-4057-9045-0e7de5446359",
+    "team": "T6WULA63S",
+    "text": "<!channel> すいません、次回の３年アジャイルゼミですが、今週の全体ゼミが別件でできないので、来週、全体ゼミをやって、その次の週に３年アジャイルゼミをするように変更はできないでしょうか。",
+    "ts": "1636526548.001100",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BgF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ac54200-5e16-4a95-9f51-6179ceb6960f",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます",
+    "ts": "1634871999.010600",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "132G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがとうございます。では\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH21BWSE"
+              },
+              {
+                "text": "  小沢：2章\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": " 鳥谷部：3章\n\n11/18\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": "  児玉：4章(XP)\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": "  樋口　：4章(スクラム)\nでお願いします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "563f6e72-0300-4d4f-95b6-4d7c9300ed6d",
+    "team": "T6WULA63S",
+    "text": "ありがとうございます。では\n<@U02GH21BWSE>  小沢：2章\n<@U02GK7DPF8C> 鳥谷部：3章\n\n11/18\n<@U02GE1XMN4V>  児玉：4章(XP)\n<@U02GA9DKAES>  樋口　：4章(スクラム)\nでお願いします",
+    "ts": "1634865111.010400",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0ul4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": "見るのが遅れてすみません。自分は変われます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FE7043A6-71DA-49D8-8EFB-8381B7D6C373",
+    "team": "T6WULA63S",
+    "text": "<@U02GK7DPF8C>見るのが遅れてすみません。自分は変われます。",
+    "ts": "1634834865.009600",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vdFQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "夜遅くに失礼します。\n自分も同じく、11月18日にUnityの輪講(Chapter6)と被っているため、厳しいかもしれないです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1496684C-9927-40DC-8EF3-65AF8263DA53",
+    "team": "T6WULA63S",
+    "text": "夜遅くに失礼します。\n自分も同じく、11月18日にUnityの輪講(Chapter6)と被っているため、厳しいかもしれないです。",
+    "ts": "1634831040.008700",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2=gG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GH21BWSE"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": " 変わることはできますか。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1d2c28b3-f433-4e7c-87ff-24d7b505245f",
+    "team": "T6WULA63S",
+    "text": "<@U02GH21BWSE> <@U02GE1XMN4V> 変わることはできますか。",
+    "ts": "1634829044.006300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uU63p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bb685f64-8a12-421a-97c3-6e5c852717f7",
+    "team": "T6WULA63S",
+    "text": "そうです",
+    "ts": "1634808538.005900",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gE3Ep",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Chapter6ってUnityの？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8ad8ad5-b9d8-4ff8-8cdf-a62ddcdfed2f",
+    "team": "T6WULA63S",
+    "text": "Chapter6ってUnityの？",
+    "ts": "1634804752.005600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "piDy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後出しで申し訳ないのですが、アジャイルの担当回がchapter6で日程が被っているので、もしスライドを作り始めていなければ変わって頂けないでしょうか...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c4bf368d-c73f-4020-abc8-b59a99d168b7",
+    "team": "T6WULA63S",
+    "text": "後出しで申し訳ないのですが、アジャイルの担当回がchapter6で日程が被っているので、もしスライドを作り始めていなければ変わって頂けないでしょうか...",
+    "ts": "1634804142.004800",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+da",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "11/4\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GH21BWSE"
+              },
+              {
+                "text": "  小沢：2章\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GE1XMN4V"
+              },
+              {
+                "text": " 児玉：3章\n\n11/18\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": " 鳥谷部：4章(XP)\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": "  樋口　：4章(スクラム)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "adcccfef-34b5-4045-a478-ffcac265c58b",
+    "edited": {
+      "ts": "1634792997.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "11/4\n<@U02GH21BWSE>  小沢：2章\n<@U02GE1XMN4V> 児玉：3章\n\n11/18\n<@U02GK7DPF8C> 鳥谷部：4章(XP)\n<@U02GA9DKAES>  樋口　：4章(スクラム)",
+    "ts": "1634792943.004300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "from_url": "https://meet.google.com/bpd-qqqj-zin?authuser=0",
+        "id": 1,
+        "original_url": "https://meet.google.com/bpd-qqqj-zin?authuser=0",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "service_name": "meet.google.com",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_height": 192,
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/bpd-qqqj-zin?authuser=0"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "KLxO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/bpd-qqqj-zin?authuser=0"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5eaac3a-5db5-4e6d-a910-c4a425c52385",
+    "team": "T6WULA63S",
+    "text": "<https://meet.google.com/bpd-qqqj-zin?authuser=0>",
+    "ts": "1634790303.002100",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ssSb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "同じくです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70113d02-0c9a-4728-bf7f-c7bd500dd232",
+    "team": "T6WULA63S",
+    "text": "同じくです",
+    "ts": "1634790288.001600",
+    "type": "message",
+    "user": "U02GA9DKAES"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D7eQ+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "通話？場所が分からず...",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c9ac6ed8-0522-46ca-89af-639e2bbba248",
+    "team": "T6WULA63S",
+    "text": "通話？場所が分からず...",
+    "ts": "1634790275.001400",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Rq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02GA9DKAES"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U02GK7DPF8C"
+              },
+              {
+                "text": " アジャイルゼミ参加できますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3bd0e19e-1e15-4184-bf21-432ecc7b5d7b",
+    "team": "T6WULA63S",
+    "text": "<@U02GA9DKAES> <@U02GK7DPF8C> アジャイルゼミ参加できますか？",
+    "ts": "1634790239.000700",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "inviter": "U01BUKC708K",
+    "subtype": "channel_join",
+    "text": "<@U6YLZUWAK> has joined the channel",
+    "ts": "1634740402.003300",
+    "type": "message",
+    "user": "U6YLZUWAK"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p98",
+        "elements": [
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "ゼミ進行予定スライド",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1gJZFiIJmBDymPgvUEyfQiC_acOtU6g1WX1PyFgc85iI/edit#slide=id.gf8171813a9_0_0"
+              },
+              {
+                "text": "\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "3年生アジャイル輪講ゼミのGoogleドライブ",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "教科書",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              },
+              {
+                "elements": [
+                  {
+                    "text": "作成したスライド",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 1,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1_yB8o6NMwuVW0GbCsMsGZDpoWoVCsV8c"
+              },
+              {
+                "text": "\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "border": 0,
+            "elements": [
+              {
+                "elements": [
+                  {
+                    "text": "去年の輪講スライド",
+                    "type": "text"
+                  }
+                ],
+                "type": "rich_text_section"
+              }
+            ],
+            "indent": 0,
+            "style": "bullet",
+            "type": "rich_text_list"
+          },
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1z2M36e5Ts625lIx3M7ILoQn_HcnEQcCe"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2cc09452-977d-411b-9b49-7ebb1afa317d",
+    "edited": {
+      "ts": "1634793258.000000",
+      "user": "U01BUKC708K"
+    },
+    "pinned_info": {
+      "channel": "C02HY5VRUDD",
+      "pinned_by": "U01BUKC708K",
+      "pinned_ts": 1634740376
+    },
+    "pinned_to": [
+      "C02HY5VRUDD"
+    ],
+    "team": "T6WULA63S",
+    "text": "• ゼミ進行予定スライド\n<https://docs.google.com/presentation/d/1gJZFiIJmBDymPgvUEyfQiC_acOtU6g1WX1PyFgc85iI/edit#slide=id.gf8171813a9_0_0>\n\n• 3年生アジャイル輪講ゼミのGoogleドライブ\n    ◦ 教科書\n    ◦ 作成したスライド\n<https://drive.google.com/drive/folders/1_yB8o6NMwuVW0GbCsMsGZDpoWoVCsV8c>\n\n• 去年の輪講スライド\n<https://drive.google.com/drive/folders/1z2M36e5Ts625lIx3M7ILoQn_HcnEQcCe>",
+    "ts": "1634740372.002900",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1634709677.002100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U01C72C0B7T> has joined the channel",
+    "ts": "1634703747.001900",
+    "type": "message",
+    "user": "U01C72C0B7T"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U01BMM61G7Q> has joined the channel",
+    "ts": "1634703747.001700",
+    "type": "message",
+    "user": "U01BMM61G7Q"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U02H6LYKVDE> has joined the channel",
+    "ts": "1634703747.001500",
+    "type": "message",
+    "user": "U02H6LYKVDE"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U02GE1XMN4V> has joined the channel",
+    "ts": "1634703747.001300",
+    "type": "message",
+    "user": "U02GE1XMN4V"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U02GH21BWSE> has joined the channel",
+    "ts": "1634703746.001100",
+    "type": "message",
+    "user": "U02GH21BWSE"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U02GK7DPF8C> has joined the channel",
+    "ts": "1634703746.000900",
+    "type": "message",
+    "user": "U02GK7DPF8C"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U02GA9DKAES> has joined the channel",
+    "ts": "1634703746.000700",
+    "type": "message",
+    "user": "U02GA9DKAES"
+  },
+  {
+    "inviter": "U01BRAMRXD3",
+    "subtype": "channel_join",
+    "text": "<@U01BUKC708K> has joined the channel",
+    "ts": "1634703746.000500",
+    "type": "message",
+    "user": "U01BUKC708K"
+  },
+  {
+    "purpose": "3年アジャイル輪講",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: 3年アジャイル輪講",
+    "ts": "1634703261.000300",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U01BRAMRXD3> has joined the channel",
+    "ts": "1634703260.000200",
+    "type": "message",
+    "user": "U01BRAMRXD3"
+  }
+]

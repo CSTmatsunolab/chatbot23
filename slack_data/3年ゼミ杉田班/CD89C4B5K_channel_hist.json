@@ -1,0 +1,4524 @@
+[
+  {
+    "subtype": "channel_archive",
+    "text": "archived the channel",
+    "ts": "1550975882.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n=8GY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "色々ついかしといたよん！！出来れば(絶対に)見直しておいてね！！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "486fdf72-7a02-4645-aa58-5e774afd4e11",
+    "team": "T6WULA63S",
+    "text": "色々ついかしといたよん！！出来れば(絶対に)見直しておいてね！！！！",
+    "ts": "1548966998.010900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UipM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "反省点及びこれからの展望少なすぎぃ！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e2e7549-5147-4e94-9f0f-03f6df46ca82",
+    "team": "T6WULA63S",
+    "text": "反省点及びこれからの展望少なすぎぃ！！",
+    "ts": "1548966929.009700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g4Wk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スライドもGoogleスライドで編集できるようにして中身も少し直した！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2508284e-aa25-4ebc-9c23-035b8f8e6233",
+    "team": "T6WULA63S",
+    "text": "スライドもGoogleスライドで編集できるようにして中身も少し直した！",
+    "ts": "1548966916.009200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9Vrxp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作った！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "397ad224-7a41-4085-a7cf-cb12defb9ff6",
+    "team": "T6WULA63S",
+    "text": "作った！",
+    "ts": "1548966900.008800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dRIaT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後はHPゼロになったら消滅する部分を作ることが優先だな！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "15aa867c-c38a-461d-9349-4d10c8adc8c4",
+    "team": "T6WULA63S",
+    "text": "後はHPゼロになったら消滅する部分を作ることが優先だな！！",
+    "ts": "1548963600.007900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZVa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ねえ、後それとね、みんなToDoリストの更新とかしてる？感想に空きがあるのはちょっとなぁ・・・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d763a64a-b408-4f02-b778-ffec24bd9fc1",
+    "team": "T6WULA63S",
+    "text": "ねえ、後それとね、みんなToDoリストの更新とかしてる？感想に空きがあるのはちょっとなぁ・・・",
+    "ts": "1548963387.007200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7ZYi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "というわけでとりあえずToDoリストを書く、一応これ見たら読んでおいてくれ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f28c0480-cc93-4839-9836-68bc4c760436",
+    "team": "T6WULA63S",
+    "text": "というわけでとりあえずToDoリストを書く、一応これ見たら読んでおいてくれ",
+    "ts": "1548963196.006400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=Lc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ターンと無差別範囲攻撃だけは実装できたぞこの野郎、少なくともゲームとしての体裁は保ったわこんにゃろう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "87a0ed98-3b24-42be-9acd-dfb48904c41e",
+    "team": "T6WULA63S",
+    "text": "ターンと無差別範囲攻撃だけは実装できたぞこの野郎、少なくともゲームとしての体裁は保ったわこんにゃろう",
+    "ts": "1548963101.004600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wpSxM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "・・・・・",
+                "type": "text"
+              },
+              {
+                "name": "thinking_face",
+                "type": "emoji",
+                "unicode": "1f914"
+              },
+              {
+                "text": "(描いたら描いたで修正点とか見つかったり、そもそもの構造を見ることで自分の才能のなさに絶望して死ぬ可能性が大だから書いたって意味ないのではと思い始めている顔)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a391ffdb-cdd7-4cc1-a190-d05e1eec809b",
+    "team": "T6WULA63S",
+    "text": "・・・・・:thinking_face:(描いたら描いたで修正点とか見つかったり、そもそもの構造を見ることで自分の才能のなさに絶望して死ぬ可能性が大だから書いたって意味ないのではと思い始めている顔)",
+    "ts": "1548960380.003900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RFr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これだからゆにてぃちゃんはだっっっっっいっきらいなんだよ！！今のファイルの構想図を描いてやろうか！描いてやろうかぁ！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6dd5de13-1711-49ca-b2b5-1926266a775a",
+    "team": "T6WULA63S",
+    "text": "これだからゆにてぃちゃんはだっっっっっいっきらいなんだよ！！今のファイルの構想図を描いてやろうか！描いてやろうかぁ！！！",
+    "ts": "1548960096.001800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "d9q/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "しぬぅ(遺言)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "457bbbd3-18a8-43b7-9df4-a77029c7b8dc",
+    "team": "T6WULA63S",
+    "text": "しぬぅ(遺言)",
+    "ts": "1548960018.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eqB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "杉田君から指摘された分を修正しておいた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e0b24c9-1756-4685-9d0c-b0988a7e6818",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "kanna",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "杉田君から指摘された分を修正しておいた",
+    "ts": "1548930745.014400",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UxJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " あとねー、最後の反省はいの一番に実装したいのはウィンドウ関連だからそれに関していってもらえると助かるかなー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5677d63f-a508-4235-b084-406211432ba6",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD3BHE2LW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW> あとねー、最後の反省はいの一番に実装したいのはウィンドウ関連だからそれに関していってもらえると助かるかなー",
+    "ts": "1548929664.013400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fC=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日の発表までに、ターンの概念実装頑張ってみるけどできなかったらごめんちゃい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "efa19ed3-c954-4eef-8311-0e4afc03087f",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD3BHE2LW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "明日の発表までに、ターンの概念実装頑張ってみるけどできなかったらごめんちゃい",
+    "ts": "1548929192.012200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qg5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": "\n１、ゲーム制作の序盤で、ゲームのベースを新しい技術でやろうとして挫折した話を最初の方に入れて欲しい\n２、最後のスライド「まとめ」じゃなくて「反省」とか「反省および今後の展望」の方が見た目がいいと思う",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3acaa79e-3d2f-4544-819b-a75d27d1a2a3",
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW>\n１、ゲーム制作の序盤で、ゲームのベースを新しい技術でやろうとして挫折した話を最初の方に入れて欲しい\n２、最後のスライド「まとめ」じゃなくて「反省」とか「反省および今後の展望」の方が見た目がいいと思う",
+    "ts": "1548929124.011500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9a6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "()",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d3ac9b26-e5e3-4650-b071-511a87f08275",
+    "team": "T6WULA63S",
+    "text": "()",
+    "ts": "1548928932.009400",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qE4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まああんまり無茶はしないでな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "674cb0ab-f751-4a7e-b0f8-4b9ec89df9dc",
+    "team": "T6WULA63S",
+    "text": "まああんまり無茶はしないでな",
+    "ts": "1548928927.009200",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tvi3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(なお通常でも気だるい模様)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01a0c88d-6377-4127-a7ec-b7f1997daebf",
+    "team": "T6WULA63S",
+    "text": "(なお通常でも気だるい模様)",
+    "ts": "1548928927.009100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6/I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ヤミアガリダカラユルシテネ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0d55ad42-f58f-4fb4-a3ff-854a1c9ab866",
+    "team": "T6WULA63S",
+    "text": "ヤミアガリダカラユルシテネ",
+    "ts": "1548928907.008100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iBVd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "きっと。多分。おそらく。俺が寝なければ・",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "12bffab3-dca9-4bd3-b288-3d1991e259bc",
+    "team": "T6WULA63S",
+    "text": "きっと。多分。おそらく。俺が寝なければ・",
+    "ts": "1548928886.007500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PPx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そういやそうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ed18f643-4586-4dfa-9a14-54be649a8713",
+    "team": "T6WULA63S",
+    "text": "そういやそうか",
+    "ts": "1548928885.007400",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/R2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "集まらなくともいいんじゃない、Android輪講あるし、お昼の間で出来るでしょ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5b5d9b8-8323-4eb8-9e94-cf34741649da",
+    "team": "T6WULA63S",
+    "text": "集まらなくともいいんじゃない、Android輪講あるし、お昼の間で出来るでしょ",
+    "ts": "1548928867.006900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lfu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうするかねー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e4865070-da48-47c4-b423-869ecf9331bd",
+    "team": "T6WULA63S",
+    "text": "どうするかねー",
+    "ts": "1548928829.006200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gP+ZD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解、明日早めに集まっといたほうが良かったりするかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2921db93-4634-4135-854d-1d0a44717657",
+    "team": "T6WULA63S",
+    "text": "了解、明日早めに集まっといたほうが良かったりするかね",
+    "ts": "1548928815.005800",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YwbN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえずお仕事終わって家帰ったら日付変わるので、そっから作業することになるから締め切りギリギリになっちゃいそうだけどごめんね許してね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "579c6314-cb0e-4a5f-b229-b8909f45458f",
+    "team": "T6WULA63S",
+    "text": "とりあえずお仕事終わって家帰ったら日付変わるので、そっから作業することになるから締め切りギリギリになっちゃいそうだけどごめんね許してね",
+    "ts": "1548928790.005000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s8J",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "原稿は書かない方がいいかもしれないかもしれないのでないかもしれない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75dd32c-4d17-4ebe-9443-ae96199577b3",
+    "team": "T6WULA63S",
+    "text": "原稿は書かない方がいいかもしれないかもしれないのでないかもしれない",
+    "ts": "1548928730.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YgCle",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず俺お仕事終わったら朝までに絵の差し替えと、できるところをちょっと変えて、スライドの大まかな誰が話すかとかをやるから、受けとったらとりあえず目を通して欲しいかもしれない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b4eaabf4-c552-4e5d-9eec-a30aa447f374",
+    "team": "T6WULA63S",
+    "text": "とりあえず俺お仕事終わったら朝までに絵の差し替えと、できるところをちょっと変えて、スライドの大まかな誰が話すかとかをやるから、受けとったらとりあえず目を通して欲しいかもしれない",
+    "ts": "1548928682.002500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oSsa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうすっかなー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cf440505-c778-4949-be39-d12d080c40ed",
+    "team": "T6WULA63S",
+    "text": "どうすっかなー",
+    "ts": "1548928576.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OIk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "越川君がタイルの絵を上げてくれたので、A班→ドットにおいておいた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "517bf337-9eb7-4f09-9a4b-88a9ec76df84",
+    "team": "T6WULA63S",
+    "text": "越川君がタイルの絵を上げてくれたので、A班→ドットにおいておいた",
+    "ts": "1548894026.002700",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O5Y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "作ったスライドをGoogleドライブに上げたので、改善案があればここで言うか直接直しておいて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "29b2d84f-3541-4c74-bf7f-188ef52a31b0",
+    "team": "T6WULA63S",
+    "text": "作ったスライドをGoogleドライブに上げたので、改善案があればここで言うか直接直しておいて",
+    "ts": "1548893953.001600",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ffETu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大体ToDoリストに書いてある",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c14d5ea4-bec9-44a1-a357-441806b2d9af",
+    "team": "T6WULA63S",
+    "text": "大体ToDoリストに書いてある",
+    "ts": "1548841774.015400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "J=zz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえずスライドこっちで作ってみる\nそれぞれの担当した部分で工夫した点とかあったら教えて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "523d6538-4891-4fe5-b5db-cc43ff4f5453",
+    "team": "T6WULA63S",
+    "text": "とりあえずスライドこっちで作ってみる\nそれぞれの担当した部分で工夫した点とかあったら教えて",
+    "ts": "1548841696.014800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wf=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあそれで見た目の体裁は取れるでしょ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c2e9ba4-857e-4e72-aefa-0264ab0ecb09",
+    "team": "T6WULA63S",
+    "text": "まあそれで見た目の体裁は取れるでしょ",
+    "ts": "1548840664.011300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zd0+Y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後は出来上がったスライドから話すことを適当に書き上げてそれを三分割するとか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7240392f-48f2-4470-a52d-44e3da762f7b",
+    "team": "T6WULA63S",
+    "text": "後は出来上がったスライドから話すことを適当に書き上げてそれを三分割するとか",
+    "ts": "1548840532.011000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xVqS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ToDoリストに書いてある部分をまとめるなり、かなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8b4efae5-62a8-45f9-9cdd-183fe95ab685",
+    "team": "T6WULA63S",
+    "text": "ToDoリストに書いてある部分をまとめるなり、かなぁ",
+    "ts": "1548840501.010300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ccN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スライドは篠田君か俺が一人で作るとして",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "62721343-781f-43e8-b671-3ae00bf4d4ca",
+    "team": "T6WULA63S",
+    "text": "スライドは篠田君か俺が一人で作るとして",
+    "ts": "1548840363.009400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yHmkM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いや、だからな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "71c2dfcf-0fb3-4757-bcc1-8de9c6302adc",
+    "team": "T6WULA63S",
+    "text": "いや、だからな",
+    "ts": "1548840350.008900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "noQWA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ドット絵しか役割持ってない俺はスライドどうすればいいのかさっぱりでな…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "96210eae-2e21-4b4a-94d7-68e597b15ddc",
+    "team": "T6WULA63S",
+    "text": "ドット絵しか役割持ってない俺はスライドどうすればいいのかさっぱりでな…",
+    "ts": "1548840336.008600",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ThuLv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(結局声掛けは俺がやるのか)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "95b4a31a-82a6-47cb-9d6c-bd5acd9dcb2a",
+    "team": "T6WULA63S",
+    "text": "(結局声掛けは俺がやるのか)",
+    "ts": "1548840299.007200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FtXIj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応大丈夫なんだが",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "728a30ea-e151-48fa-bcc1-628d275eda40",
+    "team": "T6WULA63S",
+    "text": "一応大丈夫なんだが",
+    "ts": "1548840297.007100",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FBRTb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそも越川君は予定は大丈夫なのかしら？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b6cd67b2-a4df-42f7-9393-fc8fd7ba89aa",
+    "team": "T6WULA63S",
+    "text": "そもそも越川君は予定は大丈夫なのかしら？",
+    "ts": "1548840279.006300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "42D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さて、じゃあどうしようか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "be87ea4b-2c8e-4c02-ace7-3969e6ae9523",
+    "team": "T6WULA63S",
+    "text": "さて、じゃあどうしようか",
+    "ts": "1548840257.005500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4kk55",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそもなぜ話し合いを仕様とすらしないのか、後一応リーダーだから声掛けはしような。今更だし適当にやってる俺が言えることじゃないけどな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "360960a0-262c-41c9-a566-25efd853ca9d",
+    "team": "T6WULA63S",
+    "text": "そもそもなぜ話し合いを仕様とすらしないのか、後一応リーダーだから声掛けはしような。今更だし適当にやってる俺が言えることじゃないけどな",
+    "ts": "1548840168.004400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=9IT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なら余計配分しなきゃダメじゃないか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7270cf51-1b14-4def-b701-a60f0d7e57a1",
+    "team": "T6WULA63S",
+    "text": "なら余計配分しなきゃダメじゃないか",
+    "ts": "1548840055.003200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3tOn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "発表は全員がほぼ同量になるようにしなきゃいけないはず",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6999a1f1-1d69-402d-90b8-b94f605498bf",
+    "team": "T6WULA63S",
+    "text": "発表は全員がほぼ同量になるようにしなきゃいけないはず",
+    "ts": "1548840031.002800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kf9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんか何もないと俺がやるの前提なのか、ただコミュニケーション不足なのかわからんゾ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "df7d360a-caca-400a-87cd-3c0f606b3909",
+    "team": "T6WULA63S",
+    "text": "なんか何もないと俺がやるの前提なのか、ただコミュニケーション不足なのかわからんゾ",
+    "ts": "1548840002.002300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VxNP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そう、後報告ないけど篠田君がスライドとか発表やるん？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc422efe-65fe-4403-96d9-0930b835def8",
+    "team": "T6WULA63S",
+    "text": "そう、後報告ないけど篠田君がスライドとか発表やるん？",
+    "ts": "1548839930.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "L+p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "でもなぁ…バージョン管理に厳しいGoogle系はもうサビ終してるしなぁ…代替えみつけるしかないのかなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "34337e96-4763-46b4-a7a6-a157c8c65a60",
+    "team": "T6WULA63S",
+    "text": "でもなぁ…バージョン管理に厳しいGoogle系はもうサビ終してるしなぁ…代替えみつけるしかないのかなぁ",
+    "ts": "1548768103.002200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jltN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、これはWeb上で動くようにするっていう俺の(放置していた)タスクがせかされる日がついに来たか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de462a36-8274-43fa-8f87-4c72a01ca8da",
+    "team": "T6WULA63S",
+    "text": "あ、これはWeb上で動くようにするっていう俺の(放置していた)タスクがせかされる日がついに来たか",
+    "ts": "1548768021.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N70",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、発表会の後にGitのゼミがあった。内容については、後々Googleドライブに上がるスライドを見てね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c063fcbf-8c56-4af7-8ed7-ad8e2fdcb107",
+    "team": "T6WULA63S",
+    "text": "あと、発表会の後にGitのゼミがあった。内容については、後々Googleドライブに上がるスライドを見てね。",
+    "ts": "1548753699.005000",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NjA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日の発表会で指示されたこと\n発表後は研究室のホームページ上にレポートを書いて、ゲームをホームページ上で遊べるようにする。(形式については過去のゼミを参考に)\n発表後のゲームの機能追加・修正は14日まで(発表時に指摘された点など)\nHP作成は来月中まで\nHP管理とGitによるプロジェクト管理が２月の目標",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a31c5386-d361-41f6-a7e8-3bb1f1e091a2",
+    "edited": {
+      "ts": "1548753876.000000",
+      "user": "UD3BHE2LW"
+    },
+    "team": "T6WULA63S",
+    "text": "今日の発表会で指示されたこと\n発表後は研究室のホームページ上にレポートを書いて、ゲームをホームページ上で遊べるようにする。(形式については過去のゼミを参考に)\n発表後のゲームの機能追加・修正は14日まで(発表時に指摘された点など)\nHP作成は来月中まで\nHP管理とGitによるプロジェクト管理が２月の目標",
+    "ts": "1548753619.003000",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kWucD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そっちでも実装できそうならやっててもらっても構わないし、ほかのToDoリストを消化してってもいいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a0e635d3-8cac-49cb-a81c-30c73fcd9929",
+    "team": "T6WULA63S",
+    "text": "そっちでも実装できそうならやっててもらっても構わないし、ほかのToDoリストを消化してってもいいよ",
+    "ts": "1548666833.003100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NUSD8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえずターンの概念とアタックとを作ってるんだけど、どうも動作のアルゴリズムがムズイ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2227570f-3942-4297-ab36-273bd9e406ce",
+    "team": "T6WULA63S",
+    "text": "とりあえずターンの概念とアタックとを作ってるんだけど、どうも動作のアルゴリズムがムズイ",
+    "ts": "1548666797.002400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hadL4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "ryoukai",
+                "type": "emoji"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9bf241dd-2292-4bf6-8d9d-144024d7b87d",
+    "team": "T6WULA63S",
+    "text": ":ryoukai: ",
+    "ts": "1548666652.000700",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0yOOM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ということでアジャイルの期限は金曜までに伸びました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "58fcd2ed-6fa8-4fbd-8e47-1870ed281502",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD3BHE2LW"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "ということでアジャイルの期限は金曜までに伸びました",
+    "ts": "1548666584.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pp/em",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "最終発表をずらしてもらえないか明日松野さんに聞いてみるわー・・・明後日はちょっと行けなさそうだし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bfc4a764-b51c-4dad-af29-246732d9dee7",
+    "team": "T6WULA63S",
+    "text": "最終発表をずらしてもらえないか明日松野さんに聞いてみるわー・・・明後日はちょっと行けなさそうだし",
+    "ts": "1548590404.001700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5Xb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "この調子だと俺の体調が火曜日にピーク(逆)を迎えそうなんでどうしようかね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9a2eda26-4f4f-4cbd-a7dd-ee5342a1833b",
+    "team": "T6WULA63S",
+    "text": "この調子だと俺の体調が火曜日にピーク(逆)を迎えそうなんでどうしようかね",
+    "ts": "1548590340.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KntW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fcf2e9d3-c7be-44e0-b87f-2ada00bbbdb2",
+    "team": "T6WULA63S",
+    "text": "あいよ",
+    "ts": "1548493386.008000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zOu/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "MakeEnemyの最後にMove( )を使ってるからMove( )の引数を変えればOK",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e06ba974-66a3-44be-97e4-1998186b8572",
+    "team": "T6WULA63S",
+    "text": "MakeEnemyの最後にMove( )を使ってるからMove( )の引数を変えればOK",
+    "ts": "1548493375.007600",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ok2i7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "後で確認はするけれど、設置するマップはしてい出来たりする？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bb25881c-104b-4130-8eb6-06923e24f304",
+    "team": "T6WULA63S",
+    "text": "後で確認はするけれど、設置するマップはしてい出来たりする？",
+    "ts": "1548493269.006200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OC/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ありがたい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "96ae9180-3b6d-410c-9213-2056b86c2ff2",
+    "team": "T6WULA63S",
+    "text": "ありがたい",
+    "ts": "1548493249.005700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fvH3Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "応答遅くなってしまってごめん\nキャラのステータスの概念ができたので、CharacterGeneratorとCharacterControllerを上げておいた、\nCharacterControllerにキャラのステータス用の変数hp,atk,defを定義したので、CharacterGeneratorのMakeEnemy( )のように書けば、任意のステータスを持ったキャラを生成してマップ上に配置できる。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8b267b77-d485-4fe4-82f8-856e180aab1e",
+    "edited": {
+      "ts": "1548493246.000000",
+      "user": "UD3BHE2LW"
+    },
+    "team": "T6WULA63S",
+    "text": "応答遅くなってしまってごめん\nキャラのステータスの概念ができたので、CharacterGeneratorとCharacterControllerを上げておいた、\nCharacterControllerにキャラのステータス用の変数hp,atk,defを定義したので、CharacterGeneratorのMakeEnemy( )のように書けば、任意のステータスを持ったキャラを生成してマップ上に配置できる。",
+    "ts": "1548493189.005100",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "grzg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ToDoリストは進んでないけどリファクタリングはしたからソースコードを最適化したよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a7740c6e-2fea-4cac-afa2-ef4645238bc9",
+    "team": "T6WULA63S",
+    "text": "ToDoリストは進んでないけどリファクタリングはしたからソースコードを最適化したよ",
+    "ts": "1548379938.007700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5ba9p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プレイヤーの画像が2種類とフィールドタイルが森(木)(コスト増加マス)と地面(ノーマルマス)をとりあえず作成、岩(侵入不可)は作成途中でキャラ画像も余裕があれば増やす感じ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9c68ce69-4325-4e37-8670-af47dbe5c94a",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 0,
+        "file_access": "file_not_found",
+        "filetype": "jpg",
+        "id": "FFNUTBG1K",
+        "timestamp": 0,
+        "user": "U056UC66ZPV"
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1548380104.007800",
+    "reply_count": 1,
+    "reply_users": [
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "text": "プレイヤーの画像が2種類とフィールドタイルが森(木)(コスト増加マス)と地面(ノーマルマス)をとりあえず作成、岩(侵入不可)は作成途中でキャラ画像も余裕があれば増やす感じ",
+    "thread_ts": "1548379929.007200",
+    "ts": "1548379929.007200",
+    "type": "message",
+    "upload": true,
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "56Urr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあそれはともかくお互い報告することあるけ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "07ca7a45-cebf-40e2-86bd-25f2ef24ad85",
+    "team": "T6WULA63S",
+    "text": "まあそれはともかくお互い報告することあるけ？",
+    "ts": "1548379553.001700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lrI",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "無しな日は無しでいいよー‥言うの忘れてた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8cb16062-7818-4438-aa51-dc9db0e6da87",
+    "team": "T6WULA63S",
+    "text": "無しな日は無しでいいよー‥言うの忘れてた",
+    "ts": "1548378665.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tUxm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応14号館2階にいる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22f550c3-13c1-4950-ada4-12f8b6741482",
+    "team": "T6WULA63S",
+    "text": "一応14号館2階にいる",
+    "ts": "1548377282.000900",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MI7T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "二人ともおる？@",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3fec8707-523e-4218-9166-a7536b7c0fc1",
+    "team": "T6WULA63S",
+    "text": "二人ともおる？@",
+    "ts": "1548377260.000400",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "srU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おや、休みだから寝てたわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fe49e02c-e003-464a-82b7-07913c4e7cea",
+    "team": "T6WULA63S",
+    "text": "おや、休みだから寝てたわ",
+    "ts": "1547778717.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=9S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "リーディングルームが使えないみたいなので、14号館1階にいるよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f968cdb9-cf0b-4e32-b071-2774af2790eb",
+    "team": "T6WULA63S",
+    "text": "リーディングルームが使えないみたいなので、14号館1階にいるよ",
+    "ts": "1547771181.001600",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "up8CD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f45cd1e2-554a-4917-a74a-1ed078f268a0",
+    "team": "T6WULA63S",
+    "text": "わかった",
+    "ts": "1547628871.002700",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YHr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "上げたら森田さんに一言いっておいてね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "437fec37-73c1-4d59-ab3f-8abc10fc4f31",
+    "team": "T6WULA63S",
+    "text": "上げたら森田さんに一言いっておいてね",
+    "ts": "1547619978.002300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b3ry9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3894272f-ef02-4c94-93f8-0fe06329a6c1",
+    "team": "T6WULA63S",
+    "text": "あいよ",
+    "ts": "1547618733.001600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5K8G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まだ書き終わってないから、終わったらGoogleドライブに上げるつもりだよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c14dcf04-753f-4668-9bed-75c50c228263",
+    "team": "T6WULA63S",
+    "text": "まだ書き終わってないから、終わったらGoogleドライブに上げるつもりだよ",
+    "ts": "1547617974.001400",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q9N=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " ワードってどうした？公開ディレクトリにはないけれど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "65547d54-5e77-407a-9ed3-c2aff980c44f",
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW> ワードってどうした？公開ディレクトリにはないけれど",
+    "ts": "1547609716.001000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PVV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UDNRU1WTC"
+              },
+              {
+                "text": " プレイヤーの画像と、タイルの画像を集めるなり描くなりして欲しいのですよ。詳細は篠田君に聞いて欲しい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ff4c90e4-75fa-4399-bfd5-a88e35f36608",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UDNRU1WTC"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "<@UDNRU1WTC> プレイヤーの画像と、タイルの画像を集めるなり描くなりして欲しいのですよ。詳細は篠田君に聞いて欲しい",
+    "ts": "1547531989.001400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b2E4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「特にない」はあり得ないからな。事実今俺も思いついたのがいくつもあるし、そもそも俺はポンコツなんだから俺が書いた時点で完結する訳ない。結果的にToDoに載らないにしても協議する必要のあるものはあるはずだよね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "60895645-077f-45e5-9a67-09f19fc99c43",
+    "team": "T6WULA63S",
+    "text": "「特にない」はあり得ないからな。事実今俺も思いついたのがいくつもあるし、そもそも俺はポンコツなんだから俺が書いた時点で完結する訳ない。結果的にToDoに載らないにしても協議する必要のあるものはあるはずだよね",
+    "ts": "1547483813.004700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "=ajW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " ToDoに本当に何にも投稿しないけど、実際まだまだ実装すべきものとかはあるので、これ作る必要あるんじゃないのってやつは書いてってほしいんだけど\nToDoチャンネルで協議して、ToDoリストに追加するって感じでやるためにチャンネル作ったのだから利用してほしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5484d295-844b-495d-81ea-c69dd97f8355",
+    "team": "T6WULA63S",
+    "text": "<!channel> ToDoに本当に何にも投稿しないけど、実際まだまだ実装すべきものとかはあるので、これ作る必要あるんじゃないのってやつは書いてってほしいんだけど\nToDoチャンネルで協議して、ToDoリストに追加するって感じでやるためにチャンネル作ったのだから利用してほしい",
+    "ts": "1547483671.002500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UzN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7629e8bd-676b-4698-996e-e4781af3caca",
+    "team": "T6WULA63S",
+    "text": "はいよ",
+    "ts": "1547271689.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Gke",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一応、画像を切り替えるメソッドHighlightOn()とHighlightOff()ができた。\nA班のフォルダにTileController.csを上げておいたので、Prefabにアタッチすれば使えると思う。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e7977aae-b347-49d0-9c25-346b7b32b821",
+    "team": "T6WULA63S",
+    "text": "一応、画像を切り替えるメソッドHighlightOn()とHighlightOff()ができた。\nA班のフォルダにTileController.csを上げておいたので、Prefabにアタッチすれば使えると思う。",
+    "ts": "1547271669.003600",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "45CIU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかった。\nGetMouseButtonDownとGetMouseButtonUpのことね。ありがとう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7cde1e7a-6c92-4530-8541-7c3e3ac1dd30",
+    "team": "T6WULA63S",
+    "text": "わかった。\nGetMouseButtonDownとGetMouseButtonUpのことね。ありがとう。",
+    "ts": "1547090855.001800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Mci",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "教科書で使ってた記憶があって、例えとして使ったのよな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e5924957-a1b3-45d5-b4af-82e563ceeb67",
+    "team": "T6WULA63S",
+    "text": "教科書で使ってた記憶があって、例えとして使ったのよな",
+    "ts": "1547085042.001900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CY=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マウスのクリックのメソッドにあったよなたぶん",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9f290cec-7d4e-4da3-9896-53443f4b8445",
+    "team": "T6WULA63S",
+    "text": "マウスのクリックのメソッドにあったよなたぶん",
+    "ts": "1547085015.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ipG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じゃあ、Down,Upのメソッドってどのクラスのメソッドなの？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "548d372d-39d4-4a44-a11e-9c58384efd3c",
+    "team": "T6WULA63S",
+    "text": "じゃあ、Down,Upのメソッドってどのクラスのメソッドなの？",
+    "ts": "1547084301.002000",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fuyb",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わからないならせめて聞いてくれ‥",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c8470390-f8c6-4d15-99ac-f31c9e7e21ea",
+    "team": "T6WULA63S",
+    "text": "わからないならせめて聞いてくれ‥",
+    "ts": "1547083943.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qKOp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD32JHVL7"
+              },
+              {
+                "text": "  わかった。Down,Upのメソッドが何を指すかわからないけどやってみる。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b669902e-e186-43c4-8d65-e58b06c2ef6d",
+    "team": "T6WULA63S",
+    "text": "<@UD32JHVL7>  わかった。Down,Upのメソッドが何を指すかわからないけどやってみる。",
+    "ts": "1547045199.002000",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2ZJGR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " 画像変わるロジックやってもらおうかな‥",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0e9e9944-d02c-4b2b-9c89-6ef2b768d9f6",
+    "edited": {
+      "ts": "1547026746.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW> 画像変わるロジックやってもらおうかな‥",
+    "ts": "1547026731.014000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oEEz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タイルをクリックしたらハイライトするには、もう一枚画像を入れて、Down,Upのメソッドを使えば出来るはず",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4106a647-cdc6-4233-8ddd-f9113fc05d37",
+    "edited": {
+      "ts": "1547026290.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "タイルをクリックしたらハイライトするには、もう一枚画像を入れて、Down,Upのメソッドを使えば出来るはず",
+    "ts": "1547026270.004700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9J2Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タップしたタイルにキャラクターは動くんだけど、\nなぜかもともと実行する前から存在するプレイヤーを消すとうんともすんとも言わない現象が",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e849894-49f2-4543-9bef-3f36c91c47f7",
+    "team": "T6WULA63S",
+    "text": "タップしたタイルにキャラクターは動くんだけど、\nなぜかもともと実行する前から存在するプレイヤーを消すとうんともすんとも言わない現象が",
+    "ts": "1547026172.002400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e1MR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "はいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6e1795df-81f7-425d-83ef-261361675072",
+    "team": "T6WULA63S",
+    "text": "はいよ",
+    "ts": "1546745597.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HXC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解。GoogleドライブのA班のフォルダに上げといた。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1ac595ce-9c5c-4e5b-8ac0-3de08d781d92",
+    "team": "T6WULA63S",
+    "text": "了解。GoogleドライブのA班のフォルダに上げといた。",
+    "ts": "1546744496.003600",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BcY0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タイルの色が変わればいいから、タイルの画像差分が欲しいんだよね。\n例えば岩のタイルだったらもう少し白っぽい画像とかね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2b1b754f-664b-4a47-aba5-4af9fa30f66a",
+    "team": "T6WULA63S",
+    "text": "タイルの色が変わればいいから、タイルの画像差分が欲しいんだよね。\n例えば岩のタイルだったらもう少し白っぽい画像とかね。",
+    "ts": "1546739727.002800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qv7F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タイルを強調表示したいから、その分の差分を作成して欲しいんだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3a620b49-5740-4086-888a-0fac4ecdf38d",
+    "team": "T6WULA63S",
+    "text": "タイルを強調表示したいから、その分の差分を作成して欲しいんだけど",
+    "ts": "1546739464.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T1Iu+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかった、じゃあとりあえずそっからやるわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "37749fed-20a5-44fd-89be-49da95a95d1f",
+    "team": "T6WULA63S",
+    "text": "わかった、じゃあとりあえずそっからやるわ",
+    "ts": "1545733214.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D71z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "現状では\n・ゲーム実行で25枚のタイル生成\n・自キャラをランダムに移動\nが可能。\n\nバグ\nゲーム開始時に自キャラが表示されず、一度移動すると表示される。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02b1d7e7-450b-489f-a194-a5a0112197e0",
+    "team": "T6WULA63S",
+    "text": "現状では\n・ゲーム実行で25枚のタイル生成\n・自キャラをランダムに移動\nが可能。\n\nバグ\nゲーム開始時に自キャラが表示されず、一度移動すると表示される。",
+    "ts": "1545729244.003800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cJd31",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "unityプロジェクトのZipファイルはこれから★MLab_2018→ゼミ→2018→Unity→杉田班\nのものを使うようにする。\n↓リンク\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/a/g.nihon-u.ac.jp/file/d/1kWIDacaS97lmD2PwwoNHLUjJYpgjLCEw/view?usp=drivesdk"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "caa5b077-43ff-40b9-96be-81690e311f2c",
+    "team": "T6WULA63S",
+    "text": "unityプロジェクトのZipファイルはこれから★MLab_2018→ゼミ→2018→Unity→杉田班\nのものを使うようにする。\n↓リンク\n<https://drive.google.com/a/g.nihon-u.ac.jp/file/d/1kWIDacaS97lmD2PwwoNHLUjJYpgjLCEw/view?usp=drivesdk>",
+    "ts": "1545728930.000100",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "08MGr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ていうかそもそも、これだけに関しなくとも言いたいことがあるなら言えばいいし、文句はいくらでも受け付けるわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d94e592a-892f-4d91-a6a6-b10fdd891482",
+    "team": "T6WULA63S",
+    "text": "ていうかそもそも、これだけに関しなくとも言いたいことがあるなら言えばいいし、文句はいくらでも受け付けるわ",
+    "ts": "1545718526.004300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7buG/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日のゼミであったUnityの開発講義\n\nToDoリストは何でもやりたいなと思ったものを書き上げていく。\n何か小さい物を作るたびに、テスト＋全員で確認\n毎週そのことを全員で協議して、反省点、次の開発への話し合いも行う\n\nだから俺らのやるべきことは、逐次報告すること！当たり前だけれれど俺らはそれができてない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "39bf7458-922a-4ba8-8908-e274d30600f6",
+    "team": "T6WULA63S",
+    "text": "今日のゼミであったUnityの開発講義\n\nToDoリストは何でもやりたいなと思ったものを書き上げていく。\n何か小さい物を作るたびに、テスト＋全員で確認\n毎週そのことを全員で協議して、反省点、次の開発への話し合いも行う\n\nだから俺らのやるべきことは、逐次報告すること！当たり前だけれれど俺らはそれができてない",
+    "ts": "1545716843.003500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gL1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すーまーん寝坊ー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9b1ab651-6682-4f03-9515-8fa0097bdbe1",
+    "team": "T6WULA63S",
+    "text": "すーまーん寝坊ー",
+    "ts": "1545356168.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "AObT7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " ToDoリストの更新は「なくともいいのか？」とか「これ被ってるかな？」ってやつもとりあえず思ったら追加してくれ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f513992b-23a8-4282-861f-ad62a3bae56d",
+    "team": "T6WULA63S",
+    "text": "<!channel> ToDoリストの更新は「なくともいいのか？」とか「これ被ってるかな？」ってやつもとりあえず思ったら追加してくれ",
+    "ts": "1545292809.001300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7ku2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Googleドライブの\n★MLab_2018→個人フォルダ→学部生→篠田\nにUnityのプロジェクトをZipファイルで上げておいたよ。現時点ではタイルの生成と表示ができる。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fc4702a3-5b60-4915-a1a1-b38653924ac2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ryoukai",
+        "users": [
+          "UD32JHVL7"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "Googleドライブの\n★MLab_2018→個人フォルダ→学部生→篠田\nにUnityのプロジェクトをZipファイルで上げておいたよ。現時点ではタイルの生成と表示ができる。",
+    "ts": "1545126324.003800",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c6el",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ござらん？あらず？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "176433ce-2c3b-46d8-b54c-525cf2f44e04",
+    "team": "T6WULA63S",
+    "text": "ござらん？あらず？",
+    "ts": "1544954596.008200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Anq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんでもあらし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7bdfbf0d-8515-4de0-8b2e-1d9140e2f902",
+    "team": "T6WULA63S",
+    "text": "なんでもあらし",
+    "ts": "1544954573.007500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Wlc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2回？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "51ee0312-c16f-481d-a2e7-2967c6a95917",
+    "team": "T6WULA63S",
+    "text": "2回？",
+    "ts": "1544954532.007200",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ELQWe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "GameObjectを使うのは賛成かな。\n理由\n・タイルを使うのは教科書の範囲外である。\n・調べながら作るので仕様の勘違い等で完成が遅くなったり、期待していた挙動とならない可能性がある\n・越川君もUnityの教科書を進めてるらしいので、できるだけ合流しやすいように作る方が良い",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2c515344-6755-49b1-834c-7569aae81d8f",
+    "team": "T6WULA63S",
+    "text": "GameObjectを使うのは賛成かな。\n理由\n・タイルを使うのは教科書の範囲外である。\n・調べながら作るので仕様の勘違い等で完成が遅くなったり、期待していた挙動とならない可能性がある\n・越川君もUnityの教科書を進めてるらしいので、できるだけ合流しやすいように作る方が良い",
+    "ts": "1544954438.006300",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4tYrx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ToDoの方に色々書いたけれど、意見はこっちで言ってくれると助かる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "fa4b57a3-49f7-47cd-8e74-c148f7afc31f",
+    "team": "T6WULA63S",
+    "text": "ToDoの方に色々書いたけれど、意見はこっちで言ってくれると助かる",
+    "ts": "1544758808.001400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s2drp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これをクローンしてくりょうし",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ea7674a7-aac0-4781-a64f-f8f02a10868e",
+    "team": "T6WULA63S",
+    "text": "これをクローンしてくりょうし",
+    "ts": "1544754504.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: SugitaTakuto/UnityZemi",
+        "from_url": "https://github.com/SugitaTakuto/UnityZemi.git",
+        "id": 1,
+        "original_url": "https://github.com/SugitaTakuto/UnityZemi.git",
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+        "service_name": "GitHub",
+        "text": "Contribute to SugitaTakuto/UnityZemi development by creating an account on GitHub.",
+        "thumb_height": 250,
+        "thumb_url": "https://avatars2.githubusercontent.com/u/44251285?s=400&v=4",
+        "thumb_width": 250,
+        "title": "SugitaTakuto/UnityZemi",
+        "title_link": "https://github.com/SugitaTakuto/UnityZemi.git"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "mVQvX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/SugitaTakuto/UnityZemi.git"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53846beb-29a6-4880-9bfc-bbab06be1a7a",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/SugitaTakuto/UnityZemi.git>",
+    "ts": "1544754477.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: SugitaTakuto/ZemiSTRPG",
+        "from_url": "https://github.com/SugitaTakuto/ZemiSTRPG.git",
+        "id": 1,
+        "original_url": "https://github.com/SugitaTakuto/ZemiSTRPG.git",
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png",
+        "service_name": "GitHub",
+        "text": "Contribute to SugitaTakuto/ZemiSTRPG development by creating an account on GitHub.",
+        "thumb_height": 250,
+        "thumb_url": "https://avatars2.githubusercontent.com/u/44251285?s=400&v=4",
+        "thumb_width": 250,
+        "title": "SugitaTakuto/ZemiSTRPG",
+        "title_link": "https://github.com/SugitaTakuto/ZemiSTRPG.git"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "BKV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/SugitaTakuto/ZemiSTRPG.git"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7458e2bc-8fc3-4c23-8929-659c00d2179d",
+    "team": "T6WULA63S",
+    "text": "<https://github.com/SugitaTakuto/ZemiSTRPG.git>",
+    "ts": "1544747792.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8FMn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6f72bcc4-7f3c-49a4-9ccd-43a7ee5847af",
+    "team": "T6WULA63S",
+    "text": "どう？",
+    "ts": "1544682121.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0Ko4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうしようか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f1049e68-c3ac-4205-80af-0b24cca2e86e",
+    "team": "T6WULA63S",
+    "text": "そうしようか",
+    "ts": "1544511830.003800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j0Sa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そうなってくると篠田くんがメインで進めて俺にいろいろ依頼してもらう形式の方がすすめやすいかもね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2d9731e8-5b38-4b24-8f05-3a0bd11402ca",
+    "team": "T6WULA63S",
+    "text": "そうなってくると篠田くんがメインで進めて俺にいろいろ依頼してもらう形式の方がすすめやすいかもね",
+    "ts": "1544511708.003500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m2Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タイル生成の部分とかは書いてもらうかもしれへんなー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6caff77-571f-4801-8af2-0dbfee169f83",
+    "team": "T6WULA63S",
+    "text": "タイル生成の部分とかは書いてもらうかもしれへんなー",
+    "ts": "1544511603.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Lx4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "unityに依存する部分っていうのは、スプリクト以外全部ってこと？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4ebe85b0-c36d-426c-bab5-bbb133062515",
+    "team": "T6WULA63S",
+    "text": "unityに依存する部分っていうのは、スプリクト以外全部ってこと？",
+    "ts": "1544510116.001900",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K9Ji",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " Unityに依存するような部分を君に任せて俺がスクリプト書くの方がいいかもね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7abb1db8-eec8-4b19-9e46-08d693feb20c",
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW> Unityに依存するような部分を君に任せて俺がスクリプト書くの方がいいかもね",
+    "ts": "1544507516.001600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O/9qO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これを入れておいて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9d43fd17-3237-46aa-baa6-03c9c3375b08",
+    "team": "T6WULA63S",
+    "text": "これを入れておいて",
+    "ts": "1544145333.006400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "SourceTree: Sourcetree | Free Git GUI for Mac and Windows",
+        "from_url": "https://www.sourcetreeapp.com/",
+        "id": 1,
+        "original_url": "https://www.sourcetreeapp.com/",
+        "service_icon": "https://www.sourcetreeapp.com/assets/img/favicons/sourcetree/apple-touch-icon.png",
+        "service_name": "SourceTree",
+        "text": "A Git GUI that offers a visual representation of your repositories. Sourcetree is a free Git client for Windows and Mac.",
+        "thumb_height": 2625,
+        "thumb_url": "https://www.sourcetreeapp.com/dam/jcr:51aa63f9-8e33-4177-8ef9-54b4bdb09a69/sourcetree_rgb_darkblue_atlassian_1200x630.png",
+        "thumb_width": 5000,
+        "title": "Sourcetree | Free Git GUI for Mac and Windows",
+        "title_link": "https://www.sourcetreeapp.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "/YwyF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.sourcetreeapp.com/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "743781f3-c1a2-4ae4-97b1-a3e219391154",
+    "team": "T6WULA63S",
+    "text": "<https://www.sourcetreeapp.com/>",
+    "ts": "1544145327.006100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/channel/UCv-WX0bNkgFNxGjzqHluHMg",
+        "author_name": "賀好昭仁",
+        "fallback": "YouTube Video: Unityで作ろう！ゲームアルゴリズム10 1",
+        "from_url": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk",
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/FMhS3yHXjEk/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "Unityで作ろう！ゲームアルゴリズム10 1",
+        "title_link": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk",
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/FMhS3yHXjEk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "video_html_height": 300,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "hzS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2018/12/07\n",
+                "type": "text"
+              },
+              {
+                "text": "https://www.youtube.com/watch?time_continue=25&v=FMhS3yHXjEk",
+                "type": "link",
+                "url": "https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk"
+              },
+              {
+                "text": "\nタイル\n　コストの概念\n　光る\n　クリック可能不可\n　グラフィックの表示\n\nキャラクターを配置\n　キャラクターをクリックすると移動できる範囲のタイルを光らせる\n　　光った範囲のタイルをクリックするとそこに移動する\n\n課題\nゴール\nターン数",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0faef788-13a3-49db-9679-f2ba93fd7e22",
+    "edited": {
+      "ts": "1544145132.000000",
+      "user": "UD32JHVL7"
+    },
+    "pinned_info": {
+      "channel": "CD89C4B5K",
+      "pinned_by": "UD32JHVL7",
+      "pinned_ts": 1544145024
+    },
+    "pinned_to": [
+      "CD89C4B5K"
+    ],
+    "team": "T6WULA63S",
+    "text": "2018/12/07\n<https://www.youtube.com/watch?time_continue=25&amp;v=FMhS3yHXjEk>\nタイル\n　コストの概念\n　光る\n　クリック可能不可\n　グラフィックの表示\n\nキャラクターを配置\n　キャラクターをクリックすると移動できる範囲のタイルを光らせる\n　　光った範囲のタイルをクリックするとそこに移動する\n\n課題\nゴール\nターン数",
+    "ts": "1544144970.005600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q/8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a45e4618-7d38-4fcd-a15f-c3b80fe18b06",
+    "team": "T6WULA63S",
+    "text": "あいよ",
+    "ts": "1544140844.001700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gVfo",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ノートPC持っていくの忘れた…集合遅れてしまう申し訳ない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0db0d16d-11a2-404a-b41a-ab23bbe07d6d",
+    "team": "T6WULA63S",
+    "text": "ノートPC持っていくの忘れた…集合遅れてしまう申し訳ない",
+    "ts": "1544139896.001500",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ns9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あいよー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2b11ac8f-f736-4733-b446-040df7c2a8b0",
+    "team": "T6WULA63S",
+    "text": "あいよー",
+    "ts": "1544092223.007100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rSQqE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解ー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "12de22ff-cd4b-47e8-9089-55cb492bc1e9",
+    "team": "T6WULA63S",
+    "text": "了解ー",
+    "ts": "1544092216.006900",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qc9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "学年始めとか学期始めとかに教科書売るところだな(これだ！)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e46a5f54-7749-4af6-9e94-bd1ad71e1460",
+    "team": "T6WULA63S",
+    "text": "学年始めとか学期始めとかに教科書売るところだな(これだ！)",
+    "ts": "1544092195.006600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "etx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あーあそこか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "78b0c422-77c7-4a1b-9b70-a4b5b28cb2f1",
+    "team": "T6WULA63S",
+    "text": "あーあそこか",
+    "ts": "1544092185.006300",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hoz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "その奥でにあるスペースの事そういうんだけれど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5e26513b-cd14-4abe-8e0a-a2b040007516",
+    "team": "T6WULA63S",
+    "text": "その奥でにあるスペースの事そういうんだけれど",
+    "ts": "1544092171.005500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Witea",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カフェあるでしょ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "233c119c-44af-4760-af4b-841f83563818",
+    "team": "T6WULA63S",
+    "text": "カフェあるでしょ",
+    "ts": "1544092072.005000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "c4=K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜１限了解\nリーディングルームってどこだ…()",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "03ca1b2a-602d-4e4d-91d6-c1222652cbb9",
+    "team": "T6WULA63S",
+    "text": "金曜１限了解\nリーディングルームってどこだ…()",
+    "ts": "1544092055.004700",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y+CX5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "了解。それだと越川君が良ければ初回は明日かな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86af2a4e-44c2-4912-95fa-10abbab1f8d2",
+    "team": "T6WULA63S",
+    "text": "了解。それだと越川君が良ければ初回は明日かな",
+    "ts": "1544087862.003100",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fOXxp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 金曜の１限でいいかね集合時間は９時半とかで、場所はとりあえずリーディングルームとかどうよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a461056-e505-4e99-9016-7cf6c6824410",
+    "team": "T6WULA63S",
+    "text": "<!channel> 金曜の１限でいいかね集合時間は９時半とかで、場所はとりあえずリーディングルームとかどうよ",
+    "ts": "1544087647.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VjP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よくよく考えなくとも俺の空いてる時間なんて、そもそもそこくらいしかないんだよな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e2c24148-c330-42fa-902d-0fa6e7c22726",
+    "team": "T6WULA63S",
+    "text": "よくよく考えなくとも俺の空いてる時間なんて、そもそもそこくらいしかないんだよな",
+    "ts": "1543995634.014500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "igkZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "金曜1限はいやだなぁ・・・やるしかなさそうだけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1a9a73ce-7ee2-4e70-a380-279adf3c1ed3",
+    "team": "T6WULA63S",
+    "text": "金曜1限はいやだなぁ・・・やるしかなさそうだけど",
+    "ts": "1543995563.013500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uoal=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明日決定を言うなー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "812b10dc-e044-4eca-a7b9-502d4c3507a9",
+    "team": "T6WULA63S",
+    "text": "明日決定を言うなー",
+    "ts": "1543995549.013100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8b0T",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あー↓りがとー↑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a8f4030-30d9-459a-a756-c612a7d5e534",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "UDNRU1WTC"
+        ]
+      }
+    ],
+    "team": "T6WULA63S",
+    "text": "あー↓りがとー↑",
+    "ts": "1543991469.012400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H8=",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "分かった\n月曜午前　火曜1限　水曜午前　木曜2限以降　金曜午前",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4b96d467-ece9-4afc-8f02-bb1d45389bb1",
+    "team": "T6WULA63S",
+    "text": "分かった\n月曜午前　火曜1限　水曜午前　木曜2限以降　金曜午前",
+    "ts": "1543991443.011600",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Sr2YS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(むしろ予想通りなのが草も生えない)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8fe0a9e9-97a1-417f-afe5-926e9324508c",
+    "team": "T6WULA63S",
+    "text": "(むしろ予想通りなのが草も生えない)",
+    "ts": "1543991422.011000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EFnQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "きっと金曜1限とかになりそうかなー・・・俺のスケジュールが予想以上にキッツイ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "67219d89-f45b-4aaa-8196-62d88335f929",
+    "team": "T6WULA63S",
+    "text": "きっと金曜1限とかになりそうかなー・・・俺のスケジュールが予想以上にキッツイ",
+    "ts": "1543991404.010400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "As4Wg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UDNRU1WTC"
+              },
+              {
+                "text": " 一応書いておいてもらえると助かるかなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "820e4543-7e98-4151-87fa-2df3aa298292",
+    "team": "T6WULA63S",
+    "text": "<@UDNRU1WTC> 一応書いておいてもらえると助かるかなぁ",
+    "ts": "1543991354.008600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Nr=m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "篠田に合わせるなら木曜3限以降、金曜1限がフリーかな\n他にもフリーはあるけど多いから予定が合致するのだけ書いた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8a30ed4f-1020-4334-811d-dc3b15da29bc",
+    "team": "T6WULA63S",
+    "text": "篠田に合わせるなら木曜3限以降、金曜1限がフリーかな\n他にもフリーはあるけど多いから予定が合致するのだけ書いた",
+    "ts": "1543991157.007500",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Buo7M",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UD3BHE2LW"
+              },
+              {
+                "text": " はいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b20fe382-f81e-42e0-be7b-f8d5bdc5ffa0",
+    "edited": {
+      "ts": "1543990901.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "<@UD3BHE2LW> はいよ",
+    "ts": "1543990884.004600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Niwm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "木曜3限、月曜3限、月曜4限\nのどれかがいいけど、どれも無理なら\n木曜4限以降か、木曜1限、金曜1限は一応空いてる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a2b3ec49-a69e-4bfe-bfe3-ba6002a32753",
+    "team": "T6WULA63S",
+    "text": "木曜3限、月曜3限、月曜4限\nのどれかがいいけど、どれも無理なら\n木曜4限以降か、木曜1限、金曜1限は一応空いてる",
+    "ts": "1543990499.004200",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fM6AH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まあ、最悪別にシミュレーションRPGじゃなくともいいと思ってるよ\n全員に馴染みのあるゲームの方がそりゃ断然いいと思うし。\n一つ言えることは、ちゃんと意見言ってね。それでいいんじゃないかなだとどうあがいたところで、受け取る側は「ああ、適当に済ませたいのかな」とか「考えたくないのかな」って少なからず取るからな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7250fd03-a827-48a2-b742-d4a4b9ca577e",
+    "edited": {
+      "ts": "1543979579.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "まあ、最悪別にシミュレーションRPGじゃなくともいいと思ってるよ\n全員に馴染みのあるゲームの方がそりゃ断然いいと思うし。\n一つ言えることは、ちゃんと意見言ってね。それでいいんじゃないかなだとどうあがいたところで、受け取る側は「ああ、適当に済ませたいのかな」とか「考えたくないのかな」って少なからず取るからな",
+    "ts": "1543979503.007900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iH3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "このシリーズ読んで取り敢えずアルゴリズムだけは組んでみようかなぁとは思ってる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8eb38190-158d-456e-8599-7ebc740d3435",
+    "team": "T6WULA63S",
+    "text": "このシリーズ読んで取り敢えずアルゴリズムだけは組んでみようかなぁとは思ってる",
+    "ts": "1543975873.006000",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Geekroid: Unityで作ろう！ゲームアルゴリズム(10)シミュレーションゲームのアルゴリズムを作ってみる その1",
+        "from_url": "https://mynavi-agent.jp/it/geekroid/2017/08/unity10-1.html",
+        "id": 1,
+        "image_bytes": 44763,
+        "image_height": 250,
+        "image_url": "https://mynavi-agent.jp/it/geekroid/282_main.jpg",
+        "image_width": 524,
+        "original_url": "https://mynavi-agent.jp/it/geekroid/2017/08/unity10-1.html",
+        "service_icon": "https://mynavi-agent.jp/it/geekroid/module/img/common/favicon.ico",
+        "service_name": "Geekroid",
+        "text": "今年の5月、Unityの一大イベントであるUniteが開催されました。Unity2017に関する魅力的な機能も色々発表され、期待に胸が膨らんじゃいます。そういえば、今回のUniteには会社の後輩がボランティアスタッフとして参加しました。「...",
+        "title": "Unityで作ろう！ゲームアルゴリズム(10)シミュレーションゲームのアルゴリズムを作ってみる その1",
+        "title_link": "https://mynavi-agent.jp/it/geekroid/2017/08/unity10-1.html"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "qt1I",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://mynavi-agent.jp/it/geekroid/2017/08/unity10-1.html"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4c8f4e44-43fe-492e-af53-4b908f957529",
+    "team": "T6WULA63S",
+    "text": "<https://mynavi-agent.jp/it/geekroid/2017/08/unity10-1.html>",
+    "ts": "1543975783.005100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "enXz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず時間と場所決めたら、まず何するか決めようか。\nまだ越川くんとかには詳細伝えてないから、何か用意して欲しい訳でもないけれど・・・\nとりあえず俺と篠田君は、昨日だかに話してメモした内容をフローか、表かにまとめればいいかなと思ってる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1810d35d-84aa-4059-a3de-018f10f3e93d",
+    "edited": {
+      "ts": "1543979014.000000",
+      "user": "UD32JHVL7"
+    },
+    "team": "T6WULA63S",
+    "text": "とりあえず時間と場所決めたら、まず何するか決めようか。\nまだ越川くんとかには詳細伝えてないから、何か用意して欲しい訳でもないけれど・・・\nとりあえず俺と篠田君は、昨日だかに話してメモした内容をフローか、表かにまとめればいいかなと思ってる",
+    "ts": "1543975625.004400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ixgs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "週１で会議(という名の集まり)したいんだけどいつ、どこがいい？候補挙げてくれればこっちで勝手に調整して決めるから、\n\n曜日、時間、場所\nって感じで言ってくれればいいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f9baa677-c404-489f-b362-09db73cfa646",
+    "edited": {
+      "ts": "1543975678.000000",
+      "user": "UD32JHVL7"
+    },
+    "is_locked": false,
+    "latest_reply": "1543989231.000800",
+    "pinned_info": {
+      "channel": "CD89C4B5K",
+      "pinned_by": "UD32JHVL7",
+      "pinned_ts": 1543975648
+    },
+    "pinned_to": [
+      "CD89C4B5K"
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "UD3BHE2LW",
+      "UD32JHVL7"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T6WULA63S",
+    "text": "週１で会議(という名の集まり)したいんだけどいつ、どこがいい？候補挙げてくれればこっちで勝手に調整して決めるから、\n\n曜日、時間、場所\nって感じで言ってくれればいいよ",
+    "thread_ts": "1543974811.001100",
+    "ts": "1543974811.001100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UDNRU1WTC> has joined the channel",
+    "ts": "1543907996.001300",
+    "type": "message",
+    "user": "UDNRU1WTC"
+  },
+  {
+    "inviter": "UD32JHVL7",
+    "subtype": "channel_join",
+    "text": "<@UD3BHE2LW> has joined the channel",
+    "ts": "1543907996.001100",
+    "type": "message",
+    "user": "UD3BHE2LW"
+  },
+  {
+    "name": "3年ゼミ杉田班",
+    "old_name": "sugitatesut",
+    "subtype": "channel_name",
+    "text": "has renamed the channel from \"sugitatesut\" to \"3年ゼミ杉田班\"",
+    "ts": "1543907947.000900",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "cleared channel topic",
+    "topic": "",
+    "ts": "1543907947.000800",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "purpose": "",
+    "subtype": "channel_purpose",
+    "text": "cleared channel description",
+    "ts": "1543907947.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "purpose": "",
+    "subtype": "channel_purpose",
+    "text": "cleared channel description",
+    "ts": "1543907934.000600",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "cleared channel topic",
+    "topic": "",
+    "ts": "1543907933.000500",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "cleared channel topic",
+    "topic": "",
+    "ts": "1543907926.000400",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "purpose": "",
+    "subtype": "channel_purpose",
+    "text": "cleared channel description",
+    "ts": "1543907926.000300",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "cleared channel topic",
+    "topic": "",
+    "ts": "1543907916.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "purpose": "",
+    "subtype": "channel_purpose",
+    "text": "cleared channel description",
+    "ts": "1543907916.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "bot_id": "BDSQ9ET6V",
+    "bot_link": "<https://matsulabnu.slack.com/services/BDSQ9ET6V|松野研カレンダー>",
+    "subtype": "bot_remove",
+    "text": "removed an integration from this channel: <https://matsulabnu.slack.com/services/BDSQ9ET6V|松野研カレンダー>",
+    "ts": "1541143788.000700",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "Pythonゼミ: <!date^1541143800^{date_short_pretty} from {time}|November 2nd, 2018 from 4:30 PM> to <!date^1541149200^{time}|6:00 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541143800^{date_short_pretty} from {time}|November 2nd, 2018 from 4:30 PM> to <!date^1541149200^{time}|6:00 PM GMT+0900>",
+        "title": "Pythonゼミ",
+        "title_link": "https://www.google.com/calendar/event?eid=Xzhncms4ZHBtNjRyMzZiOWs4bDE0NGI5azYxMzQ2YjlvODkwajRiOWk4cDIzY2VhMzg1MjNnZDluNjRfMjAxODExMDJUMDczMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541140201.000600",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "離散数学（松野・秋山）: <!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "title": "離散数学（松野・秋山）",
+        "title_link": "https://www.google.com/calendar/event?eid=Xzc1Mmo2ZHExNzBvNDhiYTY2dDJrOGI5azhrcms4YjlvODkyamliOWs3MTFqMGMxbzZjcTNjZGE1NmtfMjAxODExMDJUMDYwMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541134801.000500",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "3年　人工知能: <!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "title": "3年　人工知能",
+        "title_link": "https://www.google.com/calendar/event?eid=NjljZGpsMGI0cHI5dGloYmFjcHIxZjVua3FfMjAxODExMDJUMDYwMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541134801.000400",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "金4  まえはら　人工知能回収: <!date^1541133000^{date_short_pretty} from {time}|November 1st, 2018 from 1:30 PM> to <!date^1541138400^{time}|3:00 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541133000^{date_short_pretty} from {time}|November 1st, 2018 from 1:30 PM> to <!date^1541138400^{time}|3:00 PM GMT+0900>",
+        "title": "金4  まえはら　人工知能回収",
+        "title_link": "https://www.google.com/calendar/event?eid=MzNwMzcwNmVsaHM2aDlnNHNyZnRxbG9sNzRfMjAxODExMDJUMDQzMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541129401.000300",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "DL&amp;NLPゼミ: <!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541136000^{time}|2:20 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541136000^{time}|2:20 PM GMT+0900>",
+        "title": "DL&amp;NLPゼミ",
+        "title_link": "https://www.google.com/calendar/event?eid=Xzhnb2plZDFtNm9vajRiOWw2c29qYWI5azhjcGtjYjlwNm9vNDhiOWk2OHAzMmU5aDcwb2ppZ2kxNmdfMjAxODExMDJUMDQyMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541128801.000200",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "3年　パターン認識: <!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541137800^{time}|2:50 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541137800^{time}|2:50 PM GMT+0900>",
+        "title": "3年　パターン認識",
+        "title_link": "https://www.google.com/calendar/event?eid=NmlhYnY4Z3VibjBjMmhhMDdncHVzdWZ2YjdfMjAxODExMDJUMDQyMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541128801.000100",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "3年　オプトエレクトロニクス: <!date^1541122800^{date_short_pretty} from {time}|November 1st, 2018 from 10:40 AM> to <!date^1541128200^{time}|12:10 PM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541122800^{date_short_pretty} from {time}|November 1st, 2018 from 10:40 AM> to <!date^1541128200^{time}|12:10 PM GMT+0900>",
+        "title": "3年　オプトエレクトロニクス",
+        "title_link": "https://www.google.com/calendar/event?eid=MWZ1dHNvcTA1ZWc5YmF0MW9lYjRzbGxrdDVfMjAxODExMDJUMDE0MDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541119201.000100",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "機械学習本輪講: <!date^1541122200^{date_short_pretty} from {time}|November 1st, 2018 from 10:30 AM> to <!date^1541125800^{time}|11:30 AM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541122200^{date_short_pretty} from {time}|November 1st, 2018 from 10:30 AM> to <!date^1541125800^{time}|11:30 AM GMT+0900>",
+        "title": "機械学習本輪講",
+        "title_link": "https://www.google.com/calendar/event?eid=XzY0b2thZ2E0NmQyMzBiOWk2Y3M0NGI5azhsMmpjYjlvOGwxajRiOWk2cDFrNmU5ajhvcGs2ZDFrNjBfMjAxODExMDJUMDEzMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541118601.000100",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "秋山 1限 画像工学特論: <!date^1541116800^{date_short_pretty} from {time}|November 1st, 2018 from 9:00 AM> to <!date^1541122200^{time}|10:30 AM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 09:00:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541116800^{date_short_pretty} from {time}|November 1st, 2018 from 9:00 AM> to <!date^1541122200^{time}|10:30 AM GMT+0900>",
+        "title": "秋山 1限 画像工学特論",
+        "title_link": "https://www.google.com/calendar/event?eid=Zm5lc3VmdTFya3BlM2pqcWExbTFpdnNjYThfMjAxODExMDJUMDAwMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "機械学習本輪講: <!date^1541122200^{date_short_pretty} from {time}|November 1st, 2018 from 10:30 AM> to <!date^1541125800^{time}|11:30 AM GMT+0900>",
+        "id": 2,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 10:30:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541122200^{date_short_pretty} from {time}|November 1st, 2018 from 10:30 AM> to <!date^1541125800^{time}|11:30 AM GMT+0900>",
+        "title": "機械学習本輪講",
+        "title_link": "https://www.google.com/calendar/event?eid=XzY0b2thZ2E0NmQyMzBiOWk2Y3M0NGI5azhsMmpjYjlvOGwxajRiOWk2cDFrNmU5ajhvcGs2ZDFrNjBfMjAxODExMDJUMDEzMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "3年　オプトエレクトロニクス: <!date^1541122800^{date_short_pretty} from {time}|November 1st, 2018 from 10:40 AM> to <!date^1541128200^{time}|12:10 PM GMT+0900>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 10:40:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541122800^{date_short_pretty} from {time}|November 1st, 2018 from 10:40 AM> to <!date^1541128200^{time}|12:10 PM GMT+0900>",
+        "title": "3年　オプトエレクトロニクス",
+        "title_link": "https://www.google.com/calendar/event?eid=MWZ1dHNvcTA1ZWc5YmF0MW9lYjRzbGxrdDVfMjAxODExMDJUMDE0MDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "3年　パターン認識: <!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541137800^{time}|2:50 PM GMT+0900>",
+        "id": 4,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 13:20:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541137800^{time}|2:50 PM GMT+0900>",
+        "title": "3年　パターン認識",
+        "title_link": "https://www.google.com/calendar/event?eid=NmlhYnY4Z3VibjBjMmhhMDdncHVzdWZ2YjdfMjAxODExMDJUMDQyMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "DL&amp;NLPゼミ: <!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541136000^{time}|2:20 PM GMT+0900>",
+        "id": 5,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 13:20:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541132400^{date_short_pretty} from {time}|November 1st, 2018 from 1:20 PM> to <!date^1541136000^{time}|2:20 PM GMT+0900>",
+        "title": "DL&amp;NLPゼミ",
+        "title_link": "https://www.google.com/calendar/event?eid=Xzhnb2plZDFtNm9vajRiOWw2c29qYWI5azhjcGtjYjlwNm9vNDhiOWk2OHAzMmU5aDcwb2ppZ2kxNmdfMjAxODExMDJUMDQyMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "金4  まえはら　人工知能回収: <!date^1541133000^{date_short_pretty} from {time}|November 1st, 2018 from 1:30 PM> to <!date^1541138400^{time}|3:00 PM GMT+0900>",
+        "id": 6,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 13:30:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541133000^{date_short_pretty} from {time}|November 1st, 2018 from 1:30 PM> to <!date^1541138400^{time}|3:00 PM GMT+0900>",
+        "title": "金4  まえはら　人工知能回収",
+        "title_link": "https://www.google.com/calendar/event?eid=MzNwMzcwNmVsaHM2aDlnNHNyZnRxbG9sNzRfMjAxODExMDJUMDQzMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "3年　人工知能: <!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "id": 7,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 15:00:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "title": "3年　人工知能",
+        "title_link": "https://www.google.com/calendar/event?eid=NjljZGpsMGI0cHI5dGloYmFjcHIxZjVua3FfMjAxODExMDJUMDYwMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "離散数学（松野・秋山）: <!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "id": 8,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 15:00:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541138400^{date_short_pretty} from {time}|November 1st, 2018 from 3:00 PM> to <!date^1541143800^{time}|4:30 PM GMT+0900>",
+        "title": "離散数学（松野・秋山）",
+        "title_link": "https://www.google.com/calendar/event?eid=Xzc1Mmo2ZHExNzBvNDhiYTY2dDJrOGI5azhrcms4YjlvODkyamliOWs3MTFqMGMxbzZjcTNjZGE1NmtfMjAxODExMDJUMDYwMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "Pythonゼミ: <!date^1541143800^{date_short_pretty} from {time}|November 2nd, 2018 from 4:30 PM> to <!date^1541149200^{time}|6:00 PM GMT+0900>",
+        "id": 9,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 16:30:00.000000",
+          "timezone": "+09:00",
+          "timezone_type": 1
+        },
+        "text": "<!date^1541143800^{date_short_pretty} from {time}|November 2nd, 2018 from 4:30 PM> to <!date^1541149200^{time}|6:00 PM GMT+0900>",
+        "title": "Pythonゼミ",
+        "title_link": "https://www.google.com/calendar/event?eid=Xzhncms4ZHBtNjRyMzZiOWs4bDE0NGI5azYxMzQ2YjlvODkwajRiOWk4cDIzY2VhMzg1MjNnZDluNjRfMjAxODExMDJUMDczMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      },
+      {
+        "color": "ffad46",
+        "fallback": "仕事: November 2nd, 2018",
+        "id": 10,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "start_time": {
+          "date": "2018-11-02 00:00:00.000000",
+          "timezone": "Asia/Tokyo",
+          "timezone_type": 3
+        },
+        "text": "November 2nd, 2018",
+        "title": "仕事",
+        "title_link": "https://www.google.com/calendar/event?eid=NzhtMzF2dWRnbmVubW1jYzRtYWplbTR2cWQgc290dGlkbXNpbjBla2lxNmVubWo4YTBsdG9AZw"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "4RE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "There are ",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "10",
+                "type": "text"
+              },
+              {
+                "text": " events today",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "There are *10* events today",
+    "ts": "1541113201.000200",
+    "type": "message"
+  },
+  {
+    "attachments": [
+      {
+        "color": "ffad46",
+        "fallback": "秋山 1限 画像工学特論: <!date^1541116800^{date_short_pretty} from {time}|November 1st, 2018 from 9:00 AM> to <!date^1541122200^{time}|10:30 AM GMT+0900>",
+        "id": 1,
+        "mrkdwn_in": [
+          "text",
+          "pretext"
+        ],
+        "pretext": "Event starting in 1 hour:",
+        "text": "<!date^1541116800^{date_short_pretty} from {time}|November 1st, 2018 from 9:00 AM> to <!date^1541122200^{time}|10:30 AM GMT+0900>",
+        "title": "秋山 1限 画像工学特論",
+        "title_link": "https://www.google.com/calendar/event?eid=Zm5lc3VmdTFya3BlM2pqcWExbTFpdnNjYThfMjAxODExMDJUMDAwMDAwWiBzb3R0aWRtc2luMGVraXE2ZW5tajhhMGx0b0Bn"
+      }
+    ],
+    "bot_id": "BDSQ9ET6V",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1541113201.000100",
+    "type": "message"
+  },
+  {
+    "bot_id": "BDSQ9ET6V",
+    "bot_link": "<https://matsulabnu.slack.com/services/BDSQ9ET6V|Google Calendar>",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://matsulabnu.slack.com/services/BDSQ9ET6V|Google Calendar>",
+    "ts": "1541065340.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z3twZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f9136287-af5f-4f3d-8616-a4993fc8b1a2",
+    "team": "T6WULA63S",
+    "text": "<!channel>",
+    "ts": "1538751780.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZRnH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こんにちわ編集したよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "988e6f45-f240-4dc0-bf90-ed26e22ad420",
+    "edited": {
+      "ts": "1538747287.000000",
+      "user": "UD32JHVL7"
+    },
+    "pinned_info": {
+      "channel": "CD89C4B5K",
+      "pinned_by": "UD32JHVL7",
+      "pinned_ts": 1538899555
+    },
+    "pinned_to": [
+      "CD89C4B5K"
+    ],
+    "team": "T6WULA63S",
+    "text": "こんにちわ編集したよ",
+    "ts": "1538747279.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "purpose": "いろいろテスト用",
+    "subtype": "channel_purpose",
+    "text": "set the channel description: いろいろテスト用",
+    "ts": "1538747071.000100",
+    "type": "message",
+    "user": "UD32JHVL7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@UD32JHVL7> has joined the channel",
+    "ts": "1538747070.000200",
+    "type": "message",
+    "user": "UD32JHVL7"
+  }
+]
